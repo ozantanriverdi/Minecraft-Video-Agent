@@ -14,7 +14,9 @@ from PIL import Image
 from openai import OpenAI
 
 api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key="api_key")
+if not api_key:
+    raise ValueError("API key not found. Please set the OPENAI_API_KEY environment variable.")
+client = OpenAI(api_key=api_key)
 
 cwd = os.getcwd()
 rgb_obs_dir = join(cwd, "rgb_frames")
@@ -94,14 +96,14 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
         end = time.time()
         print("Request Time: ", end-start)
         output_image_path = join(run_rgb_obs_dir, f"annotated_step_{step}.jpg")
-        write_text_on_image(image_path, llm_output, output_image_path)
+        write_text_on_image(join(run_rgb_obs_dir, f"{step}.jpg"), llm_output, output_image_path)
         # Create an empty action and put in the actions from the response
         # action = env.action_space.no_op()
         # action[0] = 1
         # return action
         action_vec = extract_action_vector(llm_output)
         if isinstance(action_vec, list):
-            predicted_actions.extend([action for action in action_vec])
+            predicted_actions.extend(action_vec)
         elif isinstance(action_vec, np.ndarray):
             predicted_actions.append(action_vec)
         print(action_vec)
@@ -218,7 +220,7 @@ def check_if_same_actions(action_buffer, step_count):
     recent_actions = action_buffer[-step_count:]
 
     # Check if all actions in 'recent_actions' are the same as the first one
-    return all(action == recent_actions[0] for action in recent_actions)
+    return all(np.array_equal(action, recent_actions[0]) for action in recent_actions)
 
 if __name__ == '__main__':
     os.makedirs(rgb_obs_dir, exist_ok=True)
@@ -231,8 +233,9 @@ if __name__ == '__main__':
     obs = env.reset()
     action_buffer = [] # To check if same actions predicted repeatedly
     error_count = 0 # Number of consecutive
+    step = 0
 
-    for step in range(10):
+    while step < 10:
         start = time.time()
         predicted_actions, error_count = predict_action(obs=obs,
                                 step=step,
