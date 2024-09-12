@@ -2,7 +2,7 @@
     "prompt": [
         {
             "type": "text",
-            "text": "You are a Minecraft agent. Your task is to {task}. Here is the guidance for your task:{guidance}. Your should return a valid action after receiving an observation. You will receive the observations as RGB images. The actions you return should follow a specific template. The actions consist of an 8-tuple with discrete values. The descriptions for the different action indices are here: {actions}. Here are some examples: 1) If you see a tree and want to walk towards it you can return action_vector[0] = 1. 2) If you see an enemy and want to attack it you can return action_vector[5] = 3"
+            "text": "You are a Minecraft agent. Your task is to {task}. Here is the guidance for your task:{guidance}. Your should think of valid actions after receiving an observation. You will receive the observations as RGB images. The actions you return should follow a specific template. The actions consist of an 8-tuple with discrete values. Action vectors should have this form: [0, 0, 0, 12, 12, 0, 0, 0]. The descriptions for the different action indices are here: {actions}. Here are some examples: 1) If you see a tree and want to walk towards it you can return [1, 0, 0, 12, 12, 0, 0, 0]. 2) If you see an enemy and want to attack it you can return [0, 0, 0, 12, 12, 3, 0, 0]. You can also return a list of actions. Let say, you see a tree in the distance and walk towards it for a while, then you can return [[1, 0, 0, 12, 12, 0, 0, 0], [1, 0, 0, 12, 12, 0, 0, 0]]"
         },
         {
             "type": "image_url",
