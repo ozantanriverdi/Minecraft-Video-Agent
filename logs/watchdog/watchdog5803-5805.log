@@ -1,0 +1,2 @@
+2024-09-03 16:23:46 ozan-VirtualBox watchdog[5859] INFO Watchdog started between parent 5803 and child 5805
+2024-09-03 16:25:31 ozan-VirtualBox watchdog[5859] INFO Parent is not running, hence we need terminate the child.

@@ -1,0 +1,80 @@
+{
+    "actions": [
+        {
+            "index": 0,
+            "name": "Forward and backward",
+            "options": {
+                "0": "noop",
+                "1": "forward",
+                "2": "back"
+            },
+            "number_of_options": 3
+        },
+        {
+            "index": 1,
+            "name": "Move left and right",
+            "options": {
+                "0": "noop",
+                "1": "move left",
+                "2": "move right"
+            },
+            "number_of_options": 3
+        },
+        {
+            "index": 2,
+            "name": "Jump, sneak, and sprint",
+            "options": {
+                "0": "noop",
+                "1": "jump",
+                "2": "sneak",
+                "3": "sprint"
+            },
+            "number_of_options": 4
+        },
+        {
+            "index": 3,
+            "name": "Camera delta pitch ('0':looking up, '24': looking at the ground, '12': looking straight ahead)",
+            "range": {
+                "-180": 0,
+                "180": 24
+            },
+            "number_of_options": 25
+        },
+        {
+            "index": 4,
+            "name": "Camera delta yaw ('0': turning left by 180 degrees , '24': turning right by 180 degrees, '12': not turning)",
+            "range": {
+                "-180": 0,
+                "180": 24
+            },
+            "number_of_options": 25
+        },
+        {
+            "index": 5,
+            "name": "Functional actions",
+            "options": {
+                "0": "noop",
+                "1": "use",
+                "2": "drop",
+                "3": "attack",
+                "4": "craft",
+                "5": "equip",
+                "6": "place",
+                "7": "destroy"
+            },
+            "number_of_options": 8
+        },
+        {
+            "index": 6,
+            "name": "Argument for 'craft'",
+            "description": "All possible items to be crafted",
+            "number_of_options": 244
+        },
+        {
+            "index": 7,
+            "name": "Argument for 'equip', 'place', and 'destroy'",
+            "description": "Inventory slot indices",
+            "number_of_options": 36
+        }
+    ]
+}
