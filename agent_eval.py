@@ -1,17 +1,17 @@
-import base64
 import datetime
 import os
 import re
 import time
 import json
 from os.path import join
-import textwrap
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image
 import minedojo
 import numpy as np
 import openai
 from PIL import Image
 from openai import OpenAI
+from utils import encode_image, write_text_on_image
+from config import run_config
 
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
@@ -21,35 +21,10 @@ client = OpenAI(api_key=api_key)
 cwd = os.getcwd()
 rgb_obs_dir = join(cwd, "rgb_frames")
 obs_dir = join(cwd, "obs")
+run_history = join(cwd, "actions")
 run_rgb_obs_dir = join(rgb_obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
 run_obs_dir = join(obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
 
-
-def encode_image(image_path):
-    with open(image_path, "rb") as image_file:
-        return base64.b64encode(image_file.read()).decode('utf-8')
-
-def write_text_on_image(image_path, text, output_path):
-    # Open the image
-    image = Image.open(image_path)
-    draw = ImageDraw.Draw(image)
-
-    # Define a font (use a default font for simplicity)
-    # You can specify a TTF font file if you have one
-    font = ImageFont.load_default()
-
-    # Set the position and wrap the text (to avoid overflowing the image width)
-    max_width = 50  # Define max characters per line (adjust based on your image size)
-    wrapped_text = textwrap.fill(text, width=max_width)
-    
-    # Position to start the text
-    text_position = (10, 10)  # Top-left corner with some padding
-    
-    # Add text to the image
-    draw.text(text_position, wrapped_text, font=font, fill="white")
-    
-    # Save the image with the text overlay
-    image.save(output_path)
 
 def predict_action(obs, step, task_prompt, task_guidance, error_count):
     predicted_actions = []
@@ -108,8 +83,8 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
             predicted_actions.append(action_vec)
         print(action_vec)
         error_count = 0
-        for action in predicted_actions:
-            if not (isinstance(action, np.ndarray) and action.shape == (8,) and issubclass(action.dtype.type, np.integer)):
+        for predicted_action in predicted_actions:
+            if not (isinstance(predicted_action, np.ndarray) and predicted_action.shape == (8,) and issubclass(predicted_action.dtype.type, np.integer)):
                 raise ValueError("The action is not a valid 8-element integer numpy array.")
         return predicted_actions, error_count
     except openai.InternalServerError:
@@ -137,28 +112,6 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
     error_count += 1
     predicted_actions.append(np.array([0, 0, 0, 12, 12, 0, 0, 0]))
     return predicted_actions, error_count
-
-
-
-def parse_action_vector(api_response):
-    start = api_response.find('[')
-    end = api_response.find(']')
-    action_vec_str = api_response[start:end+1]
-
-    action_vec_str = action_vec_str.lstrip('[').rstrip(']').replace(' ', '')
-    action_vec = []
-    for i in range(8):
-        if i == 7:
-            action = int(action_vec_str)
-            action_vec.append(action)
-        else:
-            end_index = action_vec_str.find(',')
-            action = int(action_vec_str[:end_index])
-            action_vec.append(action)
-            action_vec_str = action_vec_str[end_index+1:]
-
-    action_vec = np.array(action_vec)
-    return action_vec
 
 def extract_action_vector(llm_output):
     # Regex pattern to match exactly 8 elements inside square brackets [] or parentheses ()
@@ -231,30 +184,37 @@ if __name__ == '__main__':
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()
+    sent_actions = []
     action_buffer = [] # To check if same actions predicted repeatedly
     error_count = 0 # Number of consecutive
     step = 0
+    api_calls = 0
+    run_history = {}
 
-    while step < 10:
+    while step < run_config["step_count"]:
         start = time.time()
         predicted_actions, error_count = predict_action(obs=obs,
                                 step=step,
                                 task_prompt=env.task_prompt,
                                 task_guidance=env.task_guidance,
                                 error_count=error_count)
-        if error_count == 5:
+        api_calls += 1
+        if error_count == run_config["error_count"]:
             print("API requests failed for 5 times, ending the run.")
             break
 
         action_buffer.extend(predicted_actions)
-        if check_if_same_actions(action_buffer, 10):
-            print("Received the same action for 10 steps, ending the run.")
+        if check_if_same_actions(action_buffer, run_config["same_action_count"]):
+            print(f"Received the same action for {run_config["same_action_count"]} steps, ending the run.")
             break
         end = time.time()
         print("Predict Action Time: ", end-start)
         while predicted_actions:
             action = predicted_actions.pop(0)
             obs, reward, done, info = env.step(action)
+            # with open(join(actions, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt", "a")) as f:
+            #     f.write(str(action) + "\n")
+            sent_actions.append(action)
             print("Reward: ", reward, type(reward))
             with open(join(run_obs_dir, f"info_step_{step}.json"), "w") as f:
                 json.dump(info, f, indent=4)
@@ -263,4 +223,11 @@ if __name__ == '__main__':
             step += 1
         if done:
             break
+    run_history["actions_count"] = run_config["step_count"]
+    run_history["api_calls_count"] = api_calls
+    run_history["actions"] = sent_actions
+    with open(join(run_history, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json", "w")) as f:
+        json.dump(run_history, f, indent=4)
+
+
     env.close()
