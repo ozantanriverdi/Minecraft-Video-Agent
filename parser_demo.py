@@ -89,7 +89,12 @@ if __name__ == '__main__':
     # print(extract_action_vector(text_2))
     # print("****************")
     # print(extract_action_vector(text_3))
-    with open("prompt.txt", "r") as f:
-        prompt_text_raw = f.read()
+    # with open("prompt.txt", "r") as f:
+    #     prompt_text_raw = f.read()
     
-    print(prompt_text_raw)
+    # print(prompt_text_raw)
+
+    with open("obs/20240919_052722/info_step_0.json", "r") as f:
+        obs = json.load(f)
+    
+    print(obs.keys())

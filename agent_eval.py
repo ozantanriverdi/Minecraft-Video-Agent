@@ -204,17 +204,17 @@ if __name__ == '__main__':
                                                                                     task_guidance=env.task_guidance,
                                                                                     error_count=error_count)
         api_calls += 1
-        if error_count == run_config["error_count"]:
+        if error_count == run_config["error_limit"]:
             print("API requests failed for 5 times, ending the run.")
             break
 
         action_buffer.extend(predicted_actions)
-        if check_if_same_actions(action_buffer, run_config["same_action_count"]):
-            print(f"Received the same action for {run_config['same_action_count']} steps, ending the run.")
+        if check_if_same_actions(action_buffer, run_config["same_action_limit"]):
+            print(f"Received the same action for {run_config['same_action_limit']} steps, ending the run.")
             break
         end = time.time()
         print("Predict Action Time: ", end-start)
-        while predicted_actions:
+        while predicted_actions and step < run_config["step_count"]:
             action = predicted_actions.pop(0)
             obs, reward, done, info = env.step(action)
             # with open(join(actions, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt", "a")) as f:
