@@ -21,28 +21,27 @@ client = OpenAI(api_key=api_key)
 cwd = os.getcwd()
 rgb_obs_dir = join(cwd, "rgb_frames")
 obs_dir = join(cwd, "obs")
-run_history = join(cwd, "actions")
+run_history_dir = join(cwd, "actions")
 run_rgb_obs_dir = join(rgb_obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
 run_obs_dir = join(obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
 
 
 def predict_action(obs, step, task_prompt, task_guidance, error_count):
+    success = 1
     predicted_actions = []
     Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(join(run_rgb_obs_dir, f"{step}.jpg"))
     # Can delete previous images as well
     encoded_obs_image = encode_image(join(run_rgb_obs_dir, f"{step}.jpg"))
     image_url = f"data:image/jpeg;base64,{encoded_obs_image}"
 
-    with open("prompt.json", "r") as f:
-        prompt_data = json.load(f)
+    with open("prompt_3.txt", "r") as f:
+        prompt_text_raw = f.read()
     with open("action_desc.json", "r") as f:
         action_desc = json.load(f)
-    prompt_text = prompt_data["prompt"][0]["text"].format(
-        actions=action_desc,
+    prompt_text = prompt_text_raw.format(
+        #actions=action_desc,
         task=task_prompt,
         guidance=task_guidance)
-    #prompt_data["prompt"][0]["text"] = prompt_text
-    #prompt_data["prompt"][1]["image_url"]["url"] = image_url
     messages = [
         {
             "role": "user",
@@ -76,7 +75,7 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
         # action = env.action_space.no_op()
         # action[0] = 1
         # return action
-        action_vec = extract_action_vector(llm_output)
+        action_vec, parsing_success = extract_action_vector(llm_output)
         if isinstance(action_vec, list):
             predicted_actions.extend(action_vec)
         elif isinstance(action_vec, np.ndarray):
@@ -86,7 +85,7 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
         for predicted_action in predicted_actions:
             if not (isinstance(predicted_action, np.ndarray) and predicted_action.shape == (8,) and issubclass(predicted_action.dtype.type, np.integer)):
                 raise ValueError("The action is not a valid 8-element integer numpy array.")
-        return predicted_actions, error_count
+        return predicted_actions, error_count, parsing_success, success
     except openai.InternalServerError:
         print("The LLM API service is temporarily unavailable. Please try again later.")
 
@@ -110,10 +109,14 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
 
     # Return a default action vector in case of any error
     error_count += 1
+    success = 0
     predicted_actions.append(np.array([0, 0, 0, 12, 12, 0, 0, 0]))
-    return predicted_actions, error_count
+    return predicted_actions, error_count, parsing_success, success
 
 def extract_action_vector(llm_output):
+    success = 1
+    llm_output = llm_output.replace(' ', '').replace('\n', '')
+    llm_output = llm_output.replace(r'\[', '[').replace(r'\]', ']')
     # Regex pattern to match exactly 8 elements inside square brackets [] or parentheses ()
     pattern_single = r"\[((\d+,\s*){7}\d+)\]|\(((\d+,\s*){7}\d+)\)"
 
@@ -127,11 +130,11 @@ def extract_action_vector(llm_output):
             # Extract the list of action vectors as a string
             vector_list_str = match_list.group(0)[2:-2] # Remove outer [[ and ]]
             # Split by "], [" to separate individual vectors
-            vector_list_str = vector_list_str.replace(' ', '')
+            #vector_list_str = vector_list_str.replace(' ', '').replace('\n', '')
             vector_list = vector_list_str.split("],[")
             # Convert each vector string to a numpy array of integers
             action_vectors = [np.array([int(x) for x in vec.split(',')]) for vec in vector_list]
-            return action_vectors
+            return action_vectors, success
 
         match_single = re.search(pattern_single, llm_output)
         if match_single:
@@ -139,14 +142,15 @@ def extract_action_vector(llm_output):
             vector_str = match_single.group(1) if match_single.group(1) else match_single.group(3)
             # Convert the string into a list of integers and return it as a numpy array
             action_vector = np.array([int(x) for x in vector_str.split(',')])
-            return action_vector
+            return action_vector, success
         # Raise ValueError if no match was found
         raise ValueError("No valid action vector or list of vectors found in the output, expecting exactly 8 elements.")
     
     except ValueError as e:
         print(e)
+        success = 0
         # Return default vector if ValueError is raised
-        return np.array([0, 0, 0, 12, 12, 0, 0, 0])
+        return np.array([0, 0, 0, 12, 12, 0, 0, 0]), success
 
 def single_action_agent():
     Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(join(run_rgb_obs_dir, f"{step}.jpg"))
@@ -180,6 +184,7 @@ if __name__ == '__main__':
     os.makedirs(obs_dir, exist_ok=True)
     os.makedirs(run_rgb_obs_dir, exist_ok=True)
     os.makedirs(run_obs_dir, exist_ok=True)
+    os.makedirs(run_history_dir, exist_ok=True)
     env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
     print(env.task_prompt)
     print(env.task_guidance)
@@ -193,11 +198,11 @@ if __name__ == '__main__':
 
     while step < run_config["step_count"]:
         start = time.time()
-        predicted_actions, error_count = predict_action(obs=obs,
-                                step=step,
-                                task_prompt=env.task_prompt,
-                                task_guidance=env.task_guidance,
-                                error_count=error_count)
+        predicted_actions, error_count, parsing_success, api_success = predict_action(obs=obs,
+                                                                                    step=step,
+                                                                                    task_prompt=env.task_prompt,
+                                                                                    task_guidance=env.task_guidance,
+                                                                                    error_count=error_count)
         api_calls += 1
         if error_count == run_config["error_count"]:
             print("API requests failed for 5 times, ending the run.")
@@ -205,7 +210,7 @@ if __name__ == '__main__':
 
         action_buffer.extend(predicted_actions)
         if check_if_same_actions(action_buffer, run_config["same_action_count"]):
-            print(f"Received the same action for {run_config["same_action_count"]} steps, ending the run.")
+            print(f"Received the same action for {run_config['same_action_count']} steps, ending the run.")
             break
         end = time.time()
         print("Predict Action Time: ", end-start)
@@ -214,7 +219,9 @@ if __name__ == '__main__':
             obs, reward, done, info = env.step(action)
             # with open(join(actions, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt", "a")) as f:
             #     f.write(str(action) + "\n")
-            sent_actions.append(action)
+            sent_actions.append(str(action.tolist()) 
+                                + (" - Parsing Error" if not parsing_success else "")
+                                + (" - API Error" if not api_success else ""))
             print("Reward: ", reward, type(reward))
             with open(join(run_obs_dir, f"info_step_{step}.json"), "w") as f:
                 json.dump(info, f, indent=4)
@@ -226,8 +233,6 @@ if __name__ == '__main__':
     run_history["actions_count"] = run_config["step_count"]
     run_history["api_calls_count"] = api_calls
     run_history["actions"] = sent_actions
-    with open(join(run_history, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json", "w")) as f:
+    with open(join(run_history_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"), "w") as f:
         json.dump(run_history, f, indent=4)
-
-
     env.close()

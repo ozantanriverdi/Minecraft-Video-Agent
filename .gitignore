@@ -1,3 +1,5 @@
 logs/
 obs/
 rgb_frames/
+__pycache__/
+actions/
