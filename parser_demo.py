@@ -1,6 +1,7 @@
 import re
 import numpy as np
 import json
+import minedojo
 
 
 def extract_action_vector(llm_output):
@@ -94,7 +95,17 @@ if __name__ == '__main__':
     
     # print(prompt_text_raw)
 
-    with open("obs/20240919_052722/info_step_0.json", "r") as f:
-        obs = json.load(f)
+    # with open("obs/20240919_052722/info_step_0.json", "r") as f:
+    #     obs = json.load(f)
     
-    print(obs.keys())
+    # print(obs.keys())
+    env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
+    print(env.task_prompt)
+    print(env.task_guidance)
+    env.reset()
+    action = env.action_space.no_op()
+    obs, reward, done, info = env.step(action)
+    env.close()
+
+    print(type(obs), obs.keys())
+    print(type(info), info.keys())

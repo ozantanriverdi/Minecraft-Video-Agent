@@ -195,6 +195,7 @@ if __name__ == '__main__':
     step = 0
     api_calls = 0
     run_history = {}
+    run_start = time.time()
 
     while step < run_config["step_count"]:
         start = time.time()
@@ -230,8 +231,12 @@ if __name__ == '__main__':
             step += 1
         if done:
             break
-    run_history["actions_count"] = run_config["step_count"]
+    
+    run_finish = time.time()
+
+    run_history["actions_count"] = step
     run_history["api_calls_count"] = api_calls
+    run_history["run_duration"] = run_start - run_finish
     run_history["actions"] = sent_actions
     with open(join(run_history_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"), "w") as f:
         json.dump(run_history, f, indent=4)
