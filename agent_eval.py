@@ -224,8 +224,11 @@ if __name__ == '__main__':
                                 + (" - Parsing Error" if not parsing_success else "")
                                 + (" - API Error" if not api_success else ""))
             print("Reward: ", reward, type(reward))
+            info_save_start = time.time()
             with open(join(run_obs_dir, f"info_step_{step}.json"), "w") as f:
                 json.dump(info, f, indent=4)
+            info_save_finish = time.time()
+            print("INFO SAVE DURATION: ", info_save_finish - info_save_start)
             if done:
                 break
             step += 1
@@ -236,7 +239,7 @@ if __name__ == '__main__':
 
     run_history["actions_count"] = step
     run_history["api_calls_count"] = api_calls
-    run_history["run_duration"] = run_start - run_finish
+    run_history["run_duration"] = run_finish - run_start
     run_history["actions"] = sent_actions
     with open(join(run_history_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"), "w") as f:
         json.dump(run_history, f, indent=4)

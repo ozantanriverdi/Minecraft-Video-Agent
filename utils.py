@@ -1,6 +1,9 @@
 import base64
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
+from tqdm import tqdm
+import numpy as np
+import json
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -27,3 +30,16 @@ def write_text_on_image(image_path, text, output_path):
     
     # Save the image with the text overlay
     image.save(output_path)
+
+def obs_to_json(obs):
+    
+    for i, key_1 in enumerate(obs.keys()):
+        if i == 0:
+            continue
+        for key_2 in obs[key_1].keys():
+            if isinstance(obs[key_1][key_2], np.ndarray):
+                obs[key_1][key_2] = str(obs[key_1][key_2])
+    del obs["rgb"]
+    with open("obs_1.json", "w") as f:
+        json.dump(obs, f, indent=4)
+

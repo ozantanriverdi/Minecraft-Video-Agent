@@ -2,6 +2,7 @@ import re
 import numpy as np
 import json
 import minedojo
+from utils import obs_to_json
 
 
 def extract_action_vector(llm_output):
@@ -106,6 +107,14 @@ if __name__ == '__main__':
     action = env.action_space.no_op()
     obs, reward, done, info = env.step(action)
     env.close()
-
-    print(type(obs), obs.keys())
-    print(type(info), info.keys())
+    
+    #print(type(obs), obs.keys())
+    #print(type(info), info.keys())
+    # for i, key in enumerate(obs.keys()):
+    #     if i == 0:
+    #         continue
+    #     print(key)
+    #     print(type(obs[key]))
+    #     print(obs[key].keys())
+    #     print("**********************")
+    obs_to_json(obs)
