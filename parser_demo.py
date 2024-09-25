@@ -2,8 +2,8 @@ import re
 import numpy as np
 import json
 import minedojo
-from utils import obs_to_json
-
+from utils import obs_to_json, calculate_distance
+from minedojo.tasks.meta.harvest import HarvestMeta
 
 def extract_action_vector(llm_output):
     success = 1
@@ -100,14 +100,25 @@ if __name__ == '__main__':
     #     obs = json.load(f)
     
     # print(obs.keys())
-    env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
-    print(env.task_prompt)
-    print(env.task_guidance)
-    env.reset()
-    action = env.action_space.no_op()
-    obs, reward, done, info = env.step(action)
-    env.close()
     
+    # env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
+    # print(env.task_prompt)
+    # print(env.task_guidance)
+    # obs = env.reset()
+    # first_pos = obs["location_stats"]["pos"]
+    # action = np.array([1, 0, 0, 12, 12, 0, 0, 0])
+    # total_distance = 0
+    # for i in range(10):
+    #     obs, reward, done, info = env.step(action)
+    #     second_pos = obs["location_stats"]["pos"]
+    #     total_distance += calculate_distance(first_pos, second_pos)
+    #     first_pos = second_pos
+    # env.close()
+    # print("Total Covered Distance: ", total_distance)
+    
+    
+    # print(type(obs['equipment']['name']))
+    # print(type(obs['equipment']['name'][0]))
     #print(type(obs), obs.keys())
     #print(type(info), info.keys())
     # for i, key in enumerate(obs.keys()):
@@ -117,4 +128,34 @@ if __name__ == '__main__':
     #     print(type(obs[key]))
     #     print(obs[key].keys())
     #     print("**********************")
-    obs_to_json(obs)
+    #obs_to_json(obs)
+
+
+    custom_task_params = {
+        "target_names": ["log", "sapling"],    # Items to harvest
+        "target_quantities": [5, 10],          # Quantities to harvest
+        "reward_weights": {"log": 1.0, "sapling": 0.5},  # Reward weights
+        "specified_biome": "forest",           # Biome where task takes place
+        "start_health": 20.0,                  # Agent's starting health
+        "start_food": 20,                      # Agent's starting food level
+        "image_size": (480, 768),              # Set image size
+        "use_voxel": False,                    # Whether to include voxel observations
+        "use_lidar": True,                     # Whether to include lidar observations
+        # Add any other parameters you wish to customize
+    }
+
+    # Create the environment with task_id="harvest" and your custom parameters
+    env = minedojo.make(task_id="harvest", **custom_task_params)
+    print(env.task_prompt)
+    print(env.task_guidance)
+    # Now you can use the environment as usual
+    obs = env.reset()
+    for step in range(100):  # Example loop
+        action = np.array([1, 0, 0, 12, 12, 0, 0, 0])  # Replace with your agent's action
+        obs, reward, done, info = env.step(action)
+        
+        if done:
+            print("Task completed!")
+            break
+
+    env.close()

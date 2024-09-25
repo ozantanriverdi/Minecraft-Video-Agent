@@ -4,6 +4,10 @@ import textwrap
 from tqdm import tqdm
 import numpy as np
 import json
+import copy
+from os.path import join
+from config import run_config
+
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -31,15 +35,27 @@ def write_text_on_image(image_path, text, output_path):
     # Save the image with the text overlay
     image.save(output_path)
 
-def obs_to_json(obs):
-    
-    for i, key_1 in enumerate(obs.keys()):
+def obs_to_json(obs, run_obs_dir, step):
+    obs_copy = copy.deepcopy(obs)
+    for i, key_1 in enumerate(obs_copy.keys()):
         if i == 0:
             continue
-        for key_2 in obs[key_1].keys():
-            if isinstance(obs[key_1][key_2], np.ndarray):
-                obs[key_1][key_2] = str(obs[key_1][key_2])
-    del obs["rgb"]
-    with open("obs_1.json", "w") as f:
-        json.dump(obs, f, indent=4)
+        for key_2 in obs_copy[key_1].keys():
+            if isinstance(obs_copy[key_1][key_2], np.ndarray):
+                obs_copy[key_1][key_2] = str(obs_copy[key_1][key_2].tolist())#.replace('\n', '')
+    del obs_copy["rgb"]
+    with open(join(run_obs_dir, f"obs_step_{step}.json"), "w") as f:
+        json.dump(obs_copy, f, indent=4)
 
+def calculate_distance(first_pos, second_pos):
+    return np.linalg.norm(first_pos-second_pos).astype(np.float32)
+
+def check_distance(total_distance, step):
+    if (step != 0) and (step % run_config["check_distance_interval"] == run_config["check_distance_interval"] - 1):
+        if total_distance > run_config["min_distance"]:
+            total_distance = 0.0
+            return total_distance, False
+        else:
+            print(f"Agent moved less than {run_config['min_distance']} in the last {run_config['check_distance_interval']} steps, ending the run.")
+            return total_distance, True
+    return total_distance, False

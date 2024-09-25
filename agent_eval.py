@@ -10,7 +10,7 @@ import numpy as np
 import openai
 from PIL import Image
 from openai import OpenAI
-from utils import encode_image, write_text_on_image
+from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance
 from config import run_config
 
 api_key = os.getenv("OPENAI_API_KEY")
@@ -20,10 +20,13 @@ client = OpenAI(api_key=api_key)
 
 cwd = os.getcwd()
 rgb_obs_dir = join(cwd, "rgb_frames")
+info_dir = join(cwd, "info")
 obs_dir = join(cwd, "obs")
-run_history_dir = join(cwd, "actions")
-run_rgb_obs_dir = join(rgb_obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
-run_obs_dir = join(obs_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}")
+run_history_dir = join(cwd, "run_history")
+run_start_time = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+run_rgb_obs_dir = join(rgb_obs_dir, f"{run_start_time}")
+run_info_dir = join(info_dir, f"{run_start_time}")
+run_obs_dir = join(obs_dir, f"{run_start_time}")
 
 
 def predict_action(obs, step, task_prompt, task_guidance, error_count):
@@ -181,19 +184,23 @@ def check_if_same_actions(action_buffer, step_count):
 
 if __name__ == '__main__':
     os.makedirs(rgb_obs_dir, exist_ok=True)
+    os.makedirs(info_dir, exist_ok=True)
     os.makedirs(obs_dir, exist_ok=True)
-    os.makedirs(run_rgb_obs_dir, exist_ok=True)
-    os.makedirs(run_obs_dir, exist_ok=True)
     os.makedirs(run_history_dir, exist_ok=True)
+    os.makedirs(run_rgb_obs_dir, exist_ok=True)
+    os.makedirs(run_info_dir, exist_ok=True)
+    os.makedirs(run_obs_dir, exist_ok=True)
     env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()
+    first_pos = obs["location_stats"]["pos"]
     sent_actions = []
-    action_buffer = [] # To check if same actions predicted repeatedly
+    # action_buffer = [] # To check if same actions predicted repeatedly
     error_count = 0 # Number of consecutive
     step = 0
     api_calls = 0
+    total_distance = 0
     run_history = {}
     run_start = time.time()
 
@@ -209,29 +216,37 @@ if __name__ == '__main__':
             print("API requests failed for 5 times, ending the run.")
             break
 
-        action_buffer.extend(predicted_actions)
-        if check_if_same_actions(action_buffer, run_config["same_action_limit"]):
-            print(f"Received the same action for {run_config['same_action_limit']} steps, ending the run.")
-            break
+        # action_buffer.extend(predicted_actions)
+        # if check_if_same_actions(action_buffer, run_config["same_action_limit"]):
+        #     print(f"Received the same action for {run_config['same_action_limit']} steps, ending the run.")
+        #     break
         end = time.time()
         print("Predict Action Time: ", end-start)
         while predicted_actions and step < run_config["step_count"]:
             action = predicted_actions.pop(0)
             obs, reward, done, info = env.step(action)
-            # with open(join(actions, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt", "a")) as f:
-            #     f.write(str(action) + "\n")
+
+            # Calculate the distance between each following step and add it to the 'total_distance'
+            second_pos = obs["location_stats"]["pos"]
+            total_distance += calculate_distance(first_pos, second_pos)
+
+            # Check if the 'total_distance' in the last n steps is greater than a certain value (otherwise: agent stuck!)
+            total_distance, done = check_distance(total_distance, step)
+
+            # Logging the actions of the run with a possible error suffix
             sent_actions.append(str(action.tolist()) 
                                 + (" - Parsing Error" if not parsing_success else "")
                                 + (" - API Error" if not api_success else ""))
-            print("Reward: ", reward, type(reward))
-            info_save_start = time.time()
-            with open(join(run_obs_dir, f"info_step_{step}.json"), "w") as f:
+
+            # Logging the 'info' and the 'obs' returned by the environment
+            with open(join(run_info_dir, f"info_step_{step}.json"), "w") as f:
                 json.dump(info, f, indent=4)
-            info_save_finish = time.time()
-            print("INFO SAVE DURATION: ", info_save_finish - info_save_start)
+            obs_to_json(obs, run_obs_dir, step)
+
             if done:
                 break
             step += 1
+            first_pos = second_pos
         if done:
             break
     
@@ -240,7 +255,9 @@ if __name__ == '__main__':
     run_history["actions_count"] = step
     run_history["api_calls_count"] = api_calls
     run_history["run_duration"] = run_finish - run_start
+    run_history["final_reward"] = reward
+    run_history["final_done"] = done
     run_history["actions"] = sent_actions
-    with open(join(run_history_dir, f"{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"), "w") as f:
+    with open(join(run_history_dir, f"run_{run_start_time}.json"), "w") as f:
         json.dump(run_history, f, indent=4)
     env.close()
