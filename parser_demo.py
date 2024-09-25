@@ -2,8 +2,10 @@ import re
 import numpy as np
 import json
 import minedojo
+import time
+from minedojo.sim import InventoryItem
 from utils import obs_to_json, calculate_distance
-from minedojo.tasks.meta.harvest import HarvestMeta
+#from config import easy_task_parameters
 
 def extract_action_vector(llm_output):
     success = 1
@@ -144,18 +146,49 @@ if __name__ == '__main__':
         # Add any other parameters you wish to customize
     }
 
+    initial_inventory = [
+        InventoryItem(slot="mainhand", name="iron_axe", variant=None, quantity=1)
+    ]
+
+    easy_task_parameters = {
+    "task_id": "harvest",
+    "target_names": "diamond",    # Items to harvest
+    "target_quantities": 1,          # Quantities to harvest
+    "specified_biome": "forest",           # Biome where task takes place
+    "spawn_rate": 1.,
+    "spawn_range_low": (0, 0, 3),
+    "spawn_range_high": (0, 0, 3),
+    "image_size": (480, 768),              # Set image size
+    "seed": 1,
+    "world_seed": 3,
+    "initial_inventory": initial_inventory
+    }
+    easy_task_parameters["start_position"] = {
+    "x": 0,
+    "y": 64,  # Typical ground level in Minecraft
+    "z": 0,
+    "yaw": 0,  # Facing south (positive Z)
+    "pitch": 0
+    }
+
+
+
     # Create the environment with task_id="harvest" and your custom parameters
-    env = minedojo.make(task_id="harvest", **custom_task_params)
+    env = minedojo.make(**easy_task_parameters)
     print(env.task_prompt)
     print(env.task_guidance)
     # Now you can use the environment as usual
     obs = env.reset()
-    for step in range(100):  # Example loop
+    print("Initial Inventory:", obs["inventory"])
+    print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+    for step in range(5):  # Example loop
         action = np.array([1, 0, 0, 12, 12, 0, 0, 0])  # Replace with your agent's action
         obs, reward, done, info = env.step(action)
+        print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+        time.sleep(1)
         
         if done:
             print("Task completed!")
             break
-
+    print("Final Inventory:", obs["inventory"])
     env.close()
