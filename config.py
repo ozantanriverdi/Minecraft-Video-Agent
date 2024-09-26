@@ -21,6 +21,26 @@ task_config = {
         "initial_mobs": "cow",
         "initial_mob_spawn_range_low": (0, 0, 1),
         "initial_mob_spawn_range_high": (0, 0, 1),
+        "image_size": (480, 768),
+        "seed": 1,
+        "world_seed": 3,
+        "initial_inventory": [
+            InventoryItem(slot="mainhand", name="bucket", variant=None, quantity=1)
+        ],
+        "initial_weather": "clear",
+        "start_position": {"x": -5, "y": 64, "z": -2, "pitch": 0, "yaw": 0} # x: negative values means right
+    },
+        "easy_2": {
+        "task_id": "harvest",
+        "target_names": "milk_bucket",    # Items to harvest
+        "target_quantities": 1,          # Quantities to harvest
+        "specified_biome": "plains",           # Biome where task takes place
+        #"spawn_rate": 0.99,
+        #"spawn_range_low": (0, 0, 1),
+        #"spawn_range_high": (0, 0, 1),
+        "initial_mobs": "cow",
+        "initial_mob_spawn_range_low": (0, 0, 1),
+        "initial_mob_spawn_range_high": (0, 0, 1),
         "image_size": (1080, 1920),
         "seed": 1,
         "world_seed": 3,
