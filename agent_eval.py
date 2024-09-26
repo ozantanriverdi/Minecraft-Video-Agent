@@ -37,10 +37,10 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
     encoded_obs_image = encode_image(join(run_rgb_obs_dir, f"{step}.jpg"))
     image_url = f"data:image/jpeg;base64,{encoded_obs_image}"
 
-    with open("prompt_3.txt", "r") as f:
+    with open("prompt_4.txt", "r") as f:
         prompt_text_raw = f.read()
-    with open("action_desc.json", "r") as f:
-        action_desc = json.load(f)
+    # with open("action_desc.json", "r") as f:
+    #     action_desc = json.load(f)
     prompt_text = prompt_text_raw.format(
         #actions=action_desc,
         task=task_prompt,
@@ -190,7 +190,7 @@ if __name__ == '__main__':
     os.makedirs(run_rgb_obs_dir, exist_ok=True)
     os.makedirs(run_info_dir, exist_ok=True)
     os.makedirs(run_obs_dir, exist_ok=True)
-    env = minedojo.make(**task_config["easy_1"])
+    env = minedojo.make(**task_config["easy_1_seed_3"])
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()

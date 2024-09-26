@@ -180,7 +180,7 @@ if __name__ == '__main__':
 
 
     # Create the environment with task_id="harvest" and your custom parameters
-    env = minedojo.make(**task_config["easy_1"])
+    env = minedojo.make(**task_config["easy_1_seed_5"])
     print(env.task_prompt)
     print(env.task_guidance)
     # Now you can use the environment as usual
@@ -214,7 +214,6 @@ if __name__ == '__main__':
     #         break
     action = np.array([0, 0, 0, 15, 12, 1, 0, 0])
     obs, reward, done, info = env.step(action)
-    print("Attacking!")
     for step in range(50):  # Example loop
         action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
 

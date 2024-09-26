@@ -187,7 +187,7 @@ You are a Minecraft agent. Your task is to **{task}**. This is your primary obje
 
 #### **Important Notes:**
 
-- **Observation and Analysis:** Always start your response with detailed observations, including object identification and estimated distances.
+- **Observation and Analysis:** Always start your response with detailed observations, including object identification and estimated distances. Provide your reasoning for the actions as well.
 
 - **Clarity:** Use bullet points for observations and environment descriptions to enhance readability.
 
@@ -196,6 +196,10 @@ You are a Minecraft agent. Your task is to **{task}**. This is your primary obje
 - **Validity:** Ensure each action vector is valid and adheres to the action index descriptions provided.
 
 - **No Additional Output:** Do **not** include any explanations or extra text after the action vectors.
+
+- To interact with an object, the cursor (which is always in the middle of the screen) should point to the object. This can be achieved by turning left/right (by using "pitch") or getting the agent look up/down (by using "yaw").
+
+- Do not ever use the "destroy" action ([0, 0, 0, 12, 12, 7, 0, 0]) 
 
 ---
 
