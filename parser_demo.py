@@ -4,7 +4,9 @@ import json
 import minedojo
 import time
 from minedojo.sim import InventoryItem
+from PIL import Image
 from utils import obs_to_json, calculate_distance
+from config import task_config
 #from config import easy_task_parameters
 
 def extract_action_vector(llm_output):
@@ -147,24 +149,28 @@ if __name__ == '__main__':
     }
 
     initial_inventory = [
-        InventoryItem(slot="mainhand", name="iron_axe", variant=None, quantity=1)
+        InventoryItem(slot="mainhand", name="bucket", variant=None, quantity=1)
     ]
 
     easy_task_parameters = {
     "task_id": "harvest",
-    "target_names": "diamond",    # Items to harvest
+    "target_names": "milk_bucket",    # Items to harvest
     "target_quantities": 1,          # Quantities to harvest
-    "specified_biome": "forest",           # Biome where task takes place
-    "spawn_rate": 1.,
-    "spawn_range_low": (0, 0, 3),
-    "spawn_range_high": (0, 0, 3),
-    "image_size": (480, 768),              # Set image size
+    "specified_biome": "plains",           # Biome where task takes place
+    #"spawn_rate": 0.99,
+    #"spawn_range_low": (0, 0, 1),
+    #"spawn_range_high": (0, 0, 1),
+    "initial_mobs": "cow",
+    "initial_mob_spawn_range_low": (0, 0, 1),
+    "initial_mob_spawn_range_high": (0, 0, 1),
+    "image_size": (1080, 1920),              # Set image size
     "seed": 1,
     "world_seed": 3,
-    "initial_inventory": initial_inventory
+    "initial_inventory": initial_inventory,
+    "initial_weather": "clear"
     }
     easy_task_parameters["start_position"] = {
-    "x": 0,
+    "x": 5,
     "y": 64,  # Typical ground level in Minecraft
     "z": 0,
     "yaw": 0,  # Facing south (positive Z)
@@ -174,21 +180,52 @@ if __name__ == '__main__':
 
 
     # Create the environment with task_id="harvest" and your custom parameters
-    env = minedojo.make(**easy_task_parameters)
+    env = minedojo.make(**task_config["easy_1"])
     print(env.task_prompt)
     print(env.task_guidance)
     # Now you can use the environment as usual
     obs = env.reset()
-    print("Initial Inventory:", obs["inventory"])
-    print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+    Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(f"3.jpg")
+    print("Initial Inventory:", obs["inventory"]["name"])
+    #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
     for step in range(5):  # Example loop
         action = np.array([1, 0, 0, 12, 12, 0, 0, 0])  # Replace with your agent's action
         obs, reward, done, info = env.step(action)
-        print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
-        time.sleep(1)
+        #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+        #time.sleep(0.5)
+        print("***" + str(step) + "***")
+        print("Done: ", done)
+        print("Reward: ", reward)
         
         if done:
             print("Task completed!")
             break
-    print("Final Inventory:", obs["inventory"])
+    # print("Using!")
+    # for step in range(50):  # Example loop
+    #     action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
+    #     obs, reward, done, info = env.step(action)
+    #     #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+    #     #time.sleep(0.5)
+    #     print("***" + str(step) + "***")
+    #     print("Done: ", done)
+    #     print("Reward: ", reward)
+    #     if done:
+    #         print("Task completed!")
+    #         break
+    action = np.array([0, 0, 0, 15, 12, 1, 0, 0])
+    obs, reward, done, info = env.step(action)
+    print("Attacking!")
+    for step in range(50):  # Example loop
+        action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
+
+        obs, reward, done, info = env.step(action)
+        #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+        #time.sleep(0.5)
+        print("***" + str(step) + "***")
+        print("Done: ", done)
+        print("Reward: ", reward)
+        if done:
+            print("Task completed!")
+            break
+    print("Final Inventory:", obs["inventory"]["name"])
     env.close()

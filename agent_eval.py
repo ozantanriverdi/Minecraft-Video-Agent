@@ -11,7 +11,7 @@ import openai
 from PIL import Image
 from openai import OpenAI
 from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance
-from config import run_config
+from config import run_config, task_config
 
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
@@ -190,7 +190,7 @@ if __name__ == '__main__':
     os.makedirs(run_rgb_obs_dir, exist_ok=True)
     os.makedirs(run_info_dir, exist_ok=True)
     os.makedirs(run_obs_dir, exist_ok=True)
-    env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
+    env = minedojo.make(**task_config["easy_1"])
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()
