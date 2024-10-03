@@ -1,12 +1,12 @@
-You are a Minecraft agent. Your task is to **{task}**. This is your primary objective, and you should use the observations, reasoning, and guidance provided to achieve it efficiently.
-
----
+You are a Minecraft agent. Your task is to **{task}**. This is your primary objective, and you should use the observations and the guidance below to achieve it efficiently.
 
 #### **Guidance for your task:**
 
-{guidance}
+1. Perform "move forward" action five times.
 
----
+2. Bend forward using the value "15" for the "Camera delta pitch".
+
+3. Perform "use" action from the "Functional Actions" three times.
 
 #### **Instructions:**
 
@@ -111,92 +111,6 @@ You are a Minecraft agent. Your task is to **{task}**. This is your primary obje
       [0, 0, 0, 12, 12, 1, 0, 0]]
      ```
 
----
-
-#### **Examples:**
-
-1. **Milking a Cow When Not Facing It and Without Bucket Equipped:**
-
-   - **Observations:**
-
-     - A cow is ahead to the right at a far distance.
-     - I have a bucket in my inventory but not equipped.
-
-   - **Environment Description:**
-
-     - The cow is approximately 20 blocks away and 60 degrees to the right.
-     - The area is open grassland.
-
-   - **Reasoning:**
-
-     - Equip the bucket from my inventory.
-     - Turn right to face the cow.
-     - Move forward to get closer to the cow.
-     - Once within interaction range, use the bucket to milk the cow.
-
-   - **Actions:**
-
-     ```
-     [[0, 0, 0, 12, 20, 0, 0, 0],
-      [0, 0, 0, 12, 12, 5, 0, 8],
-      [1, 0, 0, 12, 12, 0, 0, 0],
-      [1, 0, 0, 12, 12, 0, 0, 0],
-      [0, 0, 0, 12, 12, 1, 0, 0]]
-     ```
-
-2. **Chopping Down a Tree When Not Close Enough and Without Axe Equipped:**
-
-   - **Observations:**
-
-     - There is a tree ahead at a medium distance.
-     - I have an axe in my inventory but not equipped.
-
-   - **Environment Description:**
-
-     - The tree is approximately 10 blocks ahead.
-     - The area has sparse trees and flat terrain.
-
-   - **Reasoning:**
-
-     - Equip the axe from my inventory.
-     - Move forward to reach the tree.
-     - Once close enough, attack to chop the tree.
-
-   - **Actions:**
-
-     ```
-     [[0, 0, 0, 12, 12, 5, 0, 7],
-      [1, 0, 0, 12, 12, 0, 0, 0],
-      [1, 0, 0, 12, 12, 0, 0, 0],
-      [0, 0, 0, 12, 12, 3, 0, 0]]
-     ```
-
-3. **Adjusting Orientation to Align with Target Object:**
-
-   - **Observations:**
-
-     - A cow is to the left at a close distance.
-     - I have a bucket equipped.
-
-   - **Environment Description:**
-
-     - The cow is approximately 5 blocks away and 45 degrees to the left.
-     - The area is a grassy plain.
-
-   - **Reasoning:**
-
-     - Turn left to face the cow.
-     - Move forward slightly to get within interaction range.
-     - Use the bucket to milk the cow.
-
-   - **Actions:**
-
-     ```
-     [[0, 0, 0, 12, 4, 0, 0, 0],
-      [1, 0, 0, 12, 12, 0, 0, 0],
-      [0, 0, 0, 12, 12, 1, 0, 0]]
-     ```
-
 #### **Important Notes:**
 
 - **Observation and Analysis:** Always start your response with detailed observations, including object identification and estimated distances. Provide your reasoning for the actions as well.
@@ -208,4 +122,3 @@ You are a Minecraft agent. Your task is to **{task}**. This is your primary obje
 - **Validity:** Ensure each action vector is valid and adheres to the action index descriptions provided.
 
 - To interact with an object, the cursor (the cross in the middle of the screen) should point to the object. This can be achieved by turning left/right (by using "pitch") or getting the agent look up/down (by using "yaw").
-

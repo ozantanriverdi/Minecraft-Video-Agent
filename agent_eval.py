@@ -10,8 +10,8 @@ import numpy as np
 import openai
 from PIL import Image
 from openai import OpenAI
-from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance
-from config import run_config, task_config
+from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance, task_to_str
+from config import run_config
 
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
@@ -37,7 +37,7 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
     encoded_obs_image = encode_image(join(run_rgb_obs_dir, f"{step}.jpg"))
     image_url = f"data:image/jpeg;base64,{encoded_obs_image}"
 
-    with open("prompt_4.txt", "r") as f:
+    with open("prompt_hardcoded_3.txt", "r") as f:
         prompt_text_raw = f.read()
     # with open("action_desc.json", "r") as f:
     #     action_desc = json.load(f)
@@ -190,15 +190,18 @@ if __name__ == '__main__':
     os.makedirs(run_rgb_obs_dir, exist_ok=True)
     os.makedirs(run_info_dir, exist_ok=True)
     os.makedirs(run_obs_dir, exist_ok=True)
-    env = minedojo.make(**task_config["easy_1_seed_3"])
+    env = minedojo.make(**run_config["task"])
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()
+    for i in range(20):
+        obs, reward, done, info = env.step(env.action_space.no_op())
     first_pos = obs["location_stats"]["pos"]
     sent_actions = []
     # action_buffer = [] # To check if same actions predicted repeatedly
     error_count = 0 # Number of consecutive
     step = 0
+    done = False
     api_calls = 0
     total_distance = 0
     run_history = {}
@@ -252,6 +255,7 @@ if __name__ == '__main__':
     
     run_finish = time.time()
 
+    run_history["task_info"] = task_to_str(run_config["task"])
     run_history["actions_count"] = step
     run_history["api_calls_count"] = api_calls
     run_history["run_duration"] = run_finish - run_start

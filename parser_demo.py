@@ -6,7 +6,7 @@ import time
 from minedojo.sim import InventoryItem
 from PIL import Image
 from utils import obs_to_json, calculate_distance
-from config import task_config
+#from config import task_config
 #from config import easy_task_parameters
 
 def extract_action_vector(llm_output):
@@ -90,134 +90,80 @@ if __name__ == '__main__':
         ```python
         [\[1, 4, 0, 12, 12, 0, 0, 0], [1, 6, 0, 12, 12, 0, 0, 0], [1, 7, 0, 12, 12, 0, 0, 0]\]
         ```"""
-    # print(extract_action_vector(text))
-    # print("****************")
-    # print(extract_action_vector(text_2))
-    # print("****************")
-    # print(extract_action_vector(text_3))
-    # with open("prompt.txt", "r") as f:
-    #     prompt_text_raw = f.read()
-    
-    # print(prompt_text_raw)
+    text_4 = """
+        To milk the cow in front of you, follow this predefined action sequence:
 
-    # with open("obs/20240919_052722/info_step_0.json", "r") as f:
-    #     obs = json.load(f)
-    
-    # print(obs.keys())
-    
-    # env = minedojo.make(task_id="harvest_milk", image_size=(480, 768))
-    # print(env.task_prompt)
-    # print(env.task_guidance)
-    # obs = env.reset()
-    # first_pos = obs["location_stats"]["pos"]
-    # action = np.array([1, 0, 0, 12, 12, 0, 0, 0])
-    # total_distance = 0
-    # for i in range(10):
-    #     obs, reward, done, info = env.step(action)
-    #     second_pos = obs["location_stats"]["pos"]
-    #     total_distance += calculate_distance(first_pos, second_pos)
-    #     first_pos = second_pos
-    # env.close()
-    # print("Total Covered Distance: ", total_distance)
-    
-    
-    # print(type(obs['equipment']['name']))
-    # print(type(obs['equipment']['name'][0]))
-    #print(type(obs), obs.keys())
-    #print(type(info), info.keys())
-    # for i, key in enumerate(obs.keys()):
-    #     if i == 0:
-    #         continue
-    #     print(key)
-    #     print(type(obs[key]))
-    #     print(obs[key].keys())
-    #     print("**********************")
-    #obs_to_json(obs)
+        1. **Move Forward** (five times)
+        2. **Bend Forward** to aim the camera at the cow
+        3. **Use the Bucket** (three times)
+
+        Here are the actions formatted as a list of action vectors:
+
+        ```
+        [[5, 0, 0, 12, 12, 0, 0, 0],
+        [1, 0, 0, 12, 12, 0, 0, 0],
+        [1, 0, 0, 12, 12, 0, 0, 0],
+        [1, 0, 0, 12, 12, 0, 0, 0],
+        [1, 0, 0, 12, 12, 0, 0, 0],
+        [0, 0, 0, 15, 12, 0, 0, 0],
+        [0, 0, 0, 12, 12, 1, 0, 0],
+        [0, 0, 0, 12, 12, 1, 0, 0],
+        [0, 0, 0, 12, 12, 1, 0, 0],
+        [0, 0, 0, 12, 12, 1,
+    """
 
 
-    custom_task_params = {
-        "target_names": ["log", "sapling"],    # Items to harvest
-        "target_quantities": [5, 10],          # Quantities to harvest
-        "reward_weights": {"log": 1.0, "sapling": 0.5},  # Reward weights
-        "specified_biome": "forest",           # Biome where task takes place
-        "start_health": 20.0,                  # Agent's starting health
-        "start_food": 20,                      # Agent's starting food level
-        "image_size": (480, 768),              # Set image size
-        "use_voxel": False,                    # Whether to include voxel observations
-        "use_lidar": True,                     # Whether to include lidar observations
-        # Add any other parameters you wish to customize
-    }
-
-    initial_inventory = [
-        InventoryItem(slot="mainhand", name="bucket", variant=None, quantity=1)
-    ]
-
-    easy_task_parameters = {
-    "task_id": "harvest",
-    "target_names": "milk_bucket",    # Items to harvest
-    "target_quantities": 1,          # Quantities to harvest
-    "specified_biome": "plains",           # Biome where task takes place
-    #"spawn_rate": 0.99,
-    #"spawn_range_low": (0, 0, 1),
-    #"spawn_range_high": (0, 0, 1),
-    "initial_mobs": "cow",
-    "initial_mob_spawn_range_low": (0, 0, 1),
-    "initial_mob_spawn_range_high": (0, 0, 1),
-    "image_size": (1080, 1920),              # Set image size
-    "seed": 1,
-    "world_seed": 3,
-    "initial_inventory": initial_inventory,
-    "initial_weather": "clear"
-    }
-    easy_task_parameters["start_position"] = {
-    "x": 5,
-    "y": 64,  # Typical ground level in Minecraft
-    "z": 0,
-    "yaw": 0,  # Facing south (positive Z)
-    "pitch": 0
+    task = {
+        "task_id": "harvest",
+        "target_names": "milk_bucket",    # Items to harvest
+        "target_quantities": 1,          # Quantities to harvest
+        "specified_biome": "plains",           # Biome where task takes place
+        # "spawn_rate": 0.99,
+        # "spawn_range_low": (0, 0, 1),
+        # "spawn_range_high": (0, 0, 1),
+        "initial_mobs": "cow",
+        "initial_mob_spawn_range_low": (0, 0, 1),
+        "initial_mob_spawn_range_high": (0, 0, 1),
+        "image_size": (480, 768),
+        "seed": 1,
+        "world_seed": 17,
+        "initial_inventory": [
+            InventoryItem(slot="mainhand", name="bucket", variant=None, quantity=1)
+        ],
+        "initial_weather": "clear",
+        "start_position": {"x": 190.5, "y": 69, "z": 248.5, "pitch": 0, "yaw": 0} # x: negative values mean right
     }
 
 
 
     # Create the environment with task_id="harvest" and your custom parameters
-    env = minedojo.make(**task_config["easy_1_seed_5"])
+    env = minedojo.make(**task)
     print(env.task_prompt)
     print(env.task_guidance)
     # Now you can use the environment as usual
     obs = env.reset()
-    Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(f"3.jpg")
+    Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(f"seed_{task['world_seed']}.jpg")
     print("Initial Inventory:", obs["inventory"]["name"])
-    #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+    print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
     for step in range(5):  # Example loop
         action = np.array([1, 0, 0, 12, 12, 0, 0, 0])  # Replace with your agent's action
         obs, reward, done, info = env.step(action)
         #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
         #time.sleep(0.5)
-        print("***" + str(step) + "***")
-        print("Done: ", done)
-        print("Reward: ", reward)
+        # print("***" + str(step) + "***")
+        # print("Done: ", done)
+        # print("Reward: ", reward)
         
-        if done:
-            print("Task completed!")
-            break
-    # print("Using!")
-    # for step in range(50):  # Example loop
-    #     action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
-    #     obs, reward, done, info = env.step(action)
-    #     #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
-    #     #time.sleep(0.5)
-    #     print("***" + str(step) + "***")
-    #     print("Done: ", done)
-    #     print("Reward: ", reward)
-    #     if done:
-    #         print("Task completed!")
-    #         break
-    action = np.array([0, 0, 0, 15, 12, 1, 0, 0])
+        # if done:
+        #     print("Task completed!")
+        #     break
+    
+    action = np.array([0, 0, 0, 15, 12, 0, 0, 0])
     obs, reward, done, info = env.step(action)
-    for step in range(50):  # Example loop
+    for step in range(3):  # Example loop
         action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
 
-        obs, reward, done, info = env.step(action)
+        obs, reward, done, info = env.step(action) # 1 2 3
         #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
         #time.sleep(0.5)
         print("***" + str(step) + "***")
@@ -226,5 +172,17 @@ if __name__ == '__main__':
         if done:
             print("Task completed!")
             break
+    print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
     print("Final Inventory:", obs["inventory"]["name"])
     env.close()
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #print(extract_action_vector(text_4))

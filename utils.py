@@ -47,6 +47,12 @@ def obs_to_json(obs, run_obs_dir, step):
     with open(join(run_obs_dir, f"obs_step_{step}.json"), "w") as f:
         json.dump(obs_copy, f, indent=4)
 
+def task_to_str(task_dict):
+    task_dic_copy = copy.deepcopy(task_dict)
+    for i, key in enumerate(task_dic_copy.keys()):
+        task_dic_copy[key] = str(task_dic_copy[key])
+    return task_dic_copy
+
 def calculate_distance(first_pos, second_pos):
     return np.linalg.norm(first_pos-second_pos).astype(np.float32)
 
