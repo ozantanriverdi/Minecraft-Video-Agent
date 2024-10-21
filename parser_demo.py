@@ -6,6 +6,7 @@ import time
 from minedojo.sim import InventoryItem
 from PIL import Image
 from utils import obs_to_json, calculate_distance
+from config import run_config
 #from config import task_config
 #from config import easy_task_parameters
 
@@ -126,63 +127,56 @@ if __name__ == '__main__':
         "initial_mob_spawn_range_high": (0, 0, 1),
         "image_size": (480, 768),
         "seed": 1,
-        "world_seed": 17,
+        "world_seed": 40,
         "initial_inventory": [
             InventoryItem(slot="mainhand", name="bucket", variant=None, quantity=1)
         ],
         "initial_weather": "clear",
-        "start_position": {"x": 190.5, "y": 69, "z": 248.5, "pitch": 0, "yaw": 0} # x: negative values mean right
+        #"start_position": {"x": 190.5, "y": 69, "z": 248.5, "pitch": 0, "yaw": 0} # x: negative values mean right
     }
 
 
 
     # Create the environment with task_id="harvest" and your custom parameters
     env = minedojo.make(**task)
+    print("************")
     print(env.task_prompt)
     print(env.task_guidance)
+    print("************2")
     # Now you can use the environment as usual
     obs = env.reset()
+    print("************3")
     Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(f"seed_{task['world_seed']}.jpg")
     print("Initial Inventory:", obs["inventory"]["name"])
     print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
     for step in range(5):  # Example loop
         action = np.array([1, 0, 0, 12, 12, 0, 0, 0])  # Replace with your agent's action
         obs, reward, done, info = env.step(action)
-        #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
-        #time.sleep(0.5)
-        # print("***" + str(step) + "***")
-        # print("Done: ", done)
-        # print("Reward: ", reward)
-        
-        # if done:
-        #     print("Task completed!")
-        #     break
+
     
     action = np.array([0, 0, 0, 15, 12, 0, 0, 0])
     obs, reward, done, info = env.step(action)
     for step in range(3):  # Example loop
-        action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
-
-        obs, reward, done, info = env.step(action) # 1 2 3
-        #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
-        #time.sleep(0.5)
-        print("***" + str(step) + "***")
-        print("Done: ", done)
-        print("Reward: ", reward)
+        if step == 0:
+            action = np.array([0, 0, 0, 12, 12, 1, 0, 0])  # Replace with your agent's action
+            obs, reward, done, info = env.step(action)
+            print("***" + str(step) + "***")
+            print("Done: ", done)
+            print("Reward: ", reward)
+        else:
+            action = np.array([0, 0, 0, 12, 12, 0, 0, 0])
+            obs, reward, done, info = env.step(action)
+            print("***" + str(step) + "***")
+            print("Done: ", done)
+            print("Reward: ", reward)
         if done:
             print("Task completed!")
-            break
-    print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
-    print("Final Inventory:", obs["inventory"]["name"])
-    env.close()
+            #break
+        #print(obs["location_stats"]["pos"], obs["location_stats"]["yaw"], obs["location_stats"]["pitch"])
+        print("Inventory:", obs["inventory"]["name"])
 
     
-    
-    
-    
-    
-    
-    
-    
+    env.close()
+
     
     #print(extract_action_vector(text_4))

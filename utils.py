@@ -65,3 +65,27 @@ def check_distance(total_distance, step):
             print(f"Agent moved less than {run_config['min_distance']} in the last {run_config['check_distance_interval']} steps, ending the run.")
             return total_distance, True
     return total_distance, False
+
+def trivial_action_generator(obs, step, task_prompt, task_guidance, error_count):
+    predicted_actions = []
+    success = 1
+    error_count = 0
+    parsing_success = 1
+    # 5x np.array([1, 0, 0, 12, 12, 0, 0, 0]), 1x np.array([0, 0, 0, 15, 12, 0, 0, 0]), 2x np.array([0, 0, 0, 12, 12, 1, 0, 0]), 1x np.array([0, 0, 0, 12, 12, 0, 0, 0])
+    for i in range(5):
+        predicted_actions.append(np.array([1, 0, 0, 12, 12, 0, 0, 0]))
+    predicted_actions.append(np.array([0, 0, 0, 15, 12, 0, 0, 0]))
+    for i in range(10):
+        predicted_actions.append(np.array([0, 0, 0, 12, 12, 1, 0, 0]))
+    for i in range(10):
+        predicted_actions.append(np.array([0, 0, 0, 12, 12, 0, 0, 0]))
+    return predicted_actions, error_count, parsing_success, success
+
+def empty_action_generator(obs, step, task_prompt, task_guidance, error_count):
+    predicted_actions = []
+    success = 1
+    error_count = 0
+    parsing_success = 1
+    for i in range(40):
+        predicted_actions.append(np.array([0, 0, 0, 12, 12, 0, 0, 0]))
+    return predicted_actions, error_count, parsing_success, success

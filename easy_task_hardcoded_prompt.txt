@@ -20,7 +20,7 @@ You are a Minecraft agent. Your task is to **milk the cow** that is directly in 
 
    - Perform **move forward** action five times.
    - Adjust the camera by **bending forward** using the value "15" for the **Camera delta pitch**.
-   - Use the bucket to **milk the cow** by performing the **use** action three times.
+   - Use the bucket to **milk the cow** by performing the **use** action.
 
 3. **Action Format:**
    - The actions you return must follow a specific template.
@@ -85,7 +85,6 @@ You are a Minecraft agent. Your task is to **milk the cow** that is directly in 
  [1, 0, 0, 12, 12, 0, 0, 0],
  [1, 0, 0, 12, 12, 0, 0, 0],
  [0, 0, 0, 15, 12, 0, 0, 0],
- [0, 0, 0, 12, 12, 1, 0, 0],
  [0, 0, 0, 12, 12, 1, 0, 0]]
 ```
 

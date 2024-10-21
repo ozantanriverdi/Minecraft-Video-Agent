@@ -10,7 +10,7 @@ import numpy as np
 import openai
 from PIL import Image
 from openai import OpenAI
-from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance, task_to_str
+from utils import encode_image, write_text_on_image, obs_to_json, calculate_distance, check_distance, task_to_str, trivial_action_generator, empty_action_generator
 from config import run_config
 
 api_key = os.getenv("OPENAI_API_KEY")
@@ -37,7 +37,7 @@ def predict_action(obs, step, task_prompt, task_guidance, error_count):
     encoded_obs_image = encode_image(join(run_rgb_obs_dir, f"{step}.jpg"))
     image_url = f"data:image/jpeg;base64,{encoded_obs_image}"
 
-    with open("prompt_hardcoded_3.txt", "r") as f:
+    with open("mid_task_prompt.txt", "r") as f:
         prompt_text_raw = f.read()
     # with open("action_desc.json", "r") as f:
     #     action_desc = json.load(f)
@@ -194,14 +194,17 @@ if __name__ == '__main__':
     print(env.task_prompt)
     print(env.task_guidance)
     obs = env.reset()
-    for i in range(20):
+    # MIGHT NOT BE NEEDED:
+    for i in range(5):
         obs, reward, done, info = env.step(env.action_space.no_op())
+
     first_pos = obs["location_stats"]["pos"]
     sent_actions = []
     # action_buffer = [] # To check if same actions predicted repeatedly
     error_count = 0 # Number of consecutive
     step = 0
     done = False
+    distance_done = False
     api_calls = 0
     total_distance = 0
     run_history = {}
@@ -209,7 +212,12 @@ if __name__ == '__main__':
 
     while step < run_config["step_count"]:
         start = time.time()
-        predicted_actions, error_count, parsing_success, api_success = predict_action(obs=obs,
+        # predicted_actions, error_count, parsing_success, api_success = predict_action(obs=obs,
+        #                                                                             step=step,
+        #                                                                             task_prompt=env.task_prompt,
+        #                                                                             task_guidance=env.task_guidance,
+        #                                                                             error_count=error_count)
+        predicted_actions, error_count, parsing_success, api_success = trivial_action_generator(obs=obs,
                                                                                     step=step,
                                                                                     task_prompt=env.task_prompt,
                                                                                     task_guidance=env.task_guidance,
@@ -227,14 +235,19 @@ if __name__ == '__main__':
         print("Predict Action Time: ", end-start)
         while predicted_actions and step < run_config["step_count"]:
             action = predicted_actions.pop(0)
-            obs, reward, done, info = env.step(action)
+            _, _, _, _ = env.step(action) # 40
+            empty_action = np.array([0, 0, 0, 12, 12, 0, 0, 0])
+            _, _, _, _ = env.step(empty_action)
+            obs, reward, done, info = env.step(empty_action)
+            #DEBUG (to be used with the trivial/empty action generator):
+            Image.fromarray(obs["rgb"].transpose(1, 2, 0)).save(join(run_rgb_obs_dir, f"{step}.jpg"))
 
             # Calculate the distance between each following step and add it to the 'total_distance'
             second_pos = obs["location_stats"]["pos"]
             total_distance += calculate_distance(first_pos, second_pos)
 
             # Check if the 'total_distance' in the last n steps is greater than a certain value (otherwise: agent stuck!)
-            total_distance, done = check_distance(total_distance, step)
+            total_distance, distance_done = check_distance(total_distance, step)
 
             # Logging the actions of the run with a possible error suffix
             sent_actions.append(str(action.tolist()) 
@@ -246,11 +259,13 @@ if __name__ == '__main__':
                 json.dump(info, f, indent=4)
             obs_to_json(obs, run_obs_dir, step)
 
-            if done:
+            if done or distance_done:
                 break
             step += 1
             first_pos = second_pos
-        if done:
+        #DEBUG (to be used with the trivial/empty action generator):
+        break
+        if done or distance_done:
             break
     
     run_finish = time.time()
