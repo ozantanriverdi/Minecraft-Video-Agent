@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Visual Agents as Fast and Slow Thinkers",
+        "relevant": false
+    },
+    {
+        "title": "Does Spatial Cognition Emerge in Frontier Models?",
+        "relevant": false
+    },
+    {
+        "title": "SegLLM: Multi-round Reasoning Segmentation with Large Language Model",
+        "relevant": false
+    },
+    {
+        "title": "Tree Search for Language Model Agents",
+        "relevant": true
+    },
+    {
+        "title": "ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities",
+        "relevant": false
+    }
+]

@@ -1,0 +1,50 @@
+CSP: An Efficient Baseline for Learning on Large-Scale Structured Data
+CliBench: A Multifaceted and Multigranular Evaluation of Large Language Models for Clinical Decision Making
+The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph
+Deep-ComAIR: A Framework for Predicting TCR-pMHC Binding through Complex Structural Analysis
+RecurFormer: Not All Transformer Heads Need Self-Attention
+Towards Robustness of Person Search against Corruptions
+PTAD: Prototype-Oriented Tabular Anomaly Detection via Mask Modeling
+Exploring Temporal Semantic for Incomplete Clustering
+Identifying and Analyzing Task-Encoding Tokens in Large Language Models
+Mixture of Experts Guided by Gaussian Splatters Matters: A new Approach to Weakly-Supervised Video Anomaly Detection
+Enhancing Descriptive Image Quality Assessment with a Large-scale Multi-modal Dataset
+Beyond Circuit Connections: A Non-Message Passing Graph Transformer Approach for Quantum Error Mitigation
+Leveraging Object Detection for Diverse and Accurate Long-Horizon Events Forecasting
+Is  k × k  Matrix Eigendecomposition Sufficient for Spectral Clustering?
+Structure-Guided Large Language Models for Text-to-SQL Generation
+ViSAGe: Video-to-Spatial Audio Generation
+AIDBench: A benchmark for evaluating the authorship identification capability of large language models
+Learning Long Range Dependencies on Graphs via Random Walks
+Benchmarking End-To-End Performance of AI-Based Chip Placement Algorithms
+Vision State Space Duality for Medical Image Segmentation: Enhancing Precision through Non-Causal Modeling
+ReSi: A Comprehensive Benchmark for Representational Similarity Measures
+EvA: Erasing Spurious Correlations with Activations
+Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models
+Efficient Neural Common Neighbor for Temporal Graph Link Prediction
+An Online Learning Theory of Trading-Volume Maximization
+Planning-Driven Programming: A Large Language Model Programming Workflow
+Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts
+SUPERMERGE: An Approach For Gradient-Based Model Merging
+A Normalizing Flows based Difference-of-Entropies Estimator for Mutual Information
+LAMDA: Two-Phase Multi-Fidelity HPO via Learning Promising Regions from Data
+MOUCHI: Mitigating Over-forgetting in Unlearning Copyrighted Information
+Dimension-Independent Rates for Structured Neural Density Estimation
+Wide Neural Networks Trained with Weight Decay Provably Exhibit Neural Collapse
+Conic Linear Units: Orthogonal Equivariance Improves General-Purpose Nonlinearities
+Fast and Accurate Blind Flexible Docking
+LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery
+Formulating AutoML as a Variable-Length Optimization Problem: A Tree of Thought Approach with LLM-Driven Code Generation
+Learning Disease Progression Models That Capture Health Disparities
+MoDiff: a Protein Diffusion Model for Multi-motif Scaffolding Problem
+Can Editing LLMs Inject Harm?
+CAMEx: Curvature-aware Merging of Experts
+ML4MILP: A Benchmark Dataset for Machine Learning-based Mixed-Integer Linear Programming
+Efficient Online Pruning and Abstraction for Imperfect Information Extensive-Form Games
+KAAN: Kolmogorov-Arnold Activation Network --- a Flexible Activation Enhanced KAN
+metabench - A Sparse Benchmark of Reasoning and Knowledge in Large Language Models
+Backdoor Attacks for LLMs with Weak-To-Strong Knowledge Distillation
+Conformal Prediction for Dose-Response Models with Continuous Treatments
+HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?
+CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression
+On the Benefits of Attribute-Driven Graph Domain Adaptation

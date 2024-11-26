@@ -1,0 +1,50 @@
+DepthSplat: Connecting Gaussian Splatting and Depth
+SSOLE: Rethinking Orthogonal Low-rank Embedding for Self-Supervised Learning
+3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting
+The FIX Benchmark: Extracting Features Interpretable to eXperts
+CoMotion: Concurrent Multi-person 3D Motion
+Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning
+Zero-Order Diffusion Guidance for Inverse Problems
+RelitLRM: Generative Relightable Radiance for Large Reconstruction Models
+Scaling Optimal LR Across Token Horizons
+Stochastic Deep Restoration Priors for Imaging Inverse Problems
+DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior
+A Geometric Framework for Understanding Memorization in Generative Models
+Order-aware Interactive Segmentation
+Object-aware lifting for 3D scene  segmentation in Gaussian splatting
+HOME-3: HIGH-ORDER MOMENTUM ESTIMATOR USING THIRD-POWER GRADIENT FOR CONVEX, SMOOTH NONCONVEX, AND NONSMOOTH NONCONVEX OPTIMIZATION
+Re-Imagining Multimodal Instruction Tuning: A Representation View
+Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control
+Iterative DPO with An Improvement Model for Fine-tuning Diffusion Models
+Looped Transformers for Length Generalization
+Exploring channel distinguishability in local neighborhoods of the model space in quantum neural networks
+ClimGen: Learning the Forcing-Response Relationship in Climate System
+When Selection meets Intervention: Additional Complexities in Causal Discovery
+Zero-Shot Text-to-Speech from Continuous Text Streams
+Does Spatial Cognition Emerge in Frontier Models?
+(Pre-)training Dynamics: Scaling Generalization with First-Order Logic
+LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias
+NIAQUE: Neural Interpretable Any-Quantile Estimation - Towards Large Probabilistic Regression Models
+Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective
+Unsupervised Whole Object Discovery by Contextual Grouping with Repulsion
+Cut Your Losses in Large-Vocabulary Language Models
+Adaptive teachers for amortized samplers
+Flow Matching for Posterior Inference with Simulator Feedback
+LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors
+MLPs Learn In-Context on Regression and Classification Tasks
+Restyling Unsupervised Concept Based Interpretable Networks with Generative Models
+Active Learning for Neural PDE Solvers
+Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding
+SOLOS: Sparse Optimization For Long Sequence In Context Compression Enhanced LLMs
+Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process
+Hierarchy-Aided Sparse Attention For Fast LLMs Prefilling Inference
+Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities in Biomedicine
+Depth Pro: Sharp Monocular Metric Depth in Less Than a Second
+Classifier-Agnostic Zero-Shot Natural Language Explanations
+OTGM: Graph Matching with Noisy Correspondence via Optimal Transports
+PTR: Precision-Driven Tool Recommendation for Large Language Models
+On the Universality of Self-Supervised Representation Learning
+Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models
+From Uncontextualized Embeddings to Marginal Feature Effects: Incorporating Intelligibility into Tabular Transformer Networks
+Multi-Shot Character Consistency for Text-to-Video Generation
+RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation

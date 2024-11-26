@@ -1,0 +1,50 @@
+AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption
+Temporal-Aware Test-Time Training via Self-Distillation for One-Shot Image-to-Video Segmentation
+Mastering Task Arithmetic:  τ Jp as a Key Indicator for Weight Disentanglement
+Generating CAD Code with Vision-Language Models for 3D Designs
+A Formal Framework for Understanding Length Generalization in Transformers
+Instruction Following is not all you need: Rethinking LLM Generation's Evaluation
+Testing the Limits of Jailbreaking with the Purple Problem
+Measuring Language Model Uncertainty With Internal Concepts
+PALMBENCH: A COMPREHENSIVE BENCHMARK OF COMPRESSED LARGE LANGUAGE MODELS ON MOBILE PLATFORMS
+On Stochastic Contextual Bandits with Knapsacks in Small Budget Regime
+Fisher Contrastive Learning: A Robust Solution to the Feature Suppression Effect
+Unsupervised Federated Learning for Privacy Preserving in Face Recognition System
+World-Model based Hierarchical Planning with Semantic Communications for Autonomous Driving
+From Few to Many: Enhancing Many-Shot In-Context Learning with Optimized Example Selection and Expansion
+Can Transformers Perform PCA ?
+Pseudo-Probability Unlearning: Towards Efficient and Privacy-Preserving Machine Unlearning
+Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models
+Feynman: Knowledge-Infused Diagramming Agent for Scaling Visual Reasoning Data
+Learning Neural Networks with Distribution Shift: Efficiently Certifiable Guarantees
+MuJoCo Manipulus: A Robot Learning Benchmark for Generalizable Tool Manipulation
+Forgetting Transformer: Softmax Attention with a Forget Gate
+Value Explicit Pretraining for Learning Transferable Representations
+LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace
+Toward Understanding In-context vs. In-weight Learning
+Can Neural Networks Achieve Optimal Computational-statistical Tradeoff? An Analysis on Single-Index Model
+RouteLLM: Learning to Route LLMs from Preference Data
+Mitigating Unobserved Confounding via Diffusion Probabilistic Models
+PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play
+ShadowPunch: fast actions spotting benchmark
+Score-based Self-supervised MRI Denoising
+Output Alignment: A Top-down Approach to Length Generalization
+Teaching Transformers Causal Reasoning through Axiomatic Training
+PokeChamp: an Expert-level Minimax Language Agent for Competitive Pokemon
+Effectively Steer LLM To Follow Preference via Building Confident Directions
+Unlocking Video-LLM via Agent-of-Thoughts Distillation
+Molecular Active Learning: How can LLMs Help?
+Learning to Optimize for Mixed-Integer Nonlinear Programming
+Variable Forward Regularization to Replace Ridge in Online Linear Regression
+Consistency Checks for Language Model Forecasters
+RetFormer: Enhancing Multimodal Retrieval for Image Recognition
+Diverse Graph-based Nearest Neighbor Search
+Approximating Multiple Robust Optimization Solutions in One Pass via Proximal Point Methods
+ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing
+LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts
+Multi-Marginal Stochastic Flow Matching for Alignment of High-Dimensional Snapshot Data at Irregular Time Points
+MASIMU: Multi-Agent Speedy and Interpretable Machine Unlearning
+Self-Explained Keywords Empower Large Language Models for Code Generation
+Uniform Wrappers: Bridging Concave to Quadratizable Functions in Online Optimization
+A Dual-Modal Framework Utilizing Visual Prompts for Enhanced Patch Analysis
+HyperDAS: Towards Automating Mechanistic Interpretability with Hypernetworks

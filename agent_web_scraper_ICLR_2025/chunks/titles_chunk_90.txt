@@ -1,0 +1,50 @@
+Dual Process Learning: Controlling Use of In-Context vs. In-Weights Strategies with Weight Forgetting
+Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis
+Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models
+Reweighting Local Mimina with Tilted SAM
+Few-shot Species Range Estimation
+Low Variance: A Bottleneck in Diffusion-Based Graph Imputation
+Near-Exact Privacy Amplification for Matrix Mechanisms
+LOCAL: Latent Orthonormal Contrastive Learning for Paired Images
+PROVABLY EFFICIENT FEDERATED ACTIVE MULTI-TASK REPRESENTATION LEARNING
+Zero redundancy distributed learning with differential privacy
+Tensor-GaLore: Memory-Efficient Training via Gradient Tensor Decomposition
+Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers
+Not All LLM-Generated Data Are Equal: Rethinking Data Weighting in Text Classification
+To Err is Machine: Vulnerability Detection Challenges LLM Reasoning
+Towards Building Reliable Conditional Diffusion Models for Protein Generation
+Learning a Bi-directional Driving Data Generator via Large Multi-modal Model Tuning
+Test-Time Alignment via Hypothesis Reweighting
+Improving Semantic Understanding in Speech Language Models via Brain-tuning
+BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments
+ACES: Automatic Cohort Extraction System for Event-Stream Datasets
+Memorization and the Orders of Loss: A Learning Dynamics Perspective
+Inference-Friendly Models With MixAttention
+Almost Optimal Batch-Regret Tradeoff for Batch Linear Contextual Bandits
+Systems with Switching Causal Relations: A Meta-Causal Perspective
+FairlyUncertain: A Comprehensive Benchmark of Uncertainty in Algorithmic Fairness
+When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers
+Provably Efficient Linear Bandits with Instantaneous Constraints in Non-Convex Feature Spaces
+Generalization and Knowledge Transfer in Abstract Visual Reasoning Models
+Bandits with Anytime Knapsacks
+Physics-Informed Autoencoder for Enhancing Data Quality to Improve the Forecasting Reliability of Carbon Dioxide Emissions from Agricultural Fields
+An Efficient Quantum Classifier Based on Hamiltonian Representations
+CompassDock: Comprehensive Accurate Assessment Approach for Deep Learning-Based Molecular Docking in Inference and Fine-Tuning
+Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models
+Can we talk models into seeing the world differently?
+Vision models trained to estimate spatial latents learned similar ventral-stream-aligned representations
+Temporal Graph Rewiring with Expander Graphs
+Representation Confusion: Towards Representation Backdoor on CLIP via Concept Activation
+When and how are modular networks better?
+Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data
+Three-in-One: Fast and Accurate Transducer for Hybrid-Autoregressive Speech Recognition
+Theory of LLM sampling: part descriptive and part prescriptive
+Efficient Distributed Principal Component Analysis with Parallel Deflation
+On Information-Theoretic Measures of Predictive Uncertainty
+Model Developmental Safety: A Safety-Centric Method and Applications in Vision-Language Models
+Inference Optimal VLMs Need Only One Visual Token but Larger Models
+TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention
+Differentiable Polygon Modeling for Object Instance Segmentation
+Guided Stream of Search: Learning to Better Search with Language Models via Optimal Path Guidance
+Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting
+COMiX: Compositional explanations using prototypes

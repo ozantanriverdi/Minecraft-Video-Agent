@@ -1,0 +1,50 @@
+Multi-view Object-Centric Learning with Identifiable Representations
+MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving
+Multi-player Multi-armed Bandits with Delayed Feedback
+Fragment-Augmented Diffusion for Molecular Conformation Generation
+Time-Dependent VAE for Building Latent Representations from Visual Neural Activity with Complex Dynamics
+Optimal Algorithm for Max-Min Fair Bandit
+BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications
+Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution
+Is Cognition consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding
+Is In-Context Learning Sufficient for Instruction Following in LLMs?
+Exploring the Collaborative Advantage of Low-level Information on Generalizable AI-generateted Image Detection
+SP-LoRA: Sparsity-Preserved Low-Rank Adaptation for Sparse Large Language Model
+Are Synthetic Time-series Data Really not as Good as Real Data?
+GridMix: Exploring Spatial Modulation for Neural Fields in PDE Modeling
+BlackDAN: A Black-Box Multi-Objective Approach to Effective and Contextual Jailbreaking of Language Models
+ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction
+Visual Context Window Extension: A New Perspective for Long Video Understanding
+AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models
+Adaptive Constraint Integration for Simultaneously Optimizing Crystal Structures with Multiple Targeted Properties
+OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer
+Meta-Black-Box-Optimization through Offline Q-function Learning with Mamba Architecture
+Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models
+EvalAlign: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models
+DeepNT: Path-Centric Graph Neural Networks for Network Tomography
+Learning Evolving Tools for Large Language Models
+Towards Effective Evaluations and Comparison for LLM Unlearning Methods
+Q-Mamba: Towards more efficient Mamba models via Post-Training Quantization
+EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation
+SoloPose: One-Stage Kinematic 3D Human Pose Estimation with Mocap Data Augmentation
+CamI2V: Camera-Controlled Image-to-Video Diffusion Model
+Chain-of-Focus Prompting: Leveraging Sequential Visual Cues to Prompt Large Autoregressive Vision Models
+KV-Dict: Sparse KV Cache Compression with Universal Dictionaries
+Visual Perception in Text Strings
+DICR: Direct Intra-image Constrastive Regularization for Contrastive Learning
+A Probabilistic Approach to Optimizing Hardware Control Parameters in System Property Estimation using Gumbel-Softmax
+Rethinking Structure Learning For Graph Neural Networks
+BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL
+Deep Signature: Characterization of Large-Scale Molecular Dynamics
+RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation
+CellDJBench: Benchmark Datasets for Data-Driven Biological Fluid Simulation
+Diffusion Transformer Policy
+IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models
+VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation
+VILA^2: VLM Augmented VLM with Self-Improvement
+Feast Your Eyes:  Mixture-of-Resolution Adaptation for Multimodal Large Language Models
+Contrastive learning of cell state dynamics in response to perturbations
+UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment
+ChartBench: A Benchmark for Complex Visual Reasoning in Charts
+Dynamic Diffusion Transformer
+GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting

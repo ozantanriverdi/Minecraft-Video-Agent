@@ -1,0 +1,50 @@
+GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields
+CALANet: Cheap All-Layer Aggregation for Human Activity Recognition
+Accuracy is Not All You Need
+On the Expressivity and Sample Complexity of Node-Individualized Graph Neural Networks
+On the Adversarial Robustness of Benjamini Hochberg
+Nearly Minimax Optimal Regret for Multinomial Logistic Bandit
+DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion
+Marrying Causal Representation Learning with Dynamical Systems for Science
+Precipitation Downscaling with Spatiotemporal Video Diffusion
+Handling Learnwares from Heterogeneous Feature Spaces with Explicit Label Exploitation
+Universal Rates for Active Learning
+Wasserstein Distributionally Robust Optimization through the Lens of Structural Causal Models and Individual Fairness
+IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation
+Pipeline Parallelism with Controllable Memory
+Error Analysis of Spherically Constrained Least Squares Reformulation in Solving the Stackelberg Prediction Game
+LaSe-E2V: Towards Language-guided Semantic-aware Event-to-Video Reconstruction
+Randomized Truthful Auctions with Learning Agents
+Can Simple Averaging Defeat Modern Watermarks?
+On the Convergence of Loss and Uncertainty-based Active Learning Algorithms
+Breaking the False Sense of Security in Backdoor Defense through Re-Activation Attack
+Model Collapse Demystified: The Case of Regression
+Neur2BiLO: Neural Bilevel Optimization
+PAC-Bayes-Chernoff bounds for unbounded losses
+AdanCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer
+LLaNA: Large Language and NeRF Assistant
+MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes
+Reasons and Solutions for the Decline in Model Performance after Editing
+Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation
+Protecting Your LLMs with Information Bottleneck
+Transformers Represent Belief State Geometry in their Residual Stream
+Stochastic Kernel Regularisation Improves Generalisation in Deep Kernel Machines
+Unveiling The Matthew Effect Across Channels: Assessing Layer Width Sufficiency via Weight Norm Variance
+Controlling Continuous Relaxation for Combinatorial Optimization
+What Rotary Position Embedding Can Tell Us: Identifying Query and Key Weights Corresponding to Basic Syntactic or High-level Semantic Information
+Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling
+Instruction-Guided Visual Masking
+Panacea: Pareto Alignment via Preference Adaptation for LLMs
+FilterNet: Harnessing Frequency Filters for Time Series Forecasting
+Divide-and-Conquer Posterior Sampling for Denoising Diffusion priors
+COSMIC: Compress Satellite Image Efficiently via Diffusion Compensation
+Optimal Classification under Performative Distribution Shift
+Cross-Modality Perturbation Synergy Attack for Person Re-identification
+Why Warmup the Learning Rate? Underlying Mechanisms and Improvements
+An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations
+Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space
+EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature
+Lower Bounds of Uniform Stability in Gradient-Based Bilevel Algorithms for Hyperparameter Optimization
+Leveraging an ECG Beat Diffusion Model for Morphological Reconstruction from Indirect Signals
+Advancing Open-Set Domain Generalization Using Evidential Bi-Level Hardest Domain Scheduler
+Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in LLMs

@@ -1,0 +1,50 @@
+Efficient transformer with reinforced position embedding for language models
+Exploring Edge Probability Graph Models Beyond Edge Independency: Concepts, Analyses, and Algorithms
+DNABERT-S: Pioneering Species Differentiation with Species-Aware DNA Embeddings
+Provable weak-to-strong generalization via benign overfitting
+Graph-based algorithms for nearest neighbor search with multiple filters
+Conformal Prediction with Model-Aware Debiasing
+Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models
+ADAPT: Adaptive Prompt Tuning for Pre-Trained Vision-Language Models
+GenomeOcean: Efficient Foundation Model for Genome Generation
+Toward Efficient Multi-Agent Exploration With Trajectory Entropy Maximization
+Can a Single Tree Outperform an Entire Forest?
+Continual Learning via Learning a Continual Memory in Vision Transformer
+ZO-Offloading: Fine-Tuning LLMs with 100 Billion Parameters on a Single GPU
+CELL your Model: Contrastive Explanations for Large Language Models
+Watermarking using Semantic-aware Speculative Sampling: from Theory to Practice
+Generative Parameter Efficient Fine-Tuning
+Scalable Diffusion for Bio-topological Representation Learning on Brain Graphs
+BAT-CLIP: Bimodal Test-Time Adaptation for CLIP
+Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining
+Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction
+Learning Disentangled Representations for Fairness with Limited Demographics
+Level-Set Parameters: Novel Data for 3D Shape Analysis
+Law of the Weakest Link: Cross Capabilities of Large Language Models
+Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks
+Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1
+Rehearsal-Free Continual Federated Learning with Synergistic Regularization
+BenTo: Benchmark Reduction with In-Context Transferability
+The Complexity Dynamics of Grokking
+Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models
+Forward Learning with Differential Privacy
+Adversarial Masked Autoencoder Purifier with Defense Transferability
+Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models
+MatMamba: A Matryoshka State Space Model
+Efficient Gun Detection in Real-World Videos: Challenges and Solutions
+Leveraging System-Prompt Attention to Counteract Novel Jailbreak Attacks
+Towards Making Linear Attention Usable
+Round and Round We Go! What makes Rotary Positional Encodings useful?
+On the self-verification limitations of large language models on reasoning and planning tasks
+Simulation-Based Inference with Uncertainty Quantification using Generative Models in Quantum Chromodynamics
+Parameter Monte Carlo Tree Search: Efficient Chip Placement via Transfer Learning
+Broadening Target Distributions for Accelerated Diffusion Models via a Novel Analysis Approach
+Performing Interpretability Analysis in Federated Learning Context
+Rethinking Behavior Regularization in Offline Safe RL: A Region-Based Approach
+Nonlinear Sequence Embedding by Monotone Variational Inequality
+Star Attention: Efficient LLM Inference over Long Sequences
+Single-agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning
+Communication-Efficient Federated Low-Rank Update Algorithm and its Connection to Implicit Regularization
+Improving Pretraining Data Using Perplexity Correlations
+Counterfactual Learning under Rank Preservation
+Logic Agent: Enhancing Validity with Logic Rule Invocation

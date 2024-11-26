@@ -1,0 +1,50 @@
+A Large-scale Interpretable Multi-modality Benchmark for Image Forgery Localization
+Estimation of single-cell and tissue perturbation effect in spatial transcriptomics via Spatial Causal Disentanglement
+Towards Mitigating Factual Hallucination in LLMs through Self-Alignment with Memory
+ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors
+Privacy-Preserving Logistic Regression Training with A Faster Gradient Variant
+SINGER: Stochastic Network Graph Evolving Operator for High Dimensional PDEs
+PhysPDE: Rethinking PDE Discovery and a Physical HYpothesis Selection Benchmark
+High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation
+Track-On: Transformer-based Online Point Tracking with Memory
+Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation
+Capturing substructure interactions by invariant Information Bottle Theory for Generalizable Property Prediction
+Spatiotemporal Backward Inconsistency Learning Gives STGNNs Icing on the Cake
+Longitudinal Latent Diffusion Models
+Enforcing 3D Topological Constraints in Composite Objects via Implicit Functions
+REVISITING MULTI-PERMUTATION EQUIVARIANCE THROUGH THE LENS OF IRREDUCIBLE REPRESENTATIONS
+FSW-GNN: A Bi-Lipschitz WL-Equivalent Graph Neural Network
+On the Expressive Power of Sparse Geometric MPNNs
+L4Q: Parameter Efficient Quantization-Aware Fine-Tuning on Large Language Models
+Probabilistic Feature Smoothed Gaussian Process For Imbalanced Regression
+On the Convergence of FedProx with Extrapolation and Inexact Prox
+Computing Ex Ante Equilibrium in Heterogeneous Zero-Sum Team Games
+Flare Removal with Visual Prompt
+Recursive Cleaning for Large-scale Protein Data via Multimodal Learning
+On the Coexistence and Ensembling of Watermarks
+ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition
+Real-Time Deepfake Detection in the Real World
+CodeCloak: A Method for Mitigating Code Leakage by LLM Code Assistants
+Kinda-45M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content
+Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)
+ZerOmics: Toward General Models for Single-Cell Analysis with Instruction Tuning
+Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection
+Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs
+Large Language Models as Markov Chains
+Sassha: Sharpness-aware Adaptive Second-order Optimization with Stable Hessian Approximation
+Bad-PFL: Exploiting Backdoor Attacks against Personalized Federated Learning
+Critical Influence of Overparameterization on Sharpness-aware Minimization
+Bidirectional Learning for the Visual Representation in Radiology Report Generation with Frozen LLMs
+BrainOOD: Out-of-distribution Generalizable Brain Network Analysis
+PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views
+Consistent Neural Embeddings through Flow Matching on Attractor-like Neural Manifolds
+WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling
+Multiple Descents in Unsupervised Auto-Encoders: The Role of Noise, Domain Shift and Anomalies
+Integrative Decoding: Improving Factuality via Implicit Self-consistency
+Differential Transformer
+Style-Coherent Multi-Modality Image Fusion
+ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control
+Not Every Image is Worth a Thousand Words: Quantifying Originality  in Stable Diffusion
+DIESEL - Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs
+HYBRID MODEL COLLABORATION FOR SIGN LANGUAGE TRANSLATION WITH VQ-VAE AND RAG ENHANCED LLMS
+Random Logit Scaling: Defending Deep Neural Networks Against Black-Box Score-Based Adversarial Example Attacks

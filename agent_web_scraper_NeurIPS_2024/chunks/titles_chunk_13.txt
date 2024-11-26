@@ -1,0 +1,50 @@
+Physical Consistency Bridges Heterogeneous Data in Molecular Multi-Task Learning
+Improved Particle Approximation Error for Mean Field Neural Networks
+Scalable Kernel Inverse Optimization
+MAC Advice for facility location mechanism design
+Improving Linear System Solvers for Hyperparameter Optimisation in Iterative Gaussian Processes
+BendVLM: Test-Time Debiasing of Vision-Language Embeddings
+Boosting Alignment for Post-Unlearning Text-to-Image Generative Models
+Bileve: Securing Text Provenance in Large Language Models Against Spoofing with Bi-level Signature
+Small steps no more: Global convergence of stochastic gradient bandits for arbitrary learning rates
+Prospective Learning: Learning for a Dynamic Future
+Boosting Generalization in Parametric PDE Neural Solvers through Adaptive Conditioning
+On the Robustness of Spectral Algorithms for Semirandom Stochastic Block Models
+Robust Graph Neural Networks via Unbiased Aggregation
+Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits
+Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification
+JiuZhang3.0: Efficiently Improving Mathematical Reasoning by Training Small Data Synthesis Models
+Decision-Focused Learning with Directional Gradients
+Neural Persistence Dynamics
+The Selective  G -Bispectrum and its Inversion: Applications to  G -Invariant Networks
+Generalization Bounds via Conditional  f -Information
+Inferring stochastic low-rank recurrent neural networks from neural data
+Navigating Extremes: Dynamic Sparsity in Large Output Spaces
+Estimating the Hallucination Rate of Generative AI
+Rethinking Deep Thinking: Stable Learning of Algorithms using Lipschitz Constraints
+UniFL: Improve Latent Diffusion Model via Unified Feedback Learning
+Separations in the Representational Capabilities of Transformers and Recurrent Architectures
+MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization
+Preventing Dimensional Collapse in Self-Supervised Learning via Orthogonality Regularization
+Fast Channel Simulation via Error-Correcting Codes
+Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization
+Score-Optimal Diffusion Schedules
+On the Sparsity of the Strong Lottery Ticket Hypothesis
+Beyond Slow Signs in High-fidelity Model Extraction
+Testing Calibration in Nearly-Linear Time
+Distributional Preference Alignment of LLMs via Optimal Transport
+Can LLMs Implicitly Learn Numeric Parameter Constraints in Data Science APIs?
+Learning Low-Rank Feature for Thorax Disease Classification
+StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses
+Latent Functional Maps: a spectral framework for representation alignment
+Are Multiple Instance Learning Algorithms Learnable for Instances?
+Provably Safe Neural Network Controllers via Differential Dynamic Logic
+Scaling Retrieval-Based Language Models with a Trillion-Token Datastore
+Learning in Markov Games with Adaptive Adversaries: Policy Regret, Fundamental Barriers, and Efficient Algorithms
+AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback
+Unsupervised Hierarchy-Agnostic Segmentation: Parsing Semantic Image Structure
+Preventing Model Collapse in Deep Canonical Correlation Analysis by Noise Regularization
+SARAD: Spatial Association-Aware Anomaly Detection and Diagnosis for Multivariate Time Series
+Neural decoding from stereotactic EEG: accounting for electrode variability across subjects
+Building on Efficient Foundations: Effective Training of LLMs with Structured Feedforward Layers
+Weight decay induces low-rank attention layers

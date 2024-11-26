@@ -1,0 +1,50 @@
+Minimax-optimal trust-aware multi-armed bandits
+CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL
+JPEG Inspired Deep Learning
+Fully Fine-Tuning Beats Parameter Efficient Fine-Tuning for CLIP in Data-Limited Scenarios
+C 2 INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention
+MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
+Markov Persuasion Processes: Learning to Persuade From Scratch
+Magnituder Layers for Implicit Neural Representations in 3D
+AutoTune for Time Series Transformers using Low Rank Adaptation and Limited Discrepancy Search
+Solving Multiplayer Partially Observable Stochastic Games by Divergence-Regularized Discounted Aggregation
+Paramanu: A Family of Novel Efficient Generative Foundation Language Models for Indian Languages
+Complex Numerical Computation  with Numerical Semantic Pre-training Framework
+Enjoy Your Layer Normalization with the Computation Efficiency of RMSNorm
+Right on Time: Revising Time Series Models by Constraining their Explanations
+PGLearn - An Open-Source Learning Toolkit for Optimal Power Flow
+EEGMamba: Bidirectional State Space Model with Mixture of Experts for EEG Multi-task Classification
+The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG
+Grad-TopoCAM: EEG Brain Region Visual Interpretability via Gradient-Based Topographic Class Activation Map
+FedPMVR: Addressing Data Heterogeneity in Federated Learning through Partial Momentum Variance Reduction
+A Novel Security Threat Model for Automated AI Accelerator Generation Platforms
+AutoGeTS: Automated Generation of Text Synthetics for Improving Text Classification
+Preference Diffusion for Recommendation
+SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging
+DyGNeX : Efficient Distributed Training of Dynamic Graph Neural Networks with Cross-Time-Window Scheduling
+Your Actions Talk: DUET - A Multimodal Dataset for Contextualizable Dyadic Activities
+Sparsity beyond TopK: A Novel Cosine Loss for Sparse Binary Representations
+Dynamic multi-channel EEG graph modeling for time-evolving brain network
+HessianGrad: Optimizing AI Systems with Hessian-Aware Textual Gradients
+In-Context Learning at Representation Level via Unlabeled Texts
+INSTRUCTION-FOLLOWING LLMS FOR TIME SERIES PREDICTION: A TWO-STAGE MULTIMODAL APPROACH
+Gradient-based Jailbreak Images for Multimodal Fusion Models
+Simultaneous Computation and Memory Efficient Zeroth-Order Optimizer for Fine-Tuning Large Language Models
+Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words
+Tool-Planner: Task Planning with Clusters across Multiple Tools
+Locating Information in Large Language Models via Random Matrix Theory
+Effective LLM Knowledge Learning Requires Rethinking Generalization
+Direct Imitation Learning: RLHF Secretly Performs Imitation Learning
+Bridging Lottery Ticket and Grokking: Understanding Grokking from Inner Structure of Networks
+Autoencoders for Anomaly Detection are Unreliable
+GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost
+In Search of Forgotten Domain Generalization
+Decoding Generalization from Memorization in Deep Neural Networks
+Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks
+Diffusion Models for 4D Novel View Synthesis
+How big does your neural network have to be?: A Scaling Law Study in Multi-Spectral Remote Sensing
+Decomposed Learning and Grokking
+Distributed Constrained Optimal  Consensus  Under a Directed Graph
+AN INFORMATION THEORETIC EVALUATION METRIC FOR STRONG UNLEARNING
+SPECTRUM: Empowering Online Handwriting Verification via Temporal-Frequency Multimodal Representation Learning
+Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation

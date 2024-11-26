@@ -1,0 +1,50 @@
+OS-ATLAS: Foundation Action Model for Generalist GUI Agents
+Zero-shot Concept Bottleneck Models via Sparse Regression of Retrieved Concepts
+Adversarial Suffixes May Be Features Too!
+FullDiffusion: Diffusion Models Without Time Truncation
+Text Attributed Graph Node Classification Using Sheaf Neural Networks and Large Language Models
+HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes
+A Reoptimization Framework for Mixed Integer Linear Programming with Dynamic Parameters
+Interpretable Boundary-based Watermark Up to the condition of Lov\'asz Local Lemma
+CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation
+Seeker: Enhancing Exception Handling in Code with a LLM-based Multi-Agent Approach
+Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach
+Energy and Memory-Efficient Federated Learning with Ordered Layer Freezing and Tensor Operation Approximation
+Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection
+Transformer Meets Twicing: Harnessing Unattended Residual Information
+Learning-based Mechanism Design: Scalable, Truthful, and Continuum Approaches for Utility Maximization
+SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction
+Examining Why Perturbation-Based Fidelity Metrics are Inconsistent
+Enhancing Solutions for Complex PDEs: Introducing Translational Equivariant Attention in Fourier Neural Operators
+Test-time Zero-shot Recognition with Good Attributes
+GAOKAO-Eval: Does High Scores Truly Reflect Strong Capabilities in LLMs?
+Adversarial Robustness Overestimation and Instability in TRADES
+Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models
+Trusted Multi-View Classification via Evolutionary Multi-View Fusion
+Knapsack Schema Linking Agent for LLM-Based Text-to-SQL Generation
+3D Vision-Language Gaussian Splatting
+DAPE V2: Process Attention Score as Feature Map for Length Extrapolation
+eRAM-V: From Interaction to Integration in Efficient Multimodal Large Language Models
+REFINE: Inversion-Free Backdoor Defense via Model Reprogramming
+Uncoupled and Convergent Learning in Monotone Games under Bandit Feedback
+Generalization by Specialization: Unveiling Specialized Subnetworks in Large Language Models
+Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?
+VARIATIONAL DIFFUSION CHANNEL DECODING: A ULTRA-LOW-COST NEURAL CHANNEL DECODER
+Policy Transfer via Latent Graph Planning
+BEATS: Optimizing LLM Mathematical Capabilities with BackVerify and Adaptive Disambiguate based Efficient Tree Search
+Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models
+Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data
+Segment Any 3D Object with Language
+Let the Rule Speak: Enhancing In-context Learning Debiasing with Interpretability
+OpenMU: Your Swiss Army Knife for Music Understanding
+UrbanMLLM: Joint Learning of Cross-view Imagery for Urban Understanding
+SPARQ: Outlier-free SpeechLM with Fast Adaptation and Robust Quantization
+Adaptive Camera Sensor for Vision Models
+MathScape: Evaluating MLLMs in Multi-modal Math Scenarios through a Hierarchical Benchmark
+Truthfulness Without Supervision: Model Evaluation Using Peer Prediction
+Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound
+Group rank for encrypted data
+Retrieval-guided Cross-view Image Synthesis
+Vision Language Model Based Caption Evaluation Method Leveraging Visual Context Extraction
+UrbanWorld: An Urban World Model for 3D City Generation
+Diffusion Trajectory-guided Policy: A Novel Framework for Long-Horizon Robot Manipulation

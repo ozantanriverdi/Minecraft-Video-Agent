@@ -1,0 +1,50 @@
+Truth-value judgment in language models: belief directions are context sensitive
+Persistent Pre-training Poisoning of LLMs
+CipherPrune:  Efficient and Scalable Private Transformer Inference
+Approximating Full Conformal Prediction for Neural Network Regression with Gauss-Newton Influence
+Structural Knowledge Informed Continual Learning for Multivariate Time Series Forecasting
+Collaborative Data Optimization
+Monophilic Neighbourhood Transformers
+TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles
+General Preference Modeling with Preference Representations for Aligning Language Models
+Explaining Vision-Language Similarities in Dual Encoders with Feature-Pair Attributions
+μ LO: Compute-Efficient Meta-Generalization of Learned Optimizers
+Endowing Visual Reprogramming with Adversarial Robustness
+SyGRID: Synthetically Generated Realistic Industrial Dataset
+PoTable: Programming Standardly on Table-based Reasoning Like a Human Analyst
+Multilayer Correlation Clustering
+ALR 2 : A Retrieve-then-Reason Framework for Long-context Question Answering
+UniEEG: Advancing Universal EEG Representation with Electrode-Wise Time-Frequency Pretraining
+Systematic Relational Reasoning With Epistemic Graph Neural Networks
+A Federated Graph Learning Framework With Attention Mechanism and Clustering Algorithm
+RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning
+Sinc Kolmogorov-Arnold Network and Its Applications on Physics-informed Neural Networks
+MAC: A Multimodal Benchmark for Understanding and Generating Academic Journal Covers
+Towards Optimizing Top- K  Ranking Metrics in Recommender Systems
+XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification
+Diverse Genomic Embedding Benchmark for Functional Evaluation Across the Tree of Life
+Vector Segmented and Recombined Adaptation for Scalable and Efficient Model Tuning
+Extracting and Transferring Abilities For Building Multi-lingual Ability-enhanced Large Language Models
+MERIT: Maximum-normalized Element-wise Ratio for Language Model Large-batch Training
+Optimizing Preference Alignment with Differentiable NDCG Ranking
+Simple, Good, Fast: Self-Supervised World Models Free of Baggage
+You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet
+A new framework for evaluating model out-of-distribution generalisation for the biochemical domain
+Deep Sparse Latent Feature Models for Knowledge Graph Completion
+3DS: Decomposed Difficulty Data Selection’s Case Study on LLM Medical Domain Adaptation
+MetaGFN: Exploring Distant Modes with Adapted Metadynamics for Continuous GFlowNets
+Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback
+Task and Model Agnostic Differentially Private Graph Neural Networks via Coarsening
+Trajectory-level Data Generation with Better Alignment for Offline Imitation Learning
+Certified Defense Against Complex Adversarial Attacks with Dynamic Smoothing
+Can the Training Loss be Predictive for Out-of-Distribution Generalization?
+Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making
+What Do You See? Enhancing Zero-Shot Image Classification with Multimodal Large Language Models
+Low-Rank Quantization-Aware Training for LLMs
+RACCOON: Regret-based Adaptive Curricula for Cooperation
+On the Expressiveness of Rational ReLU Neural Networks With Bounded Depth
+Uncertainty-aware Human Mobility Modeling and Anomaly Detection
+LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs - Evaluation through Synthetic Data Generation
+Eliciting Black-Box Representations from LLMs through Self-Queries
+Audio Large Language Models Can Be Descriptive Speech Quality Evaluators
+How does controllability emerge in language models during pretraining?

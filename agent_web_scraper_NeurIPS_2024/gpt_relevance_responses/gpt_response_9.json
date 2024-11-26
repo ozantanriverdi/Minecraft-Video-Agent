@@ -1,0 +1,22 @@
+[
+    {
+        "title": "LLaNA: Large Language and NeRF Assistant",
+        "relevant": false
+    },
+    {
+        "title": "Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space",
+        "relevant": false
+    },
+    {
+        "title": "Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in LLMs",
+        "relevant": false
+    },
+    {
+        "title": "Reflective Multi-Agent Collaboration based on Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving",
+        "relevant": false
+    }
+]

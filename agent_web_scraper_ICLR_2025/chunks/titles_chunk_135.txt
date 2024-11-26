@@ -1,0 +1,50 @@
+AutoAL: Automated Active Learning with Differentiable Query Strategy Search
+Geometry-aware Score Distillation via 3D Consistent Noising and Gradients
+M 3 -Impute: Mask-guided Representation Learning for Missing Value Imputation
+Shape Assembly via Equivariant Diffusion
+MAI: A Multi-turn Aggregation-Iteration Model for Composed Image Retrieval
+Compatibility-aware Single-cell Continual Annotation
+Analytic DAG Constraints for Differentiable DAG Learning
+A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History
+Decoupled Graph Energy-based Model for Node Out-of-Distribution Detection on Heterophilic Graphs
+DualTime: A Dual-Adapter  Language Model for Time Series Multimodal Representation Learning
+Does Vector Quantization Fail in Spatio-Temporal Forecasting? Exploring a Differentiable Sparse Soft-Vector Quantization Approach
+Self-Monitoring Large Language Models for Click-Through Rate Prediction
+LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning
+Are spectral augmentations necessary in contrast-based graph self-supervised learning?
+How much of my dataset did you use? Quantitative Data Usage Inference in Machine Learning
+CLR-Bench : Evaluating Large Language Models in College-Level Reasoning
+Adversaries Can Misuse Combinations of Safe Models
+Learning Causal Alignment for Reliable Disease Diagnosis
+Croppable Knowledge Graph Embedding
+Pose-guided Motion Diffusion Model for Text-to-motion Generation
+Subspace Optimiztion for Large Language Models with Convergence Guarantees
+CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models
+AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
+Aligning Teacher with Student Preferences for Tailored Instruction Tuning Dataset Generation
+Controllable Data Generation with Hierarchical Neural Representations
+Visual Question Answering with Fine-grained Knowledge Unit RAG and Multimodal LLMs
+MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction
+A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization
+Knowledge Localization: Mission Not Accomplished? Enter Query Localization!
+Cliqueformer: Model-Based Optimization With Structured Transformers
+ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models
+FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency
+Efficient Machine Unlearning for Deep Generative Models by Mitigating Optimization Conflicts
+Rethinking Spiking Neural Networks from an Ensemble Learning Perspective
+Near-optimal Active Regression of Single-Index Models
+Multi-aspect Knowledge Distillation with Large Language Model
+DH-Fusion: Depth-Aware Hybrid Feature Fusion for Multimodal 3D Object Detection
+LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior
+GuideEdit: Enhancing Face Video Editing with Fine-grained Control
+Primal-Dual Graph Neural Networks for General NP-Hard Combinatorial Optimization
+Steer a Crowd: Learning to Persuade a Population in a Stackelberg Game
+Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models
+Graph Sparsification via Mixture of Graphs
+Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing
+Accelerating Neural ODEs: A Variational Formulation-based Approach
+PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms
+DNALONGBENCH: A Benchmark Suite For Long-Range DNA Prediction Tasks
+GITAR: GENERALIZED IRREGULAR TIME SERIES REGRESSION VIA MASKING AND RECONSTRUCTION PRETRAINING
+Human-in-the-loop Neural Networks: Human Knowledge Infusion
+Genesis: Advancing Towards Efficient Embodiment Co-Design

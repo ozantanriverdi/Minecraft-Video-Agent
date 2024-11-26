@@ -1,0 +1,50 @@
+Backoff Decoding: A Language Model Inference Acceleration Framework with a Tunable Efficiency-Performance Tradeoff
+SemCLIP: Aligning vision-language encoder models to semantic spaces for stability in retrieval
+MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data
+Self-Normalized Resets for Plasticity in Continual Learning
+Homomorphism Counts as Structural Encodings for Graph Learning
+Understanding Data Poisoning Attacks for RAG: Insights and Algorithms
+ScaLES: Scalable Latent Exploration Score for Pre-Trained Generative Networks
+CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing
+Real2Code: Reconstruct Articulated Objects via Code Generation
+Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks
+An Asynchronous Bundle Method for Distributed Learning Problems
+On Linear Representations and Pretraining Data Frequency in Language Models
+Differentiation Through Black-Box Quadratic Programming Solvers
+Bayesian Tree-Dependent Factorization
+Let’s Think Var-by-Var: Large Language Models Enable Ad Hoc Probabilistic Reasoning
+CoRNStack: High-Quality Contrastive Data for Better Code Retrieval and Reranking
+Flex: End-to-End Text-Instructed Visual Navigation with Foundation Models
+Spatial Reasoning with MLLMs: A New Path to Graph-Structured Optimization
+BingoGuard: LLM Content Moderation Tools with Risk Levels
+Learn hybrid prototypes for multivariate time series anomaly detection
+Pre-Memorization Train Accuracy Reliably Predicts Generalization in LLM Reasoning
+Teaching LLMs to Decode Activations Into Natural Language
+Improved Stochastic Controlled Averaging for Distributed and Federated Learning
+Sparse Mamba: Reinforcing Controllability In Structural State Space Models
+Online learning meets Adam: The Road of Interpretable Adaptive Optimizer Design
+Understanding Reasoning with Looped Models
+Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain
+RED – ROBUST ENVIRONMENTAL DESIGN
+AIM: Adversarial Information Masking for Evaluating EEG-DL Interpretations
+Conservative Contextual Bandits: Beyond Linear Representations
+Quantifying Generalization Complexity for Large Language Models
+Project MPG: towards a generalized performance quotient for LLM intelligence
+Simultaneous Online System Identification and Control using Composite Adaptive Lyapunov-Based Deep Neural Networks
+Efficient Fine-Tuning of Single-Cell Foundation Models Enables Zero-Shot Molecular Perturbation Prediction
+Holistically Evaluating the Environmental Impact of Creating Language Models
+SqueezeAttention: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget
+Interpolating Autoregressive and Discrete Denoising Diffusion Language Models
+Non-Parametric State-Space Models Over Datapoints and Sequence Alignments
+Towards Reliability of Parameter-free Optimization
+Theoretical Limitations of Ensembles in the Age of Overparameterization
+Sparse-to-Sparse Training of Diffusion Models
+Gaussian Mixture Counterfactual Generator
+Towards Machine Theory of Mind with Large Language Model-Augmented Inverse Planning
+AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments
+Disconnecting The Dots: Creating Leakage-Free Protein Datasets by Removal of Densely Connected Data Points
+Multi-domain Distribution Learning for De Novo Drug Design
+Improving Defense Mechanisms for Subgraph-Structure Membership Inference Attacks
+GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation
+Dynamic Kernel Sparsifiers
+{ τ }-bench: A Benchmark for \underline{T}ool-\underline{A}gent-\underline{U}ser Interaction in Real-World Domains

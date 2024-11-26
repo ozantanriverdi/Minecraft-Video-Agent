@@ -1,0 +1,50 @@
+Revisiting and Extending Similarity-based Metrics in Summary Factual Consistency Detection
+A2Perf: Real-World Autonomous Agents Benchmark
+MatText: Do Language Models Need More than Text & Scale for Materials Modeling?
+Towards Unifying Interpretability and Control: Evaluation via Intervention
+The Last Iterate Advantage: Empirical Auditing and Principled Heuristic Analysis of Differentially Private SGD
+Bayesian Optimization via Continual Variational Last Layer Training
+Towards Efficient Vision-Language Tuning: More Information Density, More Generalizability
+Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences
+Learning and Interpreting Multiple Representations of Semantics in a Neurobiological System
+Mixed-curvature decision trees and random forests
+G-AlignNet: Geometry-Driven Quality Alignment for Robust Dynamical Systems Modeling
+Effects of Random Edge-Dropping on Over-Squashing in Graph Neural Networks
+Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction
+Trivialized Momentum Facilitates Diffusion Generative Modeling on Lie Groups
+UPT++: Latent Point Set Neural Operators for Modeling System State Transitions
+Synthetic Theorem Generation in Lean
+Improving Discrete Diffusion with Schedule-Conditioning
+GeoLoRA: Geometric integration for parameter efficient fine-tuning
+FedPCE: Federated Personalized Client Embeddings
+LFPS: Learned Farthest Point Sampling
+Model Tells Itself Where to Attend: Steerable Prompting for Reliable Reading Comprehension of LLM
+OneFit: Unified Neural Garment Simulation using Function-based Representation and Learning
+Continuity-Driven Pose Estimation for Videos
+Allostatic Control of Persistent States in Spiking Neural Networks for Perception and Computation
+Measuring similarity between embedding spaces using induced neighborhood graphs
+OntoFAR: Hierarchical Multi-Ontology Fusion Better Augments EHR Representation
+KDA: A Knowledge-Distilled Attacker for Scalable LLM Red Teaming
+CONGO: Compressive Online Gradient Optimization
+RL, but don't do anything I wouldn't do
+Scalable Extraction of Training Data from Aligned, Production Language Models
+Listening to the Wise Few: Select-and-Copy Attention Heads for Multiple-Choice QA
+Measuring Non-Adversarial Reproduction of Training Data in Large Language Models
+TULiP: Test-time Uncertainty Estimation via Linearization and Weight Perturbation
+Meta-Referential Games to Learn Compositional Learning Behaviours
+Information Structure in Large Language Models
+PREDICT: Preference Reasoning by Evaluating Decomposed preferences Inferred from Candidate Trajectories
+InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation
+Optimizing Posterior Samples for Bayesian Optimization via Rootfinding
+Poisoning with A Pill: Circumventing Detection in Federated Learning
+Self-learning Compositional Representations for Zero-shot Chinese Character Recognition
+Meta-Dynamical State Space Models for Integrative Neural Data Analysis
+Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate Rollout
+Interchangeable Token Embeddings for Extendable Vocabulary and Alpha-Equivalence
+CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants
+Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance
+Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians
+Learning Representations for Independence Testing
+GraphFM: A generalist graph transformer that learns transferable representations across diverse domains
+NAQ: Nonlinearity-Aware Quantization
+Can MLLMs Understand the Deep Implication Behind Chinese Images?

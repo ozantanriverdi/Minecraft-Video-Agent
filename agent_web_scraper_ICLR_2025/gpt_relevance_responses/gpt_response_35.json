@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Proposer-Agent-Evaluator (PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "relevant": false
+    },
+    {
+        "title": "Seeker: Enhancing Exception Handling in Code with a LLM-based Multi-Agent Approach",
+        "relevant": false
+    },
+    {
+        "title": "How language models extrapolate outside the training data: A Case study in Textualized Gridworld",
+        "relevant": true
+    },
+    {
+        "title": "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage",
+        "relevant": false
+    },
+    {
+        "title": "Bidirectional Generative Retrieval with Multi-Modal LLMs for Text-Video Retrieval",
+        "relevant": false
+    }
+]

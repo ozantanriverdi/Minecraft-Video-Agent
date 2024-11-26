@@ -1,0 +1,50 @@
+UDON: Universal Dynamic Online distillatioN for generic image representations
+Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach
+DiffuBox: Refining 3D Object Detection with Point Diffusion
+Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis
+Improving self-training under distribution shifts via anchored confidence with theoretical guarantees
+TripletCLIP:  Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives
+Towards Understanding Extrapolation: a Causal Lens
+Segmenting Watermarked Texts From Language Models
+ESPACE: Dimensionality Reduction of Activations for Model Compression
+Statistical-Computational Trade-offs for Density Estimation
+Oracle-Efficient Differentially Private Learning with Public Data
+Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer
+Relating Hopfield Networks to Episodic Control
+Learning Discrete Concepts in Latent Hierarchical Models
+Secret Collusion among AI Agents: Multi-Agent Deception via Steganography
+Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models
+Inverse M-Kernels for Linear Universal Approximators of Non-Negative Functions
+Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models
+KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge
+Going Beyond Heuristics by Imposing Policy Improvement as a Constraint
+Asynchronous Perception Machine for Efficient  Test Time Training
+Derivatives of Stochastic Gradient Descent in parametric optimization
+Hierarchical Federated Learning with Multi-Timescale Gradient Correction
+A Closer Look at AUROC and AUPRC under Class Imbalance
+Breaking the curse of dimensionality in structured density estimation
+EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics
+Shuffling Gradient-Based Methods for Nonconvex-Concave Minimax Optimization
+Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification
+Mission Impossible: A Statistical Perspective on Jailbreaking LLMs
+bit2bit: 1-bit quanta video reconstruction via self-supervised photon prediction
+Warm-starting Push-Relabel
+Bias Detection via Signaling
+Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling
+CountGD: Multi-Modal Open-World Counting
+Average gradient outer product as a mechanism for deep neural collapse
+LLMDFA: Analyzing Dataflow in Code with Large Language Models
+Almost Free: Self-concordance in Natural Exponential Families and an Application to Bandits
+Annealed Multiple Choice Learning: Overcoming limitations of Winner-takes-all with annealing
+Asymptotics of Alpha-Divergence Variational Inference Algorithms with Exponential Families
+Generating Highly Designable Proteins with Geometric Algebra Flow Matching
+Unveiling LoRA Intrinsic Ranks via Salience Analysis
+Selective Attention: Enhancing Transformer through Principled Context Control
+Accelerating Relative Entropy Coding with Space Partitioning
+Aligning Diffusion Models by Optimizing Human Utility
+Few-Shot Task Learning through Inverse Generative Modeling
+Rethinking LLM Memorization through the Lens of Adversarial Compression
+ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution
+Matrix Denoising with Doubly Heteroscedastic Noise: Fundamental Limits and Optimal Spectral Methods
+SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training
+Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data

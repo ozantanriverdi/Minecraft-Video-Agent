@@ -1,0 +1,50 @@
+Local Curvature Smoothing with Stein's Identity for Efficient Score Matching
+CosAE: Learnable Fourier Series for Image Restoration
+Autonomous Agents for Collaborative Task under Information Asymmetry
+Robust Offline Active Learning on Graphs
+Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering
+Drago: Primal-Dual Coupled Variance Reduction for Faster Distributionally Robust Optimization
+Effective Exploration Based on the Structural  Information Principles
+DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting
+Revisiting Differentially Private ReLU Regression
+Functionally Constrained Algorithm Solves Convex Simple Bilevel Problem
+OneBit: Towards Extremely Low-bit Large Language Models
+A Walsh Hadamard Derived Linear Vector Symbolic Architecture
+LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment
+Spiking Token Mixer:  A event-driven friendly Former structure for spiking neural networks
+Training for Stable Explanation for Free
+Adaptive Visual Scene Understanding: Incremental Scene Graph Generation
+Not Just Object, But State: Compositional Incremental Learning without Forgetting
+AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties
+When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search
+S E ( 3 )  Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation
+Sharpness-diversity tradeoff: improving flat ensembles with SharpBalance
+Diversify, Contextualize, and Adapt: Efficient Entropy Modeling for Neural Image Codec
+Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences
+Understanding the Transferability of Representations via Task-Relatedness
+FM-Delta: Lossless Compression for Storing Massive Fine-tuned Foundation Models
+AlphaPruning: Using Heavy-Tailed Self Regularization Theory for Improved Layer-wise Pruning of Large Language Models
+Approximated Orthogonal Projection Unit: Stabilizing Regression Network Training Using Natural Gradient
+F-OAL: Forward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning
+Active Perception for Grasp Detection via Neural Graspness Field
+An Autoencoder-Like Nonnegative Matrix Co-Factorization for Improved Student Cognitive Modeling
+Fair Kernel K-Means: from Single Kernel to Multiple Kernel
+STONE: A Submodular Optimization Framework for Active 3D Object Detection
+Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model
+Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning
+Learning Successor Features the Simple Way
+RegExplainer: Generating Explanations for Graph Neural Networks in Regression Tasks
+Robust group and simultaneous inferences for high-dimensional single index model
+SparseLLM: Towards Global Pruning of Pre-trained Language Models
+Lever LM: Configuring In-Context Sequence to Lever Large Vision Language Models
+Transductive Learning is Compact
+KFNN: K-Free Nearest Neighbor For Crowdsourcing
+Linear Causal Representation Learning from Unknown Multi-node Interventions
+Provable Acceleration of Nesterov's Accelerated Gradient for Asymmetric Matrix Factorization and Linear Neural Networks
+GFT: Graph Foundation Model with Transferable Tree Vocabulary
+Lumina-Next : Making Lumina-T2X Stronger and Faster with Next-DiT
+AHA: Human-Assisted Out-of-Distribution Generalization and Detection
+GOMAA-Geo: GOal Modality Agnostic Active Geo-localization
+Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation
+Identifiability Analysis of Linear ODE Systems with Hidden Confounders
+Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections

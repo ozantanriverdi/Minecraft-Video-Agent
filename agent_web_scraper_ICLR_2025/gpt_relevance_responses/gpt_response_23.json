@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Mitigating Dialogue Hallucination for Large Vision Language Models via Adversarial Instruction Tuning",
+        "relevant": false
+    },
+    {
+        "title": "Progressive Multi-scale Triplane Network for Text-to-3D Generation",
+        "relevant": false
+    },
+    {
+        "title": "HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model",
+        "relevant": false
+    },
+    {
+        "title": "SEAL: SEmantic-Augmented Imitation Learning via Language Model",
+        "relevant": false
+    },
+    {
+        "title": "VISION-LANGUAGE MODELS AS TRAINERS FOR INSTRUCTION-FOLLOWING AGENTS",
+        "relevant": false
+    }
+]

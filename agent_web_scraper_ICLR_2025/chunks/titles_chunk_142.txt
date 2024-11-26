@@ -1,0 +1,50 @@
+Hybrid MILP to efficiently and accuratly  solve hard DNN verification instances
+Satisficing Exploration in Bandit Optimization
+VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control
+Kitten: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities
+SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning
+Structure Language Models for Protein Conformation Generation
+RACCooN: A Versatile Instructional Video Editing Framework with Auto-Generated Narratives
+SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety
+Using Contrastive Learning with Generative Similarity to Learn Spaces that Capture Human Inductive Biases
+Three Mechanisms of Feature Learning in a Linear Network
+Memory Proxy Maps for Visual Navigation
+Matryoshka Multimodal Models
+Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion
+Unconstrained Robust Online Convex Optimization
+Stream-level flow matching from a Bayesian decision theoretic perspective
+Diffusion-based Prompt Generation for Lifelong Continual Adaptation
+Mind the Gap: a Spectral Analysis of Rank Collapse and Signal Propagation in Transformers
+Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks
+Gradient-based inference of abstract task representations for generalization in neural networks
+GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering
+TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data
+dMel: Speech Tokenization Made Simple
+Predicting from Strings: Language Model Embeddings for Bayesian Optimization
+Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing
+SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation
+Graph Concept Bottleneck Models
+Contextual Position Encoding: Learning to Count What’s Important
+FAACL: Federated Adaptive Asymmetric Clustered Learning
+Sparse Covariance Neural Networks
+Understanding Generalization of Preference Optimization Under Noisy Feedback
+Bidirectional Consistency Models
+Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models
+LieRE: Generalizing Rotary Position Encodings to Higher Dimensional Inputs
+Aligned LLMs Are Not Aligned Browser Agents
+Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts
+Riemann-Lebesgue Forest for Regression
+Nonparametric Covariance Regression for Massive Neural Data on Restricted Covariates via Graph
+Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection
+HeNCler: Node Clustering in Heterophilous Graphs via Learned Asymmetric Similarity
+AdaRC: Mitigating Graph Structure Shifts during Test-Time
+IEL: Intra-Model Ensemble Learning For Single Sample Test-Time Adaptation
+Adaptive Shrinkage Estimation for Personalized Deep Kernel Regression in Modeling Brain Trajectories
+SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning
+Stochastic Sampling from Deterministic Flow Models
+Mechanistic Insights: Circuit Transformations Across Input and Fine-Tuning Landscapes
+Art-Free Generative Models: Exploring Art Creation Without Prior Artistic Knowledge
+Pseudo Physics-Informed Neural Operators
+DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions
+GRADIENT-OPTIMIZED CONTRASTIVE LEARNING
+DS-LLM: Leveraging Dynamical Systems to Enhance Both Training and Inference of Large Language Models

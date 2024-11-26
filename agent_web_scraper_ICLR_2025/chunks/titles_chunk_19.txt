@@ -1,0 +1,50 @@
+Disentangled Representation Learning for Parametric Partial Differential Equations
+SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators
+Dissecting Adversarial Robustness of Multimodal LM Agents
+Weighted Fair Regression under Selection Bias
+Prompt Injection Benchmark for Foundation Model Integrated Systems
+Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks
+Theoretical Aspects of Bias and Diversity in Minimum Bayes Risk Decoding
+Enhancing Physics-Informed Neural Networks Through Feature Engineering
+Interpretable Patterns in Random Initialization Unveil Final Representation
+Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention
+NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains
+JPEG-LM: LLMs as Image Generators with Canonical Codec Representations
+Does Deep Active Learning Work in the Wild?
+Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models
+Socrates Loss for training ad-hoc calibrated selective classifiers
+Conformal Language Model Reasoning with Coherent Factuality
+Graph-based Confidence Calibration for Large Language Models
+Private Learning Fast and Slow: Two Algorithms for Prediction with Expert Advice Under Local Differential Privacy
+Specialized Foundation Models struggle to beat Supervised Baselines
+Efficient Biological Data Acquisition through Inference Set Design
+SPD: Sync-Point Drop for efficient tensor parallelism of Large Language Models
+POROver: Improving Safety and Reducing Overrefusal in Large Language Models with Overgeneration and Preference Optimization
+Using Generative AI to capture High Fidelity Temporal Dynamics to target Vehicular Systems
+Uncertainty Herding: One Active Learning Method for All Label Budgets
+An Exploration of Speech Conditioned Large Language Models (SLMs)
+Large Language Models Are Active Critics in NLG Evaluation
+Online Sequential Learning from Physiological Data with Weighted Prototypes: Tackling Cross-Subject Variability
+In-context Time Series Predictor
+SpaLLM: Unified Compressive Adaptation of Large Language Models with Sketching
+More Experts Than Galaxies: Conditionally-Overlapping Experts with Biologically-Inspired Fixed Routing
+Can Watermarks be Used to Detect LLM IP Infringement For Free?
+CALM: Critic Automation with Language Models
+Sharper Analysis of Data Echoing and New Communication-Efficient Algorithm for Data Parallelism
+Autoregressive Moving-average Attention Mechanism for Time Series Forecasting
+Learning-Augmented Frequent Directions
+Discovering Influential Neuron Path in Vision Transformers
+SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI
+GROOT: Graph Edge Re-growth and Partitioning for the Verification of Large Designs in Logic Synthesis
+Brain Bandit: A Biologically Grounded Neural Network for Efficient Control of Exploration
+Robust Learning in Bayesian Parallel Branching Graph Neural Networks: The Narrow Width Limit
+World-simulation as pre-training for scalable perception
+Do Think Tags Really Help LLMs Plan? A Critical Evaluation of ReAct-Style Prompting
+Directional Gradient Projection for Robust Fine-tuning of Foundation Models
+Lowering Data Diversity can Accelerate Training: Case Studies in Synthetic Tasks
+Hint Marginalization for Improved Reasoning in Large Language Models
+MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning
+Orthogonalized Estimation of Difference of Q-functions
+A Simulation-Free Deep Learning Approach to Stochastic Optimal Control
+Unmasking Trees for Tabular Data
+Token-Supervised Value Models for Enhancing Mathematical Problem-Solving Capabilities of Large Language Models

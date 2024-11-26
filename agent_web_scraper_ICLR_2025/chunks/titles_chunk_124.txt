@@ -1,0 +1,50 @@
+CAGGLE: Color-Aware Guidance with Global and Local Prompts for Exposure Correction
+Guided-BFNs: Towards Visualizing and Understanding Bayesian Flow Networks in the Context of Trajectory Planning
+ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference
+Video-Infinity: Distributed Long Video Generation
+Non-negative Tensor Mixture Learning for Discrete Density Estimation
+Physics-Informed Decentralized Federated Learning
+Reinforced In-Context Black-Box Optimization
+Supervised Batch Normalization
+Initializing and Retrofitting Key-Value Adaptors for Traceable Model Editing
+Text-driven Zero-shot Domain Adaptation with Cross-modality Graph Motif Matching
+Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions
+On the Convergence of Adam under Non-uniform Smoothness: Separability from SGDM and Beyond
+Which Algorithms Have Tight Generalization Bounds?
+Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers
+Exploring the Effectiveness of Object-Centric Representations in Visual Question Answering: Comparative Insights with Foundation Models
+Compute Optimal Inference and Provable Amortisation Gap in Sparse Autoencoders
+Large Language Models Suffer From Their Own Output: An Analysis of the Self-Consuming Training Loop
+A Block Coordinate Descent Method for Nonsmooth Composite Optimization under Orthogonality Constraints
+Fair4Free: Generating High-fidelity Fair Synthetic Samples using Data-Free Distillation
+ADMM for Nonconvex Optimization under Minimal Continuity Assumption
+MissScore: High-Order Score Estimation in the Presence of Missing Data
+ADMM for Nonsmooth Composite Optimization under Orthogonality Constraints
+DOCS: Quantifying Weight Similarity for Deeper Insights into Large Language Models
+SR 2 : BOOSTING 3D LARGE LANGUAGE MODEL WITH SPATIAL RELATION REASONING
+REPOFILTER: Adaptive Retrieval Context Trimming for Repository-Level Code Completion
+Can LLMs Understand Time Series Anomalies?
+Node-Time Conditional Prompt Learning in Dynamic Graphs
+Towards Accurate and Efficient Sub-8-Bit Integer Training
+Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models
+ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression
+OLAPH: Improving Factuality in Biomedical Long-form Question Answering
+Physics-Informed Deep Inverse Operator Networks for Solving PDE Inverse Problems
+Physics-informed Dynamics Representation Learning for Parametric PDEs
+AMAP: Automatic Multi-head Attention Pruning by similarity-based pruning indicator
+X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing
+LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence
+Pre-Training Robo-Centric World Models For Efficient Visual Control
+Entropy-based Activation Function Optimization: A Method on Searching Better Activation Functions
+Chain of Ideas: Revolutionizing Research in Idea Development with LLM Agents
+PERSONALIZED FEDERATED PARTIAL LABEL LEARNING
+An Empirical Study on Reconstructing Scientific History to Forecast Future Trends
+u- μ P: The Unit-Scaled Maximal Update Parametrization
+Measurement Manipulation of the Matrix Sensing Problem to Improve Optimization Landscape
+Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation
+Priority on High-Quality: Instruction Data Selection for Optimized Instruction Tuning
+Physics-Informed Weakly Supervised Learning for Interatomic Potentials
+SCALE: Augmenting Content Analysis via LLM Agents and AI-Human Collaboration
+Novel Kernel Models and Uniform Convergence Bounds for Neural Networks Beyond the Over-Parameterized Regime
+MULAN: Multimodal Protein Language Model for Sequence and Structure Encoding
+Simple Yet Efficient Locality Sensitive Hashing with Theoretical Guarantee

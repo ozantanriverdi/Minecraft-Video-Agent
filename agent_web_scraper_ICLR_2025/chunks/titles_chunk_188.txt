@@ -1,0 +1,50 @@
+PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse
+Towards Scalable Semantic Representation for Recommendation
+MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow
+OMNIBAL: TOWARDS FAST INSTRUCT-TUNING FOR VISION-LANGUAGE MODELS VIA OMNIVERSE COMPUTATION BALANCE
+Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?
+Open-World Test-Time Training: Self-Training with Contrastive Learning
+Rethinking Brain-to-Image Reconstruction: What Should We Decode from fMRI Signals?
+IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models
+Integrating the Expression and Discrimination via Bilateral Compensation for Molecular Property Prediction
+DenoiseVAE: Learning Molecule-Adaptive Noise Distributions for Denoising-based 3D Molecular Pre-training
+Retrieval Augmented Time Series Forecasting
+Fine-tuning CLIP’s Last Visual Projector: A Few-Shot Cornucopia
+SoftCVI: Contrastive variational inference with self-generated soft labels
+MEMO: Memory-Guided and Emotion-Aware Talking Video Generation
+Halton Scheduler for Masked  Generative Image Transformer
+Process-Driven Autoformalization in Lean 4
+LESS IS MORE: HIGH-VALUE DATA SELECTION FOR VISUAL INSTRUCTION TUNING
+SemanticMIM: Marring Masked Image Modeling with Semantics Compression for General Visual Representation
+MaskTab: Masked Tabular Data Modeling for Learning with Missing Features
+Injecting Vision Language into Autoregressive Image Generation
+PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
+MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion
+GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting
+Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition
+Democratic Training Against Universal Adversarial Perturbations
+Understanding Llava's Visual Question Answering in a Mechanistic View
+Framer: Interactive Frame Interpolation
+Understanding and Mitigating Gender Bias in LLMs via Interpretable Model Editing
+PersonalVideo: High ID-Fidelity Video Customization With Static Images
+LucidPPN: Unambiguous Prototypical Parts Network for User-centric Interpretable Computer Vision
+Unveiling Language Skills under Circuits
+On the Entropy of Language Models in Getting Semantic from Tokens
+PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
+Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning
+BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network
+Improving Diffusion-based Data Augmentation with Inversion Circle Interpolation
+Segmentation using efficient residual networks with attention-fusion modules
+From Data to Model: Anomaly Detection of 3D GPR Data in CuDeRes Model Space
+Delving into Temperature Scaling for Adaptive Conformal Prediction
+SimDiffPDE: Simple Diffusion Baselines for Solving Partial Differential Equations
+Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks
+StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models
+Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?
+Combating inherent noise for direct preference optimization
+Rethinking the generalization of drug target affinity prediction algorithms via similarity aware evaluation
+Inferring Time-Varying Internal Models of Agents Through Dynamic Structure Learning
+Enhancing Human Body Generation in Diffusion Models with Dual-Level Prior Knowledge
+Learning with Analogical Reasoning for Robust Few-Shot Learning
+A Framework of SO(3)-equivariant Non-linear Representation Learning and its Application to Electronic-Structure Hamiltonian Prediction
+Kolmogorov-Arnold Transformer

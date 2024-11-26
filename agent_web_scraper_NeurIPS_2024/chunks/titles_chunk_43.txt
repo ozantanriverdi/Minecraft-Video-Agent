@@ -1,0 +1,50 @@
+Reflective Multi-Agent Collaboration based on Large Language Models
+COLD: Causal reasOning in cLosed Daily activities
+Improved Regret of Linear Ensemble Sampling
+Physics-Constrained Comprehensive Optical Neural  Networks
+Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models
+Addressing Hidden Confounding with Heterogeneous Observational Datasets for Recommendation
+To Learn or Not to Learn, That is the Question — A Feature-Task Dual Learning Model of Perceptual Learning
+Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model
+DiffuserLite: Towards Real-time Diffusion Planning
+MambaLRP: Explaining Selective State Space Sequence Models
+Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games
+MTGS: A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction
+Efficient Multi-task LLM Quantization and Serving for Multiple LoRA Adapters
+START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation
+FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space
+Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer
+The Impact of Initialization on LoRA Finetuning Dynamics
+Accelerating Non-Maximum Suppression: A Graph Theory Perspective
+Kronecker-Factored Approximate Curvature for Physics-Informed Neural Networks
+Zero-Shot Tokenizer Transfer
+Hierarchical Selective Classification
+Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective
+Transferring disentangled representations: bridging the gap between synthetic and real images
+Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis
+Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders
+Gradient-Variation Online Learning under Generalized Smoothness
+PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation
+Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization
+DropBP: Accelerating Fine-Tuning of Large Language Models by Dropping Backward Propagation
+Adaptive Domain Learning for Cross-domain Image Denoising
+Spike-based Neuromorphic Model for Sound Source Localization
+Uncovering the Redundancy in Graph Self-supervised Learning Models
+KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension
+Optimistic Critic Reconstruction and Constrained Fine-Tuning for General Offline-to-Online RL
+Zipfian Whitening
+Real-Time Selection Under General Constraints via Predictive Inference
+EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals
+RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier
+G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
+Cross-modal Representation Flattening for Multi-modal Domain Generalization
+Is Multiple Object Tracking a Matter of Specialization?
+AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models
+Coarse-to-Fine Concept Bottleneck Models
+HuRef: HUman-REadable Fingerprint for Large Language Models
+ContactField: Implicit Field Representation for Multi-Person Interaction Geometry
+How does PDE order affect the convergence of PINNs?
+Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models
+Online Composite Optimization Between Stochastic and Adversarial Environments
+Confidence Regulation Neurons in Language Models
+Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models

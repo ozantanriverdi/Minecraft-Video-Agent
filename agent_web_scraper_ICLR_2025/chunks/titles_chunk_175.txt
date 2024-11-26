@@ -1,0 +1,50 @@
+Towards Natural Image Matting in the Wild via Real-Scenario Prior
+Prompt Diffusion Robustifies Any-Modality Prompt Learning
+From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging
+YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary
+Vividportraits: Face Parsing Guided Portrait Animation
+Enhancing Performance of Multilayer Perceptrons by Knot-Gathering Initialization
+Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning
+The Role of Deductive and Inductive Reasoning in Large Language Models
+Unleashing the Information Flow: Graph Neural Networks are Noisy Communication Channels
+Implicit Bias in Matrix Factorization and its Explicit Realization in a new Architecture
+Active In-Context Learning: Enhancing the Generalization of Large Multimodal Models
+Group Diffusion Transformers are Unsupervised Multitask Learners
+Representation learning for financial time series forecasting
+Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models
+Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining
+Mitigating Generative Privacy Risks of Diffusion Models via Mixed Self-Synthesized Data Fine-tuning
+Understanding Scale Shift in Domain Generalization for Crowd Localization
+Block-Attention for Efficient RAG
+Uncertainty modeling for fine-tuned implicit functions
+Learning Mask Invariant Mutual Information for Masked Image Modeling
+COOL: Efficient and Reliable Chain-Oriented Objective Logic with Neural Networks Feedback Control for Program Synthesis
+How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?
+Exact linear-rate gradient descent: optimal adaptive stepsize theory and practical use
+UniRestore3D: A Scalable Framework For General Shape Restoration
+Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning
+LLaMA-Omni: Seamless Speech Interaction with Large Language Models
+Phase Transitions in the Output Distribution of Large Language Models
+Debiasing Text-to-image Diffusion Models with Self-discovering Latent Directions
+TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types
+Structure-Preserving Operator Learning
+O-Edit: Orthogonal Subspace Editing for Language Model Sequential Editing
+Spatio-temporal Decoupled Knowledge Compensator for Few-Shot Action Recognition
+Crafting Zero-Cost Proxy Metrics for Neural Architecture Search via Symbolic Regression
+MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Masked Image Modeling Representations
+Exploiting Hidden Symmetry to Improve Objective Perturbation for DP linear learners with a nonsmooth  ℓ 1 -norm
+ESE: Espresso Sentence Embeddings
+Vision-LSTM: xLSTM as Generic Vision Backbone
+On the Fourier analysis in the SO(3) space : the EquiLoPO Network
+Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator
+Generating Synthetic Genotypes using Diffusion Models
+DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging
+SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation
+Alignment without Over-optimization: Training-Free Solution for Diffusion Models
+Seeing the part and knowing the whole: Object-Centric Learning with Inter-Feature Prediction
+Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series Modeling
+Robust Conformal Prediction with a Single Binary Certificate
+Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders
+Selective induction Heads: How Transformers Select Causal Structures in Context
+NeuralPlane: Structured 3D Reconstruction in Planar Primitives with Neural Fields
+PEARL: Parallel Speculative Decoding with Adaptive Draft Length

@@ -1,0 +1,50 @@
+Efficient and Generalizable Second-Order Certified Unlearning: A Hessian-Free Online Model Updates Approach
+On Inductive Biases That Enable Generalization in Diffusion Transformers
+Pixel-Space Post-Training of Latent-Diffusion Models
+FM-TS: Flow Matching for Time Series Generation
+Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
+A Simple Diffusion Transformer on Unified Video, 3D, and Game Field Generation
+Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations
+Robustness of Quantum Algorithms for Nonconvex Optimization
+MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models
+Fourier Head: Helping Large Language Models Learn Complex Probability Distributions
+Locality Sensitive Avatars From Video
+MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking
+Instax3D: Creating 3D Portrait from a single-view image in Minutes
+Understanding Long Videos with Multimodal Language Models
+The Scene Language: Representing Scenes with Programs, Words, and Embeddings
+RODIN: Injecting 2D Foundational Features to 3D Vision Language Understanding
+Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors
+Sample what you can't compress
+SORSA: Singular Values and Orthonormal Regularized Singular Vectors Adaptation of Large Language Models
+Discrete Codebook World Models for Continuous Control
+Connecting Federated ADMM to Bayes
+HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space
+Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models
+Learning 4D Embodied World Models
+TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
+VP-LLM: Text-Driven 3D Volume Completion with Large Language Models through Patchification
+Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset
+Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss
+SUN: Training-free Machine Unlearning via Subspace
+Size-aware Compression of 3D Gaussians with Fine-grained Mixed Precision Quantization
+SnapMem: Snapshot-based 3D Scene Memory for Embodied  Exploration and Reasoning
+Estimating Statistical Similarity Between Product Distributions
+Robust Multi-modal Learning with Shifted Feature Reweighting Against Spurious Correlations
+Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction
+Balancing Interpretability and Accuracy: Energy-Ensemble Concept Bottleneck Models for Enhanced Concept Inference
+Weak-to-Strong Enhanced Vision Model
+Empirical Study on Enhancing Efficiency in Masked Image Modeling Pre-training
+TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning
+CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification
+Maintaining Adversarial Robustness in  Continuous Learning
+Flex3D: Feed-Forward 3D Generation with Flexible Reconstruction Model and Input View Curation
+Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting
+Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models
+ProtoLLM: Training and Example-free LLMs for Few-shot Tabular Learning
+IFAdapter: Instance feature control for grounded Text-to-Image Generation
+Solving Video Inverse Problems Using Image Diffusion Models
+How Far Is Video Generation from World Model: A Physical Law Perspective
+Preserving Large Activations: The Key to KV Cache Pruning
+Regularized Conditional Optimal Transport for Feature Learning and Generalization Bounds
+GCML: Grounding Complex Motions using Large Language Model in 3D Scenes

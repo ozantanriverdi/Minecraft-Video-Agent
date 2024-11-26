@@ -1,0 +1,50 @@
+Sharper Bounds of Non-Convex Stochastic Gradient Descent with Momentum
+Look, Compare and Draw:  Differential Query Transformer for Automatic Oil Painting
+Dreamguider: Improved Training free Diffusion-based Conditional Generation
+ProtoSnap: Prototype Alignment For Cuneiform Signs
+Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval
+Salvage: Shapley-distribution Approximation Learning Via Attribution Guided Exploration for Explainable Image Classification
+SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance
+Dual-cycle Consistency Learning for Weakly Supervised Phrase Grounding
+Metadata Matters for Time Series: Informative Forecasting with Transformers
+Overcoming Missing Label Vocabulary in Black-Box Discrete Prompt Learning
+Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment
+RePaFormer: Ferocious and Scalable Acceleration of MetaFormers via Structural Reparamterization
+Adversarial Attacks on Fine-tuned LLMs
+Structure-aware Domain Knowledge Injection for Large Language Models
+Open-Ended 3D Metric-Semantic Representation Learning via Semantic-Embedded Gaussian Splatting
+Fine-tuning can Help Detect Pretraining Data from Large Language Models
+DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control
+Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
+A Simple Framework for Open-Vocabulary Zero-Shot Segmentation
+Closed-loop Scaling Up for Visual Object Tracking
+Exploiting Task Relationships for Continual Learning with Transferability-aware Task Embedding
+PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models
+HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration
+Hierarchical divide-and-conquer grouping for Zero shot learning
+Quantum Entanglement Trees: Optimizing Quantized Matrix Quantization via Element Replacement and Residual Clustering
+SymCL: Riemannian Contrastive Learning on the Symmetric Positive Definite Manifold for Visual Classification
+Bayesian Enhancement Models for One-to-Many Mapping in Image Enhancement
+Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training
+OASIS: Open Agents Social Interaction Simulations on a Large Scale
+Reconstructing Training Data From Real-World Models Trained with Transfer Learning
+Heavy Labels Out! Dataset Distillation with Label Space Lightening
+Benchmarking Ethics in Text-to-Image Models: A Holistic Dataset and Evaluator for Fairness, Toxicity, and Privacy
+Randomized Feature Squeezing against  Unseen Attacks without Adversarial Training
+Generalization of Transformers with In-Context Learning: An Empirical Study
+LinFusion: 1 GPU, 1 Minute, 16K Image
+Progressive Mixed-Precision Decoding for Efficient LLM Inference
+SAM2Long: Enhancing SAM2 for Long Video Segmentation with a Training-Free Memory Tree
+Recursive Abstractive Processing for Retrieval in Dynamic Datasets
+Manifold Constraint Reduces Exposure Bias in Accelerated Diffusion Sampling
+Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping
+Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
+Multimodal MR Image Synthesis via Learning Adaptive Group-wise Interactions
+Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation
+SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP
+Empowering Teachers with Enhanced Knowledge via Variable Scale Distillation Framework
+Broadening Discovery through Structural Models: Multimodal Combination of Local and Structural Properties for Predicting Chemical Features.
+FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training
+EXPLORING FEW-SHOT IMAGE GENERATION WITH MINIMIZED RISK OF OVERFITTING
+Cross-Modal Few-Shot Learning: a Generative Transfer Learning Framework
+Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models

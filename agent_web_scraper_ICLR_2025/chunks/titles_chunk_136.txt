@@ -1,0 +1,50 @@
+DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction
+GUMP: Alleviating Oversquashing with Unitary Message Passing
+A Theory for Token-Level Harmonization in Retrieval-Augmented Generation
+RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression
+Solving PDEs via learnable quadrature
+Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models
+Towards Codec-LM Co-design for Neural Codec Language Models
+LCEN: A Novel Feature Selection Algorithm for Nonlinear, Interpretable Machine Learning Models
+PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models
+What Time Tells Us? Time-Aware Representation Learning from Static Images
+Deciphering Cell Lineage Gene Regulatory Network via MTGRN
+Re-Aligning Language to Visual Objects with an Agentic Workflow
+Step-by-Step Reasoning for Math Problems  via Twisted Sequential Monte Carlo
+Adversarial Contrastive Decoding: Aligning Large Language Models via Exploiting Their Safety and Harm
+EG4D: Explicit Generation of 4D Object without Score Distillation
+ReAcTree: Hierarchical Task Planning with Dynamic Tree Expansion using LLM Agent Nodes
+Large Language Models are Interpretable Learners
+Theory on Mixture-of-Experts in Continual Learning
+Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework with Convergence Guarantees
+Emergence in non-neural models: grokking modular arithmetic via average gradient outer product
+Hybrid Kernel Stein Variational Gradient Descent
+Privacy-Preserving of Deep Learning Queries by Domain Shifting
+Zoomer: Enhancing MLLM Performance with Adaptive Image Focus Optimization
+Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard
+On the expressiveness and spectral bias of KANs
+Neural Probabilistic Logic Learning for Knowledge Graph Reasoning
+MPC-Minimized Secure LLM Inference
+Predicting Observation after Action in a Hierarchical Energy-based Model with Memory
+Learning Differential Pyramid Representation for Tone Mapping
+OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving
+Towards Effective Updating of Pretrained Symbolic Music Models for Fine-Grained Bar-Level Control
+Entropy-driven Data Knowledge Distillation in Digraph Representation Learning
+High dimensional Bayesian Optimization via Condensing-Expansion Projection
+Does SGD really happen in tiny subspaces?
+A Study of Necessity & Sufficiency of Linear Transformations in the Attention Mechanism
+Finite Sample Analyses for Continuous-time Linear Systems: System Identification and Online Control
+DROSIA: Decoupled Representation on Sequential Information Aggregation for Time Series Forecasting
+DiT-LSTM-SVAR Model For Portfolios
+Understanding Nonlinear Implicit Bias via Region Counts in Input Space
+Differentiable Cluster Graph Neural Network
+BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics
+Dynamic Discriminative Operations for Efficient Generative Inference of LLMs
+Towards Black-Box Membership Inference Attack for Diffusion Models
+Scaling Laws for Downstream Task Performance in Machine Translation
+Routing Experts: Learning to Route Dynamic Experts in Existing Multi-modal Large Language Models
+Regret Bounds for Episodic Risk-Sensitive Linear Quadratic Regulator
+SinPoint: A Novel Topological Consistent Augmentation for Point Cloud Understanding
+SteBen: Steiner Tree Problem Benchmark for Neural Combinatorial Optimization on Graphs
+Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models Trained on Corrupted Data
+Test-Time Fairness and Robustness in Large Language Models

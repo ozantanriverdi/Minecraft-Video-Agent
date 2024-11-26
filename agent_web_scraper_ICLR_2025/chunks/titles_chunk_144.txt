@@ -1,0 +1,50 @@
+dFCExpert: Learning Dynamic Functional Connectivity Patterns with Modularity and State Experts
+Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography
+R2Det: Exploring Relaxed Rotation Equivariance in 2D Object Detection
+Computational Limits of Low-Rank Adaptation for Transformer Models
+Inverse Engineering Diffusion: Deriving Variance Schedules with Rationale
+A Simple Approach to Unifying Diffusion-based Conditional Generation
+Do LLMs ``know'' internally when they follow instructions?
+Correcting Flows with Marginal Matching
+TensorGPT: Efficient Compression of Large Language Models based on Tensor-Train Decomposition
+Fundamental Limits of Prompt Tuning Transformers: Universality, Capacity and Efficiency
+Disentangling 3D Animal Pose Dynamics with Scrubbed Conditional Latent Variables
+Post-Training Sparse Attention with Double Sparsity
+RESuM: A Rare Event Surrogate Model for  Physics Detector Design
+Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models
+StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration
+Weighted Diversified Sampling for Efficient Data-Driven Single-Cell Gene-Gene Interaction Discovery
+Spatiotemporal Learning on Cell-embedded Graphs
+Time-Dependent Mirror Flows and Where to Find Them
+Safety Alignment Should be Made More Than Just a Few Tokens Deep
+Provable Convergence and Limitations of Geometric Tempering for Langevin Dynamics
+On the Identification of Temporal Causal Representation with Instantaneous Dependence
+MALLM-GAN: Multi-Agent Large Language Model as Generative Adversarial Network for Synthesizing Tabular Data
+Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training
+Demystifying GNN Distillation by Replacing the GNN
+Energy-Efficient Sampling Using Stochastic Magnetic Tunnel Junctions
+Can a Large Language Model be a Gaslighter?
+Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning
+Edge Prompt Tuning for Graph Neural Networks
+TuBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning
+Sparse Learning for State Space Models on Mobile
+Regularized DeepIV with Model Selection
+Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference
+Improving Visual Commonsense in Language Models via Multiple Image Generation
+Prioritize Alignment in Dataset Distillation
+LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Lecture Learning
+Rethinking Knowledge Distillation: A Mixture-of-Experts Perspective
+WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct
+Unlocking Global Optimality in Bilevel Optimization: A Pilot Study
+Dynamic Token Modulation and Expansion for Multi-Task Learning
+Automatic Task-aware Instruction Optimizer for Black-box LLMs
+Efficient Privacy-Preserving Federated Learning With Selective Parameter Encryption
+Robust Training of Neural Networks at Arbitrary Precision and Sparsity
+Learning-Augmented Robust Algorithmic Recourse
+Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems
+Selective Task Group Updates for Multi-Task Optimization
+Toto: Time Series Optimized Transformer for Observability
+AugGen: Generative Synthetic Augmentation Can Boost Face Recognition
+Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting
+Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs
+Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation

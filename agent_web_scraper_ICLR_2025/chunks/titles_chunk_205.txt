@@ -1,0 +1,50 @@
+Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge
+Adaptive Curvature Step Size: A Path Geometry Based Approach to Optimization
+LLM Compression with Convex Optimization—Part 1: Weight Quantization
+Federated  Q -Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost
+Articulate Anything: Open-vocabulary 3D Articulated Object Generation
+Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs
+Learning Parameter Sharing with Tensor Decompositions and Sparsity
+Navigating Concept Drift and Temporal Shift: Distribution Shift Generalized Time-Series Forecasting
+Remove Symmetries to Control Model Expressivity
+MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models
+Modumer: Modulating Transformer for Image Restoration
+Effective Interplay between Sparsity and Quantization: From Theory to Practice
+DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On
+Concept Bottleneck Models under Label Noise
+ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models
+IFORMER: INTEGRATING CONVNET AND TRANSFORMER FOR MOBILE APPLICATION
+Variational Inference with Unnormalized Priors
+SegFit: Robust SMPL-X Fitting with Body Part Segmentation on Real-World Point Clouds
+Selecting Influential Samples for Long Context Alignment via Homologous Models’ Guidance and Contextual Awareness Measurement
+Do as We Do, Not as You Think: the Conformity of Large Language Models
+k NN Attention Demystified: A Theoretical Exploration for Scalable Transformers
+LEGO-Compiler: Enhancing Neural Compilation Through Composable Chain of Thought
+Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios
+Query Efficient Nonsmooth Stochastic Black-Box Bilevel Optimization with Bregman Distance
+Optimizing Large Language Models with Automatic Speech Recognition for Medication Corpus in Low-Resource Healthcare Settings.
+RED: Efficiently Boosting Ensemble Robustness via Random Sampling Inference
+ARTIFICIAL KURAMOTO OSCILLATORY NEURONS
+Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions
+Sequence Denoising with Self-Augmentation for Knowledge Tracing
+Diffusion Feedback Helps CLIP See Better
+Weakly-supervised 3D Referring Expression Segmentation
+HuMouS: Human Motion Synthesis with Fine-Grained Control using Latent Space Manipulation of Cycle-Consistent Diffusion Models
+ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models
+MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory
+SceneFunctioner: Tailoring Large Language Model for Function-Oriented Interactive Scene Synthesis
+Efficient Time Series Processing for Transformers and State-Space Models through Token Merging
+Active Audio Cancellation with Multi-Band Mamba Network
+HE-Drive: Human-Like End-to-End Driving with Vision Language Models
+T 3 -S2S: Training-free Triplet Tuning for Sketch to Scene Generation
+One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt
+Robust Domain Generalisation with Causal Invariant Bayesian Neural Networks
+I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models
+CFBD: COARSE-TO-FINE DETECTION OF BACKDOOR ATTACKS IN MULTIMODAL CONTRASTIVE LEARNING
+In-Context Editing: Learning Knowledge from Self-Induced Distributions
+FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution
+SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes
+DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models
+DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation
+FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors
+Closed-loop Diffusion Control of Complex Physical Systems

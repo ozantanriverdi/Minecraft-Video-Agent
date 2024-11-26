@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Harnessing Input-adaptive Inference for Efficient Vision-and-Language Navigation",
+        "relevant": false
+    },
+    {
+        "title": "Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback",
+        "relevant": false
+    },
+    {
+        "title": "The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation",
+        "relevant": false
+    },
+    {
+        "title": "DataGen: Unified Synthetic Dataset Generation via Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for MLLMs",
+        "relevant": false
+    }
+]

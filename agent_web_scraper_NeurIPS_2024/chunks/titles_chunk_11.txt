@@ -1,0 +1,50 @@
+Understanding the Differences in Foundation Models: Attention, State  Space Models, and Recurrent Neural Networks
+Aligning Model Properties via Conformal Risk Control
+Dual Lagrangian Learning for Conic Optimization
+Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement
+Interventionally Consistent Surrogates for Complex Simulation Models
+Higher-Order Causal Message Passing for Experimentation with Complex Interference
+Learning Cut Generating Functions for Integer Programming
+DiffuPac: Contextual Mimicry in Adversarial Packets Generation via Diffusion Model
+Topological obstruction to the training of shallow ReLU neural networks
+MotionTTT: 2D Test-Time-Training Motion Estimation for 3D Motion Corrected MRI
+Transfer Q-star : Principled Decoding for LLM Alignment
+A teacher-teacher framework for clinical language representation learning
+Conformalized Credal Set Predictors
+GraphCroc: Cross-Correlation Autoencoder for Graph Structural Reconstruction
+Robust Gaussian Processes via Relevance Pursuit
+Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry
+DeBaRA: Denoising-Based 3D Room Arrangement Generation
+Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates
+Linear Causal Bandits: Unknown Graph and Soft Interventions
+Sample Complexity of Algorithm Selection Using Neural Networks and Its Applications to Branch-and-Cut
+Linear Transformers are Versatile In-Context Learners
+OPERA: Automatic Offline Policy Evaluation with Re-weighted Aggregates of Multiple Estimators
+Learning predictable and robust neural representations by straightening image sequences
+FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions
+Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction
+OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
+Unleashing Region Understanding in Intermediate Layers for MLLM-based Referring Expression Generation
+To Believe or Not to Believe Your LLM: IterativePrompting for Estimating Epistemic Uncertainty
+SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection
+Fast Last-Iterate Convergence of Learning in Games Requires Forgetful Algorithms
+Maximizing utility in multi-agent environments by anticipating the behavior of other learners
+Beyond Single Stationary Policies: Meta-Task Players as Naturally Superior Collaborators
+Gradual Domain Adaptation via Manifold-Constrained Distributionally Robust Optimization
+Hamiltonian Score Matching and Generative Flows
+Unsupervised Discovery of Formulas for Mathematical Constants
+Generalizing CNNs to graphs with learnable neighborhood quantization
+RETR: Multi-View Radar Detection Transformer for Indoor Perception
+Unrolled denoising networks provably learn to perform optimal Bayesian inference
+MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models
+Generative Modeling of Molecular Dynamics Trajectories
+Ex Uno Pluria: Insights on Ensembling in Low Precision Number Systems
+Self-Labeling the Job Shop Scheduling Problem
+LLM Circuit Analyses Are Consistent Across Training and Scale
+Pruning neural network models for gene regulatory dynamics using data and domain knowledge
+On Sparse Canonical Correlation Analysis
+MonkeySee: Space-time-resolved reconstructions of natural images from macaque multi-unit activity
+A Theoretical Perspective for Speculative Decoding Algorithm
+DAGER: Exact Gradient Inversion for Large Language Models
+Feedback control guides credit assignment in recurrent neural networks
+GAVEL: Generating Games via Evolution and Language Models

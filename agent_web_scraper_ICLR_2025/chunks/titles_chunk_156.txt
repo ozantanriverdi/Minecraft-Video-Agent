@@ -1,0 +1,50 @@
+RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing
+Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene
+Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives
+FairSkin: Fair Diffusion for Skin Disease Image Geneartion
+Exploring the Camera bias of Person Re-identification
+Large Convolutional Model Tuning via Filter Subspace
+A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform
+DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers
+PAS: Plug-and-Play Prompt Augmentation System
+TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation
+Taming Gradient Oversmoothing and Expansion in Graph Neural Networks
+Decoupling the Class Label and the Target Concept in Machine Unlearning
+MRFNet: Multi-Receptive Field  Network for Multivariate Time-Series Prediction
+Articulate-Anything:  Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model
+Video Face Re-Aging: Toward Temporally Consistent Face Re-Aging
+Investigating Pattern Neurons in Urban Time Series Forecasting
+Preference-Enhanced Instruction Tuning for Machine Translation
+Towards Better Multi-head Attention via Channel-wise Sample Permutation
+AdaptVis: Spatial Understanding in Vision-Language Models Requires Adaptive Attention
+Learning to Teach: Improving Mean Teacher in Semi-supervised Medical Image Segmentation with Dynamic Decay  Modulation
+Tight Clusters Make Specialized Experts
+CURVALID: A Geometrically-guided Adversarial Prompt Detection
+InfiniteAudio: Infinite-Length Audio Generation with Consistent Acoustic Attributes
+MISR: Measuring Instrumental Self-Reasoning in Frontier Models
+How language models extrapolate outside the training data: A Case study in Textualized Gridworld
+HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models
+Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving
+Robust Prompt Learning For Vision-Language Models With Noisy Labels
+LASER: A Neuro-Symbolic Framework for Learning Spatio-Temporal Scene Graphs with Weak Supervision
+SimUSER: When Language Models Pretend to Be Believable Users in Recommender Systems
+Adaptive Priors from Learning Trajectories for Function-Space Bayesian Neural Networks
+SubgoalXL: Subgoal-based Expert Learning for Theorem Proving
+COPU: Recognizing Time Series' Heterogeneity In Stacked Neural Network
+SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe
+Gumbel-Softmax Discretization Constraint,  Differentiable IDS Channel,  and an IDS-Correcting Code for DNA Storage
+Real-Time Video Generation with Pyramid Attention Broadcast
+MD-LSM: An Efficient Tool for Real-time Monitoring Linear Separability of Hidden-layer Outputs of Deep Networks
+Improving Editability in Compositional Image Diffusion with Layer-wise Memory
+QMP: Q-switch Mixture of Policies for Multi-Task Behavior Sharing
+Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model
+How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks
+DM3D: Parameter-Efficient and Lossless 3D Object Detection via Distortion Minimization
+Primphormer: Leveraging Primal Representation for Graph Transformers
+Preference Optimization for Reasoning with Pseudo Feedback
+Regularization by Texts for Latent Diffusion Inverse Solvers
+MLP-KAN: Unifying Deep Representation and Function Learning
+MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts
+WATER-GS: Watermark-embedded 3D Gaussian Splatting via Plug-and-play Decoder
+Evolving Virtual World with Delta-Engine
+Enhancing Factuality in Detailed Image Captioning with LLM-MLLM Collaboration

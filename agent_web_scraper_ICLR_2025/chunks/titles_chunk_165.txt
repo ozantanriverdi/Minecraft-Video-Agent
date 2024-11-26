@@ -1,0 +1,50 @@
+DiffPath: Generating Road Network based Path with Latent Diffusion Model
+NEAR: A Training-Free Pre-Estimator of Machine Learning Model Performance
+Modeling the Human Visual System: Comparative Insights from Response-Optimized and Task-Optimized Vision Models, Language Models, and different Readout Mechanisms
+The Discretization Complexity Analysis of Consistency Models under Variance Exploding Forward Process
+Learning Task Relations for Test-Time Training
+Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity
+FinRipple: Aligning Large Language Models with Financial Market for Event Ripple Effect Awareness
+AhmedML: High-Fidelity Computational Fluid Dynamics Dataset for Incompressible, Low-Speed Bluff Body Aerodynamics
+Reversible Decoupling Network for Single Image Reflection Removal
+Do as I do (Safely): Mitigating Task-Specific Fine-tuning Risks in Large Language Models
+Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts
+Labels Are Not All You Need: Evaluating Node Embedding Quality without Relying on Labels
+Noise Prompt Learning: Learning the Winning Tickets for Diffusion Sampling
+Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors
+Improving AI via Novel Computational Models and Programming Challenges
+HyperPg - Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning
+Epistemic Monte Carlo Tree Search
+Plan B: Training LLMs to fail less severely
+Influence Functions for Scalable Data Attribution in Diffusion Models
+Second-Order Min-Max Optimization with Lazy Hessians
+AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant
+LinBridge: A Learnable Framework for Interpreting Nonlinear Neural Encoding Models
+ParaSolver: A Hierarchical Parallel Integral Solver for Diffusion Models
+RAGDP: Retrieve-Augmented Generative Diffusion Policy
+Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary
+How Do We Select Right LLM for Each Query?
+LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs
+Disentangling the Roles of Representation and Selection in Data Pruning (for Fine-Tuning)
+To FP8 and Back Again: Quantifying Reduced Precision Effects on LLM Training Stability
+Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval
+The Devil is in the Word: Video-Conditioned Text Representation Refinement for Text-to-Video Retrieval
+Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution
+Groundwater Seepage Modeling in a River-Canal System based on Physics-Informed Neural Networks
+Emergent properties with repeated examples
+Anti-Reference: Universal  and Immediate Defense Against Reference-Based Generation
+Cross-Modal Alignment via Variational Copula Modelling
+Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization
+GeneBench: Systematic Evaluation of Genomic Foundation Models and Beyond
+Action Typicality and Uniqueness Learning for Zero-Shot Video Anomaly Detection
+Accelerating Error Correction Code Transformers
+On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists
+Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models
+Solving Diverse Combinatorial Optimization Problems with a Unified Model
+Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks
+InfiniteMesh: View Interpolation using Multi-view Diffusion for 3D Mesh Reconstruction
+Composing Unbalanced Flows for Flexible Docking and Relaxation
+Temporal Reasoning Transfer from Text to Video
+IV-mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis
+Beyond Transformations: Augmenting Anything for Image Super-Resolution via Diffusion Model
+Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks

@@ -1,0 +1,50 @@
+Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding
+TabDPT: Scaling Tabular Foundation Models
+Unleashing the Potential of Classification with Semantic Similarity for Deep Imbalanced Regression
+Alternating Projections With Volume Sampling
+Virtual Community: A Generative Social World for Embodied AI
+ACID: A Comprehensive Dataset for AI-Created Image Detection
+Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want
+E-DETR: Evidential Deep Learning for End-to-End Uncertainty Estimation in Object Detection
+Programming Refusal with Conditional Activation Steering
+Intrinsic Behavioral Variability Facilitates Flexible Representations: A Neuromotor Developmental Perspective
+Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
+Finetuning Weather Foundation Models to Develop Climate Model Parameterizations
+Is Graph Convolution Always Beneficial For Every Feature?
+Learning to Generate Diverse Pedestrian Movements from Web Videos with Noisy Labels
+Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting
+MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting
+Long-form Hallucination Detection with Self-elicitation
+Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities
+Identifying treatment response subgroups in observational time-to-event data
+MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with  0.1 k  Parameters
+SSLA: A Generalized Attribution Method for Interpreting Self-Supervised Learning without Downstream Task Dependency
+α -Divergence Loss Function for Neural Density Ratio Estimation
+Dynamic Cross-Layer Prefix Alignment for Resolving Label Preference Discrepancies in LLMs Fine-Tuning
+MIRAGE: Evaluating and Explaining Inductive Reasoning Process in Language Models
+Feature Level Instance Attribution
+PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training
+Training Over a Distribution of Hyperparameters for Enhanced Performance and Adaptability on Imbalanced Classification
+One for all and all for one: Efficient computation of partial Wasserstein distances on the line
+Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning
+Slerp + : Spherical Linear Interpolation for Unified Compositional Retrieval
+Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models
+Precise Parameter Localization for Textual Generation in Diffusion Models
+Improved Video VAE for Latent Video Diffusion Model
+CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control
+Boost 3D Reconstruction using Diffusion-based Intrinsic Estimation
+Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models
+Revisiting Convolution Architecture in the Realm of DNA Foundation Models
+Kronecker Mask and Interpretive Prompts are Language-Action Video Learners
+M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models
+Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
+MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
+Linear SCM Identification in the Presence of Confounders and Gaussian Noise
+Organizing Unstructured Image Collections using Natural Language
+Feynman-Kac Operator Expectation Estimator
+Peacock: Multi-Objective Optimization for Deep Neural Network Calibration
+MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?
+State Space Model Meets Transformer: A New Paradigm for 3D Object Detection
+Mambular: A Sequential Model for Tabular Deep Learning
+What to align in multimodal contrastive learning?
+Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines

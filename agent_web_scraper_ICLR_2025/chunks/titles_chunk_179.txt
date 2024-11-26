@@ -1,0 +1,50 @@
+Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving
+VaQuitA: Enhancing Alignment in LLM-Assisted Zero-Shot Video Understanding
+Minixax Optimal Two-Stage Algorithm For Moment Estimation Under Covariate Shift
+The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs
+SolidMark: Evaluating Image Memorization in Generative Models
+Poly-Autoregressive Modeling for Interacting Entities
+A new perspective on applying mesoscience to explore the model generalizability
+Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training
+Failures to Find Transferable Image Jailbreaks Between Vision-Language Models
+A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language
+CR2PQ: Continuous Relative Rotary Positional Query for Dense Visual Representation Learning
+Towards zero shot multivariate time series anomaly detection - A Realistic Evaluation
+Rethinking Visual Counterfactual Explanations Through Region Constraint
+Binary Hyperbolic Embeddings
+Multi-Concept Editing Using Task Arithmetic
+Hidden in the Noise: Two-Stage Robust Watermarking for Images
+ENHANCING DIVERSITY AND ACCURACY IN PERSONALIZED TAG RECOMMENDATIONS: A HYBRID SEMANTIC AND CONTEXTUAL ANALYSIS APPROACH
+Masked VAE: Distributionally-Informed Self-Supervised Vision Learning
+Prompt-Agnostic Erasure for Diffusion Models Using Task Vectors
+From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks
+Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models
+Stochastic Matching Bandits under Preference Feedback
+Dynamic Multi-product Selection and Pricing under Preference Feedback
+Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference
+WATERMARKING GRAPH NEURAL NETWORKS VIA EXPLANATIONS FOR OWNERSHIP PROTECTION
+Hierarchical Corpus Encoder: Fusing Generative Retrieval and Dense Indices
+BrailleVision: Text Instruction Tuning of LLMs to Improve Visual Skills
+Release the Powers of Prompt Tuning: Cross-Modality Prompt Transfer
+Quantifying Variance in Evaluation Benchmarks
+Sample-Efficient Co-Optimization of Agent Morphology and Policy with Self-Imitation Learning
+Flow-based Maximum Entropy Domain Randomization for Multi-step Assembly
+Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
+Improving out-of-distribution generalization by mimicking the human visual diet.
+Angle Graph Transformer: Capturing Higher-Order Structures for Accurate Molecular Geometry Learning
+GOFA: A Generative One-For-All Model for Joint Graph Language Modeling
+Supervised Chain of Thought
+FALCON: A Feedback-Driven Adaptive Long/Short-Term Memory Reinforced Coding Optimization
+Continuous Surface Normal Integration
+Analyzing and Optimizing Perturbation of DP-SGD Geometrically
+Auditing Data Controller Compliance with Data Withdrawal
+Riemannian Manifold Learning for Stackelberg Games with Neural Flow Representations
+Closed-Form Interpretation of Neural Network Latent Spaces with Symbolic Gradients
+Group Distributionally Robust Dataset Distillation with Risk Minimization
+METRIS: Multi-Expressions for Transformer-based Referring Image Segmentation
+Divide-Verify-Refine: Aligning LLM Responses with Complex Instructions
+CapeX: Category-Agnostic Pose Estimation from Textual Point Explanation
+Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation
+Strategic Classification With Externalities
+Low-Rank Correction for Quantized LLMs
+Listening to Formulas: Pioneering Models and Datasets for Converting Speech to LaTeX Equations

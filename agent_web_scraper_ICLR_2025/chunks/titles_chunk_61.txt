@@ -1,0 +1,50 @@
+Extending Contextual Self-Modulation: Meta-Learning Across Modalities, Task Dimensionalities, and Data Regimes
+Unifying Structural Proximity and Equivalence for Enhanced Dynamic Network Embedding
+Losing dimensions: Geometric memorization in generative diffusion
+LDINet:  Latent Decomposition-Interpolation for Single Image Fast-moving Objects Deblatting
+LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a Hybrid Architecture
+Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving
+Dual Flows with Contrastive Guidance for Generating Highly Designable Proteins
+VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-modal Scientific Reasoning
+Rethinking Pre-Training in Tabular Data:  A Neighborhood Embedding Perspective
+M2Edit: Locate and Edit Multi-Granularity Knowledge in Multimodal Large Language Model
+Applying Sparse Autoencoders to Unlearn Knowledge in Language Models
+Critical Phase Transition in Large Language Models
+Efficient Interpolation between Extragradient and Proximal Methods for Weak MVIs
+CardiCat: a Variational Autoencoder for High-Cardinality Tabular Data
+Semantic-Aware Diffusion Model for Sequential Recommendation
+Neural Topic Modeling with Large Language Models in the Loop
+Generalization Performance Gap Analysis between Centralized and Federated Learning: How to Bridge this Gap?
+The Turing Game
+Drawing the Line: Enhancing  Trustworthiness of MLLMs Through the Power of Refusal
+Salvador Urban Network Transportation (SUNT): A Landmark Spatiotemporal Dataset for Public Transportation
+Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses
+Generative Flows on Synthetic Pathway for Drug Design
+Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows
+InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting
+ALPBench: A Benchmark for Active Learning Pipelines on Tabular Data
+Multi-expert collaboration: Enhancing heterogeneous knowledge independence and alignment in knowledge distillation
+Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors
+Can Stability be Detrimental? Better Generalization through Gradient Descent Instabilities
+Rethinking Modality Alignment in Multi-Modal Large Language Models
+LLM-Mediated Guidance of MARL Systems
+Vector Grimoire: Codebook-based Shape Generation under Raster Image Supervision
+Torque-Aware Momentum
+Signature Kernel Conditional Independence Tests in Causal Discovery for Stochastic Processes
+MathGLM-Vision: Solving Mathematical Problems with Multi-Modal Large Language Model
+ADAM Optimization with Adaptive Batch Selection
+Tailoring Mixup to Data for Calibration
+Structural Multi-view Clustering Network via Heterogeneous Random Walks
+A Provable Quantile Regression Adapter via Transfer Learning
+Statistical Test on Diffusion Model-based Anomaly Detection by Selective Inference
+SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction
+MIRACLE 3D: Memory-efficient Integrated Robust Approach for Continual Learning on 3D Point Clouds via Shape Model Reconstruction
+Neural Description Logic Reasoning over Incomplete Knowledge Bases
+Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning
+GNNAS-Dock: Budget Aware Algorithm Selection with Graph Neural Networks for Molecular Docking
+Private Blind Model Averaging – Distributed, Non-interactive, and Convergent
+Unveiling Context-Aware Criteria in Self-Assessing LLMs
+GameInstruct: Teaching Machines to Reason via Chameleon Game
+Designing Deep Learning Programs with Large Language Models
+SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations
+TRENDy: Temporal Regression of Effective Nonlinear Dynamics

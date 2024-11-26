@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System",
+        "relevant": false
+    },
+    {
+        "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+        "relevant": false
+    },
+    {
+        "title": "Open-World Planning via Lifted Regression with LLM-based Affordances for Embodied Agents",
+        "relevant": true
+    },
+    {
+        "title": "Simulate Before Act: Model-Based Planning for Web Agents",
+        "relevant": false
+    },
+    {
+        "title": "Large Language Models Can Self-Improve At Web Agent Tasks",
+        "relevant": false
+    }
+]

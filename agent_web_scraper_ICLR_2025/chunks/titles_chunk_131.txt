@@ -1,0 +1,50 @@
+RANKCLIP: Ranking-Consistent Language-Image Pretraining
+ShuffleMTM: Learning Cross-channel Dependence in Multivariate Time Series from Shuffled Patches
+ProdInfluencerNet: A Novel Product-Centric Influencer Recommendation Framework Based on Heterogeneous Networks
+UQ-Merge : UNCERTAINTY GUIDED MULTIMODAL LARGE LANGUAGE MODEL MERGING
+A Benchmark for Semantic Sensitive Information in LLMs Outputs
+FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models
+RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians
+Think Twice Before You Act: Improving Inverse Problem Solving With MCMC
+Phase-Driven Domain Generalizable Learning For Nonstationary Time Series Classification
+Elucidating the Design Space of Text-to-Audio Models
+Path-Tracing Distillation: Enhancing Stability in Text-to-3D Generation by Mitigating Out-of-Distribution Issues
+Paramanu-Ganita: An Efficient Pre-trained Generative Mathematics Language Model with Chain-of-Thought Instruction Fine-Tuning
+Diffusion Attribution Score: Which Training Sample Determines Your Generation?
+Efficient Neuron Segmentation in Electron Microscopy by Affinity-Guided Queries
+Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis
+Context-Aware Kernel Search for Bayesian Optimization with Large Language Models
+HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal Large Language Models
+PIG: Physics-Informed Gaussians as Adaptive Parametric Mesh Representations
+Scaling Omni-modal Pretraining with Multimodal Context: Advancing Universal Representation Learning Across Modalities
+ShortGPT: Layers in Large Language Models are More Redundant Than You Expect
+Efficiently pre-training language models with mixtures of cluster-oriented, trainability-aware experts
+BraiNav: Incorporating Human Brain Activity to Enhance Robustness in Embodied Visual Navigation
+xFinder: Large Language Models as Automated Evaluators for Reliable Evaluation
+Block-to-Scene Pre-training for Point Cloud Hybrid-Domain Masked Autoencoders
+Scalable Simulation-free Entropic Unbalanced Optimal Transport
+PiCO: Peer Review in LLMs based on Consistency Optimization
+Advancing Neural Network Performance through Emergence-Promoting Initialization Scheme
+Boosting Perturbed Gradient Ascent for Last-Iterate Convergence in Games
+BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers
+Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization
+Estimating Committor Functions via Deep Adaptive Sampling on Rare Transition Paths
+FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure
+Learning to Permute with Discrete Diffusion
+Inv-PnCO: Invariant Predict-and-Combinatorial Optimization under Distribution Shifts
+Self-Alignment Optimization for Language Models
+Uncertainty Quantification with Generative-Semantic Entropy Estimation for Large Language Models
+Improving Neural Optimal Transport via Displacement Interpolation
+MMEval: Evaluating Video Generation Models for Motion Quality
+Towards Aligned Data Forgetting via Twin Machine Unlearning
+Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models
+Revisit, Extend, and Enhance Hessian-Free Influence Functions
+MME-FINANCE: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning
+Uncovering Gaps in How Humans and LLMs Interpret Subjective Language
+Quantifying Emergence in Neural Networks: Insights from Pruning and Training Dynamics
+RDHNet: Addressing Rotational and Permutational Symmetries in Continuous Multi-Agent Systems
+GeNIe: Generative Hard Negative Images Through Diffusion
+UniCoTT: A Unified Framework for Structural Chain-of-Thought Distillation
+Towards Stable Learning in Predictive Coding Networks
+Neural Fluid Simulation on Geometric Surfaces
+RandLoRA: Full rank parameter-efficient fine-tuning of large models

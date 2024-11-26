@@ -1,0 +1,50 @@
+On the Computational Complexity of Private High-dimensional Model Selection
+Why Do We Need Weight Decay in Modern Deep Learning?
+Open-Vocabulary Object Detection via Language Hierarchy
+Grounded Answers for Multi-agent Decision-making Problem through Generative World Model
+Quantifying the Gain in Weak-to-Strong Generalization
+Improved Guarantees for Fully Dynamic  k -Center Clustering with Outliers in General Metric Spaces
+Efficiency of the First-Price Auction in the Autobidding World
+Tighter Convergence Bounds for Shuffled SGD via Primal-Dual Perspective
+Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation
+IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons
+Automated Multi-Task Learning for Joint Disease Prediction on Electronic Health Records
+Elo Uncovered: Robustness and Best Practices in Language Model Evaluation
+Great Minds Think Alike: The Universal Convergence Trend of Input Salience
+Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization
+Separation and Bias of Deep Equilibrium Models on Expressivity and Learning Dynamics
+Bias in Motion: Theoretical Insights into the Dynamics of Bias in SGD Training
+UV-free Texture Generation with Denoising and Geodesic Heat Diffusion
+Embedding Dimension of Contrastive Learning and  k -Nearest Neighbors
+Large Language Model Unlearning
+Neural Model Checking
+Super Consistency of Neural Network Landscapes and Learning Rate Transfer
+Efficient Centroid-Linkage Clustering
+Improving Subgroup Robustness via Data Selection
+Learning Structured Representations with Hyperbolic Embeddings
+Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals
+Single-Loop Stochastic Algorithms for Difference of Max-Structured Weakly Convex Functions
+On the Stability and Generalization of Meta-Learning
+DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering
+Dynamic Conditional Optimal Transport through Simulation-Free Flows
+Persistence Homology Distillation for Semi-supervised Continual Learning
+VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation
+A Fast Convoluted Story: Scaling Probabilistic Inference for Integer Arithmetics
+ScaleKD: Strong Vision Transformers Could Be Excellent Teachers
+CALVIN: Improved Contextual Video Captioning via Instruction Tuning
+Smoke and Mirrors in Causal Downstream Tasks
+Improving Decision Sparsity
+Poseidon: Efficient Foundation Models for PDEs
+PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection
+Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations
+Learning a Single Neuron Robustly to Distributional Shifts and Adversarial Label Noise
+Preference-based Pure Exploration
+Evaluating alignment between humans and neural network representations in image-based learning tasks
+Ensemble sampling for linear bandits: small ensembles suffice
+Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning
+Ask, Attend, Attack: An Effective Decision-Based Black-Box Targeted Attack for Image-to-Text Models
+Context-Aware Testing: A New Paradigm for Model Testing with Large Language Models
+RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation
+FINALLY: fast and universal speech enhancement with studio-like quality
+Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space
+Wasserstein convergence of Cech persistence diagrams for samplings of submanifolds

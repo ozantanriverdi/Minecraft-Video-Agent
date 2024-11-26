@@ -1,0 +1,22 @@
+[
+    {
+        "title": "GridAgent: A 2D Grid-Based Game Framework And Benchmark For Multimodal Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks",
+        "relevant": false
+    },
+    {
+        "title": "SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models",
+        "relevant": false
+    },
+    {
+        "title": "Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration",
+        "relevant": false
+    },
+    {
+        "title": "Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems",
+        "relevant": false
+    }
+]

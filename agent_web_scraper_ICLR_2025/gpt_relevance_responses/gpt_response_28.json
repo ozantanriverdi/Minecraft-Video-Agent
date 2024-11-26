@@ -1,0 +1,22 @@
+[
+    {
+        "title": "LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence",
+        "relevant": true
+    },
+    {
+        "title": "Chain of Ideas: Revolutionizing Research in Idea Development with LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "SCALE: Augmenting Content Analysis via LLM Agents and AI-Human Collaboration",
+        "relevant": false
+    },
+    {
+        "title": "Towards LLM4Floorplan: Agents Can Do What Engineers Do in Chip Design",
+        "relevant": false
+    },
+    {
+        "title": "Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming",
+        "relevant": false
+    }
+]

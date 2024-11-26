@@ -1,0 +1,50 @@
+Resfusion: Denoising Diffusion Probabilistic Models for Image Restoration Based on Prior Residual Noise
+D2R2: Diffusion-based Representation with Random Distance Matching for Tabular Few-shot Learning
+Information Re-Organization Improves Reasoning in Large Language Models
+Efficient LLM Scheduling by Learning to Rank
+FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge Distillation and Discrepancy-Aware Aggregation
+Unified Graph Augmentations for Generalized Contrastive Learning on Graphs
+Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance
+Mind the Gap Between Prototypes and Images in Cross-domain Finetuning
+RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models
+Gradient-Free Methods for Nonconvex Nonsmooth Stochastic Compositional Optimization
+Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli
+Stabilizing Zero-Shot Prediction: A Novel Antidote to Forgetting in Continual Vision-Language Tasks
+Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+GACL: Exemplar-Free Generalized Analytic Continual Learning
+Learning 1D Causal Visual Representation with De-focus Attention Networks
+MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images
+Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval
+SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+Online Feature Updates Improve Online (Generalized) Label Shift Adaptation
+Event-3DGS: Event-based 3D Reconstruction Using 3D Gaussian Splatting
+CigTime: Corrective Instruction Generation Through Inverse Motion Editing
+Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models
+Video Diffusion Models are Training-free Motion Interpreter and Controller
+BAdam: A Memory Efficient Full Parameter Optimization Method for Large Language Models
+Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection
+Bandit-Feedback Online Multiclass Classification: Variants and Tradeoffs
+Happy: A Debiased Learning Framework for Continual Generalized Category Discovery
+Adaptive Passive-Aggressive Framework for Online Regression with Side Information
+OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation
+Scaling Law for Time Series Forecasting
+In Pursuit of Causal Label Correlations for Multi-label Image Recognition
+ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation
+Demystify Mamba in Vision: A Linear Attention Perspective
+Vector Quantization Prompting for Continual Learning
+Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting
+Exploiting Representation Curvature for Boundary Detection in Time Series
+DMesh: A Differentiable Mesh Representation
+Improving Robustness of 3D Point Cloud Recognition from a Fourier Perspective
+Post-Hoc Reversal: Are We Selecting Models Prematurely?
+Sequential Signal Mixing Aggregation for Message Passing Graph Neural Networks
+Federated Black-Box Adaptation for Semantic Segmentation
+Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding
+Interpretable Image Classification with Adaptive Prototype-based Vision Transformers
+Hierarchical Hybrid Sliced Wasserstein: A Scalable Metric for Heterogeneous Joint Distributions
+ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration
+Improving Generalization of Dynamic Graph Learning via Environment Prompt
+Improving Neural ODE Training with Temporal Adaptive Batch Normalization
+Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation
+On-Road Object Importance Estimation: A New Dataset and A Model with Multi-Fold Top-Down Guidance
+DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model

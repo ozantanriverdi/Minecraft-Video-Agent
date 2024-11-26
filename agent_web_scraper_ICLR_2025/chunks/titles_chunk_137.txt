@@ -1,0 +1,50 @@
+Pixelated Instructions: Can Multimodal Large Language Models Follow Printed Instructions in Images?
+Interpretable Language Modeling via Induction-head Ngram Models
+Rational Decision-Making Agent with Learning Internal Utility Judgment
+Pareto Prompt Optimization
+Transformers versus LSTMs for electronic trading
+BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks
+AutoScale: Combining Multi-Task Optimization with Linear Scalarization
+Linear Mode Connectivity in Differentiable Tree Ensembles
+3D-Properties: Identifying Challenges in DPO and Charting a Path Forward
+Learning Universal Features for Generalizable Image Forgery Localization
+MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation
+Long-tailed Adversarial Training with Self-Distillation
+MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection
+PokéLLMon: A Grounding and Reasoning Benchmark for Large Language Models in Pokémon Battles
+Assessing the Interpretability of Programmatic Policies using Large Language Models
+JudgeBench: A Benchmark for Evaluating LLM-Based Judges
+Synthetic continued pretraining
+Tensor Attention Training: Provably Efficient Learning of Higher-order Transformers
+Hierarchical Graph Learners for Cardinality Estimation
+Combating Dual Noise Effect in Spatial-temporal Forecasting via Information Bottleneck Principle
+A Solver-Aided Hierarchical Language For LLM-Driven CAD Design
+EM-GANSim: Real-time and Accurate EM Simulation Using Conditional GANs for 3D Indoor Scenes
+Indirect Gradient Matching for Adversarial Robust Distillation
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models
+Efficient Visual Transformer by Information Bottleneck Inspired Token Merging
+Towards Generalization Bounds of GCNs for Adversarially Robust Node Classification
+Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models
+Domain Shift Tuning over Knowledge Gap
+An efficient algorithm for entropic optimal transport under martingale-type constraints
+DiffMove: Human Trajectory Recovery via Conditional Diffusion Model
+EventFlow: Forecasting Continuous-Time Event Data with Flow Matching
+Role of Momentum in Smoothing Objective Function and Generalizability of Deep Neural Networks
+Compelling ReLU Networks to Exhibit Exponentially Many Linear Regions at Initialization and During Training
+Task Descriptors Help Transformers Learn Linear Models In-Context
+Diffusion Curriculum: Synthetic-to-Real Data Curriculum via Image-Guided Diffusion
+Beyond Trend and Periodicity: Guide Time Series Forecasting with Textual Cues
+MallowsPO: Fine-Tune Your LLM with Preference Dispersions
+Distribution-Specific Agnostic Conditional Classification With Halfspaces
+Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model
+A Causal Framework for Aligning Metrics of Image Quality and Deep Neural Network Robustness
+Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+Memory-Efficient Self-Supervised Contrastive Learning with a Supervised Loss
+Conditional LoRA Parameter Generation
+MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation
+OCCAM: Towards Cost-Efficient and Accuracy-Aware Classification Inference
+Objective Soups: Multilingual Multi-Task Acoustic Modeling for Automatic Speech Recognition
+Machine Unlearning via Simulated Oracle Matching
+TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neuronal Dynamics and Behavior
+DEEM: Diffusion models serve as the eyes of large language models for image perception
+Discovering Clone Negatives via Adaptive Contrastive Learning for Image-Text Matching

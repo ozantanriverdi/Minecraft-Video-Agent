@@ -1,0 +1,50 @@
+Enhancing Linear Bound Tightness in Neural Network Verification via Sampling-Based Underestimation
+An Information-Theoretic Approach to Diversity Evaluation of Prompt-based Generative Models
+Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection
+Addressing Label Shift in Distributed Learning via Entropy Regularization​
+Efficient Object-Centric Learning for Videos
+HyperSHAP: Shapley Values and Interactions for Hyperparameter Importance
+LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models
+TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts
+Dreamweaver: Learning Compositional World Models from Pixels
+'No' Matters: Out-of-Distribution Detection in Multimodality Long Dialogue
+Sample Efficient Alignment for LLMs
+MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration
+Rare event modeling with self-regularized normalizing flows: what can we learn from a single failure?
+Getting Free Bits Back from Rotational Symmetries in LLMs
+CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series
+Length Representations in Large Language Models
+Projection Head is Secretly an Information Bottleneck
+WILTing Trees: Interpreting the Distance Between MPNN Embeddings
+Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure
+SFESS: Score Function Estimators for  k -Subset Sampling
+SparseDM: Toward Sparse Efficient Diffusion Models
+ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration
+Sketch-Plan-Generalize: Learning Inductive Representations for Grounded Spatial Concepts
+Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models
+Privacy-Preserving Federated Learning via Homomorphic Adversarial Networks
+Inferences on Covariance Matrix with Blockwise Correlation Structure
+Hybrid Contrastive Transformer for Visual Tracking
+Dataset for Image-based Analysis of Mineral Fertilizer Granules
+BiCert: A Blinear Mixed Integer Programming Formulation for Precise Certified Bounds Against Data Poisoning Attacks
+Neural Dynamic Pricing: Provable and Practical Efficiency
+PADriver: Towards Personalized Autonomous Driving
+Just Select Twice: Leveraging Low Quality Data to Improve Data Selection
+Knowledge And Capability Transfer Through Large Language Models' Parameters Fusing
+A Theory of Initialisation's Impact on Specialisation
+AuToMATo: An Out-Of-The-Box Persistence-Based Clustering Algorithm
+Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion
+PrAViC: Probabilistic Adaptation Framework for Real-Time Video Classification
+AgentSquare: Automatic LLM Agent Search in Modular Design Space
+Dolphin: A Programmable Framework for Scalable Neurosymbolic Learning
+Energy-based Backdoor Defense Against Federated Graph Learning
+Seeking Global Flat Minima in Federated Domain Generalization via Constrained Adversarial Augmentation
+Optimal Generative Cyclic Transport between Image and Text
+Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation
+Quantization Enhanced Cross-modal Alignment for Gene Expression Prediction
+Application of Metric Transformation in One-Step Retrosynthesis
+Unlocking Compositional Understanding of Vision-Language Models with Visualization Representation and Analysis
+ABAS-RAL: Adaptive BAtch Size using Reinforced Active Learning
+Size-Generalizable RNA Structure Evaluation by Exploring Hierarchical Geometries
+Leveraging Knowledge Graphs to harvest a high-quality dataset for efficient CLIP model training
+CASE: Challenger Arm Sampling for Efficient In-Context Reasoning

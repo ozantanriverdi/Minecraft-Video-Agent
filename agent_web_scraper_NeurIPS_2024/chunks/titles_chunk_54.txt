@@ -1,0 +1,50 @@
+S2HPruner: Soft-to-Hard Distillation Bridges the Discretization Gap in Pruning
+ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings
+Unsupervised Homography Estimation on Multimodal Image Pair via Alternating Optimization
+Initializing Variable-sized Vision Transformers from Learngene with Learnable Transformation
+Self-playing Adversarial Language Game Enhances LLM Reasoning
+Distributional regression: CRPS-error bounds for model fitting, model selection and convex aggregation
+Generalizablity of Memorization Neural Network
+Measuring Per-Unit Interpretability at Scale Without Humans
+Constrained Sampling with Primal-Dual Langevin Monte Carlo
+DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection
+Toward Conditional Distribution Calibration in Survival Prediction
+Self-Supervised Adversarial Training via Diverse Augmented Queries and Self-Supervised Double Perturbation
+Statistical and Geometrical properties of the Kernel Kullback-Leibler divergence
+ShowMaker: Creating High-Fidelity 2D Human Video via Fine-Grained Diffusion Modeling
+ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence
+CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense
+Delving into the Reversal Curse: How Far Can Large Language Models Generalize?
+Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models
+DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation
+Optimal Multi-Fidelity Best-Arm Identification
+SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge
+Streaming Long Video Understanding with Large Language Models
+A provable control of sensitivity of neural networks through a direct parameterization of the overall bi-Lipschitzness
+Learning Distributions on Manifolds with Free-Form Flows
+SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction
+Logical characterizations of recurrent graph neural networks with reals and floats
+InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory
+Stress-Testing Capability Elicitation With Password-Locked Models
+Towards Harmless Rawlsian Fairness Regardless of Demographic Prior
+Generalizable Implicit Motion Modeling for Video Frame Interpolation
+CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition
+DECRL: A Deep Evolutionary Clustering Jointed Temporal Knowledge Graph Representation Learning Approach
+Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting
+Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning
+MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts
+Why Go Full? Elevating Federated Learning Through Partial Network Updates
+Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis
+Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters
+Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images
+Functional Gradient Flows for Constrained Sampling
+Online Adaptation of Language Models with a Memory of Amortized Contexts
+Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series
+Association Pattern-aware Fusion for Biological Entity Relationship Prediction
+AID: Attention Interpolation of Text-to-Image Diffusion
+FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning
+A Sober Look at the Robustness of CLIPs to Spurious Features
+LLMs Can Evolve Continually on Modality for  X -Modal Reasoning
+Multi-Stage Predict+Optimize for (Mixed Integer) Linear Programs
+Preferential Normalizing Flows
+Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention

@@ -1,0 +1,50 @@
+Verified Code Transpilation with LLMs
+Scalable DP-SGD: Shuffling vs. Poisson Subsampling
+A Polar coordinate system represents syntax in large language models
+Teach Better or Show Smarter? On Instructions and Exemplars in Automatic Prompt Optimization
+3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability
+Dynamic Subgroup Identification in Covariate-adjusted Response-adaptive Randomization Experiments
+Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits
+ET-Flow: Equivariant Flow-Matching for Molecular Conformer Generation
+BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts
+Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers
+Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients
+Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective
+Using Surrogates in Covariate-adjusted Response-adaptive Randomization Experiments with Delayed Outcomes
+Universal Neural Functionals
+Treeffuser: probabilistic prediction via conditional diffusions with gradient-boosted trees
+MediQ: Question-Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning
+RGFN: Synthesizable Molecular Generation Using GFlowNets
+Where Do Large Learning Rates Lead Us?
+Chain of Agents: Large Language Models Collaborating on Long-Context Tasks
+An eye for an ear: zero-shot audio description leveraging an image captioner with audio-visual token distribution matching
+Data-faithful Feature Attribution: Mitigating Unobservable Confounders via Instrumental Variables
+MIDGArD: Modular Interpretable Diffusion over Graphs for Articulated Designs
+RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images with Provable Guarantees
+Adversarially Robust Multi-task Representation Learning
+Deep Bayesian Active Learning for Preference Modeling in Large Language Models
+Flexible Context-Driven Sensory Processing in Dynamical Vision Models
+Practical  0.385 -Approximation for Submodular Maximization Subject to a Cardinality Constraint
+What makes unlearning hard and what to do about it
+Efficiency for Free: Ideal Data Are Transportable Representations
+Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need
+SOI: Scaling Down Computational Complexity by Estimating Partial States of the Model
+Learning World Models for Unconstrained Goal Navigation
+Quadratic Quantum Variational Monte Carlo
+Stealth edits to large language models
+Harnessing small projectors and multiple views for efficient vision pretraining
+Grounding Multimodal Large Language Models in Actions
+DLAD: Improving Logits-based Detector without Logits from Black-box LLMs
+Distributionally Robust Performative Prediction
+Towards a theory of how the structure of language is acquired by deep neural networks
+eXponential FAmily Dynamical Systems (XFADS): Large-scale nonlinear Gaussian state-space modeling
+Understanding Hallucinations in Diffusion Models through Mode Interpolation
+Automatic Outlier Rectification via Optimal Transport
+Optimal Design for Human Preference Elicitation
+Flexible mapping of abstract domains by grid cells via self-supervised extraction and projection of generalized velocity signals
+Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?
+Rethinking Weight Decay for Robust Fine-Tuning of Foundation Models
+DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking
+Partial Transportability for Domain Generalization
+Non-Stationary Learning of Neural Networks with Automatic Soft Parameter Reset
+Task-Agnostic Machine-Learning-Assisted Inference

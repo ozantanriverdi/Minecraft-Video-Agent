@@ -1,0 +1,50 @@
+Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers
+C 2 M 3 : Cycle-Consistent Multi-Model Merging
+Understanding and Minimising Outlier Features in Transformer Training
+Group-wise oracle-efficient algorithms for online multi-group learning
+Sparse Bayesian Generative Modeling for Compressive Sensing
+MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization
+HHD-GP: Incorporating Helmholtz-Hodge Decomposition into Gaussian Processes for Learning Dynamical Systems
+Generalized Eigenvalue Problems with Generative Priors
+Private Online Learning via Lazy Algorithms
+Continuous Partitioning for Graph-Based Semi-Supervised Learning
+fMRI predictors based on language models of increasing complexity recover brain left lateralization
+CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming
+Carrot and Stick: Eliciting Comparison Data and Beyond
+Graph Edit Distance with General Costs Using Neural Set Divergence
+Quantum algorithm for large-scale market equilibrium computation
+Improving Context-Aware Preference Modeling for Language Models
+Stochastic Optimal Control and Estimation with Multiplicative and Internal Noise
+Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models
+pcaGAN: Improving Posterior-Sampling cGANs via Principal Component Regularization
+Identifiability Guarantees for Causal Disentanglement from Purely Observational Data
+3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration
+Untrained Neural Nets for Snapshot Compressive Imaging: Theory and Algorithms
+From Biased to Unbiased Dynamics: An Infinitesimal Generator Approach
+Neural Conditional Probability for Uncertainty Quantification
+Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem
+LP-3DGS: Learning to Prune 3D Gaussian Splatting
+Multiview Scene Graph
+SafeWorld: Geo-Diverse Safety Alignment
+Federated Learning over Connected Modes
+Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need
+Learning the Infinitesimal Generator of Stochastic Diffusion Processes
+Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data
+Where does In-context  Learning  \  Happen in Large Language Models?
+I Don't Know: Explicit Modeling of Uncertainty with an [IDK] Token
+Generative Hierarchical Materials Search
+Learning on Large Graphs using Intersecting Communities
+Analysing the Generalisation and Reliability of Steering Vectors
+GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance
+FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models
+Private Stochastic Convex Optimization with Heavy Tails: Near-Optimality from Simple Reductions
+Dense Associative Memory Through the Lens of Random Features
+Consistency Models for Scalable and Fast Simulation-Based Inference
+Preference Learning of Latent Decision Utilities with a Human-like Model of Preferential Choice
+Tensor-Based Synchronization and the Low-Rankness of the Block Trifocal Tensor
+Unraveling the Gradient Descent Dynamics of Transformers
+What does guidance do? A fine-grained analysis in a simple setting
+SnapKV: LLM Knows What You are Looking for Before Generation
+Supervised Kernel Thinning
+A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits
+Detecting and Measuring Confounding Using Causal Mechanism Shifts

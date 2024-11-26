@@ -1,0 +1,50 @@
+A Simple and Adaptive Learning Rate for FTRL in Online Learning with Minimax Regret of  Θ ( T 2 / 3 )  and its Application to Best-of-Both-Worlds
+Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction
+Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes
+Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection
+Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis
+RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance
+Breaking Semantic Artifacts for Generalized AI-generated Image Detection
+Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight
+DiTFastAttn: Attention Compression for Diffusion Transformer Models
+Spiking Transformer with Experts Mixture
+Approximately Equivariant Neural Processes
+QBB: Quantization with Binary Bases for LLMs
+Extending Multi-modal Contrastive Representations
+Relational Concept Bottleneck Models
+Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models
+On the Target-kernel Alignment: a Unified Analysis with Kernel Complexity
+Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity
+Road Network Representation Learning with the Third Law of  Geography
+Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models
+Noise-Aware Differentially Private Regression via Meta-Learning
+The Limits of Differential Privacy in Online Learning
+Animate3D: Animating Any 3D Model with Multi-view Video Diffusion
+Multi-Agent Imitation Learning: Value is Easy, Regret is Hard
+OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries
+AlphaMath Almost Zero: Process Supervision without Process
+Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization
+Toward Semantic Gaze Target Detection
+High Rank Path Development: an approach to learning the filtration of stochastic processes
+MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models
+Optimal Aggregation of Prediction Intervals under Unsupervised Domain Shift
+LoTLIP: Improving Language-Image Pre-training for Long Text Understanding
+Lightweight Frequency Masker for Cross-Domain  Few-Shot Semantic Segmentation
+Direct Unlearning Optimization for Robust and Safe Text-to-Image Models
+DePLM: Denoising Protein Language Models for Property Optimization
+SfPUEL: Shape from Polarization under Unknown Environment Light
+Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
+Streaming Bayes GFlowNets
+How does Inverse RL Scale to Large State Spaces? A Provably Efficient Approach
+CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search
+Multi-Agent Domain Calibration with a Handful of Offline Data
+MALT Powers Up Adversarial Attacks
+On Divergence Measures for Training GFlowNets
+Markovian Flow Matching: Accelerating MCMC with Continuous Normalizing Flows
+SCaR: Refining Skill Chaining for Long-Horizon Robotic Manipulation via Dual Regularization
+Discovery of the Hidden World with Large Language Models
+Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method
+Multidimensional Fractional Programming for Normalized Cuts
+EfficientCAPER: An End-to-End Framework for Fast and Robust Category-Level Articulated Object Pose Estimation
+DDN: Dual-domain Dynamic Normalization for Non-stationary Time Series Forecasting

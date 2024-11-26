@@ -1,0 +1,26 @@
+I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing
+3DET-Mamba: Causal Sequence Modelling for End-to-End 3D Object Detection
+Online Consistency of the Nearest Neighbor Rule
+No-Regret M ♮ -Concave Function Maximization: Stochastic Bandit Algorithms and NP-Hardness of Adversarial Full-Information Setting
+MeshXL: Neural Coordinate Field for Generative 3D Foundation Models
+Curriculum Fine-tuning of Vision Foundation Model for Medical Image Classification Under Label Noise
+Large Language Models Must Be Taught to Know What They Don’t Know
+Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs
+TuneTables: Context Optimization for Scalable Prior-Data Fitted Networks
+Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data
+Diffusion-Inspired Truncated Sampler for Text-Video Retrieval
+Boosting Text-to-Video Generative Model with MLLMs Feedback
+Unified Generative and Discriminative Training for Multi-modal Large Language Models
+Discovering Sparsity Allocation for  Layer-wise Pruning of Large Language Models
+PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding
+TrAct: Making First-layer Pre-Activations Trainable
+LRM-Zero: Training Large Reconstruction Models with Synthesized Data
+CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts
+Learning to Predict Structural Vibrations
+Conditional Controllable Image Fusion
+Test-Time Dynamic Image Fusion
+Images that Sound: Composing Images and Sounds on a Single Canvas
+Acceleration Exists! Optimization Problems When Oracle Can Only Compare Objective Function Values
+Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning
+Dual Risk Minimization: Towards Next-Level Robustness in Fine-tuning Zero-Shot Models
+SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models

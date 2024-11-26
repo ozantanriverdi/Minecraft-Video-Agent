@@ -1,0 +1,50 @@
+Controllable Molecule Generation by Sampling in Continuous Parameter Space
+Why Do You Answer Like That? Psychological Analysis on Underlying Connections between LLM's Values and Safety Risks
+Efficient Scaling of Diffusion Transformers for Text-to-Image Generation
+CWPS: Efficient Channel-Wise Parameter Sharing for Knowledge Transfer
+Balancing Model Efficiency and Performance: Adaptive Pruner for Long-tailed Data
+Local Loss Optimization in the Infinite Width: Stable Parameterization of Predictive Coding Networks and Target Propagation
+Detecting Training Data of Large Language Models via Expectation Maximization
+Towards Faster Decentralized Stochastic Optimization with Communication Compression
+Mitigating Spurious Correlations via Group-robust Sample Reweighting
+Non-Commutative Spectral Geometry for Adaptive Quantum-Classical Drug-Target Interaction Prediction
+Endless Jailbreaks with Bijection Learning
+Rethinking Efficient 3D Equivariant Graph Neural Networks
+Think or Remember? Detecting and Directing LLMs Towards Memorization or Generalization
+Robust Gaussian Process Regression with Huber Likelihood
+Unveiling Concept Attribution in Diffusion Models
+Efficient Automated Circuit Discovery in Transformers using Contextual Decomposition
+Towards an Understanding of Graph Sequence Models
+LLF-Bench: A Benchmark for Interactive Learning from Language Feedback
+On the Surprising Efficacy of Online Self-Improvement for Embodied Multimodal Foundation Models
+An Efficient Framework for Crediting Data Contributors of Diffusion Models
+Weakly-supervised & Uncertainty-aware 3D Gaze Estimation with Geometry-guided Constraints
+Decentralized Finite-Sum Optimization over Time-Varying Networks
+Decentralized Optimization with Coupled Constraints
+DenseAttention: No-Compromise Exact All  N × N   Interactions Algorithm with  O ( N )  Space and Time Complexity
+You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning
+Why Not Transform Chat Large Language Models to Non-English?
+NIRANTAR: Continual Learning with New Languages and Domains on Real-world Speech Data
+Label Correlation Biases Direct Time Series Forecast
+Large Language Models are Demonstration Pre-Selectors for Themselves
+PromptWizard: Task-Aware Prompt Optimization Framework
+From Scaling Law to Sub-Scaling Law: Understanding the Diminishing Returns of Larger Models
+SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration
+Foundation Models for Boolean Logic
+Active Causal Learning for Conditional Average Treatment Effect Estimation
+DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs
+FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation
+Efficient Adaptive Filtering for Deformable Image registration
+Exposing the Achilles' Heel: Evaluating LLMs Ability to Handle Mistakes in Mathematical Reasoning
+DDAD: A Two-Pronged Adversarial Defense Based on Distributional Discrepancy
+Consistency Guaranteed Causal Graph Recovery with Large Language Models
+Bench-O-Matic: Automating Benchmark Curation from Crowdsourced Data
+3D-CT-GPT++: Enhancing 3D Radiology Report Generation with Direct Preference Optimization and Large Vision-Language Models
+Logarithmic Linear Units (LogLUs): A Novel Activation Function for Improved Convergence in Deep Neural Networks
+Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition
+Diffusion-Based Planning for Autonomous Driving with Flexible Guidance
+AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models
+SYNBUILD-3D: A multi-modal synthetic dataset of over 100,000 semantically enriched 3D building wireframes with AI-generated floor plans
+Treatment Rule Optimization Under Counterfactual Temporal Point Processes with Latent States
+SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models
+Naturality-Guided Hyperedge Disentanglement for Message Passing Hypergraph Neural Network

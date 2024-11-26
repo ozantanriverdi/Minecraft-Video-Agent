@@ -1,0 +1,50 @@
+Learn from the Past: Dynamic Data Pruning with Historically Weighted Bernoulli Sampling
+Noise Balance and Stationary Distribution of Stochastic Gradient Descent
+Dataset Distillation for Domain Generalization
+ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities
+VLMaterial: Procedural Material Generation with Large Vision-Language Models
+Rethinking Copyright Infringements In the Era Of Text-to-Image Generative Models
+Can Large Vision-Language Models Correct Grounding Errors By Themselves?
+From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
+Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs
+Overfitting: An Unexpected Asset in AI‐Generated Image Detection
+PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning
+ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World
+FlexBCQ: Flexible Binary-coding Quantization for Large Language Models
+Enhancing Large Language Models' Situated Faithfulness to External Contexts
+Heavy-Tailed Diffusion Models
+LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization
+GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model
+Riemannian Low-Rank Adaptation for Federated Fine-Tuning of Foundation Models
+Efficient Inference for Large Language Model-based Generative Recommendation
+Spatial 3D-LLM: Progressive Spatial Awareness for Advanced 3D Vision-Language Understanding
+VRM: Knowledge Distillation via Virtual Relation Matching
+Potential Outcomes Estimation Under Hidden Confounders
+Refine Knowledge of Large Language Models via Adaptive Contrastive Learning
+Tests as Instructions: A Test-Driven-Development Benchmark for LLM Code Generation
+ChebyNet: Boosting Neural Network Fitting and Efficiency through Chebyshev Polynomial Layer Connections
+MeFBO: A Moreau Envelope Based First-Order Stochastic Gradient Method for Nonconvex Federated Bilevel Optimization
+Hi-TPH: A Large-Scale Hierarchical Dataset for TCR-pHLA Binding Prediction
+Frequency-Conditioned Diffusion Models for Time Series Generation
+On the Cycle Consistency of Image-Text Mappings
+Establishing Knowledge Preference in Language Models
+Beyond Scale: The Diversity Coefficient as a Data Quality Metric for Variability in Natural Language Data
+Dueling in the Dark: An Efficient and Optimal  O ( T )  Mirror Descent Approach for Competing against Adversarial Preferences
+Advancing Differential Privacy through Synthetic Dataset Alignment
+Dynamic Contrastive Skill Learning with State-Transition Based Skill Clustering and Dynamic Length Adjustment
+Comprehensive Artistic Style Representation for Quantitative Evaluation
+MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection
+In-context KV-Cache Eviction for LLMs via Attention-Gate
+From Appearance to Motion: Aligning Visual Representations for Robotic Manipulation
+SymMaP: Improving Computational Efficiency in Linear Solvers through Symbolic Preconditioning
+Potential Outcome Imputation for CATE Estimation
+Representative Guidance: Diffusion Model Sampling with Consistency
+Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images
+Do Stochastic, Feel Noiseless: Stable Stochastic Optimization via a Double Momentum Mechanism
+Evolved LLM Schemas for Mid Vision Feedback
+Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback
+Scaling and evaluating sparse autoencoders
+Towards characterizing the value of edge embeddings in graph neural networks
+Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension ability
+ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise
+No Free Lunch from Random Feature Ensembles

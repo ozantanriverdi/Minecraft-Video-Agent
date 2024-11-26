@@ -1,0 +1,50 @@
+KAC: Kolmogorov-Arnold Classifier for Continual Learning
+PSHead: 3D Head Reconstruction from a Single Image with Diffusion Prior and Self-Enhancement
+FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives
+AnyAttack: Self-supervised Generation of Targeted Adversarial Attacks for Vision-Language Models
+Controllable Blur Data Augmentation Using 3D-Aware Motion Estimation
+SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs
+MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks
+OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction
+Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models
+ϵ -VAE: Denoising as Visual Decoding
+UMVMap: Improving Vectorized Map Construction via Multi-vehicle Perspectives
+Prediction Via Shapley Value Regression
+FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models
+SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography
+VideoDiT: Bridging Image Diffusion Transformers for Streamlined Video Generation
+TimeBase: The Power of Minimalism in  Long-term Time Series Forecasting
+Polybasic Speculative Decoding Under a Theoretical Perspective
+DuaRot: Dual Rotation for Advanced Outlier Mitigation in Rotated LLMs
+Efficient Learning in Neural Networks without Gradient Backpropagation
+BiDRN: Binarized 3D Whole-body Human Mesh Recovery
+Automated Fine-Grained Mixture-of-Experts Quantization
+Assessing Open-world Forgetting in Generative Image Model Customization
+GenDataAgent: On-the-fly Dataset Augmentation with Synthetic Data
+The Super Weight in Large Language Models
+ST-Modulator: Modulating Space-Time Attention for Multi-Grained Video Editing
+Let the Code LLM Edit Itself When You Edit the Code
+CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes
+Soft-TransFormers for Continual Learning
+Debiasing Mini-Batch Quadratics for Applications in Deep Learning
+Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration
+LLM-Assisted Fast and Customized Model Generation: A Preliminary Exploration
+VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors
+Generalization  Bounds for  Neural Ordinary Differential Equations and Residual Neural Networks
+Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos
+DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception
+NaVILA: Legged Robot Vision-Language-Action Model for Navigation
+Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances
+Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking
+Revisiting In-context Learning Inference Circuit in Large Language Models
+FreeVS: Generative View Synthesis on Free Driving Trajectory
+Enhancing End-to-End Autonomous Driving with Latent World Model
+Knowing Your Target : Target-Aware Transformer Makes Better Spatio-Temporal Video Grounding
+CSGO: Content-Style Composition in Text-to-Image Generation
+Collapsed Language Models Promote Fairness
+Laplace-Transform-Filters render spectral Graph Neural Networks transferable
+Emerging Tracking from Video Diffusion
+Efficient Multi-modal Large Language Models via Visual Token Grouping
+Patch-Level Training for Large Language Models
+Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models
+Long-horizon Visual Instruction Generation with Logic and Attribute Self-reflection

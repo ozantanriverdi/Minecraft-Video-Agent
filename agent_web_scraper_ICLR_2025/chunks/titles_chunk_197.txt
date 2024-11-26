@@ -1,0 +1,50 @@
+ψ DAG : Projected Stochastic Approximation Iteration for DAG Structure Learning
+Fixing Data Augmentations for Out-of-distribution Detection
+Correcting the Bias of  Normalizing Flows by Synthetic Outliers for Improving Out-of-Distribution Detection
+Not-So-Optimal Transport Flows for 3D Point Cloud Generation
+Self-Boosting Large Language Models with  Synthetic Preference Data
+Influential Language Data Selection via Gradient Trajectory Pursuit
+A Research on Result Interpretability of Medical AI Based on Large Language Model
+Towards Human-like Virtual Beings: Simulating Human Behavior in 3D Scenes
+Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate
+Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark
+Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting
+DiFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient Self-Driving
+NeMal: Never ending Marine Learning - Unleashing the Power of Controllable Image Synthesis for Promoting Marine Visual Understanding
+Segment, Associate, and Classify: Decoupled Audio-Visual Segmentation Framework
+MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization
+Biology Instructions: A Dataset and Benchmark for Multi-Omics Sequence Understanding Capability of Large Language Models
+KA-GAT: Kolmogorov–Arnold based Graph Attention Networks
+Leveraging Semantic and Positional Uncertainty for Trajectory Prediction
+IMPLICIT VARIATIONAL REJECTION SAMPLING
+Deep Koopman-layered Model with Universal Property Based on Toeplitz Matrices
+DUAL-TASK VAE FOR NODE-LEVEL DATA AUGMENTATION
+EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models
+Private Wasserstein Distance
+IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model
+Never Forget the Basics: In-distribution Knowledge Retention for Continual Test-time Adaptation in Human Motion Prediction
+Gaussian-Based Instance-Adaptive Intensity Modeling for Point-Supervised Facial Expression Spotting
+Learning Spatial-Semantic Features for Robust Video Object Segmentation
+Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis
+PromptSFL: Improving Visual Prompt Tuning For Split Federated Learning
+NeuroLifting: Neural Inference on Markov Random Fields at Scale
+PUMA: Empowering Unified MLLM with Multi-granular Visual Generation
+Efficient Open-world Test Time Adaptation of Vision Language Models
+Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late In Training
+Zero-Shot Image Compression with Diffusion-Based Posterior Sampling
+Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection
+CAPGen: An Environment-Adaptive Generator of Adversarial Patches
+BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly
+Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension
+CrayonRobo: Toward Generic Robot Manipulation via Crayon Visual Prompting
+DC-DPM: A Divide-and-Conquer Approach for Diffusion Reverse Process
+Boosting the visual interpretability of CLIP via adversarial fine-tuning
+Mitigating Copy Bias in In-Context Learning through Neuron Pruning
+DiffGS: Repurposing Image Diffusion Models for Scalable Gaussian Splatting Generation
+Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining
+Deep Incomplete Multi-view Learning via Cyclic Permutation of VAEs
+X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention
+LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection
+Spectral Truncation Kernels: Noncommutativity in  C ∗ -algebraic Kernel Machines
+Real3D: Towards Scaling Up Large Reconstruction Models with Real-World Images
+VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking

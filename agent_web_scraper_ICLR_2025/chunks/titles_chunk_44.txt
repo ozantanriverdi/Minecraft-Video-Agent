@@ -1,0 +1,50 @@
+Learning to engineer protein flexibility
+Jet Expansions of Residual Computation
+ElasticTok: Adaptive Tokenization for Image and Video
+Toward Efficient Kernel-Based Solvers for Nonlinear PDEs
+Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning
+Modeling Focal Synaptic Degeneration and Neural Plasticity in Ventral Visual Cortex
+Universally Applicable And Tunable Graph-Based Coarse-Graining For Machine Learning Force Fields
+Long-context Extrapolation via Periodic Extension
+Understanding Depth and Height Perception in Large Visual-Language Models
+Symbolic Autoencoding with Straight-Through Gradient Approximations
+Language Fusion for Parameter-Efficient Cross-lingual Transfer
+Revisit the open nature of open vocabulary segmentation
+Robust Barycenter Estimation using Semi-Unbalanced Neural Optimal Transport
+Asynchronous stochastic gradient descent with decoupled backpropagation and layer-wise updates
+Inverse decision-making using neural amortized Bayesian actors
+Textbook Consistency Weighted Internet Improves Efficiency Twofold
+The GECo algorithm for Graph Neural Networks Explanation
+Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs
+Valid Conformal Prediction for Dynamic GNNs
+ContextGNN: Beyond Two-Tower Recommendation Systems
+Leveraging Knowledge Distillation to Mitigate Model Collapse
+Partition First, Embed Later: Laplacian-Based Feature Partitioning for Refined Embedding and Visualization of High-Dimensional Data
+KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks
+Robust Locally Differentially Private Graph Analysis
+Random Graph Asymptotics for Treatment Effect Estimation in Two-Sided Markets
+Probabilistic Geometric Principal Component Analysis
+Gaussian Splatting Lucas-Kanade
+Beyond Content Relevance: Evaluating Instruction Following in Retrieval Models
+RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction
+From Probability to Counterfactuals: the Increasing Complexity of Satisfiability in Pearl's Causal Hierarchy
+Learning Symmetries through Loss Landscape
+RB-Modulation: Training-Free Personalization using Stochastic Optimal Control
+FMS PINN: Flow-matching sampling for efficient solution of partial differential equations with source singularities
+High-Dimensional Bayesian Optimisation with Gaussian Process Prior Variational Autoencoders
+Dimension Debate: Is 3D a Step Too Far for Optimizing Molecules?
+DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning
+Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh
+Qualifying Knowledge and Knowledge Sharing in Multilingual Models
+ULoRA: Universal Low-Rank Adaptation of Diverse Deep Learning Architectures
+DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback
+From Steering Vectors to Conceptors and Beyond: Compositional Affine Steering Mechanisms for LLMs
+NNsight and NDIF: Democratizing Access to Foundation Model Internals
+Protecting against simultaneous data poisoning attacks
+How Can LLM Guide RL? A Value-Based Approach
+Person Detection Through the Lens of Algorithmic Bias
+Rethinking Message Passing for Algorithmic Alignment on Graphs
+Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization
+Cascaded Learned Bloom filter for Optimal Model-Filter Size Balance and Fast Rejection
+Uncertainty Quantification in Retrieval Augmented Question Answering
+Efficient Visualization of Implicit Neural Representations via Weight Matrix Analysis

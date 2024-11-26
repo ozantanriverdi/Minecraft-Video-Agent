@@ -1,0 +1,50 @@
+S4M: S4 for multivariate time series forecasting with Missing values
+The Power of Data: How LSTMs Outshine Disease Progression Modeling with Two Simple Mechanisms
+SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation
+Out-Of-Context and Out-Of-Scope: Subliminal Priming for Large Language Models
+VEnhancer: Generative Space-Time Enhancement for Video Generation
+An Efficient Unsupervised Framework for Convex Quadratic Programs via Deep Unrolling
+Universal Time-series Generation using Score-based Generative Models
+An Exploration with Entropy Constrained 3D Gaussians for 2D Video Compression
+Hearing faces among homogeneous populations: improvement of cross-modal biometrics
+Industrial Benchmarking of LLMs: Assessing Hallucination in Traffic Incident Scenarios with a Novel Spatio-Temporal Dataset
+ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset
+Coding Reliable LLM-based Integrated Task and Knowledge Agents with GenieWorksheets
+Gramian Multimodal Representation Learning and Alignment
+On the Influence of Shape, Texture and Color for Learning Semantic Segmentation
+Going Beyond Static: Understanding Shifts with Time-Series Attribution
+Autoregressive Transformers are Zero-Shot Video Imitators
+Mitigating Forgetting in Continually Pretraining MoE-LLMs by Adding and Chilling Experts
+Cracking the Collective Mind: Adversarial Manipulation in Multi-Agent Systems
+On the Interpolation Effect of Score Smoothing
+Fast and Scalable Method for Efficient Multimodal Feature Extraction with Optimized Maximal Correlation
+KAN See Your Face
+CLEAR: An Information-Theoretic  Framework for Distraction-Free Representation Learning in Visual Offline RL
+On the Generalization of Preference Learning with DPO
+Propagation Alone is Enough for Graph Contrastive Learning
+HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting
+High Fidelity Text-Guided Music Editing via Single-Stage Flow Matching
+A Dynamic Model of Performative Human-ML Collaboration: Theory and Empirical Evidence
+DOTA: Distributional Test-Time Adaptation of Vision-Language Models
+Unsupervised Radar Point Cloud Enhancement Using Diffusion Model as Prior without Paired Traning Data
+MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs
+TrustSQL: Benchmarking Text-to-SQL Reliability with Penalty-Based Scoring
+Feature-Based Online Bilateral Trade
+Semi-Supervised Medical Image Segmentation via Knowledge Mining from Large Models
+SageLite: Harmonizing Text and Code Through Multi-Stage Training
+Interpretable Causal Representation Learning for Biological Data in the Pathway Space
+LOB-Bench: Benchmarking Generative AI for Finance - with an Application to Limit Order Book Markets
+Separation Power of Equivariant Neural Networks
+The polytopal complex as a framework to analyze multilayer relu networks
+Capturing and Mitigating Gradient Aggregation Errors for Fault-Tolerant Distributed Training
+ADDITIVE SEPARABLE GRAPHON MODELS
+FlyOrien: A bio-inspired model for incremental learning of object orientation
+Identifying single molecule force spectroscopy data using deep learning with physics augmentation
+Random Feature Models with Learnable Activation Functions
+Universal generalization guarantees for Wasserstein distributionally robust models
+Using GNNs to Model Biased Crowdsourced Data for Urban Applications
+What should a neuron aim for? Designing local objective functions based on information theory
+Towards Understanding Domain Adapted Sentence Embeddings for Document Retrieval
+Autoformulation of Mathematical Optimization Models Using LLMs
+FusionMaestro: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular Table-Text Retrieval
+Dynamic Matching Utilizing Latent Factor Modeling

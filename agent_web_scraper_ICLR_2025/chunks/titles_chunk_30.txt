@@ -1,0 +1,50 @@
+Intelligence at the Edge of Chaos
+Towards a  learning theory of representation alignment
+Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Modulating Individual Human Percepts
+Finding Equilibria in Bilinear Zero-sum Games via a Convexity-based Approach
+Physics-Informed Interpolator Generalizes Well in Fixed Dimension: Inductive Bias and Benign Overfitting
+Grassmannian Geometry Meets Dynamic Mode Decomposition in DMD-GEN: A New Metric for Mode Collapse in Time Series Generative Models
+Running Huge Context Windows On Tiny GPUs
+Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse Autoencoders
+Understanding Benefit of Personalization: Beyond Classification
+First-Step Inference in Diffusion Models Learns Image De-whitening
+PLS-based approach for Fair Representation Learning
+Identifying Sub-networks in Neural Networks via Functionally Similar Representations
+A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations
+Decomposing heterogeneous dynamical systems with graph neural networks
+Forecasting Needles in a Time Series Haystack
+Bias Analysis in Unconditional Image Generative Models
+Unraveling Neural Cellular Automata for Lightweight Image Compression
+Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
+ROLoRA: Rank Optimization  for Low-Rank Adaptation under Memory Constraints
+Everyone Deserves Recourse: Feasible Recourse Paths Using Data Augmentation
+Cauchy-Schwarz Regularizers
+Optimizing Attention
+Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation
+Holographic Node Representations: Pre-training Task-Agnostic Node Embeddings
+Enhancing LLM's interpretability for time series via multi-level aligned embeddings
+Link Prediction with Relational Hypergraphs
+LLaVA-Read: Enhancing Reading Ability of Multimodal Large Language Models
+Multi-modal graph neural networks for localized off-grid weather forecasting
+The Ramanujan Library - Automated Discovery on the Hypergraph of Integer Relations
+Fast and Noise-Robust Diffusion Solvers for Inverse Problems: A Frequentist Approach
+Decoupled SGDA for Games with Intermittent Strategy Communication
+NeuZip: Memory-Efficient Training and Inference with Dynamic Compression of Neural Networks
+Profiler: Black-box AI-generated Text Origin Detection via Context-aware Inference Pattern Analysis
+Atmospheric Radiation Parameterization by Neural Ordinary Differential Equations and Related Models
+Computationally Efficient RL under Linear Bellman Completeness for Deterministic Dynamics
+HELMET: How to Evaluate Long-context Models Effectively and Thoroughly
+EquiJump: Protein Dynamics Simulation via SO(3)-Equivariant Stochastic Interpolants
+Efficient Physics-Constrained Diffusion Models for Solving Inverse Problems
+Uncovering Latent Memories in Large Language Models
+Episodic Memories Generation and Evaluation Benchmark for Large Language Models
+Just How Flexible are Neural Networks in Practice?
+Masking the Gaps: An Imputation-Free Approach to Time Series Modeling with Missing Data
+Quantifying Likeness: A Simple Machine Learning Approach to Identifying Copyright Infringement in (AI-Generated) Artwork
+Continual Slow-and-Fast Adaptation of Latent Neural Dynamics (CoSFan): Meta-Learning What-How & When to Adapt
+Hybrid Fine-Tuning of LLMs: Theoretical Insights on Generalized Smoothness and Convergence
+R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference
+Anchored Alignment for Self-Explanations Enhancement
+Low-Rank Compression of Language Models Via Differentiable Rank Selection
+Revisiting Zeroth-Order Optimization:  Minimum-Variance Two-Point Estimators and  Directionally Aligned Perturbations
+Query-based Knowledge Transfer for Heterogeneous Learning Environments

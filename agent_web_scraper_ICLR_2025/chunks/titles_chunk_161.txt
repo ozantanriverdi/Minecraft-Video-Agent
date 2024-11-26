@@ -1,0 +1,50 @@
+Fengbo: a Clifford Neural Operator pipeline for 3D PDEs in Computational Fluid Dynamics
+MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics
+MeshLRM: Large Reconstruction Model for High-Quality Meshes
+Attacking Audio Language Models with Best-of-N Jailbreaking
+Recurrent Drafter for Fast Speculative Decoding in Large Language Models
+Advantage Alignment Algorithms
+Leveraging Natural Frequency Deviation for Diffusion-Generated Image Detection
+Exploring QUIC Dynamics: A Large-Scale Dataset for Encrypted Traffic Analysis
+E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning
+DO GENERATIVE MODELS LEARN RARE GENERATIVE FACTORS?
+Improving Soft Unification with Knowledge Graph Embedding Methods
+Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models
+The Inductive Bias of Minimum-Norm Shallow Diffusion Models That Perfectly Fit the Data
+Democratizing Evaluation with Infinity-Benchmarks: Sample-Level Heterogeneous Testing Over Arbitrary Capabilities
+No Access, No Safety: Free Lunch Adversarial Attacks on Black-box NLP Models
+Edge Importance Inference Towards Neighborhood Aware GNNs
+3D-free meets 3D priors: Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance
+Does learning the right latent variables necessarily improve in-context learning?
+Needle Threading: Can LLMs Follow Threads Through Near-Million-Scale Haystacks?
+Hough Voting-based Prompt Learning for Segment Anything Model
+SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Model
+Supervised Contrastive Block Disentanglement
+Task Diversity Shortens the ICL Plateau
+Distributed In-Context Learning under Non-IID Among Clients
+Optimal Protocols for Continual Learning via Statistical Physics and Control Theory
+BOIL: Learning Environment Personalized Information
+Do Unlearning Methods Remove Information from Language Model Weights?
+Learning Generalizable Skills from Offline Multi-Task Data for Multi-Agent Cooperation
+Understanding the Connection between Low-Dimensional Representation and Generalization via Interpolation
+Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark
+A Hitchhiker's Guide to Scaling Law Estimation
+Generation and Evaluation of Synthetic Data Containing Treatments
+A Manifold Perspective on the Statistical Generalization of Graph Neural Networks
+Self-Training on Unpaired Data Improves Multi-Modal Alignment
+Attic: A New Architecture for Tabular In-Context Learning Transformers
+Spatially-aware Photo-realistic Face Relighting using Joint Embedding of Light Properties
+Fine-tuned In-Context Learning Transformers are Excellent Tabular Data Classifiers.
+Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit
+Do Symbolic or Black-Box Representations Generalise Better In Learned Optimisation?
+PAD: Personalized Alignment at Decoding-time
+Next state prediction gives rise to entangled, yet compositional representations of objects
+De-biasing Diffusion: Data-Free FP8 Quantization of Text-to-Image Models with Billions of Parameters
+BiCompFL: Stochastic Federated Learning with Bi-Directional Compression
+MarDini: Masked Autoregressive Diffusion for Video Generation at Scale
+Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks
+LLM Pruning and Distillation in Practice
+Embedding-Converter: A Unified Framework for Cross-Model Embedding Transformation
+Temporal Prompting Matters: Rethinking Referring Video Object Segmentation
+Learning Arbitrary Logical Formula as a Sparse Neural Network Module
+Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes

@@ -1,0 +1,50 @@
+OR-Bench: An Over-Refusal Benchmark for Large Language Models
+3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o
+Towards a formal theory of compositionality
+Adapting CLIP for DETR-based Object Detection
+Motion Inversion for Video Customization
+I n t e r L C M : Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration
+Supervised Dimension Contrastive Learning
+MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models
+In-context learning and Occam's razor
+Generalization Bounds for Canonicalization: A Comparative Study with Group Averaging
+VibeCheck: Discover and Quantify Qualitative Differences in Large Language Models
+ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding
+Computational Explorations of Total Variation Distance
+3D-SPATIAL MULTIMODAL MEMORY
+Learning Representations of Intermittent Temporal Latent Process
+Heterogeneous Federated Learning: A Dual Matching Dataset Distillation Approach
+Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Self-Regularization
+Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model
+Algebraic SPD and Correlation Geometry: A Gyro Approach
+MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers
+Fading Focus: Mitigating Visual Attention Degradation in Large Vision-Language Models
+A Self-Supervised PINN for Inertial Pose and Dynamics Estimations
+SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks
+AlphaDou: High-Performance End-to-End Doudizhu AI Integrating Bidding
+LSTT:LONG SHORT-TERM TRANSFORMER FOR VIDEO SMALL OBJECT DETECTION
+Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
+AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation
+Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation
+LLMs Boost the Performance of Decision Trees on Tabular Data across Sample Sizes
+DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models
+SeeThruAnything: Learning to Remove Any Obstructions Across Distributions
+GyroAtt: A Gyro Attention Framework for Matrix Manifolds
+UOE: Unlearning One Expert is Enough for Mixture-of-Experts LLMs
+Agent-as-a-Judge: Evaluating Agents with Agents
+FMBench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks
+Learning the Language of Protein Structure
+Personality Alignment of Large Language Models
+SQT -- rough conservative actor critic
+Locking Down the Finetuned LLMs Safety
+Efficient Long-range Language Modeling with Self-supervised Causal Retrieval
+CycleResearcher: Improving Automated Research via Automated Review
+Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?
+Towards Understanding Why Label Smoothing Degrades Selective Classification and How to Fix It
+Adapting Monte Carlo Tree Search for Generative Flow Network Training
+Towards Improving Exploration through Sibling Augmented GFlowNets
+Knowledge-enhanced Multimodal ECG Representation Learning with Arbitrary-Lead Inputs
+Wavelet Latent Diffusion (WaLa): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings
+Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering
+UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models
+Can LLMs Solve Long Math Word Problems Better?

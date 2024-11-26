@@ -1,0 +1,50 @@
+Fast Tensor-Based Multi-View Clustering with Anchor Probability Transition Matrix
+Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors
+Point-Calibrated Spectral Neural Operators
+VideoAlchemy: Open-set Personalization in Video Generation
+Transformers Learn Low Sensitivity Functions: Investigations and Implications
+FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference
+Training-Free Activation Sparsity in Large Language Models
+Beautifying Diffusion Models: Learning Context-Aware Filters for Robust Dense Prediction on Test-Time Corrupted Images
+PRIME: Protect Your Videos From Malicious Editing
+Statistical Advantages of Perturbing Cosine Router in Mixture of Experts
+Warfare: Breaking the Watermark Protection of AI-Generated Content
+Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning
+Time-variant Duo-image Inpainting via Interactive Distribution Transition Estimation
+Interpretable Unsupervised Joint Denoising and Enhancement for Real-World low-light Scenarios
+Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement
+Learning Clustering-based Prototypes for Compositional Zero-Shot Learning
+Adversarial Attack Robust dataset pruning
+SAGEPhos: Sage Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection
+Depth Any Video with Scalable Synthetic Data
+TimeWalker: Personalized Neural Space for Life-long Head Avatar
+Beyond Predefined Depots: A Dual-Mode Generative DRL Framework for Proactive Depot Generation in Location-Routing Problem
+SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
+Incremental Causal Effect for Time to Treatment Initialization
+Towards Robust Concept Erasure in Diffusion Models: Unlearning Identity, Nudity and Artistic Styles
+ConDa: Fast Federated Unlearning with Contribution Dampening
+GeoMath: A Benchmark for Multimodal Mathematical Reasoning in Remote Sensing
+Training-Free Dataset Pruning for Instance Segmentation
+SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution
+Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias
+VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking
+Video Representation Learning Without Natural Videos
+PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks
+Farther Than Mirror: Explore Pattern-Compensated Depth of Mirror with Temporal Changes for Video Mirror Detection
+Social Bayesian Optimization for Building Truthful Consensus
+Causal Identification for Complex Functional Longitudinal Studies
+MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models
+Harmonious convergence for confidence estimation in depth estimation and completion
+Self-Corrected Multimodal Large Language Model for Robot Manipulation and Reflection
+MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes
+Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation
+Poison-splat: Computation Cost Attack on 3D Gaussian Splatting
+Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation
+Story-Adapter: A Training-free Iterative Framework for Long Story Visualization
+Measuring Effects of Steered Representation in Large Language Models
+KAN versus MLP on Irregular or Noisy Functions
+GALA: Geometry-Aware Local Adaptive Grids for Detailed 3D Generation
+MMEgo: Towards Building Egocentric Multimodal LLMs
+REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments
+HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction
+Common Causes for Sudden Shifts: Linking Phase Transitions in Sinusoidal Networks

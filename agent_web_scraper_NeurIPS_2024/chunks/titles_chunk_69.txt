@@ -1,0 +1,50 @@
+Kangaroo: Lossless Self-Speculative Decoding for Accelerating LLMs via Double Early Exiting
+Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images
+FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification
+Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies
+DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning
+CLIPAway: Harmonizing focused embeddings for removing objects via diffusion models
+HAWK: Learning to Understand Open-World Video Anomalies
+Understanding Bias in Large-Scale Visual Datasets
+Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus
+DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction  Via Gaussian Consensus
+Revealing Distribution Discrepancy by Sampling Transfer in Unlabeled Data
+SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models
+Full-Distance Evasion of Pedestrian Detectors in the Physical World
+AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario
+DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization
+StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences
+PromptFix: You Prompt and We Fix the Photo
+ACFun: Abstract-Concrete Fusion Facial Stylization
+Improved Bayes Regret Bounds for Multi-Task Hierarchical Bayesian Bandit Algorithms
+Cryptographic Hardness of Score Estimation
+Transferability Bound Theory: Exploring Relationship between Adversarial Transferability and Flatness
+A hierarchical decomposition for explaining ML performance discrepancies
+LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language
+Categorical Flow Matching on Statistical Manifolds
+Neural Gaffer: Relighting Any Object via Diffusion
+Capturing the denoising effect of PCA via compression ratio
+GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation
+Pure Message Passing Can Estimate Common Neighbor for Link Prediction
+Decomposable Transformer Point Processes
+DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain
+Regret Minimization in Stackelberg Games with Side Information
+Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models
+Dissect Black Box: Interpreting for Rule-Based Explanations in Unsupervised Anomaly Detection
+Virtual Scanning: Unsupervised Non-line-of-sight Imaging from Irregularly Undersampled Transients
+FUG: Feature-Universal Graph Contrastive Pre-training for Graphs with Diverse Node Features
+Promoting Fairness Among Dynamic Agents in Online-Matching Markets under Known Stationary Arrival Distributions
+Persistent Homology for High-dimensional Data Based on Spectral Methods
+Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?
+ENAT: Rethinking Spatial-temporal Interactions in Token-based Image Synthesis
+Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
+How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?
+Tell What You Hear From What You See - Video to Audio Generation Through Text
+CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching
+Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration
+Decentralized Noncooperative Games with Coupled Decision-Dependent Distributions
+Persistent Test-time Adaptation in Recurring Testing Scenarios
+SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition
+Log-concave Sampling from a Convex Body with a Barrier: a Robust and Unified Dikin Walk
+MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level Queries at Multi-Step

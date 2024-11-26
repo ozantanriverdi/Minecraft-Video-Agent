@@ -1,0 +1,50 @@
+LegoScale: One-stop PyTorch native solution for production ready LLM pre-training
+Reducing Symmetry Mismatch Caused by Freely Placed Cameras in Robotic Learning
+On Gradient-Weight Alignment
+A Little Depth Goes a Long Way: the Expressive Power of Log-Depth Transformers
+Chunk-Distilled Language Modeling
+When does compositional structure yield compositional generalization? A kernel theory.
+How To Evaluate Your Medical Time Series Classification?
+BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge
+System Aware Unlearning Algorithms: Use Lesser, Forget Faster
+Separate the  Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation
+WaveletGPT: Wavelet Inspired LLMs
+The Value of Sensory Information to a Robot
+Sensor-Invariant Tactile Representation
+NutriBench: A Dataset for Evaluating Large Language Models in Nutrition Estimation from Meal Descriptions
+GOttack: Universal Adversarial Attacks on Graph Neural Networks via Graph Orbits Learning
+From Feature Visualization to Visual Circuits:  Effect of Model Perturbation
+Can Models Help us Create Better Models? Evaluating LLMs as Data Scientists
+Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack
+Visual Representations in Humans and Machines: A Comparative Analysis of Artificial and Biological Neural Responses to Naturalistic Dynamic Visual Stimuli
+In-context Fine-tuning for Time-series Foundation Models
+JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking
+On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language Models
+NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics
+Sparse components distinguish visual pathways & their alignment to neural networks
+Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models
+MetaOptimize: A Framework for Optimizing Step Sizes and Other Meta-parameters
+Item Language Model
+TOMVALLEY: EVALUATING THE THEORY OF MIND REASONING OF LLMS IN REALISTIC SOCIAL CONTEXT
+Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images
+TrackTheMind: program-guided adversarial data generation for theory of mind reasoning
+Contrastive Unlearning: A Contrastive Approach to Machine Unlearning
+Controllable Context Sensitivity and the Knob Behind It
+LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy
+SimpleStrat: Diversifying Language Model Generation with Stratification
+VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference
+The 3D-PC: a benchmark for visual perspective taking in humans and machines
+SAIL: Self-improving Efficient Online Alignment of Large Language Models
+HelpSteer2-Preference: Complementing Ratings with Preferences
+Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages
+Quantum Architecture Search With Unsupervised Representation Learning
+Aya in Action: An Investigation of its Abilities in Aspect-Based Sentiment Analysis, Hate Speech Detection, Irony Detection, and Question-Answering
+NaN Pooling and Convolution Accelerate U-Nets
+Parsing the Language of Expressions: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors
+Does Instruction Tuning Reduce Diversity? A Case Study Using Code Generation
+FairDropout: Using Example-Tied Dropout to Enhance Generalization for Minority Groups
+Collu-Bench: A Benchmark for Predicting LLM Hallucinations in Code
+The Promises and Pitfalls of Language Models for Structured Numerical Data
+Data Augmentation via Genomic Foundation Models for Pseudoknot-Inclusive RNA Secondary Structure Prediction
+WaveFormer: Leveraging Wavelet Transformation for Multi-Scale Token Interactions in Hierarchical Transformers
+Shared-AE: Unsupervised Identification of Shared Subspaces in High-dimensional Neural and Behavioral Activity

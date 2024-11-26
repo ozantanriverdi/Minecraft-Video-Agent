@@ -1,0 +1,50 @@
+InstaRevive: One-Step Image Enhancement via Dynamic Score Matching
+LLM Unlearning via Loss Adjustment with Only Forget Data
+AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization
+MetaDD: Boosting Dataset Distillation with Neural Network Architecture-Invariant Generalization
+AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks
+RETRIEVAL-AUGMENTED GENERATION WITH ESTIMATION OF SOURCE RELIABILITY
+A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations
+FCVL: Fourier Cross-View Learning for Generalizable 3D Object Detection in Bird’s Eye View
+Balancing Gradient Frequencies Facilitates Inductive Inference in Algorithmic Reasoning
+Curvature Enhanced Manifold Sampling
+LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models
+Stagewise Development in Transformers and the Geometry of the Loss Landscape
+Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation
+Playing Language Game with LLMs Leads to Jailbreaking
+Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation
+Improved Convergence Rate for Diffusion Probabilistic Models
+Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models
+MindDETR: Beyond Semantics, Exploring Positional Cues from Brain Activity
+Impact of Dataset Properties on Membership Inference Vulnerability of Deep Transfer Learning
+GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model
+Improving Resistance to Noisy Label Fitting by Reweighting Gradient in SAM
+KokerNet: Koopman Kernel Network for Time Series Forecasting
+Improved Sample Access for Quantum-Inspired Algorithms
+Class-Relational Label Smoothing for Lifelong Visual Place Recognition
+From Context to Concept: Concept Encoding in In-Context Learning
+Evidence-Enhanced Triplet Generation Framework for Hallucination Alleviation in Generative Question Answering
+In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks
+Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models
+Breaking Free: Hacking Diffusion Models for Generating Adversarial Examples and Bypassing Safety Guardrails
+Enabling Fine-Tuning of Direct Feedback Alignment via Feedback-Weight Matching
+From Noise to Factors: Diffusion-based Unsupervised Sequential Disentanglement
+DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation
+Competitive Fair Scheduling with Predictions
+Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts
+High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity
+Statistical Guarantees for Approximate Stationary Points of Shallow Neural Networks
+OPTune: Efficient Online Preference Tuning
+Rethinking the Impact of Heterogeneous Sublayers in Transformers
+Exploring the Discriminative Capability of LLMs in In-context Learning
+TAPE3D: Tracking All Pixels Efficiently in 3D
+Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression
+MagicPIG: LSH Sampling for Efficient LLM Generation
+Zero-Shot Video Semantic Segmentation based on Pre-Trained Diffusion Models
+NN-Former: Rethinking Graph Structure in Neural Architecture Representation
+DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models
+Towards LLM4Floorplan: Agents Can Do What Engineers Do in Chip Design
+Unsupervised Multiple Kernel Learning for Graphs via Ordinality Preservation
+Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge
+EfficientQAT: Efficient Quantization-Aware Training for Large Language Models
+OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities

@@ -1,0 +1,10 @@
+VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
+OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
+Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following
+OW-VISCapTor: Abstractors for Open-World Video Instance Segmentation and Captioning
+WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment
+GenRL: Multimodal-foundation world models for generalization in embodied agents
+Large Language Models Play StarCraft II:Benchmarks and A Chain of Summarization Approach
+Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning
+SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation

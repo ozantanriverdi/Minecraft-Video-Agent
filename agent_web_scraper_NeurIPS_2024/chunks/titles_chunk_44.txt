@@ -1,0 +1,50 @@
+Rad-NeRF: Ray-decoupled Training of Neural Radiance Field
+Proportional Fairness in Clustering: A Social Choice Perspective
+Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts
+Fast Iterative Hard Thresholding Methods with Pruning Gradient Computations
+Weight Diffusion for Future: Learn to Generalize in Non-Stationary Environments
+Query-Efficient Correlation Clustering with Noisy Oracle
+EMVP: Embracing Visual Foundation Model for Visual Place Recognition with Centroid-Free Probing
+Can an AI Agent Safely Run a Government? Existence of Probably Approximately Aligned Policies
+An Information Theoretic Perspective on Conformal Prediction
+GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes
+How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective
+Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control
+On provable privacy vulnerabilities of graph representations
+LLaMo: Large Language Model-based Molecular Graph Assistant
+This Too Shall Pass: Removing Stale Observations in Dynamic Bayesian Optimization
+On Causal Discovery in the Presence of Deterministic Relations
+Time-Varying LoRA: Towards Effective Cross-Domain Fine-Tuning of Diffusion Models
+Entity Alignment with Noisy Annotations from Large Language Models
+Temporal Sentence Grounding with Relevance Feedback in Videos
+SAND: Smooth imputation of sparse and noisy functional data with Transformer networks
+Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement
+B-ary Tree Push-Pull Method is Provably Efficient for Distributed Learning on Heterogeneous Data
+Multi-Winner Reconfiguration
+Conformal Classification with Equalized Coverage for Adaptively Selected Groups
+Bandits with Abstention under Expert Advice
+Externally Valid Policy Evaluation from Randomized Trials Using Additional Observational Data
+DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning
+Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models
+Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models
+Learning Infinitesimal Generators of Continuous Symmetries from Data
+Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models
+Localize, Understand, Collaborate: Semantic-Aware Dragging via Intention Reasoner
+Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision
+Dissecting the Failure of Invariant Learning on Graphs
+SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow
+LOVA3: Learning to Visual Question Answering, Asking and Assessment
+FasMe: Fast and Sample-efficient Meta Estimator for Precision Matrix Learning in Small Sample Settings
+xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token
+NoiseGPT: Label Noise Detection and Rectification through Probability Curvature
+Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation
+Set-based Neural Network Encoding Without Weight Tying
+Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels
+OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding
+Fetch and Forge: Efficient Dataset Condensation for Object Detection
+A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm
+Leveraging Separated World Model for Exploration in Visually Distracted Environments
+PowerPM: Foundation Model for Power Systems
+Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning
+GenRec: Unifying Video Generation and Recognition with Diffusion Models
+FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation

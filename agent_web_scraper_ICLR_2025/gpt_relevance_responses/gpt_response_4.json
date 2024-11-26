@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning",
+        "relevant": false
+    },
+    {
+        "title": "PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play",
+        "relevant": false
+    },
+    {
+        "title": "LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models",
+        "relevant": false
+    },
+    {
+        "title": "NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains",
+        "relevant": true
+    },
+    {
+        "title": "World-simulation as pre-training for scalable perception",
+        "relevant": false
+    }
+]

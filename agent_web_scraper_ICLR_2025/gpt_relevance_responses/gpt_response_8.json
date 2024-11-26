@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Language Agents Meet Causality -- Bridging LLMs and Causal World Models",
+        "relevant": false
+    },
+    {
+        "title": "STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making",
+        "relevant": false
+    },
+    {
+        "title": "Robotouille: An Asynchronous Planning Benchmark for LLM Agents",
+        "relevant": true
+    },
+    {
+        "title": "Learn-by-interact: A Data-Centric Framework For Self-Adaptive Agents in Realistic Environments",
+        "relevant": true
+    },
+    {
+        "title": "AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs",
+        "relevant": false
+    }
+]

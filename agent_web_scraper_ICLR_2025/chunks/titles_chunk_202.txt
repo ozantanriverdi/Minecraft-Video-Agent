@@ -1,0 +1,50 @@
+Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable
+Towards Accurate Deep Learning Model Selection: A Calibrated Metric Approach
+Building Vision Models upon Heat Conduction
+Uncertainty-Aware Decoding with Minimum Bayes' Risk
+SPA: Enhancing 3D Multimodal LLMs with Mask-based Streamlining Preference Alignment
+Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources
+ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities
+FreeTraj: Tuning-Free Trajectory Control via Noise Guided Video Diffusion
+Improving Equivariant Networks with Probabilistic Symmetry Breaking
+CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair
+A Differential Equation Approach for Wasserstein GANs and Beyond
+Reset Method based on the Theory of Manifold Optimization on Real Manifolds
+On inherent limitations of GPT/LLM  \  Architecture
+IgBleng: Unifying 3D structures and sequences in antibody language models
+FreSh: Frequency Shifting for Accelerated Neural Representation Learning
+Exploiting Hierarchical Taxonomies in Pretrained Continual Learning
+Criteria and Bias of Parameterized Linear Regression under Edge of Stability Regime
+Improving Generalization with Flat Hilbert Bayesian Inference
+Language Model Preference Evaluation with Multiple Weak Evaluators
+PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
+Generalizable Non-Line-of-Sight Imaging with Learnable Physical Priors
+Unlocking the Power of Gradient Guidance for Structure-Based Molecule Optimization
+A Unified Theory of Quantum Neural Network Loss Landscapes
+A Plug-In Curriculum Scheduler for Improved Deformable Medical Image Registration
+Enhancing Robust Fairness via Confusional Spectral Regularization
+Compositional VQ Sampling for Efficient and Accurate Conditional Image Generation
+Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents
+M 2 M: LEARNING CONTROLLABLE MULTI OF EXPERTS AND MULTI-SCALE OPERATORS ARE THE PARTIAL DIFFERENTIAL EQUATIONS NEED
+GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting
+HART: Efficient Visual Generation with Hybrid Autoregressive Transformer
+FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model
+ANaGRAM: A Natural Gradient Relative to Adapted Model for efficient PINNs learning
+EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation
+Craftium: Creating Efficient Environments for Open-Ended and Embodied Agents Beyond Gridworlds
+Autoregressive Action Sequence Learning for Robotic Manipulation
+Beyond Random Augmentations: Pretraining with Hard Views
+Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding
+Video Active Perception: Efficient Inference-Time Long-Form Video Understanding with Vision-Language Models
+More Harmful, Less noticeable: Learning Adversarial Null-Text Embeddings for Inconspicuous Attack
+Mitigating Shortcut Learning with Diffusion Counterfactuals and Diverse Ensembles
+The Breakdown of Gaussian Universality in Classification of High-dimensional Mixtures
+Spurious Privacy Leakage in Neural Networks
+Century: A Framework and Dataset for Evaluating Historical Contextualisation of Sensitive Images
+MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos
+A bird's eye view on informed classification
+Flashback: Understanding and Mitigating Forgetting in Federated Learning
+Differentiable Solver Search for fast diffusion sampling
+UnSTAR: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs
+Combining Analytical Smoothing with Surrogate Losses for Improved Decision-Focused Learning
+Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods

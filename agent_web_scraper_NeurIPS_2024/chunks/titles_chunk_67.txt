@@ -1,0 +1,50 @@
+Reinforced Cross-Domain Knowledge Distillation on Time Series Data
+CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction
+Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis
+Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning
+TAPTRv2: Attention-based Position Update Improves Tracking Any Point
+CV-VAE: A Compatible Video VAE for Latent Generative Video Models
+A Closer Look at the CLS Token for Cross-Domain Few-Shot Learning
+PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models
+Towards Dynamic Message Passing on Graphs
+Stability and Generalization of Asynchronous SGD: Sharper Bounds Beyond Lipschitz and Smoothness
+Federated Graph Learning for Cross-Domain Recommendation
+ReGS: Reference-based Controllable Scene Stylization with Gaussian Splatting
+ReFIR: Grounding Large Restoration Models with Retrieval Augmentation
+BAKU: An Efficient Transformer for Multi-Task Policy Learning
+Introspective Planning: Aligning Robots' Uncertainty with Inherent Task Ambiguity
+Efficient Large Multi-modal Models via Visual Context Compression
+Approaching Human-Level Forecasting with Language Models
+Harnessing Multiple Correlated Networks for Exact Community Recovery
+Exploring Low-Dimensional Subspace in Diffusion Models for Controllable Image Editing
+Initialization is Critical to Whether Transformers Fit Composite Functions by Reasoning or Memorizing
+Efficient Graph Matching for Correlated Stochastic Block Models
+Learning Truncated Causal History Model for Video Restoration
+MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encoding
+IPO: Interpretable Prompt Optimization for Vision-Language Models
+PureGen: Universal Data Purification for Train-Time Poison Defense via Generative Model Dynamics
+Idiographic Personality Gaussian Process for Psychological Assessment
+Transformer Doctor: Diagnosing and Treating Vision Transformers
+Learning to Decouple the Lights for 3D Face Texture Modeling
+Bayesian Optimisation with Unknown Hyperparameters: Regret Bounds Logarithmically Closer to Optimal
+Unchosen Experts Can Contribute Too: Unleashing MoE Models’ Power by Self-Contrast
+A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health
+Knowledge Circuits in Pretrained Transformers
+Phased Consistency Models
+Unveiling the Tapestry of Consistency in Large Vision-Language Models
+Visual Perception by Large Language Model’s Weights
+Hybrid Mamba for Few-Shot Segmentation
+Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating Few-Shot Node Classification
+Are We on the Right Way for Evaluating Large Vision-Language Models?
+Physics-informed Neural Networks for Functional Differential Equations: Cylindrical Approximation and Its Convergence Guarantees
+Optimal and Approximate Adaptive Stochastic Quantization
+The Poisson Midpoint Method for Langevin Dynamics:  Provably Efficient Discretization for Diffusion Models
+Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD
+Transformers on Markov data: Constant depth suffices
+A Siamese Transformer with Hierarchical Refinement for Lane Detection
+YOLOv10: Real-Time End-to-End Object Detection
+Harmonizing Visual Text Comprehension and Generation
+Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting
+Discovering Creative Behaviors through DUPLEX: Diverse Universal Features for Policy Exploration
+Conjugate Bayesian Two-step Change Point Detection for Hawkes Process

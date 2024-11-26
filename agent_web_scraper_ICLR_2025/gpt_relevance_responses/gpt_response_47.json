@@ -1,0 +1,22 @@
+[
+    {
+        "title": "GCML: Grounding Complex Motions using Large Language Model in 3D Scenes",
+        "relevant": true
+    },
+    {
+        "title": "Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology",
+        "relevant": false
+    },
+    {
+        "title": "SlowFast-LLaVA: A strong training-free baseline for video large language models",
+        "relevant": false
+    },
+    {
+        "title": "Autoverse: an Evolvable Game Language for Learning Robust Embodied Agents",
+        "relevant": false
+    },
+    {
+        "title": "Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison",
+        "relevant": false
+    }
+]

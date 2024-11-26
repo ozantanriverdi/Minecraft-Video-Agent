@@ -1,0 +1,50 @@
+On Bits and Bandits: Quantifying the Regret-Information Trade-off
+Task Calibration: Calibrating Large Language Models on Inference Tasks
+Grond: A Stealthy Backdoor Attack in Model Parameter Space
+SEBRA : Debiasing through Self-Guided Bias Ranking
+A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts
+Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection
+Unsupervised Learning of Facial Attribute Representations Using StyleGAN
+Noise-Robust Audio-Visual Speech-Driven Body Language Synthesis
+FairLoRA: Targeted Bias Mitigation without Performance Loss
+Class-wise Generalization Error: an Information-Theoretic analysis
+LIME: LESS IS MORE FOR MLLM EVALUATION
+Rate of Approximation by Flows: A Case Study on the Eikonal Equation
+Bayesian Active Learning By Distribution Disagreement
+Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data
+InfCycle: Learning to Use Tools via Inference Compute and Cycle Consistency
+Signal Dynamics in Diffusion Models: Enhancing Text-to-Image Alignment through Step Selection
+A Rademacher-Like Random Embedding with Linear Complexity
+Fractal-Inspired Message Passing Neural Networks with Fractal Nodes
+Conceptualize Any Network: A Concept Extraction Framework for Holistic Interpretability of Image Classifiers
+Provably Reliable Conformal Prediction Sets in the Presence of Data Poisoning
+Hierarchical Multimodal Knowledge Matching for Training-Free Open-Vocabulary Object Detection
+An Online Learning Approach to Prompt-based Selection of Generative Models
+SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting
+Lambda-Skip Connections: the architectural component that prevents Rank Collapse
+Activation Decay by Loss Smoothing to Enhance Generalization
+Hyperparameter Optimization via Interacting with Probabilistic Circuits
+Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance
+Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models
+R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models
+Node-Level Topological Representation Learning on Point Clouds
+Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight MLLMs via Complementary Image Pyramid
+Multi-objective antibody design with constrained preference optimization
+Towards General Certified Robustness of Combinatorial Optimization Solvers
+The Two-Hop Curse: LLMs trained on A→B, B→C fail to learn A→C
+Δ -DiT: Accelerating Diffusion Transformers without training via Denoising Property Alignment
+Dynamics Based Neural Encoding with Inter-Intra Region Connectivity
+NL-Eye: Abductive NLI For Images
+COFlowNet: Conservative Constraints on Flows Enable High-Quality Candidate Generation
+VN-EGNN: E(3)- and SE(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification
+Channel Independence Improves Out-of-Distribution Generalisation in Multivariate Time Series Classification
+Manipulating Infrared Emissivity with Galvanized Iron Sheets for Physical Adversarial Attack
+Autoencoder-Based General-Purpose Representation Learning for Entity Embedding
+Curriculum-aware Training for Discriminating Molecular Property Prediction Models
+BOOD: Boundary-based Out-Of-Distribution Data Generation
+Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?
+RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval
+CoVT-CXR: Building Chain of Visual Thought for Interpretable Chest X-Ray Diagnosis
+Neural Context Flows for Meta-Learning of Dynamical Systems
+LATABLE: TOWARDS LARGE TABULAR MODELS
+Efficiently Deploying LLMs with Controlled Risk

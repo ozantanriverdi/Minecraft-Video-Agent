@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs",
+        "relevant": false
+    },
+    {
+        "title": "War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars",
+        "relevant": false
+    },
+    {
+        "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games",
+        "relevant": false
+    },
+    {
+        "title": "Unbounded: A Generative Infinite Game of Character Life Simulation",
+        "relevant": true
+    },
+    {
+        "title": "Diffusion Models Are Real-Time Game Engines",
+        "relevant": false
+    }
+]

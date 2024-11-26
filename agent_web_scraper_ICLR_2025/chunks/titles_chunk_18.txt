@@ -1,0 +1,50 @@
+Normalized Space Alignment: A Versatile Metric for Representation Analysis
+RedCodeAgent:  Automatic Red-teaming Agent against Code Agents
+Meta-Learning Adaptable Foundation Models
+ACER: Automatic Language Model Context Extension via Retrieval
+Towards Practical Large-Scale Privacy-Preserving Recurrent Neural Networks
+Counterfactual History Distillation on Continuous-time Event Sequences
+From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields
+LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
+What's the Move? Hybrid Imitation Learning via Salient Points
+RMAAT: A Bio-Inspired Approach for Efficient Long-Context Sequence Processing in Transformers
+LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model
+PEARL: Towards Permutation-Resilient LLMs
+GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights
+Competence-Based Analysis of Language Models
+Adaptive Causal Experimental Design: Amortizing Sequential Bayesian Experimental Design for Causal Models
+Language Models as Feature Extractors for Accurate Continual Learning
+Which Network is Trojaned? Increasing Trojan Evasiveness for Model-Level Detectors
+LLM Spark: Critical Thinking Evaluation of Large Language Models
+When can isotropy help adapt LLMs' next word prediction to numerical domains?
+Grounded Video Caption Generation
+TAO-Amodal: A Benchmark for Tracking Any Object Amodally
+Learning Time-shared Hidden Heterogeneity for Counterfactual Outcome Forecast
+SWE-bench Multimodal: Do Autonomous Programming Systems Generalize to New Software Domains?
+Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems
+Distributionally Robust Surface Reconstruction from Sparse Point Clouds
+Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions
+Fast and Accurate Language Model Decoding via Parallel Token Processing
+JANET: Joint Adaptive predictioN-region Estimation for Time-series
+Entailment Progressions: A Robust Approach to Evaluating Reasoning Within Larger Discourse
+DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life
+Rare-Mark-Aware Next Event Prediction In Marked Event Streams
+Collab: Controlled Decoding using Mixture of Agents for LLM Alignment
+Provable Data-driven Hyperparameter Tuning for Deep Neural Networks
+Distributionally Robust Policy Learning under Concept Drifts
+Gen-LRA: Towards a Principled Membership Inference Attack for Generative Models
+Pose Priors from Language Models
+Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debate
+Finally Rank-Breaking Conquers MNL Bandits: Optimal and Efficient Algorithms for MNL Assortment
+Top-m Data Values Identification
+ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery
+SHARP: Accelerating Language Model Inference by SHaring Adjacent layers with Recovery Parameters
+RazorAttention: Efficient KV Cache Compression Through Retrieval Heads
+Retrieval or Reasoning: The Roles of Graphs and Large Language Models in Efficient Knowledge-Graph-Based Retrieval-Augmented Generation
+Feature Driven Graph Coarsening for Scaling Graph Representation Learning
+LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models
+MrT5: Dynamic Token Merging for Efficient Byte-level Language Models
+Commit0: Library Generation from Scratch
+Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control
+CIRCUIT: A Benchmark for Circuit Interpretation and Reasoning Capabilities of LLMs
+CL-MFAP: A contrastive learning-based multimodal foundation model for antibiotic property prediction

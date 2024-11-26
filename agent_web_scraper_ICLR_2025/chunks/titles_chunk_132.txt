@@ -1,0 +1,50 @@
+Defensive Prompt Patch: A Robust and Generalizable Defense of Large Language Models against Jailbreak Attacks
+Data Interpreter: An LLM Agent For Data Science
+Voila: Evaluation of MLLMs For Perceptual Understanding and Analogical Reasoning
+Learning local equivariant representations for quantum operators
+Continual Task Learning through Adaptive Policy Self-Composition
+Hiding Images in Diffusion Models by Editing Learned Score Functions
+One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments
+Out-of-Distribution Detection in Class Incremental Learning
+MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations
+On the Inflation of KNN-Shapley Value
+RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
+Binary Hypothesis Testing for Softmax Models and Leverage Score Models
+Enhancing Deep Symbolic Regression via Reasoning Equivalent Expressions
+Generalizable Dynamic Radiance Field in Egocentric View
+Hybrid Fourier Score Distillation for Efficient One Image to 3D Object Generation
+Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift
+Two Halves Make a Whole: How to Reconcile Soundness and Robustness in Watermarking for Large Language Models
+PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems
+Beyond DAGs: A Latent Partial Causal Model for Multimodal Learning
+Learning with User-Level Local Differential Privacy
+Oversmoothing as Loss of Sign: Towards Structural Balance in Graph Neural Networks
+Discovering Message Passing Hierarchies for Mesh-Based Physics Simulation
+Personalized Federated Learning on Flowing Data Heterogeneity under Restricted Storage
+3D Interaction Geometric Pre-training for Molecular Relational Learning
+Rethinking Fairness Representation in Multi-Task Learning: a Performance-Informed Variance Reduction Approach
+Elastic and Balanced End-to-end Training of Dynamic LLMs with DynMo
+Towards Fine-grained Molecular Graph-Text Pre-training
+BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space
+Attaining Human's Desirable Outcomes in Indirect Human-AI Interaction via Multi-Agent Influence Diagrams
+Learning Interleaved Image-Text Comprehension in Vision-Language Large Models
+AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection
+SE3Set: Harnessing equivariant hypergraph neural networks for molecular representation learning
+Hypernetwork-Based Equivariant CNNs
+Rethinking the role of frames for SE(3)-invariant crystal structure modeling
+COBias and Debias: Minimizing Language Model Pairwise Accuracy Bias via Nonlinear Integer Programming
+PerFIT: Personalized Federated Instruction Tuning via Neural Architecture Search
+A transfer learning framework for weak to strong generalization
+UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting
+Language Representations Can be What Recommenders Need: Findings and Potentials
+ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts
+Multi-Task Dense Predictions via Unleashing the Power of Diffusion
+P-BERT: Hardware-Aware Optimization of BERT Using Evolutionary Techniques
+Demystifying the Token Dynamics of Deep Selective State Space Models
+Insufficient Task Description can Impair In-context Learning: A Study from Information Perspective
+Model Collapse Analysis and Improvement for Rectified Flow Models
+Contrastive Learning Via Equivariant Representation
+ScalePerson: Towards Good Practices in Evaluating Physical Adversarial Attacks on Person Detection
+Understanding Self-supervised Learning as an Approximation of Supervised Learning
+GroupCoOp: Group-robust Fine-tuning via Group Prompt Learning
+Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs

@@ -1,0 +1,50 @@
+Distribution-Aware Diffusion Model Quantization via Distortion Minimization
+Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming
+Mani-WM: An Interactive World Model for Real-Robot Manipulation
+MolSpectra: Pre-training 3D Molecular Representation with Multi-modal Energy Spectra
+Enhancing Clustered Federated Learning: Integration of Strategies and Improved Methodologies
+Very Large-Scale Multi-Agent Simulation with LLM-Powered Agents
+VIDEOGUARD: PROTECTING VIDEO CONTENT FROM UNAUTHORIZED EDITING
+Attacking for Inspection and Instruction: Attack Techniques Can Aid In Interpretability
+INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph
+AIPO: Agreement-Aware Iterative Preference Optimization for Length Exploitation Mitigation
+Supervised and Semi-Supervised Diffusion Maps with Label-Driven Diffusion
+Multi-task Learning for Heterogeneous Multi-source Block-Wise Missing Data
+Distilling Auto-regressive Models into Few Steps 1: Image Generation
+Retrieval Information Injection for Enhanced Medical Report Generation
+Infinite-parameter Large Language Model
+Progressively Label Enhancement for Large Language Model Alignment
+Policy Decorator: Model-Agnostic Online Refinement for Large Policy Model
+Streamlining Redundant Layers to Compress Large Language Models
+ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution
+ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer
+Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs
+Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solver
+Fast RoPE Attention: Combining the Polynomial Method and Fast Fourier Transform
+Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling
+Efficient Protein Optimization via Structure-aware Hamiltonian Dynamics
+Conversational Few-Shot Prompting: Rethinking Few-Shot Prompting for Chat Language Model
+On the Hölder Stability of Multiset and Graph Neural Networks
+EVGAP: Egocentric-Exocentric Video Groups Alignment Pre-training
+E 3 former: An Adaptive Energy-Aware Elastic Equivariant Transformer Model For Protein Representation Learning
+LLaMA Decoder As Vision Transformer
+Motion-Catcher: Upholding Motion and Content Consistency in Multi-Sequence Video Generation
+DM-Codec: Distilling Multimodal Representations for Speech Tokenization
+Variational Mirror Descent for Robust Learning in Schrödinger Bridge
+Rethinking and improving autoformalization: towards a faithful metric and a Dependency Retrieval-based approach
+On the Importance of Language-driven Representation Learning for Heterogeneous Federated Learning
+Structured Diffusion Models with Mixture of Gaussians as Prior Distribution
+Vision Foundation Models Bridge the Geometric Knowledge Across Domains for Long-Tailed Recognition
+Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning
+Loius (Look it up in the Structure): Benchmark and Techniques for Document structure aware LLM based Retrieval
+Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs
+Evaluating Deep Unlearning in Large Language Models
+TwinsFormer: Revisiting Inherent Dependencies via Two Interactive Components for Time Series Forecasting
+Towards Reliable Backdoor Attacks on Vision Transformers
+Is Factuality Enhancement a Free Lunch For LLMs? Better Factuality Can Lead to Worse Context-Faithfulness
+MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling
+Differentiation of Multi-objective Data-driven Decision Pipeline
+TopoGaussian: Inferring Internal Topology Structures from Visual Clues
+Tree of Attributes Prompt Learning for Vision-Language Models
+RAEE: A Robust Retrieval-Augmented Early Exit Framework for Efficient Inference
+DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing

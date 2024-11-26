@@ -1,0 +1,50 @@
+Revolutionizing AI Companion in FPS Games
+BID: Broad Incremental for Android Malware Detection
+OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models
+Unraveling the Complexity of Memory in RL Agents: an Approach for Classification and Evaluation
+Video Generation with Learned Action Prior
+U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills in LLMs
+Multivariate Time-series Forecasting with SPACE: Series Prediction Augmented by Causality Estimation
+Distribution-free Data Uncertainty for Neural Network Regression
+Learning representations on Lp hyperspheres: The equivalence of loss functions in a MAP approach
+Self-Choose: Leveraging Diverse Reasoning Solutions to Self-Correct Multimodal Large Language Models
+SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization
+Identifying and Tuning Safety Neurons in Large Language Models
+Long Context Compression with Activation Beacon
+RouteFinder: Towards Foundation Models for Vehicle Routing Problems
+Pre-Trained Vision-Language Model Selection and Reuse for Downstream Tasks
+IMPaCT GNN: Imposing invariance with Message Passing in Chronological split Temporal Graphs
+A Diagonal Structured State Space Model on Loihi 2 for Efficient Streaming Sequence Processing
+LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models
+Transformers Learn Bayesian Networks Autoregressively In-Context
+When Prompt Meets Frequency Learning for Efficient Image Restoration
+MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption
+Be More Diverse than the Most Diverse: Online Selection of Diverse Mixtures of Generative Models
+Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks
+Linear-Time Sequence Modeling with MLPs
+SaTran: An efficient Transformer exploiting Spatiotemporal Redundancies for Satellite Image Time Series Representation Learning
+Convergence of Adafactor under Non-Convex Smooth Stochastic Optimization
+Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count
+Training-Like Data Reconstruction
+Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks
+A Computation and Communication Efficient Projection-free Algorithm for Decentralized Constrained Optimization
+LION: A bidirectional framework that trains like a Transformer and infers like an RNN
+Relation Augmented Preferential Bayesian Optimization via Preference Propagation
+Sparse Watermarking in LLMs with Enhanced Text Quality
+NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens
+Highlight Diffusion: Training-Free Attention Guided Acceleration for Text-to-Image Models
+Graphical-TS: An Interactive AI Pipeline for Multivariate Time Series with Ground-truth Graphical Modeling
+Detecting and Approximating Redundant Computational Blocks in Neural Networks
+Look Before You Leap: Universal Emergent Mechanism for Retrieval in Language Models
+Screener: Learning Conditional Distribution of Dense Self-supervised Representations for Unsupervised Pathology Segmentation in 3D Medical Images
+A Multi-Power Law for Loss Curve Prediction Across Learning Rate Schedules
+LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
+URLOST: Unsupervised Representation Learning without Stationarity or Topology
+One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning
+Synthesizing Physical Backdoor Datasets: An Automated Framework Leveraging Deep Generative Models
+K-HALU: Multiple Answer Korean Hallucination Benchmark for Large Language Models
+Shell Games: Control Protocols for Adversarial AI Agents
+Charting the Design Space of Neural Graph Representations for Subgraph Matching
+Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification
+Contextual Kernels for Task-Aware Fine-Tuning in Vision-Language Models
+ZEPHYR GAN: REDEFINING GAN WITH FLEXIBLE GRADIENT CONTROL

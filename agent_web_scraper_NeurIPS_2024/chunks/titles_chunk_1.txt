@@ -1,0 +1,50 @@
+Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions
+Human Expertise in Algorithmic Prediction
+Learning diffusion at lightspeed
+Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought
+Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure
+Aligner: Efficient Alignment by Learning to Correct
+Questioning the Survey Responses of Large Language Models
+Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators
+Do Finetti: On Causal Effects for Exchangeable Data
+LLM Evaluators Recognize and Favor Their Own Generations
+Learning Formal Mathematics From Intrinsic Motivation
+Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments
+Improving Environment Novelty Quantification for Effective Unsupervised Environment Design
+Enhancing Preference-based Linear Bandits via Human Response Time
+Scale Equivariant Graph Metanetworks
+CAT3D: Create Anything in 3D with Multi-View Diffusion Models
+Stylus: Automatic Adapter Selection for Diffusion Models
+Guiding a Diffusion Model with a Bad Version of Itself
+RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation
+VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time
+Learning rigid-body simulators over implicit shapes for large-scale scenes and vision
+Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations
+DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+DenoiseRep: Denoising Model for Representation Learning
+Optimal Parallelization of Boosting
+Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle
+Bayesian-guided Label Mapping for Visual Reprogramming
+Policy Learning from Tutorial Books via Understanding, Rehearsing and Introspecting
+GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation
+PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
+Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering
+You Only Cache Once: Decoder-Decoder Architectures for Language Models
+Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation
+DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
+Not All Tokens Are What You Need for Pretraining
+Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures
+Return of Unconditional Generation: A Self-supervised Representation Generation Method
+Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling
+Improved Distribution Matching Distillation for Fast Image Synthesis
+E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map

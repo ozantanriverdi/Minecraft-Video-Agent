@@ -1,0 +1,268 @@
+OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents
+StarCraft II Arena: Evaluating LLMs in Strategic Planning, Real-Time Decision Making, and Adaptability
+EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment
+Q* Agent: Optimizing Language Agents with Q-Guided Exploration
+Monte Carlo Planning with Large Language Model for Text-Based Games
+ADAM: An Embodied Causal Agent in Open-World Environments
+Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation
+Grey-box Prompt Optimization and Fine-Tuning for Cloud-Edge LLM Agents
+OpenPL: Realistic Evaluation of Prompt Learning for VLM in Open Environments
+Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR
+Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System
+Agent S: An Open Agentic Framework that Uses Computers Like a Human
+Open-World Planning via Lifted Regression with LLM-based Affordances for Embodied Agents
+Simulate Before Act: Model-Based Planning for Web Agents
+Large Language Models Can Self-Improve At Web Agent Tasks
+Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning
+PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play
+Unlocking Video-LLM via Agent-of-Thoughts Distillation
+LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models
+NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains
+World-simulation as pre-training for scalable perception
+Multi-Agent Path Finding via Decision Transformer and LLM Collaboration
+Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model
+Human-like Episodic Memory for Infinite Context LLMs
+Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents
+CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing
+Flex: End-to-End Text-Instructed Visual Navigation with Foundation Models
+Towards Machine Theory of Mind with Large Language Model-Augmented Inverse Planning
+Controlling Large Language Model Agents with Entropic Activation Steering
+Beyond Browsing: API-Based Web Agents
+LLMs Can Plan Only If We Tell Them
+Do LLM Agents Have Regret? A Case Study in Online Learning and Games
+A Scalable Communication Protocol for Networks of Large Language Models
+MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents
+DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects
+WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild
+Meta-Referential Games to Learn Compositional Learning Behaviours
+Language Agents Meet Causality -- Bridging LLMs and Causal World Models
+STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making
+Robotouille: An Asynchronous Planning Benchmark for LLM Agents
+Learn-by-interact: A Data-Centric Framework For Self-Adaptive Agents in Realistic Environments
+AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs
+Worldcraft
+From an LLM Swarm to a PDDL-empowered Hive: Planning Self-executed Instructions in a Multi-modal Jungle
+EMERGENCE OF GROUNDED, OPTIMALLY COMPOSITIONAL SPATIAL LANGUAGE AMONG HOMOGENEOUS AGENTS
+AgentGym: Evaluating and Evolving Large Language Model-based Agents across Diverse Envronments
+A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment
+Exploring and Benchmarking Planning Capabilities of Large Language Models
+Video Q-Former: Multimodal Large Language Model with Spatio-Temporal Querying Transformer Towards Video Understanding
+FAIRMINDSIM: ALIGNMENT OF BEHAVIOR, EMO- TION, AND BELIEF IN HUMANS AND LLM AGENTS AMID ETHICAL DILEMMAS
+World Model on Million-Length Video And Language With Blockwise RingAttention
+DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback
+How Can LLM Guide RL? A Value-Based Approach
+GridAgent: A 2D Grid-Based Game Framework And Benchmark For Multimodal Large Language Models
+Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks
+SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models
+Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration
+Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems
+Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger
+Improving Large Language Model based  Multi-Agent Framework through Dynamic Workflow Updating
+Coding Reliable LLM-based Integrated Task and Knowledge Agents with GenieWorksheets
+LLMs for Generalizable Language-Conditioned Policy Learning under Minimal Data Requirements
+Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models
+MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
+LifelongSotopia: Evaluating Social Intelligence Of Language Agents Over Lifelong Social Interactions
+Agents' Room:  Narrative Generation through Multi-step Collaboration
+ELICIT: LLM Augmentation Via External In-context Capability
+ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation
+CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets
+Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory
+MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration
+AgentSquare: Automatic LLM Agent Search in Modular Design Space
+GameInstruct: Teaching Machines to Reason via Chameleon Game
+I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy
+SmartBackdoor: Malicious Language Model Agents that Avoid Being Caught
+Do Large Language Models have Lateral Thinking in Puzzle-Solving Games?
+Tool Decoding: A Plug-and-Play Approach to Enhancing Language Models for Tool Usage
+ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models
+Evolve: Evaluating and Optimizing LLMs For Exploration
+Lay-Your-Scene: Open-Vocabulary Text to Layout Generation
+VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks
+Thinking Forward and Backward: Effective Backward Planning with Large Language Models
+Discriminator-Guided Embodied Planning for LLM Agent
+Large-Scale Dynamic Graph Generation via LLM-based Agent Simulation
+SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning
+From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
+ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise
+Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent
+Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
+Forewarned is Forearmed:  Harnessing LLMs for Data Synthesis via Failure-induced Exploration
+ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement
+Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models
+ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet
+Improving Planning with Large Language Models: A Modular Agentic Architecture
+TeamCraft: A Benchmark for Embodied Multi-Agent Systems in Minecraft
+Adaptive Video Understanding Agent: Enhancing Efficiency with Dynamic Frame Sampling and Feedback-driven Reasoning
+Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models
+Can foundation models actively gather information in interactive environments to test hypotheses?
+HomieBot: an Adaptive System for Embodied Mobile Manipulation in Open Environments
+Seeing is Knowing: Advancing Semantic Understanding with MLLMs in Grounding Tasks
+Improving Instruction-Following in Language Models through Activation Steering
+FairCoT: Enhancing Fairness in Diffusion Models via Chain of Thought Reasoning of Multimodal Language Models
+Guided Stream of Search: Learning to Better Search with Language Models via Optimal Path Guidance
+Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
+iMotion-LLM: Motion Prediction Instruction Tuning
+Harnessing Input-adaptive Inference for Efficient Vision-and-Language Navigation
+Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback
+The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation
+DataGen: Unified Synthetic Dataset Generation via Large Language Models
+VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for MLLMs
+HDFlow: Enhancing LLM Complex Problem-Solving with Hybrid Thinking and Dynamic Workflows
+PuzzlePlex: A Benchmark to Evaluate the Reasoning and Planning of Large Language Models on Puzzles
+CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks
+Improving Large Language Model Planning with Action Sequence Similarity
+OpenHands: An Open Platform for AI Software Developers as Generalist Agents
+Mitigating Dialogue Hallucination for Large Vision Language Models via Adversarial Instruction Tuning
+Progressive Multi-scale Triplane Network for Text-to-3D Generation
+HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model
+SEAL: SEmantic-Augmented Imitation Learning via Language Model
+Versatile Motion-Language Models for Multi-turn Interactive Agents
+VISION-LANGUAGE MODELS AS TRAINERS FOR INSTRUCTION-FOLLOWING AGENTS
+GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents
+Agent Skill Acquisition for Large Language Models via CycleQD
+UnrealCV Zoo: Enriching Photo-realistic Virtual Worlds for Embodied AI Agents
+CONSTRAINT-AWARE ZERO-SHOT VISION-LANGUAGE NAVIGATION IN CONTINUOUS ENVIRONMENTS
+Adapting Communicating MLLMs on the Fly in Referring Expression Tasks
+Haland: Human-AI Coordination via Policy Generation from Language-guided Diffusion
+ICDA: Interactive Causal Discovery through Large Language Model Agents
+Multi-Agent Causal Discovery Using Large Language Models
+Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
+SELU: Self-Learning Embodied MLLMs in Unknown Environments
+Cradle: Empowering Foundation Agents towards General Computer Control
+Towards Evaluating Generalist Agents: An Automated Benchmark in Open World
+Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case
+How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs
+VisualAgentBench: Towards Large Multimodal Models as Visual Agents
+CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents
+Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models
+Odyssey: Empowering Minecraft Agents with Open-World Skills
+Learning Video-Conditioned Policy on Unlabelled Data with Joint Embedding Predictive Transformer
+Embodied Instruction Following in Unknown Environments
+Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions
+SR 2 : BOOSTING 3D LARGE LANGUAGE MODEL WITH SPATIAL RELATION REASONING
+LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence
+Chain of Ideas: Revolutionizing Research in Idea Development with LLM Agents
+SCALE: Augmenting Content Analysis via LLM Agents and AI-Human Collaboration
+Towards LLM4Floorplan: Agents Can Do What Engineers Do in Chip Design
+Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming
+Very Large-Scale Multi-Agent Simulation with LLM-Powered Agents
+ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning
+PersonaEval: Benchmarking LLMs on Role-Playing Evaluation Tasks
+Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents
+Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
+Exploiting Open-World Data for Adaptive Continual Learning
+Symbolic Learning Enables Self-Evolving Agents
+Action as a Modality: Turning Multi-Modal LLMs to General Action Planners
+Are Large Vision Language Models Good Game Players?
+Visual Question Answering with Fine-grained Knowledge Unit RAG and Multimodal LLMs
+Re-Aligning Language to Visual Objects with an Agentic Workflow
+ReAcTree: Hierarchical Task Planning with Dynamic Tree Expansion using LLM Agent Nodes
+PokéLLMon: A Grounding and Reasoning Benchmark for Large Language Models in Pokémon Battles
+DEEM: Diffusion models serve as the eyes of large language models for image perception
+Competing Large Language Models in Multi-Agent Gaming Environments
+VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos
+Test-time Contrastive Concepts for Open-World Semantic Segmentation
+Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs
+MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs
+Grounding Video Models to Actions through Goal Conditioned Exploration
+Inverse Attention Agent in Multi-Agent System
+StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration
+Egocentric Vision Language Planning
+Multiagent Finetuning of Language Models
+RePrompt: Prompt Engineering for Large Language Models Agents through Reflection
+LossAgent: Towards Any Optimization Objectives for Image Processing with LLM Agents
+Transformers Can Navigate Mazes With Multi-Step Prediction
+BadRobot: Manipulating Embodied LLMs in the Physical World
+IGOR: Image-GOal Representations are the Atomic Building Blocks for Next-Level Generalization in Embodied AI
+Tell Me What You Don't Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
+ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom
+R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
+EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI
+MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation
+Proposer-Agent-Evaluator (PAE): Autonomous Skill Discovery For Foundation Model Internet Agents
+Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+Seeker: Enhancing Exception Handling in Code with a LLM-based Multi-Agent Approach
+How language models extrapolate outside the training data: A Case study in Textualized Gridworld
+Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage
+Bidirectional Generative Retrieval with Multi-Modal LLMs for Text-Video Retrieval
+Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
+RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code
+VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
+Interpolating Video-LLMs: Toward Longer-sequence LMMs in a Training-free Manner
+Language Model Non-Myopic Generation for Reasoning and Planning
+Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models
+Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
+Rapid Response: Mitigating LLM Jailbreaks With A Few Examples
+MMMT-IF: A Challenging Multimodal Multi-Turn Instruction Following Benchmark
+Understanding Reasoning in Chain-of-Thought from the Hopfieldian View
+Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems
+SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Model
+ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models
+3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Referred Object Grounding
+EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents
+3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds
+Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning
+Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs
+War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars
+GameArena: Evaluating LLM Reasoning through Live Computer Games
+Unbounded: A Generative Infinite Game of Character Life Simulation
+Diffusion Models Are Real-Time Game Engines
+Grounding Multimodal Large Language Model in GUI World
+Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation
+VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model
+The Ability of Large Language Models to Evaluate Constraint-satisfaction in Agent Responses to Open-ended Requests
+One-shot World Models Using a Transformer Trained on a Synthetic Prior
+Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models
+OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code
+Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
+S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models
+MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
+VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI
+mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models
+Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning
+Learning Evolving Tools for Large Language Models
+Kronecker Mask and Interpretive Prompts are Language-Action Video Learners
+Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs
+MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?
+Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration
+GROOT-2: Weakly Supervised Multimodal Instruction Following Agents
+Prompt-guided Visual Perception for Efficient Training-free Video LLM
+GameGen- X : Interactive Open-world Game Video Generation
+Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models
+Generative World Explorer
+AgentQuest: Benchmarking LLM and VLM Agents on Long-Horizon Interactive Tasks
+OASIS: Open Agents Social Interaction Simulations on a Large Scale
+Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
+Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis
+Efficient Open-world Test Time Adaptation of Vision Language Models
+Visual Agents as Fast and Slow Thinkers
+Does Spatial Cognition Emerge in Frontier Models?
+EgoLM: Multi-Modal Language Model of Egocentric Motions
+SegLLM: Multi-round Reasoning Segmentation with Large Language Model
+Tree Search for Language Model Agents
+ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities
+Craftium: Creating Efficient Environments for Open-Ended and Embodied Agents Beyond Gridworlds
+REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments
+SceneFunctioner: Tailoring Large Language Model for Function-Oriented Interactive Scene Synthesis
+UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning
+Learning 4D Embodied World Models
+VP-LLM: Text-Driven 3D Volume Completion with Large Language Models through Patchification
+SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning
+GCML: Grounding Complex Motions using Large Language Model in 3D Scenes
+Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology
+SlowFast-LLaVA: A strong training-free baseline for video large language models
+Autoverse: an Evolvable Game Language for Learning Robust Embodied Agents
+Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison
+HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation
+DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM
+3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o
+3D-SPATIAL MULTIMODAL MEMORY
+AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation
+Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering
+AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs
+Multi-Agent Collaborative Data Selection for Efficient Language Model Pretraining
+OLMoE: Open Mixture-of-Experts Language Models
+ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination
+Adaptive In-conversation Team Building for Language Model Agents
+Scaling Large Language Model-based Multi-Agent Collaboration

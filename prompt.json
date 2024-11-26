@@ -12,3 +12,25 @@
         }
     ]
 }
+
+
+{
+    "prompt": [
+        {
+            "article": "EXecution-Eval: Can language models execute real-world code?",
+            "value": false
+        },
+        {
+            "article": "Exploring the Recall of Language Models: Case Study on Molecules",
+            "value": false
+        },
+        {
+            "article": "Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory",
+            "value": true
+        },
+        {
+            "article": "Odyssey: Empowering Minecraft Agents with Open-World Skills",
+            "value": true
+        }
+    ]
+}

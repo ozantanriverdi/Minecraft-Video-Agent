@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Can Large Language Model Agents Simulate Human Trust Behavior?",
+        "relevant": false
+    },
+    {
+        "title": "SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization",
+        "relevant": false
+    },
+    {
+        "title": "Can large language models explore in-context?",
+        "relevant": false
+    },
+    {
+        "title": "AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning",
+        "relevant": true
+    },
+    {
+        "title": "VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions",
+        "relevant": false
+    }
+]

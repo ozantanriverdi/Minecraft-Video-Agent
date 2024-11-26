@@ -1,0 +1,50 @@
+Sparse spatio temporal reconstruction with Closable Kernel Space
+EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation
+Differentiable Average Precision Loss in DETR
+A Truncated Newton Method for Optimal Transport
+Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention
+Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space
+Accelerate High-Quality Diffusion Models with Inner Loop Feedback
+GroundingBooth: Grounding Text-to-Image Customization
+KV Prediction for Improved Time to First Token
+Automated Proof Generation for Rust Code via Self-Evolution
+Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
+S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models
+Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs)
+A Modified Proximal-Perturbed Lagrangian for Non-Convex Non-Smooth Representatives of Fairness Constraints
+Boosting Camera Motion Control for Video Diffusion Transformers
+Multi-Scale Latent Points Consistency Models for 3D Shape Generation
+Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models
+MEXMA: Token-level objectives improve sentence representations
+Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection
+A Third-Person Appraisal Agent: Learning to Reason About Emotions in Conversational Contexts
+Enhancing Cognition and Explainability of Multimodal Foundation Models with Self-Synthesized Data
+RNAformer: Axial-Attention For Homology-Aware RNA Secondary Structure Prediction
+UniComposer: Band-Level Music Composition with Symbolic and Audio Unification
+LEGACY: A Lightweight Adaptive Gradient Compression Strategy for Distributed Deep Learning
+SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision
+Diffusion Pretraining for Gait Recognition in the Wild
+Improving Denoising Diffusion with Efficient Conditional Entropy Reduction
+MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents
+I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow
+Measuring Bias of Web-filtered Text Datasets and Bias Propagation Through Training
+AutoLoRA: AutoGuidance Meets Low-Rank Adaptation for Diffusion Models
+A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Data
+UTSD: Unified Time Series Diffusion Model
+PFAvatar: Avatar Reconstruction from Multiple In-the-wild Images
+Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models
+Tradiffusion++：Hierarchical Guidance for Fine-Grained Trajectory-Based  Image Generation
+VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI
+S7: Selective and Simplified State Space Layers for Sequence Modeling
+Smart Placement Enhanced Vision: Enhancing 3D-Detection With Learned 3D Placement
+PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation
+REMEDY: Recipe Merging Dynamics in Large Vision-Language Models
+TIPS: Text-Image Pretraining with Spatial awareness
+3D Object Manipulation in a Single Image Using Generative Models
+From Promise to Practice: Realizing High-performance Decentralized Training
+A Matrix Variational Auto-Encoder for Variant Effect Prediction in Pharmacogenes
+Diffusion Compose: Compositional Depth Aware Scene Editing in Diffusion Models
+mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models
+Long-Sequence Recommendation Models Need Decoupled Embeddings
+The Renaissance of Classic Feature Aggregations for Visual Place Recognition in the Era of Foundation Models
+Token-Aware Inference-Time Intervention for Large Language Model Alignment

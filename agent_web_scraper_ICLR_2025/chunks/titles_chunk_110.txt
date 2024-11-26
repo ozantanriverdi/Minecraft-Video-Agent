@@ -1,0 +1,50 @@
+LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models
+EgoSim: Egocentric Exploration in Virtual Worlds with Multi-modal Conditioning
+FUSION IS ALL YOU NEED : FACE FUSION FOR CUSTOMIZED IDENTITY-PRESERVING IMAGE SYNTHESIS
+LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space
+Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors
+LLM-guided spatio-temporal disease progression modelling
+TimeCAT: Hierarchical Context-Aware Transformer with Dynamic Grouping for Time Series Forecasting
+Capability Localization: Capabilities Can be Localized rather than Individual Knowledge
+Learning Representations of Instruments for Partial Identification of Treatment Effects
+Segment Anything with Multiple Modalities
+Intrinsic-ControlNet : A Generative Rendering Approach to Render Any Real and Unreal
+Solving the Fuzzy Job Shop Scheduling Problem via Learning Approaches
+Semi-Supervised CLIP Training by Enforcing Semantic and Trapezoidal Consistency
+Learning Successor Features with Distributed Hebbian Temporal Memory
+AttnInput: Revolutionizing Pinyin Input with Context-Aware RWKV Language Models
+Spectral Highways: Injecting Homophily into Heterophilic Graphs
+FedQLoRA: Federated Quantization-Aware LoRA for Large Language Models
+Divergence of Neural Tangent Kernel in Classification Problems
+Quest: Query-centric Data Synthesis Approach for Long-context Scaling of Large Language Model
+GASLITEing the Retrieval: Poisoning Knowledge DBs to Mislead Embedding-based Search
+Robust LLM safeguarding via refusal feature adversarial training
+Mechanism-Empowered Multivariate Time Series Forecasting Model: Application to Tuberculosis Prediction
+MoTE: Mixture of Task Experts for Embedding Models
+The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model
+Can Mamba Always Enjoy the "Free Lunch"?
+Advancing African-Accented English Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable ASR Models
+Masked Mamba: An Efficient Self-Supervised Framework for Pathological Image Classification
+Does your model understand genes? A benchmark of gene properties for biological and text models
+A Pattern Language for Machine Learning Tasks
+To Code or Not To Code? Exploring Impact of Code in Pre-training
+BAT: Backbone Augmented Training for Adaptations
+CHARGE DIRICHLET ENERGY: Geometric Perspectives on Over-smoothing in Deep Graph Neural Networks
+Neural Lighting Priors for Indoor Scenes
+CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling
+Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data
+SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION
+Haland: Human-AI Coordination via Policy Generation from Language-guided Diffusion
+Faster Rates for Private Adversarial Bandits
+Subject Information Extraction for Novelty Detection with Domain Shifts
+A Simple Efficiency Incremental Learning Framework via Vision-Language Model with Multi-Adapters
+DeepRTL: Bridging Verilog Understanding and Generation with a Unified Representation Model
+Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking Using Knowledge Graphs
+Bridging the Gap between Semantic Correspondence and Robust Visual Representation
+AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation
+A method for identifying causality in the response of nonlinear dynamical systems
+MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation
+TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs
+TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval
+Predicting the Energy Landscape of Stochastic Dynamical System via  Physics-informed Self-supervised Learning
+Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective

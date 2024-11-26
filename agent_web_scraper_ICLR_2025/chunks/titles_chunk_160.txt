@@ -1,0 +1,50 @@
+Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution
+Interpolating Video-LLMs:  Toward Longer-sequence LMMs in a Training-free Manner
+LJ-Bench: Ontology-based Benchmark for Crime
+HyperCLIP: Adapting Vision-Language models with Hypernetworks
+Linear Transformer Topological Masking with Graph Random Features
+MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark
+Context-Augmented Code Generation Using Programming Knowledge Graphs
+Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy
+A3D: Does Diffusion Dream about 3D Alignment?
+Avoid Being a Shortcut Learner through Library-Based Re-Learning
+Language Model Non-Myopic Generation for Reasoning and Planning
+From Eww to Woo: Detection of Mental Health Disturbing Images in Social Media
+3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing
+Improving Antibody Design with Force-Guided Sampling in Diffusion Models
+Learning Linear Utility Functions From Pairwise Comparison Queries
+BioNAS: Incorporating Bio-inspired Learning Rules to Neural Architecture Search
+Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models
+AoPS Dataset: Leveraging Online Olympiad-Level Math Problems for LLMs Training and Contamination-Resistant Evaluation
+Score-based Neural Ordinary Differential Equations for Computing Mean Field Control Problems
+Contemporary Continuous Aggregation: A Robust Categorical Encoding for Zero-Shot Transfer Learning on Tabular Data
+The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks
+Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
+DSI: Faster Inference of Large Language Models via Speculation Parallelism
+FDA: Generating Fair Synthetic Data with Provable Trade-off between Fairness and Faithfulness
+Improving Generalization and Robustness in SNNs Through Signed Rate Encoding and Sparse Encoding Attacks
+Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
+GeoTimeCLIP: Unveiling the When and Where of Images
+DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows
+Sensitivity-Adaptive Augmentation for Robust Segmentation
+Rapid Response: Mitigating LLM Jailbreaks With A Few Examples
+HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning
+CertainlyUncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness
+Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families
+Learning with Exact Invariances in Polynomial Time
+Few-shot Text Adversarial  Attack for Black-box Multi-task  Learning
+Towards Understanding the Robustness of Diffusion-Based Purification: A Stochastic Perspective
+Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts
+What Matters for Model Merging at Scale?
+COAT: Compressing Optimizer states and Activations for Memory-Efficient FP8 Training
+Invariant Graphon Networks: Approximation and Cut Distance
+MMMT-IF: A Challenging Multimodal Multi-Turn Instruction Following Benchmark
+Understanding Reasoning in Chain-of-Thought from the Hopfieldian View
+Deviation Ratings: A general, clone invariant rating method
+On Explaining Equivariant Graph Networks via Improved Relevance Propagation
+Quantifying Past Error Matters: Conformal Inference for Time Series
+Retrieval Or Holistic Understanding? Dolce: Differentiate Our Long Context Evaluation Tasks
+Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems
+Compressed Decentralized Learning with Error-Feedback under Data Heterogeneity
+Multi-Field Adaptive Retrieval
+Bayesian Neighborhood Adaptation for Graph Neural Networks

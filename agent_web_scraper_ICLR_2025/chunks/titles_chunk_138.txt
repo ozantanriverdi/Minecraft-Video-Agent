@@ -1,0 +1,50 @@
+ChaosEater: Fully Automating Chaos Engineering with Large Language Models
+EmbodiedSAM: Online Segment Any 3D Thing in Real Time
+Inter-Environmental World Modeling for Continuous and Compositional Dynamics
+Conformal Structured Prediction
+Global Well-posedness and Convergence Analysis of Score-based Generative Models via Sharp Lipschitz Estimates
+Learning Efficient Representations of Neutrino Telescope Events
+Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation
+GRE Score: Generative Risk Evaluation for Large Language Models
+Efficient optimization with orthogonality constraint: a randomized Riemannian submanifold method
+TabUnite: Efficient Encoding Schemes for Flow and Diffusion Tabular Generative Models
+Learning to Plan with Personalized Preferences
+Tree Search for Simultaneous Move Games via Equilibrium Approximation
+Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
+An efficient implementation for solving the all pairs minimax path problem in an undirected dense graph
+To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning
+Provably Efficient and Practical Self-Play for Better LLM Alignment
+Interference Among First-Price Pacing Equilibria: A Bias and Variance Analysis
+Worldwide Federated Training of Language Models
+ZCTG: A Zero-Shot Framework for Automatic Video Chaptering and Title Generation
+PoincareNorm: Rethinking Over-smoothing beyond Dirichlet energy
+WILT: A Multi-Turn, Memorization-Robust Inductive Logic Benchmark for LLMs
+Improving LLM Reasoning through Scaling Inference Computation with Collaborative Verification
+Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank
+Fully-inductive Node Classification on Arbitrary Graphs
+StoryGPT-V: Large Language Models as Consistent Story Visualizers
+ObscuraCoder: Powering Efficient Code LM Pre-Training Via Obfuscation Grounding
+Successor Representations Enable Emergent Compositional Instruction Following
+Differentiable Causal Discovery for Latent Hierarchical Causal Models
+SyllableLM: Learning Coarse Semantic Units for Speech Language Models
+Exact Community Recovery under Side Information: Optimality of Spectral Algorithms
+SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths
+Repulsive Latent Score Distillation for Solving Inverse Problems
+H-Direct: Homeostasis-aware Direct Spike Encoding for Deep Spiking Neural Networks
+LipFed: Mitigating Subgroup Bias in Federated Learning with Lipschitz Constraints
+Calibrating Expressions of Certainty
+Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction
+Learning General-purpose Biomedical Volume Representations using Randomized Synthesis
+Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning
+Understanding Layer Significance in LLM Alignment
+Test-Time Ensemble via Linear Mode Connectivity: A Path to Better Adaptation
+KrwEmd: Revising the Imperfect Recall Abstraction from Forgetting Everything
+α -OCC: Uncertainty-Aware Camera-based 3D Semantic Occupancy Prediction
+Machine Unlearning for Contrastive Learning under Auditing
+Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition
+Mechanism design with multi-armed bandit
+Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling
+Clustering on Skewed Cost Distributions
+Gaussian Ensemble Belief Propagation for Efficient Inference in High-Dimensional, Black-box Systems
+Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization
+AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation

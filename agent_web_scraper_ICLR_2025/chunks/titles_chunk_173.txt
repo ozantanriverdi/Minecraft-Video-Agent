@@ -1,0 +1,50 @@
+Managing Diffuse Risks in the Safe Deployment of Untrusted Large Language Models
+Scaling Laws For Mixed Quantization In Large Language Models
+Fast Training of Sinusoidal Neural Fields via Scaling Initialization
+Utilizing Visual Properties to Achieve Better Representations of Objects
+Language Models Learn to Mislead Humans via RLHF
+Designing a Conditional Prior Distribution for Flow-Based Generative Models
+ProCEED: Prototype Consolidation and Ensemble-based Exemplar-Free Deep Incremental Learning
+A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models
+Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-like and Personalised Early Adolescences
+Towards Semantic Equivalence of Tokenization in Multimodal LLM
+No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
+Gathering and Exploiting Higher-Order Information when Training Large Structured Models
+ChemAgent: Self-updating Memories in Large Language Models Improves Chemical Reasoning
+TREANT: Red-teaming Text-to-Image Models with Tree-based Semantic Transformations
+ML-Bench: Evaluating Large Language Models for Code Generation in Repository-Level Machine Learning Tasks
+Node Similarities under Random Projections: Limits and Pathological Cases
+GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold
+Differentiable Reasoning about Knowledge Graphs with Reshuffled Embeddings
+CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor Defense in Contrastive Learning
+One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation
+HADAMRNN: BINARY AND SPARSE TERNARY ORTHOGONAL RNNS
+Fast Multi-Mode Adaptive Generative Distillation for Continually Learning Diffusion Models
+An Information-Theoretic Analysis of Thompson Sampling for Logistic Bandits
+Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking
+Tree Attention: Topology-Aware Decoding for Long-Context Attention
+Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data
+Attention Head Purification: A New Perspective to Harness CLIP for Domain Generalization
+Nonasymptotic Analysis of Stochastic Gradient Descent with the Richardson–Romberg Extrapolation
+Uni-Map: Unified Camera-LiDAR Perception for Robust HD Map Construction
+OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios
+A Simple Baseline for Multivariate Time Series Forecasting
+A CLIP-Powered Framework for Robust and Generalizable Data Selection
+Federated Learning in Streaming Subspace
+Choose Before You Label: Efficient Node and Data Selection in Distributed Learning
+Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting
+Activating More Advantageous Neurons Can Improve Adversarial Transferability
+Aligned Better, Listen Better For Audio-Visual Large Language Models
+Concept Denoising Score Matching for Responsible Text-to-Image Generation
+Test-Time Learning of Causal Structure from Interventional Data
+Representation of solutions of second-order linear equations in Barron space via Green's functions
+OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning
+Learning the Complexity of Weakly Noisy Quantum States
+Vanishing Privacy: Fast Gradient Leakage Threat to Federated Learning
+Achieving Optimal Breakdown for Byzantine-Robust Gossip
+Adaptive Algorithm for Non-Stationary Online Convex-Concave Optimization
+Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training
+Qinco2: Vector Compression and Search with Improved  Implicit Neural Codebooks
+Balanced Neural ODEs: nonlinear model order reduction and Koopman operator approximations
+Attention layers provably solve single-location regression
+Efficient Sparse Single-stage 3D Visual Grounding with Text-guided Pruning

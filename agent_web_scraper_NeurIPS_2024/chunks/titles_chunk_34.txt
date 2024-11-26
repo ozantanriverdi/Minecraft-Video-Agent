@@ -1,0 +1,50 @@
+ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization
+Noether's Razor: Learning Conserved Quantities
+Credal Learning Theory
+Distribution Learning with Valid Outputs Beyond the Worst-Case
+Online Control in Population Dynamics
+Evidential Mixture Machines: Deciphering Multi-Label Correlations for Active Learning Sensitivity
+On the Scalability of GNNs for Molecular Graphs
+DiffPO: A causal diffusion model for learning distributions of potential outcomes
+Online Learning with Sublinear Best-Action Queries
+Parallelizing Linear Transformers with the Delta Rule over Sequence Length
+Preference Alignment with Flow Matching
+Dynamic Service Fee Pricing under Strategic Behavior: Actions as Instruments and Phase Transition
+Boosted Conformal Prediction Intervals
+The tree autoencoder model, with application to hierarchical data visualization
+Exploration by Learning Diverse Skills through Successor State Representations
+SpecExec: Massively Parallel Speculative Decoding For Interactive LLM Inference on Consumer Devices
+Interpretable Generalized Additive Models for Datasets with Missing Values
+The Feature Speed Formula: a flexible approach to scale hyper-parameters of deep neural networks
+Inference of Neural Dynamics Using Switching Recurrent Neural Networks
+Mutli-Armed Bandits with Network Interference
+CIFD: Controlled Information Flow to Enhance Knowledge Distillation
+Communication-Efficient Federated Group Distributionally Robust Optimization
+Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models
+Preference Learning Algorithms Do Not Learn Preference Rankings
+Symmetric Linear Bandits with Hidden Symmetry
+SAMPa: Sharpness-aware Minimization Parallelized
+Transformation-Invariant Learning and Theoretical Guarantees for OOD Generalization
+A Theory of Optimistically Universal Online Learnability for General Concept Classes
+The Bayesian sampling in a canonical recurrent circuit with a diversity of inhibitory interneurons
+Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
+Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data
+Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis
+Optimal Multiclass U-Calibration Error and Beyond
+User-item fairness tradeoffs in recommendations
+Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning
+Tree of Attacks: Jailbreaking Black-Box LLMs Automatically
+Sequential Probability Assignment with Contexts: Minimax Regret, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood
+Multi-language Diversity Benefits Autoformalization
+PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation
+Rethinking the Capacity of Graph Neural Networks for Branching Strategy
+On Weak Regret Analysis for Dueling Bandits
+ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling
+Credit Attribution and Stable Compression
+Robustly overfitting latents for flexible neural image compression
+Is Programming by Example solved by LLMs?
+SHED: Shapley-Based Automated Dataset Refinement for Instruction Fine-Tuning
+WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment
+Computing the Bias of Constant-step Stochastic Approximation with Markovian Noise
+Data Acquisition via Experimental Design for Data Markets
+Mean-Field Analysis for Learning Subspace-Sparse Polynomials with Gaussian Input

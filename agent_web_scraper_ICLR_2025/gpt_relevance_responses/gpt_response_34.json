@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Tell Me What You Don't Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing",
+        "relevant": false
+    },
+    {
+        "title": "ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom",
+        "relevant": false
+    },
+    {
+        "title": "R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner",
+        "relevant": true
+    },
+    {
+        "title": "EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI",
+        "relevant": true
+    },
+    {
+        "title": "MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation",
+        "relevant": false
+    }
+]

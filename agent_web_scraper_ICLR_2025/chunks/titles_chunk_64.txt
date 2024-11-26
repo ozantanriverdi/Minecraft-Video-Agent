@@ -1,0 +1,50 @@
+SQuBa: Speech Mamba Language Model with Querying-Attention for Efficient Summarization
+Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting
+PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning
+Covariate-moderated Empirical Bayes Matrix Factorization
+Weak-to-Strong Trustworthiness: Eliciting Trustworthiness with Weak Supervision
+Retrieval-augmented Encoders for Extreme Multi-label Text Classification
+VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation
+Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting
+Teaching Human Behavior Improves Content Understanding Abilities Of LLMs
+Practical Epistemic Uncertainty Quantification for View Synthesis
+HeurAgenix: A Multi-Agent LLM-Based Paradigm for Adaptive Heuristic Evolution and Selection in Combinatorial Optimization
+I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy
+Mostly Exploration-free Algorithms for Multi-Objective Linear Bandits
+Dynamic Memory Based Adaptive Optimization
+CIRQRS: Evaluating Query Relevance Score in Composed Image Retrieval
+BounDr.E: Predicting Drug-likeness through knowledge alignment and EM-like one-class boundary optimization
+Benchmarking Predictive Coding Networks -- Made Simple
+Need a Small Specialized Language Model? Plan Early!
+Multilingual Arbitrage: Optimizing Data Pools to Accelerate Multilingual Progress
+Large Language Models Are Stronger Entropy Models for Transform Coding
+Co-evolved Self-Critique: Enhancing Large Language Models with Self-Generated Data
+Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation
+Active partitioning: inverting the paradigm of active learning
+Hybrid Numerical PINNs: On the effectiveness of numerical differentiation for non-analytic problems
+Atomas: Hierarchical Adaptive Alignment on Molecule-Text for Unified Molecule Understanding and Generation
+ReDebias: Exploring Residual energy based Debias learning
+A Unified Framework for Hierarchical Diffusion via Simplicial Complexes
+LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory
+CAX: Cellular Automata Accelerated in JAX
+SmartBackdoor: Malicious Language Model Agents that Avoid Being Caught
+LiFT: Learning to Fine-Tune via Bayesian Parameter Efficient Meta Fine-Tuning
+View-Independent 3D Feature Distillation with Object-Centric Priors
+Wiki Entity Summarization Benchmark
+EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models
+Medical Vision-Language Pretraining through Contrastive Learning of Positive and Negative Mention
+Dynamical Similarity Analysis uniquely captures how computations develop in RNNs
+Improved Sampling Algorithms for Lévy-Itô Diffusion Models
+Elementary: Pattern-aware Evidence Discovery with Large Language Models
+Generative Topology for Shape Synthesis
+GUIDE: Guidance-based Incremental Learning with Diffusion Models
+Improving Tabular Generative Models: Loss Functions, Benchmarks, and Iterative Objective Bayesian Approaches
+Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection
+Multi-Channel Graph Convolutions
+ImputeINR: Enhancing Time Series Imputation with Adaptive Group-based Implicit Neural Representations
+Kolmogorov–Arnold Graph Neural Networks
+Measuring And Improving Persuasiveness Of Generative Models
+Generalization of noisy SGD under isoperimetry
+Learning Explicit Circuit Representations for Quantum States from Local Measurements
+InvestAlign: Align LLMs with Investor Decision-Making under Herd Behavior
+Efficient Over-parameterized Matrix Sensing via Alternating Preconditioned Gradient Descent

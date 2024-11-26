@@ -1,0 +1,50 @@
+econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians
+MathEval: A Comprehensive Benchmark for Evaluating Large Language Models on Mathematical Reasoning Capabilities
+Grouped Correlation Aggregation with Propagation for Stereo Matching
+AgentStudio: A Toolkit for Building General Virtual Agents
+EVA: Geometric Inverse Design for Fast Protein Motif-Scaffolding with Coupled Flow
+Multi-Perspective Data Augmentation for Few-shot Object Detection
+Intrinsic User-Centric Interpretability through Global Mixture of Experts
+BAdd: Bias Mitigation through Bias Addition
+MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models
+Benchmarking Federated Learning for Semantic Datasets: Federated Scene Graph Generation
+MICE: Memory-driven Intrinsic Cost Estimation for Mitigating Constraint Violations
+The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussions
+VCR: Visual Caption Restoration
+Gradient Inversion Transcript: A Generative Model to Reconstruct Training Data by Gradient Leakage
+Embodied Scene Cloning: Solving Generalization in Embodied AI via Visual-Prompt Image Editing
+Exploring the Link Between Out-of-Distribution Detection and Conformal Prediction with Illustrations of Its Benefits
+FreRA: A Frequency-Refined Augmentation for Contrastive Learning on Time Series Classification
+TRAIN THE LATENT, NOT THE IMAGE: JOINT IMAGE COMPRESSION AND STEGANOGRAPHY
+Deep Exploration with PAC-Bayes
+Fed3+2p: Training different parts of neural network with two-phase strategy
+TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models
+Language Models Can Articulate Their Implicit Goals
+Local vs distributed representations: What is the right basis for interpretability?
+Rethinking Degree-Corrected Spectral Clustering: a Pure Spectral Analysis & Extension
+POIL: Preference Optimization for Imitation Learning
+Adapting to both finite-sample and asymptotic regimes
+Early learning of the optimal constant solution in neural networks and humans
+Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness
+Exemplar-free Continual Representation Learning with Symmetric Distillation
+IRIS: An Iterative and Integrated Framework for Real-Time Causal Discovery
+HDDI: A Historical Data-Based Diffusion Imputation Method for High-Accuracy Recovery in Multivariate Time Series with High Missing Rate and Long-Term Gap
+Mitigate the Gap: Improving Cross-Modal Alignment in CLIP
+A Tight Convergence Analysis of Inexact Stochastic Proximal Point Algorithm for Stochastic Composite Optimization Problems
+SparsyFed: Sparse Adaptive Federated Learning
+Characterizing linear convergence in optimization: Polyak-Łojasiewicz inequality and weak-quasi-strong-convexity
+MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba
+Discrete Neural Algorithmic Reasoning
+DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector
+On the Relation between Trainability and Dequantization of Variational Quantum Learning Models
+From Corpora to Causality: Unveiling Causal Comprehension in Large Language Models
+Regularizing Energy among Training Samples for Out-of-Distribution Generalization
+Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks
+COPER: Correlation-based Permutations for Multi-View Clustering
+SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks
+MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs
+DISCO: Mitigating Bias in Deep Learning with Conditional DIStance COrrelation
+CTBench: A Library and Benchmark for Certified Training
+Subgraph Federated Learning for Local Generalization
+Minifinetuning: Low-Data Generation Domain Adaptation through Corrective Self-Distillation
+MolStitch: Offline Multi-Objective Molecular Optimization with Molecular Stitching

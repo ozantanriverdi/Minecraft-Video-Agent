@@ -1,0 +1,50 @@
+How Far Are We from True Unlearnability?
+Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
+Structure-Preserving Text-Based Editing for Few-Step Diffusion Models
+One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space
+Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off
+Latent Point Collapse Induces an Information Bottleneck in Deep Neural Network Classifiers
+Mixed Hierarchical Oracle and Multi-Agent Benchmark in Two-player Zero-sum Games
+PFT: Enhancing Prompt Injection Robustness via Position-Enhanced Finetuning
+Pareto-Optimal Learning from Preferences with Hidden Context
+DAG-SHAP: Feature Attribution in DAG based on Edge Intervention
+CodeChain: An Open, Million-scale Dataset for Code Language Models at the Repository Level
+BANGS: Game-theoretic Node Selection for Graph Self-Training
+Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data
+Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think
+Statistical Significance of Clustering for High-Dimensional Count Data
+Multi-Dimensional Conformal Prediction
+Neutral residues: revisiting adapters for model extension
+Mitigating Dialogue Hallucination for Large Vision Language Models via Adversarial Instruction Tuning
+Generating Likely Counterfactuals Using Sum-Product Networks
+Multi-Physics Operator Network for In-context learning (m-PhOeNIX)
+Progressive Multi-scale Triplane Network for Text-to-3D Generation
+Uncovering Overfitting in Large Language Model Editing
+Overcoming Lower-Level Constraints in Bilevel Optimization: A Novel Approach with Regularized Gap Functions
+Advantage-Guided Distillation for Preference Alignment in Small Language Models
+Pixel-Aware Accelerated Reverse Diffusion Modeling
+Machine Learning Benchmark on Dynamic Functional Connectivity: Promise, Pitfalls, and Interpretations
+Distributed Unlearning with Lossy Compression
+Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization
+Newton Meets Marchenko-Pastur: Massively Parallel Second-Order Optimization with Hessian Sketching and Debiasing
+SIMPL: Scalable and hassle-free optimisation of neural representations from behaviour
+Aligning Large Language Models With Preference Privacy
+Narrow Transformer: Mono-lingual Code SLM for Desktop
+Enhancing Treatment Effect Estimation with Generation-Driven Data Augmentation
+Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting
+AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution
+HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model
+Multi-Perspective Test-Time Prompt Tuning for Global, Local Visuals, and Language
+qNBO: quasi-Newton Meets Bilevel Optimization
+FACTOR: Factoring Complexity and Context Length in Long-Context Model Evaluation
+Classic but Everlasting: Traditional Gradient-Based Algorithms Converges Fast Even in Time-Varying Multi-Player Games
+Toward Escaping Model Collapse: Aligning Generated Images as a New Modality
+SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding
+Disentangled and Self-Explainable Node Representation Learning
+Deconstructing Denoising Diffusion Models for Self-Supervised Learning
+TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation
+KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing
+Efficient Multi-Level Learning for Dense Object Detection
+Map to Optimal: Adapting Graph Out-of-Distribution in Test Time
+Evaluating topological fitness of human brain-inspired sub-circuits in Echo State Networks
+Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution

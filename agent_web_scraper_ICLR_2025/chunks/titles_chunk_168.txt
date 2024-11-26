@@ -1,0 +1,50 @@
+GenXD: Generating Any 3D and 4D Scenes
+EXPLORING RESPONSE UNCERTAINTY IN MLLMS: AN EMPIRICAL EVALUATION UNDER MISLEADING SCENARIOS
+A Comprehensive Deepfake Detector Assessment Platform
+SATE: A Two-Stage Approach for Performance Prediction in Subpopulation Shift Scenarios
+Automatic Organization of Neural Modules for Enhanced Collaboration in Neural Networks
+Latent Action Pretraining from Videos
+A Sinkhorn-type Algorithm for Constrained Optimal Transport
+Four eyes see more than two: Dataset Distillation with Mixture-of-Experts
+Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism
+Open-CK: A Large Multi-Physics Fields Coupling benchmarks in Combustion Kinetics
+Improving Ordinal Conformal Prediction by Stepwise Adaptive Posterior Alignment
+Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs
+Causal Image Modeling for Efficient Visual Understanding
+MORPHING TOKENS DRAW STRONG MASKED IMAGE MODELS
+LazyLLM: DYNAMIC TOKEN PRUNING FOR EFFICIENT LONG CONTEXT LLM INFERENCE
+Longhorn: State Space Models are Amortized Online Learners
+Complementary Coding of Space with Coupled Place Cells and Grid Cells
+SteerDiff: Steering towards Safe Text-To-Image Diffusion Models
+CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation
+SMITE: Segment Me In TimE
+TILDE-Q: a Transformation Invariant Loss Function for Time-Series Forecasting
+War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars
+WISE-GNN: Enhancing GNNs with Wise Embedding and Topological Encoding
+MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training
+Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface
+Generalizable autoregressive modeling of time series through functional narratives
+DMQR-RAG: Diverse Multi-Query Rewriting in Retrieval-Augmented Generation
+SCFormer: Spatial Coordination for Efficient and Robust Vision Transformers
+Addition is All You Need for Energy-efficient Language Models
+On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding
+MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models
+YESNO-PRO: A HIGH-PERFORMANCE POINTWISE RERANKING ALGORITHM BRIDGING ENCODERDECODER AND DECODER-ONLY LLMS
+Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control
+Generating GFlowNets as You Wish with Diffusion Process
+Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models
+FAMMA: A Benchmark for Financial Multilingual Multimodal Question Answering
+Bayesian Nonparametric Survival Analysis via Deep Dirichlet Process
+A Dual-branch Multi-Band Neural Vocoder with Harmonic Discriminator for High-Fidelity Speech Synthesis
+NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models
+Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition
+BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation
+CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion
+Fusion- X : Advancing LLM Ability with Adaptive Heterogeneous Model Integration
+SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning
+CodeCipher: Learning To Obfuscate Source Code Against LLMs
+DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models
+Tuning Frequency Bias of State Space Models
+Leveraging Flatness to Improve Information-Theoretic Generalization Bounds for SGD
+Prompt Distribution Matters: Tuning Visual Prompt Through Semantic Metric Guidance
+NGTTA: Non-parametric Geometry-driven Test Time Adaption for 3D Point Cloud Segmentation

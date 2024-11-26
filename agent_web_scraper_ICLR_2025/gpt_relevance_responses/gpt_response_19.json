@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Improving Planning with Large Language Models: A Modular Agentic Architecture",
+        "relevant": false
+    },
+    {
+        "title": "Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Can foundation models actively gather information in interactive environments to test hypotheses?",
+        "relevant": true
+    },
+    {
+        "title": "HomieBot: an Adaptive System for Embodied Mobile Manipulation in Open Environments",
+        "relevant": false
+    },
+    {
+        "title": "Seeing is Knowing: Advancing Semantic Understanding with MLLMs in Grounding Tasks",
+        "relevant": false
+    }
+]

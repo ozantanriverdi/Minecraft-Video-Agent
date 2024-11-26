@@ -1,0 +1,50 @@
+Hypothesis Testing the Circuit Hypothesis in LLMs
+Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable
+Explaining Datasets in Words: Statistical Models with Natural Language Parameters
+Faster Algorithms for User-Level Private Stochastic Convex Optimization
+Task Confusion and Catastrophic Forgetting in Class-Incremental Learning: A Mathematical Framework for Discriminative and Generative Modelings
+Boundary Decomposition for Nadir Objective Vector Estimation
+OSLO: One-Shot Label-Only Membership Inference Attacks
+End-To-End Causal Effect Estimation from Unstructured Natural Language Data
+Semidefinite Relaxations of the Gromov-Wasserstein Distance
+TableRAG: Million-Token Table Understanding with Language Models
+Efficient Temporal Action Segmentation via Boundary-aware Query Voting
+Conditional Generative Models are Sufficient to Sample from Any Causal  Effect Estimand
+A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation
+Self-Refining Diffusion Samplers: Enabling Parallelization via Parareal Iterations
+Is Value Learning Really the Main Bottleneck in Offline RL?
+Chain of Thoughtlessness? An Analysis of CoT in Planning
+Understanding the Gains from Repeated Self-Distillation
+Recursive Introspection: Teaching Language Model Agents How to Self-Improve
+Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification
+Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line
+LookHere: Vision Transformers with Directed Attention Generalize and Extrapolate
+CONTRAST: Continual Multi-source Adaptation to Dynamic Distributions
+A Simple yet Universal Framework for Depth Completion
+Unconditional stability of a recurrent neural circuit implementing divisive normalization
+OW-VISCapTor: Abstractors for Open-World Video Instance Segmentation and Captioning
+Overcoming the Sim-to-Real Gap: Leveraging Simulation to Learn to Explore for Real-World RL
+Qualitative Mechanism Independence
+Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference
+Pricing and Competition for Generative AI
+Fair Secretaries with Unfair Predictions
+Fully Unconstrained Online Learning
+Advection Augmented Convolutional Neural Networks
+Nearly Minimax Optimal Submodular Maximization with Bandit Feedback
+Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers
+RTify: Aligning Deep Neural Networks with Human Behavioral Decisions
+Fast Sampling via Discrete Non-Markov Diffusion Models with Predetermined Transition Time
+The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains
+Length Optimization in Conformal Prediction
+Truthfulness of Calibration Measures
+Simplified and Generalized Masked Diffusion for Discrete Data
+Learning Neural Contracting Dynamics: Extended Linearization and Global Guarantees
+A New Neural Kernel Regime: The Inductive Bias of Multi-Task Learning
+Conformal Prediction for Class-wise Coverage via Augmented Label Rank Calibration
+GraphTrail: Translating GNN Predictions into Human-Interpretable Logical Rules
+Layer-Adaptive State Pruning for Deep State Space Models
+Structured Unrestricted-Rank Matrices for Parameter Efficient Finetuning
+No Free Delivery Service: Epistemic limits of passive data collection in complex social systems
+A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations
+Instance-Optimal Private Density Estimation in the Wasserstein Distance
+DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph

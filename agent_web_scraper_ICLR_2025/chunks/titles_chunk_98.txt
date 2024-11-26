@@ -1,0 +1,50 @@
+Diffusion Minimization and Sheaf Neural Networks for Recommender Systems
+Straight to Zero: Why Linearly Decaying the Learning Rate to Zero Works Best for LLMs
+Revisiting the Variational Information Bottleneck
+HierT2S: Enhancing Part-Level Text-to-Shape Generation via Hierarchical Structure Modeling
+Generalized Anomaly Detection with Knowledge Exposure:The Dual Effects of Augmentation
+RetriBooru: Leakage-Free Retrieval of Conditions from Reference Images for Subject-Driven Generation
+Revisiting Quantum Algorithms for Linear Regressions: Quadratic Speedups without Data-Dependent Parameters
+Differentiable Integer Linear Programming
+How many tokens is an image worth?
+On Rademacher Complexity-based Generalization Bounds for Deep Learning
+IndianRoad: A Video Dataset of Diverse Atomic Visual Elements in Dense and Unpredictable Environments
+ELCC: the Emergent Language Corpus Collection
+Can Large Language Models Help Experimental Design for Causal Discovery?
+Accelerated Diffusion using Closed-form Discriminator Guidance
+Scaling Diffusion Language Models via Adaptation from Autoregressive Models
+Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models
+BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models
+FaithEval: Can Your Language Model Stay Faithful to Context, Even If "The Moon is Made of Marshmallows"
+GenVP: Generating Visual Puzzles with Contrastive Hierarchical VAEs
+LaMPlace: Learning to Optimize Cross-Stage Metrics in Macro Placement
+Computing Circuits Optimization via Model-Based Circuit Genetic Evolution
+FSL-MIC: An Attentional Few-Shot Learning Framework for EEG Motor Imagery Classification
+CAN - CONTINUOUSLY ADAPTING NETWORKS
+Geometric Representation Condition Improves Equivariant Molecule Generation
+Using Interleaved Ensemble Unlearning to Keep Backdoors at Bay for Finetuning Vision Transformers
+VideoPhy: Evaluating Physical Commonsense for Video Generation
+SSR: Alignment-Aware Modality Connector for Speech Language Models
+Enforcing Latent Euclidean Geometry in VAEs for Statistical Manifold Interpolation
+Multi-environment Topic Models
+UncertaintyRAG: Span Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation
+On the Completeness of Invariant Geometric Deep Learning Models
+On Pre-training of Multimodal Language Models Customized for Chart Understanding
+Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen
+Powering Neural Architecture Search with Robust Masked Autoencoders
+Learning Orthogonal Multi-Index Models: A Fine-Grained Information Exponent Analysis
+Physics-constrained Graph Symbolic Regression
+Streaming Algorithms For  ℓ p  Flows and  ℓ p  Regression
+Continual Learning After Model Deployment
+Is Memorization Actually Necessary for Generalization?
+From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step
+A Diffusion-based Generative Approach for Model-free Finite-time Control of Complex Systems
+A Versatile Influence Function for Data Attribution with Non-Decomposable Loss
+UNComp: Uncertainty-Aware Long-context Compressor for Efficient Large Language Model Inference
+The Price of Freedom: Exploring Tradeoffs in Equivariant Tensor Products with Spherical Signals
+Reassessing How to Compare and Improve the Calibration of Machine Learning Models
+Uncertainty-aware Guided Diffusion for Missing Data in Sequential Recommendation
+FAdam: Adam is a natural gradient optimizer using diagonal empirical Fisher information
+Generalized Principal-Agent Problem with a Learning Agent
+Time Transfer: On Optimal Learning Rate and Batch Size In The Infinite Data Limit
+SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes

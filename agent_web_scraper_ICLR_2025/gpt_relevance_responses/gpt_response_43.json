@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration",
+        "relevant": false
+    },
+    {
+        "title": "GROOT-2: Weakly Supervised Multimodal Instruction Following Agents",
+        "relevant": false
+    },
+    {
+        "title": "GameGen- X : Interactive Open-world Game Video Generation",
+        "relevant": true
+    },
+    {
+        "title": "Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models",
+        "relevant": false
+    },
+    {
+        "title": "Generative World Explorer",
+        "relevant": true
+    }
+]

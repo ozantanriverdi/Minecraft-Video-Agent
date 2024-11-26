@@ -1,0 +1,50 @@
+Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models
+A Bregman Proximal Viewpoint on Neural Operators
+LoRA vs Full Fine-tuning: An Illusion of Equivalence
+Fast and Space-Efficient Fixed-Length Path Optimization
+Cognitive map formation under uncertainty via local prediction learning
+Revisiting Large-Scale Non-convex Distributionally Robust Optimization
+Disentangling Textual and Acoustic Features of Neural Speech Representations
+RapidDock: Unlocking Proteome-scale Molecular Docking
+Text-to-graph Generation with Conditional Diffusion Models Guided by Graph-aligned LLMs
+Beyond single neurons: population response geometry in digital twins of mouse visual cortex
+Learning Molecular Symmetry Breaking via Symmetry-adapted Neural Networks
+Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training
+FAIRMINDSIM: ALIGNMENT OF BEHAVIOR, EMO- TION, AND BELIEF IN HUMANS AND LLM AGENTS AMID ETHICAL DILEMMAS
+On the ergodic convergence properties of the Peaceman-Rachford method and their applications in solving linear programming
+Failure-Proof Non-Contrastive Self-Supervised Learning
+Limits to scalable evaluation at the frontier: LLM as judge won’t beat twice the data
+Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data
+Controlled Denoising For Diffusion Models
+Post-Hoc Robustness Enhancement in Graph Neural Networks with Conditional Random Fields
+State Space Models are Provably Comparable to Transformers in Dynamic Token Selection
+Consistency Models Made Easy
+Identify Critical Nodes in Complex Network with Large Language Models
+OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data
+MAPS: Advancing Multi-Modal Reasoning in Expert-Level Physical Science
+MAESTRO: Masked Encoding Set Transformer with Self-Distillation
+Learning Reliable Rules by Re-generating Deep Features
+AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution
+From Counseling Transcript to Mind Map: Leveraging LLMs for Effective Summarization in Mental Health Counseling
+Provably Safeguarding a Classifier from OOD and Adversarial Samples: an Extreme Value Theory Approach
+Research Town: Simulator of Research Community
+MIMOSA: Multimodal Concept-based representations
+Learning Chaos In A Linear Way
+AnalogGenie: A Generative Engine for Automatic Discovery of Analog Circuit Topologies
+Data Taggants: Dataset Ownership Verification Via Harmless Targeted Data Poisoning
+FedADM: Adaptive Federated Learning via Dissimilarity Measure
+DEPT: Decoupled Embeddings for Pre-training Language Models
+BDetCLIP: Multimodal Prompting Contrastive Test-Time Backdoor Detection
+Do Contemporary CATE Models Capture Real-World Heterogeneity? Findings from a Large-Scale Benchmark
+Symbolic Music Generation with Fine-grained Interactive Textural Guidance
+Improving real-world sequence design with a simple meta-heuristic for detecting distribution shift
+LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts
+Harnessing Webpage UIs for Text-Rich Visual Understanding
+Fast unsupervised ground metric learning with tree-Wasserstein distance
+Homomorphism Expressivity of Spectral Invariant Graph Neural Networks
+Prover-Verifier Games improve legibility of LLM outputs
+World Model on Million-Length Video And Language With Blockwise RingAttention
+TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation
+Quamba: A Post-Training Quantization Recipe for Selective State Space Models
+Impact of Prompt on Latent Representations in LLMs
+Improving Multimodal Protein Function Prediction Using Bidirectional Interaction and Dynamic Selection Mechanisms

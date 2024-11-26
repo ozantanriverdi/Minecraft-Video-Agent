@@ -1,0 +1,50 @@
+GLOMA: Global Video Text Spotting with Morphological Association
+Proteome-wide prediction of mode of inheritance and molecular mechanism underlying genetic diseases using structural interactomics
+The Blessing of Smooth Initialization for Video Diffusion Models
+SAT-LDM: Provably Generalizable Image Watermarking for Latent Diffusion Models with Self-Augmented Training
+TimeRAG: It's Time for Retrieval-Augmented Generation in Time-Series Forecasting
+Semantic Object Navigation with Segmenting Decision Transformer
+Robust Representation Consistency Model via Contrastive Denoising
+Learning from Demonstration with Implicit Nonlinear Dynamics Models
+Dynamic Weighting: Exploiting the Potential of a Single Weight Across Different Modes
+OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents
+LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation
+Image registration is a geometric deep learning task
+Geometry of Lightning Self-Attention: Identifiability and Dimension
+Mask-Guided Video Generation: Enhancing Motion Control and Quality with Limited Data
+DC-PINNs: Physics-Informed Neural Networks for Solving Derivative-Constrained PDEs
+ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability
+DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model
+PharmacoMatch: Efficient 3D Pharmacophore Screening via Neural Subgraph Matching
+OscillationInversion: Understand the structure of Large Flow Model through the Lens of Inversion Method
+Improving Multi-modal Large Language Model through Boosting Vision Capabilities
+CLIP-to-Seg Distillation for Inductive Zero-shot Semantic Segmentation
+Deep Bayesian Filter for Bayes-Faithful Data Assimilation
+Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts
+Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts
+Semantic-Centric Alignment for Zero-shot Panoptic and Semantic Segmentation
+Can We Predict Performance of Large Models across Vision-Language Tasks?
+Balancing Token Efficiency and Structural Accuracy in LLMs Image Generation by Combining VQ-VAE and Diffusion Tokenizers
+Wasn’t Me: Enabling Users to Falsify Deepfake Attacks
+Rethinking Graph Super-Resolution: Dual Frameworks for Topological Fidelity
+Robust Consensus Anchor Learning for Efficient Multi-view Subspace Clustering
+Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity
+Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models
+Optimal Memorization Capacity of Transformers
+Playing the Fool: Jailbreaking Large Language Models with Out-of-Distribution Strategies
+Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models
+Edge-aware Image Smoothing with Relative Wavelet Domain Representation
+Decompose the model: mechanistic interpretability in image models with generalized integrated gradients (GIG)
+Action Sequence Augmentation for Action Anticipation
+Genshin: General Shield for Natural Language Processing with Large Language Models
+MindGrapher: Dynamic-Aware fMRI-to-Video Reconstruction
+TIEM: Enhancing Explanation of Video Prediction via Temporal Dynamics-Focused Dual Perturbation
+FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting
+MILCA: Multiple Instance Learning using Counting and Attention
+Optimal Brain Apoptosis
+SlotSAM: Bootstrap Segmentation Foundation Model under Real-world Shifts via Object-Centric Learning
+Self-controller: Controlling LLMs with Multi-round Step-by-step Self-awareness
+ViDROP: Video Dense Representation through Spatio-Temporal Sparsity
+MTMC: Generalized Category Discovery via Maximum Token Manifold Capacity
+Selective Aggregation for Low-Rank Adaptation in Federated Learning
+O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions

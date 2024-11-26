@@ -1,0 +1,50 @@
+Enabling Sparse Autoencoders for Topic Alignment in Large Language Models
+Aria-MIDI: A Dataset of MIDI Files for Symbolic Music Modeling
+Maximum Noise Level as Third Optimality Criterion in Black-box Optimization Problem
+ESCAPE: Equivariant Shape Completion via Anchor Point Encoding
+AFlow: Automating Agentic Workflow Generation
+In-batch Ensemble Drafting: Toward Fast and Robust Speculative Decoding for Multimodal Language Models
+Rethinking the "Heatmap + Monte Carlo Tree Search'' Paradigm for Solving Large Scale TSP
+OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?
+Benchmarking Antimicrobial Peptide Identification with Sequence and Structure Representation
+Supervised Pre-training for Unsupervised Product-Patent Image Retrieval
+From Generalist to Specialist: Adapting Vision Language Models via Task-Specific Visual Instruction Tuning
+Exploring the Design Space of Autoregressive Models for Efficient and Scalable Image Generation
+Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model
+AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation
+Event-aided Dense and Continuous Point Tracking
+Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization
+Federated Learning Can Find Friends That Are Advantageous
+From Risk to Uncertainty: Generating Predictive Uncertainty Measures via Bayesian Estimation
+A Neural Material Point Method for Particle-based Simulations
+Timer-XL: Long-Context Transformers for Unified Time Series Forecasting
+Enhanced Semantic Alignment in Transformer Tracking via Position Learning and Force-Directed Attention
+ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks
+Reflective Gaussian Splatting
+A Primal-Dual Approach for Dynamic Pricing of Sequentially Displayed Complementary Items under Sale Constraints
+DLEFT-MKC: Dynamic Late Fusion Multiple Kernel Clustering with Robust Tensor Learning via Min-Max Optimizaiton
+COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models
+Adversarial-Guided Diffusion for Robust and High-Fidelity Multimodal LLM Attacks
+Bias Mitigation in Graph Diffusion Models
+ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction
+The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning
+Deep Complex Spatio-Spectral Networks with Complex Visual Inputs
+SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints
+Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations
+Convergence of Sharpness-Aware Minimization Algorithms using Increasing Batch Size and Decaying Learning Rate
+CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models
+Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent
+Learn to Synthesize Compact Datasets by Matching Effects
+Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning
+Compositional Video Generation as Flow Equalization
+NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models
+Warm Diffusion: Recipe for Blur-Noise Mixture Diffusion Models
+Decision Rules are in the Pixels: Towards Pixel-level Evaluation of Saliency-based XAI Models
+ZeroDiff: Solidified Visual-semantic Correlation in Zero-Shot Learning
+Kolmogorov-Arnold Networks with Variable Function Basis
+Deep Networks Learn Features From Local Discontinuities in the Label Function
+Data Pruning by Information Maximization
+Diff-In: Data Influence Estimation with Differential Approximation
+Mufu:  Multilingual Fused Learning for Low-Resource Translation with LLM
+EgoLM: Multi-Modal Language Model of Egocentric Motions
+Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond

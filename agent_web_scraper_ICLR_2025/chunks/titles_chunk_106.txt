@@ -1,0 +1,50 @@
+ReFOCUS: Recurrent False Object Correction Using guidance Strategies in Object Detection
+Personalized Prompt Tuning for Unsupervised Federated Learning
+Factor Graph-based Interpretable Neural Networks
+Task-oriented Sequential Grounding in 3D Scenes
+LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models
+A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis
+Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation
+Can Large Language Models Reason? A Characterization via 3-SAT
+Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension
+LaDEEP: A Deep Learning-based Surrogate Model for Large Deformations of Elastic-Plastic Solids
+EEG-Language Pretraining for Highly Label-Efficient Pathology Detection
+Optimality of Matrix Mechanism on  ℓ p p -metric
+MMA: Benchmarking Multi-Modal Large Language Model in Ambiguity Contexts
+Memory-Pruning Algorithm for Bayesian Optimization with Strict Computational Cost Guarantees
+Combining Text-based and Drag-based Editing for Precise and Flexible Image Editing
+G-Transformer for Conditional Average Potential Outcome Estimation over Time
+Feature Discrimination Analysis for Binary and Ternary Quantization
+Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling
+Interactive Adjustment for Human Trajectory Prediction with Individual Feedback
+Anomaly Detection Exposed: Imagining Anomalies Were Normal
+Transformers Provably Learn Two-Mixture of Linear Classification via Gradient Flow
+Alchemy: Amplifying Theorem-Proving Capability Through Symbolic Mutation
+Arti-PG: A Procedural Toolbox to Synthesize Large-Scale and Diverse Articulated Objects with Rich Annotations
+Revisiting DNN Training for Intermittently-Powered Energy-Harvesting Micro-Computers
+3D Affordance Reconstruction from Egocentric Demonstration Video
+Phase-Aware KANGaussian : Phase-Regularized 3D Gaussian Splatting with Kolmogorov-Arnold Network
+TopoSD: Topology-Enhanced Lane Segment Perception with SDMap prior
+Agent Skill Acquisition for Large Language Models via CycleQD
+Learning Graph Invariance by Harnessing Spuriosity
+Spiking Vision Transformer with Saccadic Attention
+Robust Quantum Neural Networks Against Dynamic Noise Landscape in the NISQ Era
+What Kind of Pretraining Data Do Large Language Models Rely on When Doing Reasoning?
+Generative bandit optimization via diffusion posterior sampling
+From Attention to Activation: Unraveling the Enigmas of Large Language Models
+Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation
+Global Identifiability of Overcomplete Dictionary Learning via L1 and Volume Minimization
+Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces
+ShortCircuit: AlphaZero-Driven Generative Circuit Design
+Don’t Discard, but Keep It Small: Context-Preserving KV Cache Compression with Importance-Aware Adaptive Precision
+Decoupling Dependency Structures: Sklar’s theorem for explainable outlier detection
+Attributed Graph Clustering via Generalized Quaternion Representation Learning
+INTRABENCH: Interactive Radiological Benchmark
+KBLaM: Knowledge Base augmented Language Model
+Contrastive Learning with Simplicial Convolutional Networks for Short-Text Classification
+Adjusting Pretrained Backbones for Performativity
+Gradient-free variational learning with conditional mixture networks
+Minimalistic Predictions for Online Class Constraint Scheduling
+Do Large Language Models Truly Understand Geometric Structures?
+Identification of Nonparametric Dynamic Causal Model and Latent Process for Climate Analysis
+UnrealCV Zoo: Enriching Photo-realistic Virtual Worlds for Embodied AI Agents

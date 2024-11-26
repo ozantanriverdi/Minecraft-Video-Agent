@@ -1,0 +1,50 @@
+A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding
+LLMScan: Causal Scan for LLM Misbehavior Detection
+ROPO: Robust Preference Optimization for Large Language Models
+RiTTA: Modeling Event Relations in Text-to-Audio Generation
+GeVLM: 3D Object Grounding with Geometry-enhanced Vision Language Model
+Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing
+On the Power of Federated Learning for Online Sparse Linear Regression with Decentralized Data
+Seeking Flat Minima with Mean Teacher on Semi- and Weakly-Supervised Domain Generalization for Object Detection
+Decoupled Offline to Online finetuning via Dynamics Model
+Enhancing Graph Of Thought: Enhancing Prompts with LLM Rationales and Dynamic Temperature Control
+Language Reconstruction with Brain Predictive Coding from fMRI Data
+SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction
+Measuring the Impact of Equal Treatment as Blindness via Distributions of Explanations Disparity
+Bundle Neural Network for message diffusion on graphs
+Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates
+LLMs Can Achieve High-quality Simultaneous Machine Translation as Efficiently as Offline
+Enhancing lensless imaging via Explicit Learning of Model Mismatch
+PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation
+Semantic-aligned Query Synthesis for Active Learning
+On the Resilience of Multi-Agent Systems with Malicious Agents
+Addressing Representation Collapse in Vector Quantized Models with One Linear Layer
+Exploring the Trade-Off between Model Complexity and Numerical Precision for Efficient Edge AI Inference
+SceneLock: Reversible Adversarial Learning for Camera-Based Autonomous Driving Protection
+TAEGAN: Generating Synthetic Tabular Data for Data Augmentation
+The Wisdom of a Crowd of Brains: A Universal Brain Encoder
+Embodied Instruction Following in Unknown Environments
+A Closer Look at Machine Unlearning for Large Language Models
+The Normalized Float Trick: Numerical Stability for Probabilistic Circuits without the LogSumExp Trick
+Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks
+Architecturally Aligned Comparisons Between ConvNets And Vision Mambas
+Variance Reduced Distributed Non-Convex Optimization Using Matrix Stepsizes
+TextSquare: Scaling up Text-Centric Visual Instruction Tuning
+GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning
+Revisit Self-Debugging with Self-Generated Tests for Code Generation
+LoRA-Gen: Specializing Language Model via Online LoRA Generation
+Unified Parameter-Efficient Unlearning for LLMs
+Optimization-Biased Hypernetworks for Generalizable Policy Generation
+Wavelet-based Graph Convolution via Chebyshev Decomposition
+OpenWaves: A Large-Scale Anatomically Realistic Ultrasound-CT Dataset for Benchmarking Neural Wave Equation Solvers
+Conformalized Survival Analysis for General Right-Censored Data
+ATTENDING: Federated Learning with Personalized Attentive Pruning for Heterogeneous Clients
+Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models
+A Stochastic Approach to the Subset Selection Problem via Mirror Descent
+Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models
+Block Coordinate Descent Methods for Optimization under J-Orthogonality Constraints with Applications
+Locality-aware Gaussian Compression for Fast and High-quality Rendering
+POC-SLT: Partial Object Completion with SDF Latent Transformers
+LLM-Assisted Static Analysis for Detecting Security Vulnerabilities
+Improving Long-Text Alignment for Text-to-Image Diffusion Models
+GPT4LoRA: Optimizing LoRA Combination via MLLM Self-Reflection

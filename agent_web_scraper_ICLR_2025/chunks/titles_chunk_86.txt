@@ -1,0 +1,50 @@
+Mechanistic Unlearning: Robust Knowledge Unlearning and Editing via Mechanistic Localization
+Towards Bridging Generalization and Expressivity of Graph Neural Networks
+Intermediate Layer Classifiers for OOD generalization
+Dual-level Bias Mitigation via Fairness-guided Distribution Discrepancy
+Part321: Recognizing 3D Object Parts from a 2D Image Using 1-Shot Annotations
+Lightweight Predictive 3D Gaussian Splats
+PACE: Physics Informed Uncertainty Aware Climate Emulator
+Memorization in In-Context Learning
+Escaping Saddle Point Efficiently in Minimax and Bilevel Optimizations
+FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model
+DSPart: A Large-scale Diffusion-generated Synthetic Dataset with Annotations from 3D Parts
+Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization
+Local Flow Matching Generative Models
+SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG
+CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution
+Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits
+Transformer Block Coupling and its Correlation with Generalization in LLMs
+Reconciling Model Multiplicity for Downstream Decision Making
+Robust System Identification: Finite-sample Guarantees and Connection to Regularization
+Meta-learning Representations for Learning from Multiple Annotators
+A Controlled Study on Long Context  Extension and Generalization in LLMs
+E(n) Equivariant Topological Neural Networks
+Toward Robust Defenses Against LLM Weight Tampering Attacks
+First-Person Fairness in Chatbots
+SHAP-CAT: A interpretable multi-modal framework enhancing WSI classification via virtual staining and shapley-value-based multimodal fusion
+Beyond Worst-Case Dimensionality Reduction for Sparse Vectors
+Can Large Language Models Understand Symbolic Graphics Programs?
+Steering Large Language Models between Code Execution and Textual Reasoning
+Misspecified   Q -Learning with Sparse Linear Function Approximation: Tight Bounds on Approximation Error
+RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank
+Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions
+A probablistic automata learning approach for analyzing and sampling constrained LLM
+Generative Modeling of Individual Behavior at Scale
+Verbalized Machine Learning: Revisiting Machine Learning with Language Models
+Multi-Task Consistency-based Detection of Adversarial Attacks
+WAPITI: A Watermark for Finetuned Open-Source LLMs
+Provable Faster Zeroth-order Method for Bilevel Optimization with Optimal Dependency on Error and Dimension
+Machine Unlearning Fails to Remove Data Poisoning Attacks
+Residual-MPPI: Online Policy Customization for Continuous Control
+Decomposed Direct Preference Optimization for Structure-Based Drug Design
+Hybrid Memory Replay: Blending Real and Distilled Data for Class Incremental Learning
+MCNC: Manifold-Constrained Reparameterization for Neural Compression
+CHIRon: A Generative Foundation Model for Structured Sequential Medical Data
+HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing
+Last-Iterate Convergence Properties of Regret-Matching Algorithms in Games
+CogDevelop2K: Reversed Cognitive Development in Multi-modal Large Language Models
+STAR: Synthesis of Tailored Architectures
+HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics
+Stochastic Online Conformal Prediction with Semi-Bandit Feedback
+Language Models Are Good Tabular Learners

@@ -1,0 +1,50 @@
+Fast Tree-Field Integrators: From Low Displacement Rank to Topological Transformers
+Label Noise: Ignorance Is Bliss
+CryoSPIN: Improving Ab-Initio Cryo-EM Reconstruction with Semi-Amortized Pose Inference
+Selective Explanations
+Enhancing Diversity in Bayesian Deep Learning via Hyperspherical Energy Minimization of CKA
+Learning to Edit Visual Programs with Self-Supervision
+ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses
+Causal Inference in the Closed-Loop: Marginal Structural Models for Sequential Excursion Effects
+Understanding Model Selection for Learning in Strategic Environments
+MSA Generation with Seqs2Seqs Pretraining: Advancing Protein Structure Predictions
+Identifiable Shared Component Analysis of Unpaired Multimodal Mixtures
+Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces
+On the Optimality of Dilated Entropy and Lower Bounds for Online Learning in Extensive-Form Games
+Trajectory Data Suffices for Statistically Efficient Learning in Offline RL with Linear  q π -Realizability and Concentrability
+Predicting the Performance of Foundation Models via Agreement-on-the-Line
+Towards Principled Graph Transformers
+Stepping on the Edge: Curvature Aware Learning Rate Tuners
+SceneCraft: Layout-Guided 3D Scene Generation
+Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension
+Neural network learns low-dimensional polynomials with SGD near the information-theoretic limit
+Rethinking Score Distillation as a Bridge Between Image Distributions
+Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models
+The Star Geometry of Critic-Based Regularizer Learning
+Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers
+SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout
+No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices
+Scaling Sign Language Translation
+Provable Editing of Deep Neural Networks using Parametric Linear Relaxation
+Differentially Private Set Representations
+A Non-parametric Direct Learning Approach to Heterogeneous Treatment Effect Estimation under Unmeasured Confounding
+Infinite Limits of Multi-head Transformer Dynamics
+AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies
+Generative Fractional Diffusion Models
+Multi-LLM Debate: Framework, Principals, and Interventions
+ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing
+Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models
+Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis
+Bayesian Strategic Classification
+InstructG2I: Synthesizing Images from Multimodal Attributed Graphs
+E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation
+Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning
+A Combinatorial Algorithm for the Semi-Discrete Optimal Transport Problem
+Extending Video Masked Autoencoders to 128 frames
+Déjà Vu Memorization in Vision–Language Models
+Propensity Score Alignment of Unpaired Multimodal Data
+KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization
+Efficient multi-prompt evaluation of LLMs
+Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression
+First-Explore, then Exploit: Meta-Learning to Solve Hard Exploration-Exploitation Trade-Offs
+Iterative Reasoning Preference Optimization

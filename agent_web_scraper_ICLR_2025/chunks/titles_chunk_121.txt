@@ -1,0 +1,50 @@
+Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation
+Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures
+Efficient Learning with Sine-Activated Low-Rank Matrices
+Parameter Space Representation Learning on Mixed-type Data
+Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
+Data Scaling Laws in Imitation Learning for Robotic Manipulation
+MIO: A Foundation Model on Multimodal Tokens
+Lasso Bandit with Compatibility Condition on Optimal Arm
+Boost Protein Language Model with Injected Structure Information through Parameter Efficient Fine-tuning
+When predict can also explain: few-shot prediction to select better neural latents
+Leveraging deep learning for comprehensive classification of renal diseases: A transfer learning approach
+Brain-inspired continual pre-trained learner via silent synaptic consolidation
+Equivariant Neural Functional Networks for Transformers
+Bayes' Power for Explaining In-Context Learning Generalizations
+Improving Deep Regression with Tightness
+Rapfi: Distilling Efficient Neural Network for the Game of Gomoku
+Label Noise Gradient Descent Improves Generalization in the Low SNR Regime
+Large Language and Protein Assistant for Protein-Protein Interactions prediction
+Inference of Sequential Patterns for Neural Message Passing in Temporal Graphs
+Towards Comprehensive and Efficient Post Safety Alignment of Large Language Models via Safety Patching
+GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation
+D2Coder: large language models based agent for coding with dynamic debugging tools
+Looking Backward: Streaming Video-to-Video Translation with Feature Banks
+Watch Out!! Your Confidence Might be a Reason for Vulnerability
+Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression
+DyCAST: Learning Dynamic Causal Structure from Time Series
+Towards Calibrated Deep Clustering Network
+Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series
+Link Prediction with Untrained Message Passing Layers
+G4Seg: Generation for Online Segmentation Refinement with Diffusion Models
+DisPose: Disentangling Pose Guidance for Controllable Human Image Animation
+Video Anomaly Detection via Single Frame Supervision
+CLIP model is an Efficient Online Continual Learner
+Generalized Greedy Gradient-Based Hyperparameter Optimization
+Online-to-Offline RL for Agent Alignment
+Tri-Comparison Expertise Decision for Drug-Target Interaction Mechanism Prediction
+AnyBimanual: Transferring Single-arm Policy for General Bimanual Manipulation
+SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning
+Adaptive Continual Learning Through Proactive Detection of Transfer and Interference
+Scalable do-Shapley Explanations with Estimand-Agnostic Causal Inference
+CollabEdit: Towards Non-destructive Collaborative Knowledge Editing
+BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching
+RuAG: Learned-rule-augmented Generation for Large Language Models
+DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems
+Reveal Object in Lensless Photography via Region Gaze and Amplification
+Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data
+Boosting Deductive Reasoning with Step Signals In RLHF
+Learning Video-Conditioned Policy on Unlabelled Data with Joint Embedding Predictive Transformer
+No Factor Left Behind: Towards arbitrary amount of factors in the medical cohort analysis
+FuzzyCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Anomaly Detection

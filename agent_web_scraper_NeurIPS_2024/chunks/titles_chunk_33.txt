@@ -1,0 +1,50 @@
+BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling
+Computation-Aware Gaussian Processes: Model Selection And Linear-Time Inference
+When is an Embedding Model  More Promising than Another?
+On the Expressive Power of Tree-Structured Probabilistic Circuits
+SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+Thought of Search: Planning with Language Models Through The Lens of Efficiency
+Universal Rates of Empirical Risk Minimization
+Interventional Causal Discovery in a Mixture of DAGs
+Spatio-Spectral Graph Neural Networks
+TabEBM: A Tabular Data Augmentation Method with Distinct Class-Specific Energy-Based Models
+Learning to Reason Iteratively and Parallelly for Complex Visual Reasoning Scenarios
+Zero-Shot Transfer of Neural ODEs
+Graph neural networks and non-commuting operators
+Learning Identifiable Factorized Causal Representations of Cellular Responses
+Improved Sample Complexity Bounds for Diffusion Model Training
+DiffusionPDE: Generative PDE-Solving under Partial Observation
+Understanding Transformer Reasoning Capabilities via Graph Algorithms
+Mutual Information Estimation via  f -Divergence and Data Derangements
+Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe
+Mixture of Demonstrations for In-Context Learning
+VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks
+The Impact of Geometric Complexity on Neural Collapse in Transfer Learning
+Fine-Tuning is Fine, if Calibrated
+Adversarially Robust Decision Transformer
+User-Creator Feature Polarization in Recommender Systems with Dual Influence
+LoQT: Low-Rank Adapters for Quantized Pretraining
+Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
+On the Role of Attention Masks and LayerNorm in Transformers
+Grammar-Aligned Decoding
+Symmetry-Informed Governing Equation Discovery
+Robust Conformal Prediction Using Privileged Information
+Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism
+A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products and Graph Coarsening
+Mitigating Partial Observability in Decision Processes via the Lambda Discrepancy
+UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation
+UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems
+FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction
+DisCEdit: Model Editing by Identifying Discriminative Components
+Equivariant spatio-hemispherical networks for diffusion MRI deconvolution
+SkipPredict: When to Invest in Predictions for Scheduling
+Deep Equilibrium Algorithmic Reasoning
+Soft-Label Integration for Robust Toxicity Classification
+Constrained Diffusion with Trust Sampling
+Probabilistic Graph Rewiring via Virtual Nodes
+Tight Rates for Bandit Control Beyond Quadratics
+Be Confident in What You Know: Bayesian Parameter Efficient Fine-Tuning of Vision Foundation Models
+Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search
+Parametric model reduction of mean-field and stochastic systems via higher-order action matching
+Scalable Optimization in the Modular Norm
+Back to the Continuous Attractor

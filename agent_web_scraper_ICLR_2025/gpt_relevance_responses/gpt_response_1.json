@@ -1,0 +1,22 @@
+[
+    {
+        "title": "OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "StarCraft II Arena: Evaluating LLMs in Strategic Planning, Real-Time Decision Making, and Adaptability",
+        "relevant": false
+    },
+    {
+        "title": "EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment",
+        "relevant": false
+    },
+    {
+        "title": "Q* Agent: Optimizing Language Agents with Q-Guided Exploration",
+        "relevant": false
+    },
+    {
+        "title": "Monte Carlo Planning with Large Language Model for Text-Based Games",
+        "relevant": false
+    }
+]

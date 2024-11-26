@@ -1,0 +1,50 @@
+Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation
+Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models
+Learnability of high-dimensional targets by two-parameter models and gradient flow
+CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos
+Order-Independence Without Fine Tuning
+Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective
+L4GM: Large 4D Gaussian Reconstruction Model
+DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction
+Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis
+GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning
+RandNet-Parareal: a time-parallel PDE solver using Random Neural Networks
+Dual-Perspective Activation: Efficient Channel Denoising via Joint Forward-Backward Criterion for Artificial Neural Networks
+PrivCirNet: Efficient Private Inference via Block Circulant Transformation
+Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting
+Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective
+Enhancing Graph Transformers with Hierarchical Distance Structural Encoding
+Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection
+Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning
+IWBVT: Instance Weighting-based Bias-Variance Trade-off for Crowdsourcing
+Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation
+MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps
+Training an Open-Vocabulary Monocular 3D Detection Model without 3D Data
+A Unified Framework for 3D Scene Understanding
+Perceptual Fairness in Image Restoration
+Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference
+HC-GAE: The Hierarchical Cluster-based Graph Auto-Encoder for Graph Representation Learning
+Compositional 3D-aware Video Generation with LLM Director
+SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
+To Err Like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation
+Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis
+Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing
+Heterogeneity-Guided Client Sampling: Towards Fast and Efficient Non-IID Federated Learning
+Predicting Label Distribution from Ternary Labels
+NeuralFuse: Learning to Recover the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes
+Provably Optimal Memory Capacity for  Modern Hopfield Models:   Transformer-Compatible   Dense Associative Memories as Spherical Codes
+From an Image to a Scene: Learning to Imagine the World from a Million 360° Videos
+U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers
+Unscrambling disease progression at scale: fast inference of event permutations with optimal transport
+Bridging Multicalibration and Out-of-distribution Generalization Beyond Covariate Shift
+Score-based generative models are provably robust: an uncertainty quantification perspective
+AirSketch: Generative Motion to Sketch
+Few-Shot Adversarial Prompt Learning on Vision-Language Models
+A Generative Model of Symmetry Transformations
+Deep Learning in Medical Image Registration: Magic or Mirage?
+Collaboration! Towards Robust Neural Methods for Routing Problems
+Point-PRC: A Prompt Learning Based Regulation Framework for Generalizable Point Cloud Analysis
+Pearls from Pebbles: Improved Confidence Functions for Auto-labeling
+Single Image Reflection Separation via Dual-Stream Interactive Transformers
+UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes
+Slot-VLM: Object-Event Slots for Video-Language Modeling

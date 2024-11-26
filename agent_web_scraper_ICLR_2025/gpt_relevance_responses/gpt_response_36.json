@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework",
+        "relevant": false
+    },
+    {
+        "title": "RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code",
+        "relevant": false
+    },
+    {
+        "title": "VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use",
+        "relevant": false
+    },
+    {
+        "title": "Language Model Non-Myopic Generation for Reasoning and Planning",
+        "relevant": false
+    },
+    {
+        "title": "Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models",
+        "relevant": false
+    }
+]

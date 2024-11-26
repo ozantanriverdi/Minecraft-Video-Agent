@@ -1,0 +1,50 @@
+Privacy Breach Detection by Non-Parametric Two-Sample Tests
+Hierarchical Analysis: Monotonicity of Layerwise performance in Large Language Models
+CMC-Bench: Towards a New Paradigm of Visual Signal Compression
+VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication
+Durable Quantization Conditioned Misalignment Attack on Large Language Models
+Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants
+Tri-Tense Former: Capturing Dynamic Traffic Flow Using Tri-Tense Attention for Traffic Forecasting
+VIBEID: A STRUCTURAL VIBRATION-BASED SOFT BIOMETRIC DATASET FOR HUMAN GAIT RECOGNITION
+Large Language Models for Explainability in Machine Learning
+HiQ-Lip: A Quantum-Classical Hierarchical Method for Global Lipschitz Constant Estimation of ReLU Networks
+MFN: Metadata-Free Real-World Noisy Image Generation
+Efficient LLM Alignment via Hierarchical Coarse-to-Fine Refinement
+Pyramidal Recursive Composition of Multi-Word Units into Unified Representations
+Advancing Portfolio Optimization: Hybrid Relaxation and Heuristic Approaches for Cardinality-Constrained MIQP Problems
+MindSet: Vision. A toolbox for testing DNNs on key psychological experiments
+R-Bench: Are your Large Multimodel Model Robust to Real-world Corruption?
+Sample-specific Noise Injection for Diffusion-based Adversarial Purification
+SpecFuse: Ensembling Large Language  Models via Next-Segment Prediction
+Joint Gradient Balancing for Data Ordering in Finite-Sum Multi-Objective Optimization
+SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs
+Almost sure convergence of stochastic Hamiltonian descent methods
+Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning
+Geometric Spatiotemporal Transformer to Simulate Long-Term Physical Dynamics
+Latent Bayesian Optimization via Autoregressive Normalizing Flows
+Preference Optimization as Probabilistic Inference
+Since Faithfulness Fails: The Performance Limits of Neural Causal Discovery
+FSEO: A Few-Shot Evolutionary Optimization Framework for Expensive Multi-Objective Optimization and Constrained Optimization
+Revisiting Covariate and Hypothesis Roles in ITE Estimation: A New Approach Using Laplacian Regularization
+Spatio-temporal Diffusion Transformer for Action Recognition
+Ego-Foresight: Self-supervised Agent Visuomotor Prediction for Efficient RL
+UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation
+KnowHalu: Multi-Form Knowledge Enhanced Hallucination Detection
+Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory
+Spatial-temporal Graph Attention Network for Forex Forecasting with Hierarchical Transformer
+Learning and Steering Game Dynamics Towards Desirable Outcomes
+Intervention-based Causal Discrimination Discovery and Removal
+Semantic or Covariate? A Study on the Intractable Case of Out-of-Distribution Detection
+CLF: Curve Line Fitting Neural Network Based On Bezier Curve
+NIMBA : Towards Robust and Principled Processing of Point Clouds With SSMs
+OPTIMIZED SINGLE EEG CHANNEL SELECTION FOR DETECTING MAJOR DEPRESSIVE DISORDER
+Unbounded Activations for Constrained Monotonic Neural Networks
+Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression
+Neural Solver Selection for Combinatorial Optimization
+MCTBench: Multimodal Cognition towards Text-Rich Visual Scenes Benchmark
+LightRAG: Simple and Fast Retrieval-Augmented Generation
+GeoSplating: Towards Geometry Guided Gaussian Splatling for Physically-based Inverse Rendering
+Online importance sampling for stochastic gradient optimization
+GAD-VLP: Geometric Adversarial Detection for Vision-Language Pre-Trained Models
+Energy-based Model Training Objective Robust to Inaccurate SGLD Samples
+Pullback Flow Matching on Data Manifolds

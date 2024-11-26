@@ -1,0 +1,50 @@
+DSEG-LIME: Improving Image Explanation by Hierarchical Data-Driven Segmentation
+AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs
+Learning Harmonized Representations for Speculative Sampling
+MultiBand: Multi-Task Song Generation with Personalized Prompt-Based Control
+Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates
+MisAttributionLLM: Integrating Error Attribution Capability into LLM Evaluation
+MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation
+LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models
+Learning Augmentation Policies from A Model Zoo for Time Series Forecasting
+SDDBench: A Benchmark for Synthesizable Drug Design
+SONICS: Synthetic Or Not - Identifying Counterfeit Songs
+Pruning Aggregation Parameters for Large Language Models
+Why pre-training is beneficial for downstream classification tasks?
+Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models
+Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning
+Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation
+OML-AD: Online Machine Learning for Anomaly Detection in Time Series Data
+Towards Realistic Example-based Modeling via 3D Gaussian Stitching
+Zero-Shot Subject-Driven Video Customization with Precise Motion Control
+FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality
+Correlation and Navigation in the Vocabulary Key Representation Space of Language Models
+Reconstructive Visual Instruction Tuning
+Beyond 2D Representation: Learning 3D Scene Field for Robust Monocular Depth Estimation
+BLEND: Behavior-guided Neural Population Dynamics Modeling via Privileged Knowledge Distillation
+INRscrecon: Enhancing 3D Spatial Transcriptomics Reconstruction through Implicit Neural Representations
+COMBO: Compositional World Models for Embodied Multi-Agent Cooperation
+Image-level memorization detection via inversion-based inference perturbation
+In-Context Learning for Full Bayesian Inference
+EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow Matching and Co-Evolutionary Dynamics
+SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation
+Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks
+Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
+Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries
+Multi-Agent Collaborative Data Selection for Efficient Language Model Pretraining
+Neural Tangent Kernel Analysis and Filtering for Robust Fourier Feature Embedding
+Token-by-Token Election: Improving Language Model Reasoning through Token-Level Multi-model Collaboration
+MotionClone: Training-Free Motion Cloning for Controllable Video Generation
+Learning View-invariant World Models for Visual Robotic Manipulation
+Recovery of Causal Graph Involving Latent Variables via Homologous Surrogates
+Reconstruction-Guided Policy: Enhancing Decision-Making through Agent-Wise State Consistency
+Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations
+ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human Gaussians with Animatable Garments
+DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale
+OLMoE: Open Mixture-of-Experts Language Models
+TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics
+Rethinking the Expressiveness of GNNs: A Computational Model Perspective
+LoRA Unleashed: Effortlessly Advancing from Low to Arbitrary Rank
+ContraDiff: Planning Towards High Return States via Contrastive Learning
+LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes
+FreeCG: Free the Design Space of Clebsch-Gordan Transform for Machine Learning Force Fields

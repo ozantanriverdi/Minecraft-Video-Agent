@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Pok\u00e9LLMon: A Grounding and Reasoning Benchmark for Large Language Models in Pok\u00e9mon Battles",
+        "relevant": false
+    },
+    {
+        "title": "DEEM: Diffusion models serve as the eyes of large language models for image perception",
+        "relevant": false
+    },
+    {
+        "title": "Competing Large Language Models in Multi-Agent Gaming Environments",
+        "relevant": true
+    },
+    {
+        "title": "Test-time Contrastive Concepts for Open-World Semantic Segmentation",
+        "relevant": false
+    },
+    {
+        "title": "Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs",
+        "relevant": false
+    }
+]

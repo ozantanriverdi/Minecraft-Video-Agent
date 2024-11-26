@@ -1,0 +1,22 @@
+[
+    {
+        "title": "HDFlow: Enhancing LLM Complex Problem-Solving with Hybrid Thinking and Dynamic Workflows",
+        "relevant": false
+    },
+    {
+        "title": "PuzzlePlex: A Benchmark to Evaluate the Reasoning and Planning of Large Language Models on Puzzles",
+        "relevant": false
+    },
+    {
+        "title": "CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks",
+        "relevant": false
+    },
+    {
+        "title": "Improving Large Language Model Planning with Action Sequence Similarity",
+        "relevant": false
+    },
+    {
+        "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+        "relevant": true
+    }
+]

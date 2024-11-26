@@ -1,0 +1,50 @@
+Learning Frequency-Adapted Vision Foundation Model for Domain Generalized Semantic Segmentation
+Diffusion Models are Certifiably Robust Classifiers
+HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting
+SlowFocus: Enhancing Fine-grained Temporal Understanding in Video LLM
+Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering
+D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
+ParallelEdits: Efficient Multi-Aspect Text-Driven Image Editing with Attention Grouping
+LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Control and Rendering
+GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
+Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation
+How to Use Diffusion Priors under Sparse Views?
+Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting
+TrajCLIP: Pedestrian trajectory prediction method using contrastive learning and idempotent networks
+Adaptive Layer Sparsity for Large Language Models via Activation Correlation Assessment
+ChatCam: Empowering Camera Control through Conversational AI
+Elucidating the Design Space of Dataset Condensation
+CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting
+Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection
+Performative Control for Linear Dynamical Systems
+Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning
+XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation
+Quality-Improved and Property-Preserved Polarimetric Imaging via Complementarily Fusing
+Long-form factuality in large language models
+Sparse maximal update parameterization: A holistic approach to sparse training dynamics
+Human-3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models
+EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models
+Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections
+What Variables Affect Out-of-Distribution Generalization in Pretrained Models?
+2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution
+Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving
+ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models
+Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs
+Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability
+Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover
+SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation
+On the Comparison between Multi-modal and Single-modal Contrastive Learning
+Stochastic Optimization Algorithms for Instrumental Variable Regression with Streaming Data
+GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation
+Classification Done Right for Vision-Language Pre-Training
+Interpretable Mesomorphic Networks for Tabular Data
+FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification
+Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery
+IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation
+TopoFR: A Closer Look at Topology Alignment on Face Recognition
+TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering
+PACE: Pacing Operator Learning to Accurate Optical Field Simulation for Complicated Photonic Devices
+Instructor-inspired Machine Learning for Robust Molecular Property Prediction
+Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
+Generalized Fast Exact Conformalization
+Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability

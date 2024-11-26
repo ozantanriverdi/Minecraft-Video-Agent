@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Evolve: Evaluating and Optimizing LLMs For Exploration",
+        "relevant": false
+    },
+    {
+        "title": "Lay-Your-Scene: Open-Vocabulary Text to Layout Generation",
+        "relevant": false
+    },
+    {
+        "title": "VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+        "relevant": true
+    },
+    {
+        "title": "Thinking Forward and Backward: Effective Backward Planning with Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Discriminator-Guided Embodied Planning for LLM Agent",
+        "relevant": false
+    }
+]

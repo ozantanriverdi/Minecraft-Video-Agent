@@ -1,0 +1,50 @@
+Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length
+Knowledge-Empowered Dynamic Graph Network for Irregularly Sampled Medical Time Series
+Fine-grained Control of Generative Data Augmentation in IoT Sensing
+A Globally Optimal Portfolio for m-Sparse Sharpe Ratio Maximization
+QueST: Self-Supervised Skill Abstractions for Learning Continuous Control
+Revisiting motion information for RGB-Event tracking with MOT philosophy
+Estimating Epistemic and Aleatoric Uncertainty with a Single Model
+Sample-Efficient Agnostic Boosting
+On Statistical Rates and  Provably Efficient Criteria of Latent Diffusion Transformers (DiTs)
+Causal Temporal Representation Learning with Nonstationary Sparse Transition
+ZeroMark: Towards Dataset Ownership Verification without Disclosing Watermark
+Is O(log N) practical? Near-Equivalence Between Delay Robustness and Bounded Regret in Bandits and RL
+IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering
+Microstructures and Accuracy of Graph Recall by Large Language Models
+Fractal Patterns May Illuminate the Success of Next-Token Prediction
+A Recipe for Charge Density Prediction
+No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models
+Iteration Head: A Mechanistic Study of Chain-of-Thought
+Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses
+NVRC: Neural Video Representation Compression
+Universal In-Context Approximation By Prompting Fully Recurrent Models
+What Makes CLIP More Robust to Long-Tailed Pre-Training Data? A Controlled Study for Transferable Insights
+Optimal Batched Best Arm Identification
+Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention
+MaNo: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts
+NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation Across General Tasks
+Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting
+Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models
+Smoothed Online Classification can be Harder than Batch Classification
+Online Classification with Predictions
+RoME: A Robust Mixed-Effects Bandit Algorithm for Optimizing Mobile Health Interventions
+The Sample Complexity of Gradient Descent in Stochastic Convex Optimization
+MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer
+REDUCR: Robust Data Downsampling using Class Priority Reweighting
+Few-Shot Diffusion Models Escape the Curse of Dimensionality
+The Prevalence of Neural Collapse in Neural Multivariate  Regression
+Interfacing Foundation Models' Embeddings
+Leveraging Drift to Improve Sample Complexity of Variance Exploding Diffusion Models
+IODA: Instance-Guided One-shot Domain Adaptation for Super-Resolution
+Continuous Contrastive Learning for Long-Tailed Semi-Supervised Recognition
+MADiff: Offline Multi-agent Learning with Diffusion Models
+Hallo3D: Multi-Modal Hallucination Detection and Mitigation for Consistent 3D Content Generation
+LiT: Unifying LiDAR "Languages" with LiDAR Translator
+Instruction Tuning With Loss Over Instructions
+The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks
+Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting
+InterControl: Zero-shot Human Interaction Generation by Controlling Every Joint
+LG-CAV: Train Any Concept Activation Vector with Language Guidance
+Toward Dynamic Non-Line-of-Sight Imaging with Mamba Enforced Temporal Consistency
+Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing Reliability, Reproducibility, and Practicality

@@ -1,0 +1,50 @@
+SA3DIP: Segment Any 3D Instance with Potential 3D Priors
+Voila-A: Aligning Vision-Language Models with User's Gaze Attention
+Barely Random Algorithms and Collective Metrical Task Systems
+Goal Reduction with Loop-Removal Accelerates RL and Models Human Brain Activity in Goal-Directed Learning
+Latent Intrinsics Emerge from Training to Relight
+Breaking Long-Tailed Learning Bottlenecks: A Controllable Paradigm with Hypernetwork-Generated Diverse Experts
+Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom
+Kermut: Composite kernel regression for protein variant effects
+Automatically Learning Hybrid Digital Twins of Dynamical Systems
+On the Identifiability of Poisson Branching Structural Causal Model Using Probability Generating Function
+Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations
+Can Transformers Smell Like Humans?
+Geodesic Optimization for Predictive Shift Adaptation on EEG data
+Second-order forward-mode optimization of recurrent neural networks for neuroscience
+Discrete Flow Matching
+Motion Forecasting in Continuous Driving
+Learning to Mitigate Externalities: the Coase Theorem with Hindsight Rationality
+Moving Off-the-Grid: Scene-Grounded Video Representations
+Saliency-driven Experience Replay for Continual Learning
+Adversarial Environment Design via Regret-Guided Diffusion Models
+Localized Zeroth-Order Prompt Optimization
+Molecule Design by Latent Prompt Transformer
+Do causal predictors generalize better to new domains?
+Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference
+Any2Graph: Deep End-To-End Supervised Graph Prediction With An Optimal Transport Loss
+MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
+Ensemble Learning for Heterogeneous Large Language Models with Deep Parallel Collaboration
+Humanoid Locomotion as Next Token Prediction
+NeoRL: Efficient Exploration for Nonepisodic RL
+Toxicity Detection for Free
+Conditioning non-linear and infinite-dimensional diffusion processes
+Semi-supervised Multi-label Learning with Balanced Binary Angular Margin Loss
+Automated Efficient Estimation using Monte Carlo Efficient Influence Functions
+Sample-Efficient Private Learning of Mixtures of Gaussians
+Optimal ablation for interpretability
+A Pairwise Pseudo-likelihood Approach for Matrix Completion with Informative Missingness
+Training Compute-Optimal Protein Language Models
+ReFT: Representation Finetuning for Language Models
+Deep Submodular Peripteral Networks
+Provable Benefit of Cutout and CutMix for Feature Learning
+Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning
+Fine Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination
+Semi-Supervised Sparse Gaussian Classification: Provable Benefits of Unlabeled Data
+Don't Look Twice: Faster Video Transformers with Run-Length Tokenization
+Poisson Variational Autoencoder
+A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks
+Deep Learning for Computing Convergence Rates of Markov Chains
+Diffusion Models With Learned Adaptive Noise
+Aligner-Encoders: Self-Attention Transformers Can Be Self-Transducers
+Adaptive Randomized Smoothing: Certified Adversarial Robustness for Multi-Step Defences

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Humanoid Locomotion as Next Token Prediction",
+        "relevant": false
+    },
+    {
+        "title": "TOPA: Extending Large Language Models for Video Understanding via Text-Only Pre-Alignment",
+        "relevant": false
+    },
+    {
+        "title": "GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing",
+        "relevant": false
+    },
+    {
+        "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+        "relevant": true
+    },
+    {
+        "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+        "relevant": false
+    }
+]

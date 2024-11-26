@@ -1,0 +1,50 @@
+Neural collapse vs. low-rank bias: Is deep neural collapse really optimal?
+Light Unbalanced Optimal Transport
+Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models
+Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching
+Differential Privacy in Scalable General Kernel Learning via  K -means Nystr{\"o}m Random Features
+DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection
+Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift
+Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks
+Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps
+Real-time Stereo-based 3D Object Detection for Streaming Perception
+EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching
+TinyTTA: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices
+VISA: Variational Inference with Sequential Sample-Average Approximations
+The Ladder in Chaos: Improving Policy Learning by Harnessing the Parameter Evolving Path in A Low-dimensional Space
+Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training
+Improving the Training of Rectified Flows
+Neural Concept Binder
+Stochastic Newton Proximal Extragradient Method
+Pin-Tuning: Parameter-Efficient In-Context Tuning for Few-Shot Molecular Property Prediction
+Feint Behaviors and Strategies: Formalization, Implementation and Evaluation
+Parameter Symmetry and Noise Equilibrium of Stochastic Gradient Descent
+Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization
+Neural P 3 M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs
+Unsupervised Anomaly Detection in The Presence of Missing Values
+ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation
+Neural Collapse Inspired Feature Alignment for Out-of-Distribution Generalization
+Understanding Multi-Granularity for Open-Vocabulary Part Segmentation
+Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA
+Causal discovery with endogenous context variables
+Boosting the Potential of Large Language Models with an Intelligent Information Assistant
+Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure
+DEX: Data Channel Extension for Efficient CNN Inference on Tiny AI Accelerators
+Alignment for Honesty
+Accelerating Nash Equilibrium Convergence in Monte Carlo Settings Through Counterfactual Value Based Fictitious Play
+Dual-Personalizing Adapter for Federated Foundation Models
+RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models
+Listenable Maps for Zero-Shot Audio Classifiers
+Confidence Calibration of Classifiers with Many Classes
+Analytically deriving Partial Information Decomposition for affine systems of stable and convolution-closed distributions
+Exocentric-to-Egocentric Video Generation
+Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning
+P 2 C 2 Net: PDE-Preserved Coarse Correction Network for efficient prediction of spatiotemporal dynamics
+A Comprehensive Analysis on the Learning Curve in Kernel Ridge Regression
+Only Strict Saddles in the Energy Landscape of Predictive Coding Networks?
+Adversarial Schrödinger Bridge Matching
+GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning
+Model Sensitivity Aware Continual Learning
+FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation
+Prediction-Powered Ranking of Large Language Models
+SE(3)-bi-equivariant Transformers for Point Cloud Assembly

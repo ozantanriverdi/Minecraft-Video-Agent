@@ -1,0 +1,50 @@
+CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness
+HaDeMiF: Hallucination Detection and Mitigation in Large Language Models
+VR-Sampling: Accelerating Flow Generative Model Training with Variance Reduction Sampling
+SANIA: Polyak-type Optimization Framework Leads to Scale Invariant Stochastic Algorithms
+Correlations Are Ruining Your Gradient Descent
+Blessing of Dimensionality for Approximating Sobolev Classes on Manifolds
+Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling
+Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection
+LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
+See What You Are Told: Visual Attention Sink in Large Multimodal Models
+Interpretable Surrogate Models: A Clustering Approach for Gaussian Process Posteriors Using Mixed-Integer Quadratic Programming
+Measuring and Improving Robustness of Deep Neural Networks
+Selective Concept Bottleneck Models Without Predefined Concepts
+Domain Guidance: A Simple Transfer Approach for a Pre-trained Diffusion Model
+Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models
+PTNQ: Post-Training Non-Linear Quantization
+Conditional Diffusion on Web-Scale Image Pairs leads to Diverse Image Variations
+MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation
+Spacetime  E ( n ) -Transformer: Equivariant Attention for Spatio-temporal Graphs
+GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion
+InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions
+AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation
+Enhancing Certified Robustness via Block Reflector Orthogonal Layers
+DSConv: Dynamic Convolution On Serialized Point Cloud
+Calibrating LLMs with Information-Theoretic Evidential Deep Learning
+CodeDPO: Aligning Code Models with Self Generated and Verified Source Code
+TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models
+Learning Visual Prompts for Guiding the Attention of Vision Transformers
+BiDoRA: Bi-level Optimization-based Weight-Decomposed Low-Rank Adaptation
+Honey: Harmonizing Progressive Federated Learning via Elastic Synergy across Different Training Blocks
+VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning
+Make Interval Bound Propagation great again
+Roll the dice: Monte Carlo Downsampling as a low-cost Adversarial Defence
+What Matters in Hierarchical Search for Combinatorial Reasoning Problems?
+General Compression Framework for Efficient Transformer Object Tracking
+FlowBench: A Robustness Benchmark for Optical Flow Estimation
+Toward Trustworthy: A Method for Detecting Fine-Tuning Origins in LLMs
+ReHub: Linear Complexity Graph Transformers with Adaptive Hub-Spoke Reassignment
+Federated Adapter on Foundation Models:  An Out-Of-Distribution Approach
+Instance-aware Generalized Multi-task Visual Grounding
+DPD-LoRA: Dynamic Prompt-Driven Low-Rank Adaptation for Improved Generalization
+Self-Supervised Feature Re-Representation via Lennard-Jones Potential Loss
+VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling
+The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio
+Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment
+FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling
+MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code
+Data Extrapolation for Text-to-image Generation on Small Datasets
+FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering
+SwitchLoss: A Novel Optimization Scheme for Imbalanced Regression

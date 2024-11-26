@@ -1,0 +1,50 @@
+Searching For Robust Point Cloud Distillation
+Quantifying Prediction Consistency Under Model Multiplicity in Tabular LLMs
+DUALFormer: A Dual Graph Convolution and Attention Network for Node Classification
+Hierarchical Preference Optimization: Learning to achieve goals via feasible subgoals prediction
+Hessian-Free Natural Gradient Descent for Physics Informed Machine Learning
+Revisiting Delta-Parameter Pruning For Fine-Tuned Models
+CREIMBO: Cross-Regional Ensemble Interactions in Multi-view Brain Observations
+Progress or Regress? Self-Improvement Reversal in Post-training
+Transfer learning in Scalable Graph Neural Network for Improved Physical Simulation
+CoCMT: Towards Communication-Efficient Corss-Modal Transformer For Collaborative Perception
+The Graph's Apprentice: Teaching an LLM Low-Level Knowledge for Circuit Quality Estimation
+FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning
+Detecting Hallucination Before Answering: Semantic Compression Through Instruction
+Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation
+Speculative Streaming: Fast LLM Inference without Auxiliary Models
+Data-Driven Creativity: Amplifying Imagination in LLM Writing
+FTP: Efficient Prefilling for Long-Context LLM Inference via FFN Token Pruning
+MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models
+ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs
+The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise
+CITER: Collaborative Inference for Efficient Large Language Model Decoding with Token-Level Routing
+Pacmann: Efficient Private Approximate Nearest Neighbor Search
+h4rm3l: A Language for Composable Jailbreak Attack Synthesis
+Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models
+A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage
+On Evaluating the Durability of Safeguards for Open-Weight LLMs
+Don’t Throw Away Data: Better Sequence Knowledge Distillation
+Contradiction Retrieval Via Sparse-Aware Sentence Embedding
+QAC:Quantization-Aware Conversion for Mixed-Timestep Spiking Neural Networks
+SlimLLaVA: Automatic Pruning for Large Vision-language Models
+Learngene Tells You How to Customize: Task-Aware Parameter Prediction at Flexible Scales
+The "Law'' of the Unconscious Contrastive Learner: Probabilistic Alignment of Unpaired Modalities
+Graph Neural Preconditioners for Iterative Solutions of Sparse Linear Systems
+Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples
+A Robust Method to Discover Causal or Anticausal Relation
+Evaluating Ranking Loss Functions in Performance Predictor for NAS
+An Empirical Analysis of Uncertainty in Large Language Model Evaluations
+Effects of Scale on Language Model Robustness
+ChuLo: Chunk-Level Key Information Representation for Efficient Long Document Processing
+Hawkes process revisited: balancing interpretability and flexibility with contextualized event embeddings and a neural impact kernel
+FedDES: A Discrete-Event Simulator For Large-Scale Federated Learning
+On Large Language Model Continual Unlearning
+Structural Probing with Feature Interaction
+Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy
+MissDiff: Training Diffusion Models on Tabular Data with Missing Values
+Robult: A Scalable Framework for Semi-Supervised Multimodal Learning with Missing Modalities
+Visual Prompting Reimagined: The Power of Activation Prompts
+Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption
+Correlational Lagrangian Schrodinger Bridge: Learning Dynamics with Population-Level Regularization
+Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning

@@ -1,0 +1,50 @@
+The ALCHEmist: Automated Labeling 500x CHEaper than LLM Data Annotators
+Thompson Sampling For Combinatorial Bandits: Polynomial Regret and Mismatched Sampling Paradox
+Diffusion Priors for Variational Likelihood Estimation and Image Denoising
+Approximating the Top Eigenvector in Random Order Streams
+Functional Bilevel Optimization for Machine Learning
+In-and-Out: Algorithmic Diffusion for Sampling Convex Bodies
+FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images
+DiffSF: Diffusion Models for Scene Flow Estimation
+Expectile Regularization for Fast and Accurate Training of Neural Optimal Transport
+Learning Social Welfare Functions
+Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis
+Towards Universal Mesh Movement Networks
+SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams
+Resolving Discrepancies in Compute-Optimal Scaling of Language Models
+Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation
+Towards Understanding Evolving Patterns in Sequential Data
+Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators
+Brain-JEPA: Brain Dynamics Foundation Model with Gradient Positioning and Spatiotemporal Masking
+QKFormer: Hierarchical Spiking Transformer using Q-K Attention
+SegVol: Universal and Interactive Volumetric Medical Image Segmentation
+Optimization Algorithm Design via Electric Circuits
+Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation
+Dissecting Query-Key Interaction in Vision Transformers
+In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness
+Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)
+QTIP: Quantization with Trellises and Incoherence Processing
+Minimum Entropy Coupling with Bottleneck
+Nearly Optimal Approximation of Matrix Functions by the Lanczos Method
+Sample Complexity of Posted Pricing for a Single Item
+Extensive-Form Game Solving via Blackwell Approachability on Treeplexes
+Reranking Laws for Language Generation: A Communication-Theoretic Perspective
+PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models
+Enhancing LLM Reasoning via Vision-Augmented Prompting
+Improving robustness to corruptions with multiplicative weight perturbations
+Language Generation in the Limit
+Polynomial-Time Computation of Exact  Φ -Equilibria in Polyhedral Games
+Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models
+MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
+BackTime: Backdoor Attacks on Multivariate Time Series Forecasting
+Optimal deep learning of holomorphic operators between Banach spaces
+4+3 Phases of Compute-Optimal Neural Scaling Laws
+3D Gaussian Splatting as Markov Chain Monte Carlo
+CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics
+DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
+MambaTree: Tree Topology is All You Need in State Space Model
+Implicit Curriculum in Procgen Made Explicit
+GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
+Generative Retrieval Meets Multi-Graded Relevance
+SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models
+Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model

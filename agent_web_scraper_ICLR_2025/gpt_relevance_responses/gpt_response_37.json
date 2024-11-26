@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling",
+        "relevant": false
+    },
+    {
+        "title": "Rapid Response: Mitigating LLM Jailbreaks With A Few Examples",
+        "relevant": false
+    },
+    {
+        "title": "MMMT-IF: A Challenging Multimodal Multi-Turn Instruction Following Benchmark",
+        "relevant": false
+    },
+    {
+        "title": "Understanding Reasoning in Chain-of-Thought from the Hopfieldian View",
+        "relevant": false
+    },
+    {
+        "title": "Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems",
+        "relevant": false
+    }
+]

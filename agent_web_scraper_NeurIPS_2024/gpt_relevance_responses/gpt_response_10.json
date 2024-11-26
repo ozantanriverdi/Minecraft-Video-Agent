@@ -1,0 +1,22 @@
+[
+    {
+        "title": "ALI-Agent: Assessing LLMs'  Alignment with Human Values via Agent-based Evaluation",
+        "relevant": false
+    },
+    {
+        "title": "Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion",
+        "relevant": false
+    },
+    {
+        "title": "TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration",
+        "relevant": false
+    },
+    {
+        "title": "When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search",
+        "relevant": false
+    },
+    {
+        "title": "Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context",
+        "relevant": false
+    }
+]

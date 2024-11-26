@@ -1,0 +1,50 @@
+Sample Complexity of Interventional Causal Representation Learning
+On the Complexity of Teaching a Family of Linear Behavior Cloning Learners
+Towards a "Universal Translator" for Neural Dynamics at Single-Cell, Single-Spike Resolution
+Simple and Effective Masked Diffusion Language Models
+A Bayesian Approach for Personalized Federated Learning in Heterogeneous Settings
+Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling
+FairWire: Fair Graph Generation
+Apathetic or Empathetic? Evaluating LLMs' Emotional Alignments with Humans
+Scaling transformer neural networks for skillful and reliable medium-range weather forecasting
+Learning from Uncertain Data: From Possible Worlds to Possible Models
+One-Layer Transformer Provably Learns One-Nearest Neighbor In Context
+SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation
+OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations
+FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding
+SelectIT: Selective Instruction Tuning for LLMs via Uncertainty-Aware Self-Reflection
+Aligning Large Language Models with Representation Editing: A Control Perspective
+Nearly Tight Black-Box Auditing of Differentially Private Machine Learning
+Guiding Neural Collapse: Optimising Towards the Nearest Simplex Equiangular Tight Frame
+Local Anti-Concentration Class: Logarithmic Regret for Greedy Linear Contextual Bandit
+MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging
+KnowGPT: Knowledge Graph based Prompting for Large Language Models
+Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments
+Cost-efficient Knowledge-based Question Answering with Large Language Models
+Active Learning for Derivative-Based Global Sensitivity Analysis with Gaussian Processes
+Divergences between Language Models and Human Brains
+Covariate Shift Corrected Conditional Randomization Test
+Pretrained Transformer Efficiently Learns Low-Dimensional Target Functions In-Context
+An effective framework for estimating individualized treatment rules
+DiMSUM: Diffusion Mamba - A Scalable and Unified Spatial-Frequency Method for Image Generation
+Alias-Free Mamba Neural Operator
+On Convergence of Adam for Stochastic Optimization under Relaxed Assumptions
+Ad Auctions for LLMs via Retrieval Augmented Generation
+WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models
+Who’s Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation
+Scaling Laws in Linear Regression: Compute, Parameters, and Data
+Learning Image Priors Through Patch-Based Diffusion Models for Solving Inverse Problems
+Amortized Fourier Neural Operators
+Retrieval-Augmented Diffusion Models for Time Series Forecasting
+MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems
+Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
+Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration
+MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction
+Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation
+Efficient Prompt Optimization Through the Lens of Best Arm Identification
+Fast Best-of-N Decoding via Speculative Rejection
+Full-Atom Peptide Design with Geometric Latent Diffusion
+3D Gaussian Rendering Can Be Sparser: Efficient Rendering via Learned Fragment Pruning
+Dimension-free Private Mean Estimation for Anisotropic Distributions
+Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents
+Beyond Accuracy: Tracking more like Human via Visual Search

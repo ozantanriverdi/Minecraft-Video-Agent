@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning",
+        "relevant": false
+    },
+    {
+        "title": "Learning Evolving Tools for Large Language Models",
+        "relevant": true
+    },
+    {
+        "title": "Kronecker Mask and Interpretive Prompts are Language-Action Video Learners",
+        "relevant": true
+    },
+    {
+        "title": "Explicit-Constrained Single Agent for Enhanced Task-Solving in LLMs",
+        "relevant": false
+    },
+    {
+        "title": "MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?",
+        "relevant": false
+    }
+]

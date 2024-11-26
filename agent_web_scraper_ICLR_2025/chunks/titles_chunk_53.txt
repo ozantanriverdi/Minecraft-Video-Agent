@@ -1,0 +1,50 @@
+General Scene Adaptation for Vision-and-Language Navigation
+Cross-Entropy Is All You Need To Invert the Data Generating Process
+On-Device Transfer Learning based on Mixed Precision Partitioning
+SpiritSight Agent: Advanced GUI Agent with One Look
+Cohesion: Coherence-Based Diffusion for Long-Range Dynamics Forecasting
+Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding
+Addressing domain shift with diffusion-based adaptation for real image dehazing
+Scalable Mechanistic Neural Networks
+SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis
+Equally Critical: Samples, Targets, and Their Mappings in Datasets
+Linear Partial Gromov-Wasserstein Embedding
+Learning to Rank for AutoML: enhancing pipeline selection with ranking information
+UFGTime: Reforming the Pure Graph Paradigm for Multivariate Time Series Forecasting in the Frequency Domain
+Towards Adaptive Time Series Foundation Models Against Distribution Shift
+Unlocking Structured Thinking in Language Models with Cognitive Prompting
+FE-GNN: Feature Enhanced Graph Neural Networks for Account Classification in Ethereum
+As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss
+Exploring the Limitations of Layer Synchronization in Spiking Neural Networks
+Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues
+xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories
+A Gradient Descent Optimizer with auto-controlled large Learning Rates, dynamic Batch Sizes and without Momentum
+Unimodal-driven Distillation in Multimodal Emotion Recognition with Dynamic Fusion
+Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent
+Deep Clustering with Uniform Quasi-low-rank Hypersphere Embedding
+E(3)-equivariant models cannot learn chirality: Field-based molecular generation
+On Inherent 3D Reasoning of VLMs in Indoor Scene Layout Design
+On Limitation of Transformer for Learning HMMs
+Chordal Graph Sampling-Based Mini-batch Training Algorithm for Large Graphs
+Quantum entanglement for attention models
+Mechanistic Behavior Editing of Language Models
+Distilling Cross-Domain Knowledge for Person Re-ID by Aligning Any Pretrained Encoder with CLIP Textual Features
+Assessing the Knowledge-intensive Reasoning Capability of Large Language Models with Realistic Benchmarks Generated Programmatically at Scale
+One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs
+LLM Embeddings Improve Test-Time Adaptation to Tabular  Y | X -Shifts
+BiSSL: Bilevel Optimization for Self-Supervised Pre-Training and Fine-Tuning
+PaPaGei: Open Foundation Models for Optical Physiological Signals
+Unlocking Speech Instruction Data Potential with Query Rewriting
+CoLa-DCE – Concept-guided Latent Diffusion Counterfactual Explanations
+Error Correcting by Agreement Checking for Adversarial Robustness against Black-box Attacks
+Non-invasive Neural Decoding in Source Reconstructed Brain Space
+Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead
+Formalizing Spuriousness of Biased Datasets using Partial Information Decomposition
+Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations
+Anomaly Detection in Dynamic Graphs via Adversarial Autoencoder
+Captured by Captions: On Memorization and its Mitigation in CLIP Models
+TLCM: Training- efficient Latent Consistency Model for Image Generation with 2-8 Steps
+Online Policy Selection for Inventory Problems
+The other you in black mirror: first steps from chatbots to personalized LLM clones
+Synthetic Data is Sufficient for Zero-Shot Visual Generalization from Offline Data
+Understanding Optimization of Operator Networks with Variational Loss for Solving PDEs

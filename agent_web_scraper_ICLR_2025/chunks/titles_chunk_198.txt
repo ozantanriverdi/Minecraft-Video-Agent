@@ -1,0 +1,50 @@
+Improving Group Connectivity for Generalization of Federated Deep Learning
+On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning
+What Makes a Good Diffusion Planner for Decision Making?
+Law of Vision Representation in MLLMs
+LoRA Recycle: Towards Fine-Tuning-Free Visual Foundation Model via Double-Efficient Data-Free Meta-Learning
+VFDiff: SE(3)-Equivariant Vector Field Guided Diffusion Model for Target-Aware Molecule Generation in 3D
+ThermalGaussian: Thermal 3D Gaussian Splatting
+3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion
+Forecasting chaotic systems with zero-shot learning
+GBIR: A Novel Gaussian Iterative Method for Medical Image Reconstruction
+Optimizing Knowledge Distillation in Transformers: Enabling Power of Multi-Head Attention without Alignment Barriers
+Closing the Gap between Neural Networks for Approximate and Rigorous Logical Reasoning
+Investigating the Effectiveness of HyperTuning via Gisting
+RelationBooth: Towards Relation-Aware Customized Object Generation
+MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models
+RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition
+Q-Sparse: All Large Language Models can be Fully Sparsely-Activated
+MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants
+Image Generation with Channel-wise Quantization
+Towards Empowerment Gain through Causal Structure Learning in Model-Based RL
+Progressive Visual Relationship Inference
+Toward Generalizing Visual Brain Decoding to Unseen Subjects
+CONCORD: Concept-informed Diffusion for Dataset Distillation
+UNLEARNING IS BETTER THAN UNSEEN: UNLEARNING SCORE-BASED GENERATIVE MODEL
+Low-Dimension-to-High-Dimension Generalization and Its Implications for Length Generalization
+SwitchLoRA: Switched Low-Rank Adaptation Can Learn Full-Rank Information
+Runtime Learning Machine
+Path Complex Message Passing for Molecular Property Prediction
+ThinK: Thinner Key Cache by Query-Driven Pruning
+THE ROBUSTNESS OF DIFFERENTIABLE CAUSAL DISCOVERY IN MISSPECIFIED SCENARIOS
+A Sanity Check for AI-generated Image Detection
+Neural Phylogeny: Fine-Tuning Relationship Detection among Neural Networks
+Mitigating Time Discretization Challenges with WeatherODE: A Sandwich Physics-Driven Neural ODE for Weather Forecasting
+A Revisit of Total Correlation in Disentangled Variational Auto-Encoder with Partial Disentanglement
+Enhancing Time-Series Forecasting with Iterative Decomposition and Separable Training
+Breaking the  log ⁡ ( 1 / Δ 2 )  Barrier: Better Batched Best Arm Identification with Adaptive Grids
+Visual Agents as Fast and Slow Thinkers
+Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction
+Mamba-HMIL: Hierarchical Multiple Instance Learning via State Space Model for Whole Slide Image Diagnosis
+FoGE: Fock Space inspired encoding for graph prompting
+Geometric Median (GM) Matching for Robust Data Pruning
+Fourier Sliced-Wasserstein Embedding for Multisets and Measures
+Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data
+∀ uto ∃ ∨ ∧ L: Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks
+Clustering and Entity Matching via Language Model Community Detection
+Understanding Complexity in VideoQA via Visual Program Generation
+Uncertainty Prioritized Experience Replay
+TeaserGen: Generating Teasers for Long Documentaries
+CameraCtrl: Enabling Camera Control for Text-to-Video Generation
+Identifying and Addressing Delusions for Target-Directed Decision Making

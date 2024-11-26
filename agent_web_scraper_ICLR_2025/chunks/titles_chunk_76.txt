@@ -1,0 +1,50 @@
+TOWARDS LAYER-WISE PERSONALIZED FEDERATED LEARNING: ADAPTIVE LAYER DISENTANGLEMENT VIA CONFLICTING GRADIENTS
+Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
+Recycled Attention: Efficient inference for long-context language models
+GenQA: An Instruction Dataset of LLM Generated Questions and Answers
+Scaling Laws for Multilingual Language Models
+No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users
+Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA
+Agile Flight  with Optimization Embedded Networks
+Training Task Experts through Retrieval Based Distillation
+Flexible Active Learning of PDE Trajectories
+QRazor: Reliable and Effortless 4-bit LLM Quantization by Significant Data Razoring
+BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data
+ABNet: Attention BarrierNet for Safe and Scalable Robot Learning
+GENERALIZATION, ROBUSTNESS AND ADAPTABILITY OF PROGRESSIVE NEURAL COLLAPSE
+NeuGen: Amplifying the ‘Neural’ in Neural Radiance Fields for Domain Generalization
+Hot PATE: Private Aggregation of Distributions  for Diverse Tasks
+MAMBA STATE-SPACE MODELS ARE LYAPUNOV-STABLE LEARNERS
+Range-limited Augmentation for Few-shot Learning in Tabular Data
+Brain-to-Text Decoding with Context-Aware Neural Representations and Large Language Models
+Provably Noise-Resilient Training of Parameterized Quantum Circuits
+Controllable Generation via Locally Constrained Resampling
+GFSE: A Foundational Model For Graph Structural Encoding
+StEVE: Adaptive Optimization in a Kronecker-Factored Eigenbasis
+XTransplant: A Probe into the Upper Bound Performance of Multilingual Capability in LLMs via Cross-lingual Transplantation
+Understanding Learning with Sliced-Wasserstein Requires Re-thinking Informative Slices
+Bridging General and Personalized Federated Learning through Selective Model Integration
+RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior
+MeZO-A 3 dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs
+Towards Understanding Token Selection in Self-Attention: Successes and Pitfalls in Learning Random Walks
+Looks Great, Functions Better: Physics Compliance Text-to-3D Shape Generation
+A Unified Framework for Speculative Decoding with Multiple Drafters as a Bandit
+Lipschitz Bandits in Optimal Space
+Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage
+Jogging the Memory of Unlearned LLMs Through Targeted Relearning Attacks
+SCHEME: Scalable Channel Mixer for Vision Transformers
+Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient
+Federated Learning for Time-Series Healthcare Sensing with Incomplete Modalities
+ToVE: Efficient Vision-Language Learning via Knowledge Transfer from Vision Experts
+SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models
+Putnam-AXIOM: A Functional & Static Benchmark for Measuring Higher Level Mathematical Reasoning in LLMs
+Towards Hierarchical Rectified Flow
+FastCLIP: A Suite of Optimization Techniques to Accelerate CLIP Training with Limited Resources
+Relaxing Representation Alignment with Knowledge Preservation for Multi-Modal Continual Learning
+Representing Part-Whole Hierarchy with Nested Neuronal Coherence
+A Novel Kernel Sparse Coding Method with A Two-stage Acceleration Strategy
+BeST - A Novel Source Selection Metric for Transfer Learning
+KEYPOINT-GUIDED 4D GAUSSIAN SPLATTING WITH DECOUPLED SPATIO-TEMPORAL FLOW REFINEMENT
+CONTRA: Conformal Prediction Region via Normalizing Flow Transformation
+LASP-2: Rethinking Sequence Parallelism for Linear Attention and its Hybrid
+Positional Attention: Out-of-Distribution Generalization and Expressivity for Neural Algorithmic Reasoning

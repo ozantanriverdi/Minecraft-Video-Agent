@@ -1,0 +1,50 @@
+Training and Evaluating Causal Forecasting Models for Time-Series
+Learning Spatiotemporal Dynamical Systems from Point Process Observations
+PBCAT: Patch-Based Composite Adversarial Training against Physically Realizable Attacks on Object Detection
+Two Are Better than One: Context Window Extension with Multi-Grained Self-Injection
+On the Performance Analysis of Momentum Method: A Frequency Domain Perspective
+An Investigation of Conformal Isometry Hypothesis for Grid Cells
+Diffusion-PINN Sampler
+3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery
+Towards a Unified Framework of Clustering-based Anomaly Detection
+Morse: Fast Sampling for Accelerating Diffusion Models Universally
+Evidential Learning-based Certainty Estimation for Robust Dense Feature Matching
+Fair Class-Incremental Learning using Sample Weighting
+Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems
+SPARC: Continual learning beyond experience rehearsal and model surrogates
+Language models scale reliably with over-training and on downstream tasks
+ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL
+Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective
+StyleGuide: Crafting visual style prompting with negative visual query guidance
+Text Boosts Generalization: A Plug-and-Play Captioner for Real-World Image Restoration
+Symmetric Space Learning for Combinatorial Generalization
+HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router
+Towards Debiased Source-Free Domain Adaptation
+Dual-Head Knowledge Distillation: Enhancing Logits Utilization with an Auxiliary Head
+Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets
+Anchors Aweigh! Sail for Optimal Unified Multi-Modal Representations
+I 2 AM : Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps
+Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-Thought Critic
+Revisiting Adversarial Examples from the Perspective of Asymptotic Equipartition Property
+Rethinking the Bias of Foundation Model under Long-tailed Distribution
+ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning
+PersonaEval: Benchmarking LLMs on Role-Playing Evaluation Tasks
+3D StreetUnveiler with Semantic-aware 2DGS - a simple baseline
+Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for  zero-shot medical detection
+Adam-mini: Use Fewer Learning Rates To Gain More
+An Engorgio Prompt Makes Large Language Model Babble on
+Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents
+Combatting Dimensional Collapse in LLM Pre-Training Data via Submodular File Selection
+Energy-Based Diffusion Language Models for Text Generation
+From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks
+Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling
+Multi-objective Differentiable Neural Architecture Search
+Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts
+Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example
+CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models
+Generative Representational Instruction Tuning
+GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and  A Comprehensive Multimodal Dataset Towards General Medical AI
+CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning
+Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
+Many-Shot In-Context Learning in Multimodal Foundation Models
+Enhancing Neural Network Interpretability with Feature-Aligned Sparse Autoencoders

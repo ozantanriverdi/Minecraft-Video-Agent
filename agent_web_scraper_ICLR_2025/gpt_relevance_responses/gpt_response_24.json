@@ -1,0 +1,22 @@
+[
+    {
+        "title": "GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents",
+        "relevant": false
+    },
+    {
+        "title": "Agent Skill Acquisition for Large Language Models via CycleQD",
+        "relevant": false
+    },
+    {
+        "title": "UnrealCV Zoo: Enriching Photo-realistic Virtual Worlds for Embodied AI Agents",
+        "relevant": true
+    },
+    {
+        "title": "CONSTRAINT-AWARE ZERO-SHOT VISION-LANGUAGE NAVIGATION IN CONTINUOUS ENVIRONMENTS",
+        "relevant": false
+    },
+    {
+        "title": "Adapting Communicating MLLMs on the Fly in Referring Expression Tasks",
+        "relevant": false
+    }
+]

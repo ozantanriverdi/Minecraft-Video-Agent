@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs",
+        "relevant": false
+    },
+    {
+        "title": "Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning",
+        "relevant": false
+    },
+    {
+        "title": "Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing",
+        "relevant": false
+    },
+    {
+        "title": "OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents",
+        "relevant": true
+    },
+    {
+        "title": "GAVEL: Generating Games via Evolution and Language Models",
+        "relevant": false
+    }
+]

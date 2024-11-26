@@ -1,0 +1,22 @@
+[
+    {
+        "title": "SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation",
+        "relevant": true
+    },
+    {
+        "title": "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers",
+        "relevant": false
+    },
+    {
+        "title": "AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents",
+        "relevant": false
+    },
+    {
+        "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models",
+        "relevant": false
+    },
+    {
+        "title": "SlowFocus: Enhancing Fine-grained Temporal Understanding in Video LLM",
+        "relevant": false
+    }
+]

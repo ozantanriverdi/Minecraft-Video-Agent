@@ -1,0 +1,50 @@
+CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs
+Enhancing Graph Neural Networks: A Mutual Learning Approach
+CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification
+FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback
+Interpretable Table Question Answering via Plans of Atomic Table Transformations
+Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models
+F2M-Reg: Unsupervised RGB-D Registration with Frame-to-Model Optimization
+AVID: Adapting Video Diffusion Models to World Models
+Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate
+Certified   ℓ 2  Attribution Robustness via Uniformly Smoothed Attributions
+A GREAT Architecture for Edge-Based Graph Problems Like TSP
+Single-Step Diffusion Model-Based Generative Model Inversion Attacks
+FeedSign: Full-parameter Federated Fine-tuning of Large Models with Extremely Low Communication Overhead of One Bit
+SingNet: Towards a Large-Scale, Diverse, and In-the-Wild Singing Voice Dataset
+Pyramid Vector Quantization for LLMs
+ConDS: Context Distribution Shift for Robust In-Context Learning
+Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting
+VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model
+Receptor-Specific Diffusion Model: Towards Generating Protein-Protein Structures with Customized Perturbing and Sampling
+Disentangling Latent Shifts of In-Context Learning Through Self-Training
+Speech Robust Bench: A Robustness Benchmark For Speech Recognition
+Versatile Motion-Language Models for Multi-turn Interactive Agents
+Do We Really Need Parameter-Isolation to Protect Task Knowledge?
+Hierarchical overlapping clustering: cost function, algorithm and scalability
+The Implicit Bias of Stochastic AdaGrad-Norm on Separable Data
+DeepCircuitX: Repository-Level RTL Dataset for Code Understanding, Generation, and Multimodal Analysis
+Dynamic Compression Strategies for Uniform Low-Dimensional Representations in Human Brain and Neural Network
+Learning from End User Data with Shuffled Differential Privacy
+Learning High-Degree Parities: The Crucial Role of the Initialization
+SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs
+Filling the Gaps: LLMs for Causal Hypothesis Generation
+MOGIC: METADATA-INFUSED ORACLE GUIDANCE FOR IMPROVED EXTREME CLASSIFICATION
+Graph Regularized Encoder Training for Extreme Classification
+Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy
+Attention-based Graph Coreset Labeling for Active Learning
+TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation
+Debiasing Federated Learning with Correlated Client Participation
+GeoGS3D: Single-view 3D Reconstruction via Geometric-aware Diffusion Model and Gaussian Splatting
+pDETR: End-to-End Object Detection via Perspective-Aware Transformers
+Understanding Likelihood Over-optimisation in Direct Alignment Algorithms
+StepProof: Step-by-step verification of natural language mathematical proofs
+Residual Connections and Normalization Can Provably Prevent Oversmoothing in GNNs
+Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
+Understanding the Role of Spectral Signal in Unsupervised Graph Domain Adaptation
+What Can We Learn from State Space Models for Machine Learning on Graphs?
+Unpicking Data at the Seams: VAEs, Disentanglement and Independent Components
+Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes
+VISION-LANGUAGE MODELS AS TRAINERS FOR INSTRUCTION-FOLLOWING AGENTS
+Is the Fairness Metric Truly Fair?
+Instance-wise Knowledge Enhancement for 3D Instance Segmentation

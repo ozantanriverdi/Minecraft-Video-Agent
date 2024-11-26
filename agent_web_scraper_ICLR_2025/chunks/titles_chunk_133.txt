@@ -1,0 +1,50 @@
+Incremental Aggregated Asynchronous SGD for Arbitrarily Heterogeneous Data
+Distinct and Shared Concept Discovery for Fine-grained Concept Inversion
+Rethinking the Roles of Time and Frequency Domains Before Tackling Time Series UDA
+JudgeRail: Harnessing Open-Source LLMs for Fast Harmful Text Detection with Judicial Prompting and Logit Rectification
+Training-free Detection of AI-generated Images via High-frequency Influence
+From Commands to Prompts: LLM-based Semantic File System
+Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads
+Language Models can Self-Lengthen to Generate Long Texts
+Unispeaker: A unified speech generation model for multimodality-driven voice control
+Intriguing Properties of Large Language and Vision Models
+Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts
+EKAN: Equivariant Kolmogorov-Arnold Networks
+HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale
+ExID: Offline RL with Intuitive Expert Insights in Limited-Data Settings
+PREMIUM: LLM Personalization with Individual-level Preference Feedback
+CoLoRA: A Competitive Learning Approach for Enhancing LoRA
+Adapting Multi-modal Large Language Model to Concept Drift From Pre-training Onwards
+TerDiT: Ternary Diffusion Models with Transformers
+GPT Shortcuts: Learning Iterative Text Generation Patterns from a Dialogue
+Dual-Modality Guided Prompt for Continual Learning of Large Multimodal Models
+HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models
+RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks
+Tropical Geometry Features for Novelty Detection and interpretability
+Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions
+Aligning Large Language Models with Domain Adaptation
+PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance
+Confidence Difference Reflects Various Supervised Signals in Confidence-Difference Classification
+Uni-Sign: Toward Unified Sign Language Understanding at Scale
+Sparse Hyperspectral Band Selection Based on Expectation Maximization
+HyDance: A Novel Hybrid  Dance Generation Network with temporal and  frequency features
+FairGen: controlling fair generations in diffusion models via adaptive latent guidance
+Solving Continual Offline RL through Selective Weights Activation on Aligned Spaces
+Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization
+Ada-K Routing: Boosting the Efficiency of MoE-based LLMs
+Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks
+Communication-Efficient Federated Learning via Model Update Distillation
+AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior
+Deep Clustering with Associative Memories
+SonicSim: A customizable simulation platform for speech processing in moving sound source scenarios
+Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
+Transfering Knowledge into Efficient Tiny Models for Object Detection with Dual Prompt Distillation
+Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models
+Exploring Source View Capability: Improve Generalizable 3D Reconstruction with Multi-view Context from Source Views
+Brain-like Functional Organization within Large Language Models
+TIGER: Time-frequency Interleaved Gain Extraction and Reconstruction for Efficient Speech Separation
+Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models
+An  O ( k log ⁡ n )  Time Fourier Set Query Algorithm
+Mixture-of-Instructions: Aligning Large Language Models via Mixture Prompting
+The Impact of Element Ordering on LM Agent Performance
+DiSciPLE: Learning Interpretable Programs for Scientific Discovery

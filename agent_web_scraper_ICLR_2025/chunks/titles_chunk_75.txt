@@ -1,0 +1,50 @@
+PolyMATH: A Challenging Multi-Modal Mathematical Reasoning Benchmark
+Only-IF : Revealing the Decisive Effect of Instruction Diversity on Generalization
+Benign Overfitting in Single-Head Attention
+Binary-Feedback Active Test-Time Adaptation
+Subject Clustering by an Improved IF-PCA Algorithm
+Modeling Divisive Normalization as Learned Local Competition in Visual Cortex
+CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
+STAF: Sinusoidal Trainable Activation Functions for Implicit Neural Representation
+CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging
+MIND over Body: Adaptive Thinking using Dynamic Computation
+Towards Multimodal Open Set Recognition
+SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning
+Fair Clustering in the Sliding Window Model
+FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking
+NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models
+Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning
+Grounding Robot Policies with Visuomotor Language Guidance
+Training Free Exponential Context Extension via Cascading KV Cache
+Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens
+Low-bit Quantization for Seeing in the Dark
+The AdEMAMix Optimizer: Better, Faster, Older
+DialSim: A Real-Time Simulator for Evaluating Long-Term Multi-Party Dialogue Understanding of Conversational Agents
+Understanding the Benefits of SimCLR Pre-Training in Two-Layer Convolutional Neural Networks
+FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning
+Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability
+Unified Multi-Modal Interleaved Document Representation for Information Retrieval
+FIG: Flow with Interpolant Guidance for Linear Inverse Problems
+Scaling Long Context Training Data by Long-Distance Referrals
+Benchmark on Drug Target Interaction Modeling from a Structure Perspective
+DOMAIN GENERALIZATION VIA PARETO OPTIMAL GRADIENT MATCHING
+DreamMakeup: Face Makeup Customization using Latent Diffusion Models
+tBen: Benchmarking and Testing the Rule-Based Temporal Logic Reasoning Ability of Large Language Models with DatalogMTL
+SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning
+Collective Model Intelligence Requires Compatible Specialization
+Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis
+Exploring Learning Complexity for Efficient Downstream Dataset Pruning
+RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs
+SafeVision: Efficient Image Guardrail with Robust Policy Adherence and Explainability
+Large Language Models Can Be More Robust Multiple Choice Selectors Through Attention Intervention
+Expressive Power of Graph Neural Networks for (Mixed-Integer) Quadratic Programs
+Event-Driven Online Vertical Federated Learning
+DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References
+MELODI: Exploring Memory Compression for Long Contexts
+Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models
+PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling
+Unifying Diarization, Separation, and ASR with Multi-Speaker Encoder
+Generalized Probabilistic Attention Mechanism in Transformers
+Intention Model: A Novel Explanation for In-context Learning
+CryoFM: A Flow-based Foundation Model for Cryo-EM Densities
+On the loss of context-awareness in general instruction finetuning

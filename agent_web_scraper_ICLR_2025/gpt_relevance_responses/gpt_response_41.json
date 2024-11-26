@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems",
+        "relevant": false
+    },
+    {
+        "title": "S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models",
+        "relevant": false
+    },
+    {
+        "title": "MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents",
+        "relevant": false
+    },
+    {
+        "title": "VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI",
+        "relevant": true
+    },
+    {
+        "title": "mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models",
+        "relevant": false
+    }
+]

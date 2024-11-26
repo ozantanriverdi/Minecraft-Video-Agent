@@ -1,0 +1,50 @@
+RaSA: Rank-Sharing Low-Rank Adaptation
+Optimization Insights into Deep Diagonal Linear Networks
+Harnessing Query Heterogeneity for Cost-Effective Proactive Caching in LLM Inference
+Ontology-Retrieval Augmented Generation for Scientific Discovery
+Revisiting the Scaling Effects of LLMs on Medical Reasoning Capabilities
+SinkQ: Accurate 2-bit KV Cache Quantization with Dynamic Sink Tracking
+Scaling Speech-Text Pre-training with Synthetic Interleaved Data
+Efficient Training of Sparse Autoencoders for Large Language Models via Layer Clustering
+Offline Model-Based Optimization by Learning to Rank
+Calibration of ordinal regression networks
+ExploraCoder: Advancing code generation for multiple unseen APIs via planning and chained exploration
+A 2 -Flow: Alignment-Aware Pre-training for Speech Synthesis with Flow Matching
+From Search to Sampling: Generative Models for Robust Algorithmic Recourse
+ICAM: Rethinking Instance-Conditioned Adaptation in Neural Vehicle Routing Solver
+PokeFlex: A Real-World Dataset of Deformable Objects for Robotics
+SEAL-Pose: Enhancing Pose Estimation through Trainable Loss Function
+Neural Wave Equation for Irregularly Sampled Sequence Data
+BBOPlace-Bench: Benchmarking Black-Box Optimization for Chip Placement
+The Advancement in Stochastic Zeroth-Order Optimization: Mechanism of Accelerated Convergence of Gaussian Direction on Objectives with Skewed Hessian Eigenvalues
+Probabilistic Conformal Prediction with Approximate Conditional Validity
+Path Selection Makes BERT-family Good Generators
+Improving CNN training by Riemannian optimization on the generalized Stiefel manifold combined with a gradient-based manifold search
+Physics-Informed Neural Networks with Message-Passing Weights
+Prompt-Independent Safe Decoding to Restrain Unsafe Image Generation for Text-to-Image Models against White-Box Adversary
+Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding
+AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions
+Mixture-of-Diffusers: Dual-Stage Diffusion Model for Improved Time Series Generation
+ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference
+Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting
+AutoAdvExBench: Benchmarking Autonomous Exploitation of Adversarial Example Defenses
+Robust Root Cause Diagnosis using In-Distribution Interventions
+ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation
+Q* Agent: Optimizing Language Agents with Q-Guided Exploration
+QuantFormer: Learning to quantize for neural activity forecasting in mouse visual cortex
+Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction
+Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems
+Vision-Based Pseudo-Tactile Information Extraction and Localization for Dexterous Grasping
+Toward a Sheaf-Theoretic Understanding of Compositionality in Large Language Models
+Sensitivity Verification for Decision Tree Ensembles
+Monte Carlo Planning with Large Language Model for Text-Based Games
+Fine-Tuning Pre-trained Language Models for Robust Causal Representation Learning
+CAuSE: Post-hoc Natural Language Explanation of Multimodal Classifiers through Causal Abstraction
+SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods
+Discovering Clues of Spoofed LM Watermarks
+EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers
+Sampling Process Brings Additional Bias for Debiased Recommendation
+Benchmarking Robustness of Foundation Models for Remote Sensing
+Enhancing Trust-Region Bayesian Optimization via Derivatives of Gaussian Processes
+Solving the 2-norm k-hyperplane clustering problem via multi-norm formulations
+A Statistical Framework for Ranking LLM-based Chatbots

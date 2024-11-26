@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Craftium: Creating Efficient Environments for Open-Ended and Embodied Agents Beyond Gridworlds",
+        "relevant": false
+    },
+    {
+        "title": "REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments",
+        "relevant": true
+    },
+    {
+        "title": "SceneFunctioner: Tailoring Large Language Model for Function-Oriented Interactive Scene Synthesis",
+        "relevant": false
+    },
+    {
+        "title": "UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning",
+        "relevant": false
+    },
+    {
+        "title": "VP-LLM: Text-Driven 3D Volume Completion with Large Language Models through Patchification",
+        "relevant": false
+    }
+]

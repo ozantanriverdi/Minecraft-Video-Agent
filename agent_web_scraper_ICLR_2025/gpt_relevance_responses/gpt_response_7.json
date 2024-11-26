@@ -1,0 +1,22 @@
+[
+    {
+        "title": "A Scalable Communication Protocol for Networks of Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects",
+        "relevant": false
+    },
+    {
+        "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+        "relevant": false
+    },
+    {
+        "title": "Meta-Referential Games to Learn Compositional Learning Behaviours",
+        "relevant": false
+    }
+]

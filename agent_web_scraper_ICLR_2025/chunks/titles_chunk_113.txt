@@ -1,0 +1,50 @@
+Counterfactual Causal Inference in Natural Language with Large Language Models
+ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection
+Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models
+Multimodal Context-Aware Transformer with Visual Guidance for Automated 3D Annotation
+GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
+PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction
+LiveXiv - A Multi-Modal live benchmark based on Arxiv papers content
+QCircuitNet: A Large-Scale Hierarchical Dataset for Quantum Algorithm Design
+Concepts' Information Bottleneck Models
+Chronicling Germany: An Annotated Historical Newspaper Dataset
+Weighted-Rank Contrastive Regression for Robust Learning on Imbalance Social Media Popularity Prediction
+Graph Supervised Contrastive Learning for Geodemographics
+Variational Bayes Gaussian Splatting
+CTNet: A CNN-Transformer Hybrid Network for 6D Object Pose Estimation
+Near-Optimal Online Learning for Multi-Agent Submodular Coordination: Tight Approximation and Communication Efficiency
+EfficientSkip: Efficiently Transforming Dense LLMs into Sparse Variants
+Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models
+DRAG: Data Reconstruction Attack using Guided Diffusion
+CasualHDR: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos
+GRAMA: Adaptive Graph Autoregressive Moving Average Models
+Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer
+BALCONI: BALancing CONtext  and Internal Knowledge For Training Flexible LLMs
+SEPARATE: A Simple Low-rank Projection for Gradient Compression in Modern Large-scale Model Training Process
+RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder
+Object-Based Sub-Environment Recognition
+GeoBench: A new benchmark on Symbolic Regression with Geometric Expressions
+FIRING-Net: A filtered feature recycling network for speech enhancement
+Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering
+AutoPR: Automatically Pull Request Generation for Fix Issued Bugs of CodeBase
+Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond
+🤔Emoji2Idiom: Benchmarking Cryptic Symbol Understanding of Multimodal Large Language Models
+ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning
+GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians
+How Far are Today's Time-Series Models from Real-world Weather Forecasting Applications?
+Overcoming Lookback Window Limitations: Exploring Longer Windows in Long-Term Time Series Forecasting
+GEOMETRIC SIGNATURES OF COMPOSITIONALITY ACROSS A LANGUAGE MODEL’S LIFETIME
+CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians
+Enhanced multi-task learning of imputation and prediction via feature relationship graph learning
+Equivariant Masked Position Prediction for Efficient Molecular Representation
+S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning
+Two-Stage Pretraining for Molecular Property Prediction in the Wild
+PETRA: Parallel End-to-end Training with Reversible Architectures
+Towards Understanding the Universality of Transformers for Next-Token Prediction
+A-Bench: Are LMMs Masters at Evaluating AI-generated Images?
+Look Around and Find Out: OOD Detection with Relative Angles
+Visual Transformation Telling
+Robust Spike-based Decoupled Federated Information Bottleneck Learning with Spiking Neural Network under System Heterogeneity
+LogicJitter: Let LLMs play Logic Games and they will Detect Misinformation
+Language-driven 3D Human Pose Estimation: Grounding Motion from Text Descriptions
+Comparison Visual Instruction Tuning

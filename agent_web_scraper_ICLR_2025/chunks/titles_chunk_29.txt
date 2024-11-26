@@ -1,0 +1,50 @@
+TreeX: Generating Global Graphical GNN Explanations via Critical Subtree Extraction
+Proof Search Augmented Language Models
+Discovering Global Minima of High-Dimensional Energy Landscapes
+TiC-LM: A Multi-Year Benchmark for Continual Pretraining of Language Models
+CardBench: A Benchmark for Learned Cardinality  Estimation in Relational Databases
+Task-Unaware Lifelong Robot Learning with Retrieval-based Weighted Local Adaptation
+Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations
+Direct Judgement Preference Optimization
+The Probability Simplex is Compatible
+Approximating Two-Layer ReLU Networks for Hidden State Analysis in Differential Privacy
+Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling
+Initialization Matters: Unraveling the Impact of Pre-Training on Federated Learning
+SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models
+On Exact Bit-level Reversible Transformers Without Changing Architectures
+Implicit Bias of Mirror Descent for Shallow Neural Networks in Univariate Regression
+Geometry of the Loss Landscape in Invariant Deep Linear Neural Networks
+Benchmarking LLMs' Judgments with No Gold Standard
+How to Get Your LLM to Generate Challenging Problems for Evaluation
+The Pitfalls of Memorization: When Memorization Hurts Generalization
+Graph Neural Networks Gone Hogwild
+AIMing for Explainability in GNNs
+BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM inference
+SHIFTING TIME: TIME-SERIES FORECASTING WITH KHATRI-RAO NEURAL OPERATORS
+Data Brittleness Estimation with Self-Supervised Features
+Self-Improvement in Language Models: The Sharpening Mechanism
+Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset
+A Deep Generative Learning Approach for Two-stage Adaptive Robust Optimization
+Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?
+In-Context Neural PDE: Learning to Adapt a Neural Solver to Different Physics
+DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects
+MPFBench: A Large Scale Dataset for SciML of Multi-Phase-Flows: Droplet and Bubble Dynamics
+WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild
+Data Shapley in One Training Run
+Fundamental Limitations on Subquadratic Alternatives to Transformers
+Gaussian Mixture Models Based Augmentation Enhances GNN Generalization
+Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion
+Leaving the barn door open for Clever Hans: Simple features predict LLM benchmark answers
+Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoors
+Adversarially Robust Graph Classification: A Pooling-Based Defense Framework
+Benchmarking LLMs on Safety Issues in Scientific Labs
+Decision Tree Induction via Semantically-Aware Evolution
+Efficient Imitation under Misspecification
+Optimal Transport-Based Domain Alignment as a Preprocessing Step for Federated Learning
+HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation
+Comparing Protein Language Models Using Remote Homology Detection for Phages
+Learning to localize leakage of cryptographic keys through power consumption
+Mitigating Goal Misgeneralization via Minimax Regret
+LoRA-Contextualizing Adaptation of Large Multimodal Models for Multi-page Document Understanding
+Accelerating Multi-Block Constrained Optimization Through Learning to Optimize
+ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark

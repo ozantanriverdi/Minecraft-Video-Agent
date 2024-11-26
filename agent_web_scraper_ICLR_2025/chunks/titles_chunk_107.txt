@@ -1,0 +1,50 @@
+The Deficit of New Information in Diffusion Models: A Focus on Diverse Samples
+Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors
+MuSiCNet: A Gradual Coarse-to-Fine Framework for Irregularly Sampled Multivariate Time Series Analysis
+MONICA: Benchmarking on Long-tailed Medical Image Classification
+On Scaling Up 3D Gaussian Splatting Training
+DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks
+RepoFixEval: A Repository-Level Program Repair Benchmark From Issue Discovering to Bug Fixing
+CONSTRAINT-AWARE ZERO-SHOT VISION-LANGUAGE NAVIGATION IN CONTINUOUS ENVIRONMENTS
+New Algorithms for the Learning-Augmented k-means Problem
+LLM Table Reading: Bridging the Semantic Gap Between Text and Table
+Turing completeness of prompting
+Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning
+Noisy Test-Time Adaptation in Vision-Language Models
+Continuous Approximation of Momentum Methods with Explicit Discretization Error
+Data-Driven Uncertainty-Aware Forecasting of Sea Ice Conditions in the Gulf of Ob Based on Satellite Radar Imagery
+Physics-informed GNN for non-linear constrained optimization: PINCO, a solver for the AC-optimal power flow
+MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks
+Revisiting MAE pre-training for 3D medical image segmentation
+QP-SNN: Quantized and Pruned Spiking Neural Networks
+EarthquakeNPP: Benchmark Datasets for Earthquake Forecasting with Neural Point Processes
+RE-Adapt: Reverse Engineered Adaptation of Large Language Models
+Towards Replication-Robust Data Markets
+Towards Realistic Hyperparameter Optimization in Continual Learning
+Fantastic Copyrighted Beasts and How (Not) to Generate Them
+Transformers and slot encoding for sample efficient physical world modelling
+Improving Graph Generation with Flow Matching and Optimal Transport
+mOSCAR: A Large-scale Multilingual and Multimodal Document-Level Corpus
+Balanced Hyperbolic Embeddings Are Natural Out-of-Distribution Detectors
+Incremental Learning with Task-Specific Adapters
+Verifying Properties of Binary Neural Networks Using Sparse Polynomial Optimization
+ReAttention: Training-Free Infinite Context with Finite Attention Scope
+Graph Fourier Neural Kernels (G-FuNK): Learning Solutions of Nonlinear Diffusive Parametric PDEs on Multiple Domains
+Delay Neural Networks (DeNN) for exploiting temporal information in event-based datasets
+OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text
+Towards Realistic Mechanisms That Incentivize Federated Participation and Contribution
+Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace
+An Information Criterion for Controlled Disentanglement of Multimodal Data
+Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
+Emergence of meta-stable clustering in mean-field transformer models
+Non-linear activation soothes NTK conditioning for wide neural networks: a study in the ReLU case
+SGHormerVQ: Bridging Graph Transformers and Spiking Neural Networks via Spiking Vector Quantization
+ANALOGXPERT: AUTOMATING ANALOG TOPOLOGY SYNTHESIS BY INCORPORATING CIRCUIT DESIGN EXPERTISE INTO LARGE LANGUAGE MODELS
+Fréchet Wavelet Distance: A Domain-Agnostic Metric for Image Generation
+SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model
+BONE: BLOCK AFFINE TRANSFORMATION AS PARAMETER EFFICIENT FINE-TUNING METHODS FOR LARGE LANGUAGE MODELS
+Text-promptable Propagation for Referring Medical Image Sequence Segmentation
+Scaling Probabilistic Circuits via Data Partitioning
+Multimodal Sentiment Analysis Based on Causal Reasoning
+T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback
+Adapting Communicating MLLMs on the Fly in Referring Expression Tasks

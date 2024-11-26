@@ -1,0 +1,50 @@
+Exploratory Preference Optimization: Provably Sample-Efficient Exploration in RLHF with General Function Approximation
+Fine-Grained Machine-Generated Text Detection
+HomieBot: an Adaptive System for Embodied Mobile Manipulation in Open Environments
+Scalable Gaussian Process via Hilbert-Schmidt Singular Value Decomposition
+Mobility Networked Time-Series Forecasting Benchmark Datasets
+MoLEx: Mixture of Layer Experts for Fine-tuning with Sparse Upcycling
+Regression Conformal Prediction under Bias
+Characteristic Function-Based Regularization for Probability Function Informed Neural Networks
+Faster Diffusion Sampling with Randomized Midpoints: Sequential and Parallel
+X-ALMA: Plug & Play Modules and Adaptive Rejection for Quality Translation at Scale
+Beyond Finite Data: Towards Data-free Out-of-distribution Generalization via Extrapolation
+Score-based pullback Riemannian geometry
+nGPT: Normalized Transformer with Representation Learning on the Hypersphere
+Seeing is Knowing: Advancing Semantic Understanding with MLLMs in Grounding Tasks
+Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling, and Zero-Shot Transfer
+MuPT: A Generative Symbolic Music Pretrained Transformer
+Improving Instruction-Following in Language Models through Activation Steering
+From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases
+Explainable self-supervised learning by spiking functions: a theory
+AudioMorphix: Training-free audio editing with diffusion probabilistic models
+VEditBench: Holistic Benchmark for Text-Guided Video Editing
+Were RNNs All We Needed?
+Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks
+Forte : Finding Outliers with Representation Typicality Estimation
+NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative
+Data Attribution for Multitask Learning
+Provable unlearning in topic modeling and downstream tasks
+Dynamic Self-Distillation via Previous Mini-batches for Fine-tuning Small Language Models
+Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection
+Point-based Instance Completion with Scene Constraints
+Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG
+Core Tokensets for Data-efficient Sequential Training of Transformers
+FACTS: A Factored State-Space Framework for World Modelling
+Phantom: General Trigger Attacks on Retrieval Augmented Language Generation
+Batched Bayesian optimization with correlated candidate uncertainties
+Benchmarking a well-calibrated measure of weight similarity of deep neural network models
+Tackling the Generative learning trilemma through VAE and GMM-controlled latent space class expansion
+Noise-Robust Preference Losses for Deep Regression Models
+Towards Neural Scaling Laws for Foundation Models on Temporal Graphs
+Multi-Scale Image Diffusion Transformers: Explainability Leads to Faster Training
+Evaluating multiple models using labeled and unlabeled data
+FairCoT: Enhancing Fairness in Diffusion Models via Chain of Thought Reasoning of Multimodal Language Models
+Stutter makes large language models smarter
+6D Object Pose Tracking in Internet Videos for Robotic Manipulation
+Alice in Wonderland: Simple Tasks Reveal Severe Generalization and Basic Reasoning Deficits in State-Of-the-Art Large Language Models
+Towards Foundation Models for Mixed Integer Linear Programming
+A Generic Framework for Conformal Fairness
+MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases
+Concept Bottleneck Large Language Models
+UKAN: UNBOUNDED KOLMOGOROV-ARNOLD NETWORKS

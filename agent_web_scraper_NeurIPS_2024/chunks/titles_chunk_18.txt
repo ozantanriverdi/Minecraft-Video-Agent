@@ -1,0 +1,50 @@
+How Diffusion Models Learn to Factorize and Compose
+Structured Multi-Track Accompaniment Arrangement via Style Prior Modelling
+An Equivalence Between Static and Dynamic Regret Minimization
+Interaction-Force Transport Gradient Flows
+(FL) 2 : Overcoming Few Labels in Federated Semi-Supervised Learning
+Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices
+Semi-Open 3D Object Retrieval via Hierarchical Equilibrium on Hypergraph
+SequentialAttention++ for Block Sparsification: Differentiable Pruning Meets Combinatorial Optimization
+Variational Flow Matching for Graph Generation
+Reciprocal Learning
+Data-Efficient Learning with Neural Programs
+Privacy without Noisy Gradients: Slicing Mechanism for Generative Model Training
+Gradient Rewiring for Editable Graph Neural Network Training
+Scanning Trojaned Models Using Out-of-Distribution Samples
+On the Power of Decision Trees in Auto-Regressive Language Modeling
+Learning from Highly Sparse Spatio-temporal Data
+Consistency Diffusion Bridge Models
+Frustratingly Easy Test-Time Adaptation of Vision-Language Models
+Nature-Inspired Local Propagation
+Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification
+GFlowNet Assisted Biological Sequence Editing
+Grasp as You Say: Language-guided Dexterous Grasp Generation
+Towards Estimating Bounds on the Effect of Policies under Unobserved Confounding
+HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion
+Toward a Stable, Fair, and Comprehensive Evaluation of Object Hallucination in Large Vision-Language Models
+Beyond Primal-Dual Methods in Bandits with Stochastic and Adversarial Constraints
+Discrete Dictionary-based Decomposition Layer for Structured Representation Learning
+Transferable Boltzmann Generators
+An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning
+Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration
+Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework
+On the Identifiability of Hybrid Deep Generative Models: Meta-Learning as a Solution
+Explicit Eigenvalue Regularization Improves Sharpness-Aware Minimization
+CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors
+Analyzing & Reducing the Need for Learning Rate Warmup in GPT Training
+Robust Sparse Regression with Non-Isotropic Designs
+On Softmax Direct Preference Optimization for Recommendation
+AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields
+WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off
+MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model
+SongCreator: Lyrics-based Universal Song Generation
+DiffHammer: Rethinking the Robustness of Diffusion-Based Adversarial Purification
+realSEUDO for real-time calcium imaging analysis
+What Factors Affect Multi-Modal In-Context Learning? An In-Depth Exploration
+UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction
+MotionCraft: Physics-Based Zero-Shot Video Generation
+HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning
+Aligning to Thousands of Preferences via System Message Generalization
+SLTrain: a sparse plus low rank approach for parameter and memory efficient pretraining
+Long-range Brain Graph Transformer

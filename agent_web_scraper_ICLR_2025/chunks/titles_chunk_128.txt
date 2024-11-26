@@ -1,0 +1,50 @@
+Out-of-Distribution Detection using Neural Activation Prior
+AutoCode4Math: Learning Autonomous Code Integration for Math LLMs
+TabDiff: a Multi-Modal Diffusion Model for Tabular Data Generation
+DeMo: Decoupled Momentum Optimization
+Consistent Symmetry Representation over Latent Factors of Variation
+Jamba: Hybrid Transformer-Mamba Language Models
+Federated Coordination: Private and Distributed Strategy Alignment
+Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts
+Understanding Impact of Human Feedback via Influence Functions
+Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions
+KinFormer: Generalizable Dynamical Symbolic Regression for catalytic organic Reaction Kinetics
+IDIV: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations
+Learning 3D Perception from Others' Predictions
+Contrastive guidance and feedback: A Suitable way to improve 3D Consistency of Multi-view Diffusion Model
+Linear Attention Sequence Parallelism
+MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control
+Population Transformer: Learning Population-level Representations of Neural Activity
+GRACE: Towards Realistic Multimodal Single-Cell Data Matching
+SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding
+VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
+A Generalist Intracortical Motor Decoder
+UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing
+Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation
+Test Time Augmentations are Worth One Million Images for Out-of-Distribution Detection
+CADO: Cost-Aware Diffusion Models for Combinatorial Optimization via RL Fine-tuning
+Enhanced Diffusion Sampling via Extrapolation with Multiple ODE Solutions
+High-dimensional Asymptotics of VAEs: Threshold of Posterior Collapse and Dataset-Size Dependence of Rate-Distortion Curve
+FusionBench: A Comprehensive Benchmark of Deep Model Fusion
+Open-vocabulary Multimodal Emotion Recognition: Dataset, Metric, and Benchmark
+MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers
+AnyPrefer: An Automatic Framework for Preference Data Synthesis
+Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint
+Segmentation-Enhanced Depth Estimation Using Camera Model Based Self-supervised Contrastive Learning
+Personalized Representation from Personalized Generation
+Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View
+Data Value Estimation on Private Gradients
+DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models
+Equivariant Polynomial Functional Networks
+Inference-Time Alignment of Diffusion Models with Direct Noise Optimization
+BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks
+Exploiting Open-World Data for Adaptive Continual Learning
+On the Sequence Evaluation based on Stochastic Processes
+SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix
+Convex Distillation: Efficient Compression of Deep Networks via Convex Optimization
+IBCL: Zero-shot Model Generation under Stability-Plasticity Trade-offs
+NeuralMark: Advancing White-Box Neural Network Watermarking
+Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws
+A near linear query lower bound for submodular maximization
+Perturbation-Restrained Sequential Model Editing
+Incorporating Visual Correspondence into Diffusion Model for Visual Try-On

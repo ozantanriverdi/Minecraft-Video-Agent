@@ -1,0 +1,50 @@
+Image Super-Resolution with Text Prompt Diffusion
+Multi-Epoch Learning with Data Augmentation for Deep Click-Through Rate Prediction
+AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
+SIFM:  A Foundation Model for Multi-granularity Arctic Sea Ice Forecasting
+Can Information-Theoretic Generalization Bound Explain the Generalization of Pre-trained Language Model?
+Posterior Label Smoothing for Node Classification
+TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision
+Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge
+Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints
+Large Scale Knowledge Washing
+Noise is More Than Just Interference: Information Infusion Networks for Anomaly Detection
+Self-Updatable Large Language Models with Parameter Integration
+Language Model Empowered Spatio-Temporal Forecasting via Physics-Aware Reprogramming
+IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation
+PostCast: Generalizable Postprocessing for Precipitation Nowcasting via Unsupervised Blurriness Modeling
+Efficient Fine-Tuning of Quantized LLMs via Three-Stage Optimization
+Shake-It-Off: Jailbreaking Black-Box Large Language Models by Shaking Off Objectionable Semantics
+ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation
+Does Training with Synthetic Data Truly Protect Privacy?
+POINTS: Improving Your Vision-language Model with Affordable Strategies
+Dealing with Frequency Collapse in Time Series Embeddings by Post-Embedding reMapping
+MV-Adapter: Multi-view Consistent Image Generation Made Easy
+Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting
+Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing
+Qihoo-T2X: An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Any-Task
+BenchMol: A Multi-Modality Benchmarking Platform for Molecular Representation Learning
+Ger: Generation, Evaluation and Reflection Enhanced LLM for Knowledge Graph Question Answering
+FusionSAM: Visual Multimodal Learning with Segment Anything Model
+Tool Calling: Enhancing Medication Consultation via Retrieval-Augmented Large Language Models
+MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation
+ZeroTS: Zero-shot time series prediction via multi-party data-model interaction
+Fast Feedforward 3D Gaussian Splatting Compression
+On the Out-of-Distribution Generalization of Self-Supervised Learning
+FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
+Bi-Share LoRA: Enhancing the Parameter Efficiency of LoRA with Intra-Layer and Inter-Layer Sharing
+Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video
+On Evaluation of Generative Robotic Simulations
+LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning
+FLEXOUNDIT: VARIABLE-LENGTH DIFFUSION TRANSFORMER FOR TEXT-TO-AUDIO GENERATION
+Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data
+RuleRAG: Rule-Guided Retrieval-Augmented Generation with Language Models for Question Answering
+Generating Physical Dynamics under Priors
+Decoupled Data Augmentation for Improving Image Classification
+A Framework of Distilling Multimodal Large Language Models
+FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing
+Denoising with a Joint-Embedding Predictive Architecture
+Hyper-Connections
+Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation
+Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark
+TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting

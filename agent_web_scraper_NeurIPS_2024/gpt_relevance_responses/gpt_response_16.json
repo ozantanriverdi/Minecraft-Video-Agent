@@ -1,0 +1,22 @@
+[
+    {
+        "title": "LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Control and Rendering",
+        "relevant": false
+    },
+    {
+        "title": "ChatCam: Empowering Camera Control through Conversational AI",
+        "relevant": false
+    },
+    {
+        "title": "ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs",
+        "relevant": false
+    },
+    {
+        "title": "PERIA: Perceive, Reason, Imagine, Act via Holistic Language and Vision Planning for Manipulation",
+        "relevant": false
+    }
+]

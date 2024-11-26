@@ -1,0 +1,50 @@
+Modeling Abstract Style Prompts for Text-to-Speech Models
+Ad-Hoc Human-AI Coordination Challenge
+Stick-breaking Attention
+Learning with Preserving for Continual Multitask Learning
+FlowDec: A flow-based full-band general audio codec with high perceptual quality
+End-to-end Learning of Gaussian Mixture Priors for Diffusion Sampler
+Hierarchical Self-Attention: Generalizing Neural Attention Mechanics to Hierarchy
+FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations
+A biologically-plausible alternative to backpropagation using pseudoinverse feedback
+IterGen: Iterative Structured LLM Generation
+Bi-continuous and complete SE(2)-invariants parametrize all clouds of unordered points
+Roll-AE: A Spatiotemporal Invariant Autoencoder for Neuronal Electro-Physiology
+Privacy Preserving Generative Feature Transformation
+Solving Composable Constraints for Inverse Design Tasks
+Jacobian Descent for Multi-Objective Optimization
+Bayesian scaling laws for in-context learning
+TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks
+CycleAug: Cycle-Consistent Visual Augmentation for Large Multimodal Models
+Learning In-Distribution Representations for Anomaly Detection
+A Foundation Model for Weather and Climate
+Martryoshka: Learning to Drive Black-Box LLMs with LLMs
+How to Correctly Do Semantic Backpropagation on Language-based Agentic Systems
+Enforcing Interpretability in Time Series Transformers: A Concept Bottleneck Framework
+SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training
+Probing the Latent Hierarchical Structure of Data via Diffusion Models
+Causal Frameworks and Feature Discrepancy Loss: Addressing Data Scarcity and Enhancing Medical Image Segmentation
+DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction
+Features are fate: a theory of transfer learning in high-dimensional regression
+Dynamic Sparse Training versus Dense Training: The Unexpected Winner in Image Corruption Robustnes
+Unlocking Point Processes through Point Set Diffusion
+Tracing Representation Progression: Analyzing and Enhancing Layer-Wise Similarity
+Language Agents Meet Causality -- Bridging LLMs and Causal World Models
+KEA: Keeping Exploration Alive by Proactively Coordinating Exploration Strategies in Curiosity-driven Exploration
+From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question-Answering
+Annotation Efficiency: Identifying Hard Samples via Blocked Sparse Linear Bandits
+vVLM: Exploring Visual Reasoning in VLMs against Language Priors
+Lossgate: Incomplete Information and Misaligned Incentives Hinder Regulation of Societal Risks in Machine Learning
+Training Semi-Supervised Deep Learning Models with Heuristic Early Stopping Rules
+On the Transfer of Object-Centric Representation Learning
+ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities
+Gamified crowd-sourcing of high-quality data for visual fine-tuning
+GE-PEFT: Gated Expandable Parameter-Efficient Fine-Tuning for Continual Learning
+Score-based free-form architectures for high-dimensional Fokker-Planck equations
+Window-Based Hierarchical Dynamic Attention for Learned Image Compression
+ReGen: Generative Robot Simulation via Inverse Design
+Flow-based Variational Mutual Information: Fast and Flexible Approximations
+Adversarial Robustness of Graph Transformers
+Few-Class Arena: A Benchmark for Efficient Selection of Vision Models and Dataset Difficulty Measurement
+Sequence-to-sequence modeling for Temporal Reconstruction of Cellular Events
+BLIPEE:  Fast and Robust BLIP with Adversarially Trained Early Exits

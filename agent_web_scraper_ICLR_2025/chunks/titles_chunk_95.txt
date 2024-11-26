@@ -1,0 +1,50 @@
+Dynamics of Concept Learning and Compositional Generalization
+MotherNet: Fast Training and Inference via Hyper-Network Transformers
+Inference-time Alignment of LLMs at the Token Level
+AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks
+A Reasoning-Based Approach to Cryptic Crossword Clue Solving
+CoINR: Compressed Implicit Neural Representations
+Approximation algorithms for combinatorial optimization with predictions
+PlicoTabTransformer: Folding Tabular Embeddings Into M Vectors
+Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation
+Region-Aware Generalized Face Anti-Spoofing via Chebyshev Convolutional Graph Networks
+Revisiting Critical Learning Periods in Deep Neural Networks
+Robust Model Evaluation over Large-scale Federated Networks
+ComputAgeBench: Epigenetic Aging Clocks Benchmark
+TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning Large Language Models
+GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement
+Spectral Graph Coarsening Using Inner Product Preservation and the Grassmann Manifold
+Language Model-Driven Data Pruning Enables Efficient Active Learning
+Relevance-Based Embeddings for Efficient Relevance Retrieval
+InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation
+GPUDrive: Data-driven, multi-agent driving simulation at 1 million FPS
+Align Your Intents: Offline Imitation Learning via Optimal Transport
+Hierarchical Uncertainty Estimation for Learning-based Registration in Neuroimaging
+Training Language Models to Win Debates with Self-Play Improves Judge Accuracy
+Fast Few-Shot Graph Flow Prediction
+When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions
+Fairness-Aware Graph Learning: A Benchmark
+End-to-End Learning under Endogenous Uncertainty
+Advancing Out-of-Distribution Detection via Local Neuroplasticity
+On the Language of Thoughts in Large Language Models
+Revisiting Convergence: A Study on Shuffling-Type Gradient Methods
+Large Learning Rates without the Agonizing Pain: Dispelling the Curse of Singularities in Deep Neural Networks
+TimeInf: Time Series Data Contribution via Influence Functions
+JoPA: Explaining Large Language Model's Generation via Joint Prompt Attribution
+DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments
+DC3DO: Diffusion Classifier for 3D Objects
+Learning mirror maps in policy mirror descent
+Collapse or Thrive? Perils and Promises of Synthetic Data in a Self-Generating World
+Certified Defense on the Fairness of Graph Neural Networks
+Dual-Stream Adapters for Anomaly Segmentation
+Understanding Optimization in Deep Learning with Central Flows
+MazeNet: An Accurate, Fast, & Scalable Deep Learning Solution for Steiner Minimum Trees
+Memory-efficient Training of Large Language Models with Larger Mini-batches
+MalTrans: Unsupervised Binary Code Translation with Application to Malware Detection
+Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?
+SafeText: Safe Text-to-image Models via Aligning the Text Encoder
+Spherical Tree-Sliced Wasserstein Distance
+Repetition Improves Language Model Embeddings
+TypedThinker: Typed Thinking Improves Large Language Model Reasoning
+Investigating Online RL in World Models
+BAYESIAN EXPERIMENTAL DESIGN VIA CONTRASTIVE DIFFUSIONS

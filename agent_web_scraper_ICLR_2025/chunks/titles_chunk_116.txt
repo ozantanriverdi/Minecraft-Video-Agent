@@ -1,0 +1,50 @@
+Attribute-based Visual Reprogramming for Image Classification with CLIP
+Error Feedback for Smooth and Nonsmooth Convex Optimization with Constant, Decreasing and Polyak Stepsizes
+Revisit Non-parametric Two-sample Testing as a Semi-supervised Learning Problem
+PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration
+CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents
+Inverse Constitutional AI: Compressing Preferences into Principles
+When Attention Sink Emerges in Language Models: An Empirical View
+PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance
+Identifying Optimal Output Sets for Differential Privacy Auditing
+Capsule Network Projectors are Equivariant and Invariant Learners
+DensBO: Dynamic Ensembling of Surrogate Models for Hyperparameter Optimisation
+Learning Dispersed Embeddings on Hyperspheres
+MetaFood3D: 3D Food Dataset with Nutrition Values
+Spreading Out-of-Distribution Detection on Graphs
+Training on the Test Task Confounds Evaluation and Emergence
+Why Does the Effective Context Length of LLMs Fall Short?
+Don't Take Things Out of Context: Attention Intervention for Enhancing Chain-of-Thought Reasoning in Large Language Models
+UNAST: Unified framework for Neural Architecture Search for Transformers
+Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression
+Unifying Disentangled Representation Learning with Compositional Bias
+G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model
+Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement
+Automatic Jailbreaking of Text-to-Image Generative AI Systems for Copyright Infringement
+Linearly Controlled Language Generation with Performative Guarantees
+Can Model Randomization Offer Robustness Against Query-Based Black-Box Attacks?
+EIBench: Assessing the Emotion Interpretation ability of Vision Large Language Models
+Calibrated Physics-Informed Uncertainty Quantification
+The Buffer Mechanism for Multi-Step Information Reasoning in Language Models
+Emergence of a High-Dimensional Abstraction Phase in Language Transformers
+Domain-specific Benchmarking of Vision-Language Models: A Task Augmentation Framework Using Metadata
+Embedding Learning for Approximating Person-specific Cognitive Similarity
+KidSat: satellite imagery to map childhood poverty
+DiffStroke: High-Quality Mask-free Image Manipulation with Partial Sketches
+Self-Supervised Grid Cells Without Path Integration
+Collaborative Discrete-Continuous Black-Box Prompt Learning for Language Models
+Singular Value Adaptation for Parameter-Efficient Fine Tuning
+Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector
+Training-Free Retrieval-Augmented Generation for Knowledge-Intensive Visual Question Answering
+Relation-Aware Diffusion for Heterogeneous Graphs with Partially Observed Features
+Towards Lightweight Deep Watermarking Framework
+Debiasing Vison-Language Models with Text-Only Training
+TIPS: Two-Level Prompt for Rehearsal-free Continual Learning
+Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference
+Unearthing Large Scale Domain-Specific Knowledge from Public Corpora
+Rethinking Evaluation for Temporal Link Prediction through Counterfactual Analysis
+Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation
+Rethinking logic in AI: A novel benchmark inspired by polynomial analogue of Gandy's fixed point theorem
+Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance
+Parrot: Seamless Spoken Dialogue Interaction with Double-Channel Large Language Models
+Private Stochastic Optimization for Achieving Second-Order Stationary Points

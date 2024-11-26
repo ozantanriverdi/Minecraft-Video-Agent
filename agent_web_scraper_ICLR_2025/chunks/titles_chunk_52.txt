@@ -1,0 +1,50 @@
+Modeling Asynchronous Time Series with Large Language Models
+Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography
+MMDocBench: Benchmarking Large Vision-Language Models for Fine-Grained Visual Document Understanding
+Gating is Weighting: Understanding Gated Linear Attention through In-context Learning
+Associative memory and dead neurons
+From Logits to Hierarchies: Hierarchical Clustering made Simple
+State-space models can learn in-context by gradient descent
+The OMG dataset: An Open MetaGenomic corpus for mixed-modality genomic language modeling
+Variance-Reduced Forward-Reflected Algorithms for  Generalized Equations
+Functional segregation of inputs in artificial neural networks for vision
+Towards Scalable Topological Regularizers
+KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models
+Probing the contents of text, behavior, and brain data toward improving human-LLM alignment
+CLAD: A Contrastive Learning based Method for Multi-Class Anomaly Detection
+Scalable and Enhanced Hallucination Detection in LLMs using Semantic Clustering
+The Foundations of Tokenization: Statistical and Computational Concerns
+AskChart: Universal Chart Understanding through Textual Enhancement
+On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks
+QAEncoder: Towards Aligned Representation Learning in Question Answering System
+Variational Inference for Self-Supervised Speech Models Fine-tuning on Downstream Tasks
+LLMs for Generalizable Language-Conditioned Policy Learning under Minimal Data Requirements
+Implicit degree bias in the link prediction task
+HyResPINNs: Adaptive Hybrid Residual Networks for Learning Optimal Combinations of Neural and RBF Components for Physics-Informed Modeling
+Complete and Lipschitz continuous invariants of graphs under geometric isomorphism in R^n
+Strategy-centric Synthesis: Connecting Billions of Image-Text Pairs to High-Quality Visual Instruction Data
+Flow Graph Neural Networks
+MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference
+Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models
+Conformal Prediction Sets Can Cause Disparate Impact
+GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning
+Generation Network for Echocardiographic Sectional Positioning and Shape Completion
+Bitune: Leveraging Bidirectional Attention to Improve Decoder-Only LLMs
+Intrinsic Dimension Correlation: uncovering nonlinear connections in multimodal representations
+Regret-Optimal List Replicable Bandit Learning: Matching Upper and Lower Bounds
+Jump-teaching: Ultra Robust and Efficient Learning with Noisy Labels
+FlatQuant: Flatness Matters for LLM Quantization
+Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models
+OmniBench: Towards The Future of  Universal Omni-Language Models
+Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable?
+On a Hidden Property in Computational Imaging
+Unsupervised Multi-Agent Diversity With Wasserstein Distance
+Entropy Reveals What You Know: An Entropy-Guided Method for Enhancing the Reliability of Large Language Models
+Linguini: A benchmark for language-agnostic linguistic reasoning
+Mutual Information Preserving Neural Network Pruning
+GRADE: Quantifying Sample Diversity in Text-to-Image Models
+Language Models Need Inductive Biases to Count Inductively
+Plan-RAG: Planning-guided Retrieval Augmented Generation
+Automated Red Teaming with GOAT: the Generative Offensive Agent Tester
+Gaussian Mixture Vector Quantization with Aggregated  Categorical Posterior
+Quantifying AI Psychology: A Psychometric Benchmark for Large Language Models

@@ -1,0 +1,50 @@
+Conformal Prediction for Deep Classifier via Truncating
+GVFi: Learning 3D Gaussian Velocity Fields from Dynamic Videos
+Unified Universality Theorem for Deep and Shallow Joint-Group-Equivariant Machines
+Knowledge-localized Unlearning for Faithful Forgetting in Language Models
+PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance
+Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises
+Improving Sequence Level Distillation through Hidden State Matching
+PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs
+Long-Context Linear System Identification
+Diagonalizing Affinity Matrix to Identify Clustering Structure
+Controllable Unlearning for Image-to-Image Generative Models via  ϵ -Constrained Optimization
+Random Is All You Need: Random Noise Injection on Feature Statistics for Generalizable Deep Image Denoising
+Navigating Neural Space: Revisiting Concept Activation Vectors to Overcome Directional Divergence
+MaskInversion: Localized Embeddings via Optimization of Explainability Maps
+Robust Probabilistic Unsupervised Segmentation with Uncertainty Modeling
+LLaVA-MoD: Making LLaVA Tiny via MoE-Knowledge Distillation
+ShuffleNorm: A Better Normalization for Semi-supervised Learning
+LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity
+Gray-Box Fine-Tuning for Single Backbone Domain Experts
+MolReFlect: Towards Fine-grained In-Context Alignment between Molecules and Texts
+AniMer: Animal Pose and Shape Estimation Using Transformer
+I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength
+BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models
+MirrorCheck  : Efficient Adversarial Defense for Vision-Language Models
+LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
+Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping
+OccVAR: Scalable 4D Occupancy Prediction via Next-Scale Prediction
+ROOT DEFENCE STRATEGIES: ENSURING SAFETY OF LLM AT THE DECODER LEVEL
+DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT
+Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration
+UI-Pro: A Hidden Recipe for Building Vision-Language Models for GUI Grounding
+Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation
+GROOT-2: Weakly Supervised Multimodal Instruction Following Agents
+From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models
+Knowledge Lift Alignment Fine Tuning
+SurfDesign: Effective Protein Design on Molecular Surfaces
+SAN-Diff: Structure-aware noise for super-resolution diffusion model
+CTV-FAS: Compensate Texts with Visuals for Generalizable Face Anti-spoofing
+Medium-Difficulty Samples Constitute Smoothed Decision Boundary for Knowledge Distillation on Pruned Datasets
+SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large Language Models
+Identify Dominators: The Key To Improve Large-Scale Maximum Inner Product Search
+MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More
+Learning K-U-Net in Constant Complexity with Application to Time Series Forecasting
+DeFoG: Defogging Discrete Flow Matching for Graph Generation
+Granularity Matters in Long-Tail Learning
+M3CoL: Harnessing Shared Relations via Multimodal Mixup Contrastive Learning for Multimodal Classification
+Collaborative and Efficient Personalization with Mixtures of Adaptors
+Bayesian Policy Distillation via Offline RL for Lightweight and Fast Inference
+Hadamard Representations: Augmenting Hyperbolic Tangents in RL
+Methods for Convex  ( L 0 , L 1 ) -Smooth Optimization: Clipping, Acceleration, and Adaptivity

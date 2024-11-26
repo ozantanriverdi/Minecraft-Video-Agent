@@ -1,0 +1,50 @@
+The adaptive complexity of log-concave sampling
+Language-Guided Object-Centric World Models for Predictive Control
+ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max- k -Cut Problems
+MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine
+Improved Convex Decomposition with Ensembling and Boolean Primitives
+Graph Vision Networks for Link Prediction
+ION-C: Integration of Overlapping Networks via Constraints
+CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding
+PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection
+PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future
+Consistent Flow Distillation for Text-to-3D Generation
+A Precompute-Then-Adapt Approach for Efficient Graph Condensation
+Bounds on the Reconstruction Error of Kernel PCA with Interpolation Spaces Norms
+SenseFlow: A Physics-Informed and Self-Ensembling Iterative Framework for Power Flow Estimation
+Robust-PIFu: Robust Pixel-aligned Implicit Function for 3D Human Digitalization from a Single Image
+Descent with Misaligned Gradients and Applications to Hidden Convexity
+TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models
+On Statistical Rates of Conditional Diffusion Transformer: Approximation and Estimation
+Universal Image Restoration Pre-training via Degradation Classification
+Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis
+Denial-of-Service Poisoning Attacks against Large Language Models
+How and how well do diffusion models improve adversarial robustness?
+Can Neuron Activation be Predicted? A New Lens for Analyzing Transformer-based LLM
+On-the-fly Preference Alignment via Principle-Guided Decoding
+Analysis of Linear Mode Connectivity via Permutation-Based Weight Matching: With Insights into Other Permutation Search Methods
+Exploring Invariance in Images through One-way Wave Equations
+ConMix: Contrastive Mixup at Representation Level for Long-tailed Deep Clustering
+Rethinking end-to-end prediction of adsorption energies from a causal perspective
+ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning
+Discrete Inversion: A Controllable Latent Space for Multinomial Diffusion and Masked Generative Models
+Protecting Minorities in Diffusion Models via Capacity Allocation
+Dobi-SVD: Differential SVD for LLM Compression and Some New Perspectives
+Episodic Control-Based Adversarial Policy Learning in Two-player Competitive Games
+Task-specific Meta-feature Selection for Few-shot Segmentation
+Clothing-disentangled 3D character generation from a single image
+Cross Resolution Encoding-Decoding For Detection Transformers
+CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting
+LW2G: Learning Whether to Grow for Prompt-based Continual Learning
+Designing Concise ConvNets with Columnar Stages
+Trusted and Interactive Clustering for Time-Series Data
+The BabyView dataset: High-resolution egocentric videos of infants’ and young children’s everyday experiences
+KAN: Kolmogorov–Arnold Networks
+Open-Set Learning for Addressing Label Skews in One-Shot Federated Learning
+Learning Under Multi-dimensional Domain Shifts: A Ensemble of Mixtures of Experts Approach
+Symbolic Learning Enables Self-Evolving Agents
+Smooth Probabilistic Interpolation Benefits Generative Modeling for Discrete Graphs
+Denoising Task Difficulty-based Curriculum for Training Diffusion Models
+AD-H: Autonomous Driving with Hierarchical Agents
+Circuit Transformer: A Transformer That Preserves Logical Equivalence
+Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges

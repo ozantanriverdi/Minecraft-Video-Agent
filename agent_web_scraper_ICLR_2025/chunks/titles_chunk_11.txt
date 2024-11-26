@@ -1,0 +1,50 @@
+Stiefel Flow Matching for Moment-Constrained Structure Elucidation
+LAM Simulator: Advancing Large Action Model Training for Agent via Online Exploration and Feedback Simulation
+Emergent Geometry in Neural Representations of the Visual World
+Lawma: The Power of Specialization for Legal Tasks
+Open-World Planning via Lifted Regression with LLM-based Affordances for Embodied Agents
+Neural Network Adaptive Quantization based on Bayesian Deep Learning
+T-Graphormer: Using Transformers for Spatiotemporal Forecasting
+OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
+Reducing Bias in Feature Extractors for Extreme Universal Domain Adaptation
+LLM-Powered Predictive Decision-Making for Sustainable Data Center Operations
+WIQOR: A dataset for what-if analysis of Operations Research problems
+Tight Stability, Convergence, and Robustness Bounds for Predictive Coding Networks
+Federated Unlearning with Diffusion Models
+Communicating Activations Between Language Model Agents
+Wavelet-based Positional Representation for Long Context
+LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code
+ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints
+Gradient Descent and Attention Models: Challenges Posed by the Softmax Function
+Solving Robotics Problems in Zero-Shot with Vision-Language Models
+No Preference Left Behind: Group Distributional Preference Optimization
+Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape
+ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection
+CCM-DiT: Camera-pose Controllable Method for DiT-based Video Generation
+Layer-Varying Deep Reservoir Computing Architecture
+Efficient Multi Subject Visual Reconstruction from fMRI Using Aligned Representations
+MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding
+NODE-SAT: Temporal Graph Learning with Neural ODE-Guided Self-Attention
+Collaborative Compressors in Distributed Mean Estimation with Limited Communication Budge
+Towards Efficient and No Forgetting Domain Continual Pretraining by Mitigating the Stability Gap
+Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo
+Prompt Optimization with Human Feedback
+Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse
+Forget but Recall: Incremental Latent Rectification in Continual Learning
+Scalable Preference Learning for Large Language Models via Convex Optimization
+Hyperbolic Genome Embeddings
+One Stone Three Birds:  Three-Dimensional Implicit Neural Network for Compression and Continuous Representation of Multi-Altitude Climate Data
+Double Check My Desired Return: Transformer with Value Validation for Offline RL
+CASD: Enhancing Generation Accuracy via Context-Aware Speculative Decoding
+Using Multimodal Deep Neural Networks to Disentangle Language from Visual Aesthetic Experience
+Discovering Physics Laws of Dynamical Systems via Invariant Function Learning
+Identifying neural dynamics using interventional state space models
+Discovering Factor Level Preferences to Improve Human-Model Alignment
+Deep Distributed Optimization for Large-Scale Quadratic Programming
+VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers
+HuWo：Building Physical Interaction World Models for Humanoid Robot Locomotion
+Feature-guided score diffusion for sampling conditional densities
+Vision-Based Grasping through Goal-Conditioned Masking
+Dynamic Loss-Based Sample Reweighting for Improved Large Language Model Pretraining
+Curriculum GNN-LLM Alignment for Text-Attributed Graphs
+MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations

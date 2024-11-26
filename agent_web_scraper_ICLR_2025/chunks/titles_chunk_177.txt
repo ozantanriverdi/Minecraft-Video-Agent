@@ -1,0 +1,50 @@
+Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint
+Adaptive Memory Mechanism in Vision Transformer for Long-form Video Understanding
+Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning
+Youku Dense Caption: A Large-scale Chinese Video Dense Caption Dataset and Benchmarks
+Axis-level Reflectional Symmetry Detection with Group-Equivariant Representation
+Query Optimization Detection Transformer for Small Objects in Remote Sensing Images
+Large Language Model for Lossless Image Compression with Visual Prompts
+ADMM for Structured Fractional Minimization
+MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning
+FedSUV: Validity and Utility-guided Client Selection for Federated Learning
+NegMerge: Consensual Weight Negation for Strong Machine Unlearning
+Consistency Model is an Effective Posterior Sample Approximation for Diffusion Inverse Solvers
+TAU-106K: A New Dataset for Comprehensive Understanding of Traffic Accident
+EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph
+SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement
+Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior
+Benchmarking Agentic Workflow Generation
+MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation
+Enhancing Multi-Objective Offline RL with Adaptive Preference Integration
+A Unified Theoretical Framework for Understanding Difficult-to-learn Examples in Contrastive Learning
+Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile
+Nash-GBML: Nash Gradient-Based Meta-Learning
+3D-Prover: Diversity Driven Theorem Proving With Determinantal Point Processes
+NovoBench-100K: A large-scale protein dataset for in silico evolution of de novo TadA
+EEGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training
+DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
+Steady and Fair Robustness Evaluation Based on Model Interpretation
+Flat Posterior Does Matter For Bayesian Model Averaging
+SEED-X: Multimodal Models in Real World
+Retraining-Free Merging of Sparse Mixture-of-Experts via Hierarchical Clustering
+From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty
+Demystifying the Underappreciated Long-Tail Problems in Large Vision Language Models
+Learning Physical Simulation with Message Passing Transformer
+ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation
+DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models
+NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals
+N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning
+UniHDA: A Unified and Versatile Framework for Generalized Hybrid Domain Adaptation
+General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
+House of Cards: Massive Weights in LLMs
+Bi-modality medical images synthesis by a bi-directional discrete process matching method
+Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control
+Real&Synthetic Dataset and the Linear Attention in Image Restoration
+Adapting Informative Structures for Cross-Domain Few-Shot Segmentation
+OpenMeta: A Comprehensive Multi-Task Benchmark for Metagenomics Understanding
+Context-Driven Missing Data Imputation via Large Language Model
+MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequences
+MDTREE: A Masked Dynamic Autoregressive Model for Phylogenetic Inference
+ViT-UWA: Vision Transformer Underwater-Adapter for Dense Predictions Beneath the Water Surface
+RelayGS: Reconstructing High-Fidelity Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians

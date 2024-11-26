@@ -1,0 +1,50 @@
+DeLLMa: Decision Making Under Uncertainty with Large Language Models
+OmniRe: Omni Urban Scene Reconstruction
+Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery
+Unleash The Power of Color for Point Cloud Registration
+L-C4: Language-Based Video Colorization for Creative and Consistent Colors
+An Exact Solver for Satisfiability Modulo Counting with Probabilistic Circuits
+Neptune: The Long Orbit to Benchmarking Long Video Understanding
+MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance
+Improving Neuron-level Interpretability with White-box Language Models
+Test-Time Backdoor Attacks on Multimodal Large Language Models
+Generalization Bounds and Model Complexity for Kolmogorov–Arnold Networks
+Towards Better Understanding of In-Context Learning Ability from In-Context Uncertainty Quantification
+FAVEN: Fast Audio-Visual Embodied Navigation in 3D Environments
+ProtComposer: Compositional Protein Structure Generation with 3D Ellipsoids
+Finding Second-order Stationary Points for Generalized-Smooth Nonconvex Minimax Optimization via Gradient-based Algorithm
+Certifiably Robust RAG against Retrieval Corruption Attacks
+Backdooring Vision-Language Models with Out-Of-Distribution Data
+Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark
+Towards Homogeneous Lexical Tone Decoding from Heterogeneous Intracranial Recordings
+Model aggregation: minimizing empirical variance outperforms minimizing empirical error
+Towards Continuous Reuse of Graph Models via Holistic Memory Diversification
+Multi-modal brain encoding models for multi-modal stimuli
+Forecasting Whole-Brain Neural Activity from Volumetric Video
+Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning
+Factor Graph Optimization of Error-Correcting Codes for Belief Propagation Decoding
+Contextual Document Embeddings
+Do LLMs have Consistent Values?
+Efficient Adaptive Federated Optimization
+ZAPBench: A Benchmark for Whole-Brain Activity Prediction in Zebrafish
+Lumina-T2X: Scalable Flow-based Large Diffusion Transformer for Flexible Resolution Generation
+Q-Adapt: Adapting LMM for  Visual Quality Perceiver with Progressive Instruction Tuning
+SGDF: A Method for Reducing Variance in Stochastic Gradient Descent via Filter Estimation
+Emergence of Alignment and Local Elasticity in Two-Layer Neural Networks
+Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion
+AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning
+Don't Cut Corners: Exact Conditions for Modularity in Biologically Inspired Representations
+Zero-shot Quantization for Object Detection
+Measuring memorization in RLHF for code completion
+Large Language Models have Intrinsic Self-Correction Ability
+RePrompt: Prompt Engineering for Large Language Models Agents through Reflection
+Towards Certification of Uncertainty Calibration under Adversarial Attacks
+AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs
+A Policy-Gradient Approach to Solving Imperfect-Information Games with Best-Iterate Convergence
+Improved Techniques for Optimization-Based Jailbreaking on Large Language Models
+More RLHF, More Trust? On The Impact of Preference Alignment On Trustworthiness
+Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models
+WMAdapter: Adding WaterMark Control to Latent Diffusion Models
+A Periodic Bayesian Flow for Material Generation
+LossAgent: Towards Any Optimization Objectives for Image Processing with LLM Agents
+Why Solving Multi-agent Path Finding with Large Language Models has not Succeeded Yet

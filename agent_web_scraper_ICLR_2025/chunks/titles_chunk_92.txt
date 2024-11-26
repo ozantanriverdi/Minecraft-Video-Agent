@@ -1,0 +1,50 @@
+Is Large-scale Pretraining the Secret to Good Domain Generalization?
+Grokking at the Edge of Numerical Stability
+Learning from Imperfect  Human Feedback: A Tale from Corruption-Robust Dueling
+Multi-Robot Motion Planning with Diffusion Models
+Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
+DeepFDM: A scientific computing method for Neural Partial Differential Equation (PDE) operators
+TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes
+Enhancing Group Fairness in Federated Learning through Personalization
+Spectral Spatial Traversing in Point Clouds: Enhancing Data Analysis with Mamba Networks
+Unified Perspectives on Signal-to-Noise Diffusion Models
+Evaluating Graphical Perception of Large Multimodal Models
+Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better
+Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
+Social Learning: Towards Collaborative Learning with Large Language Models
+Scalable Bayesian Learning with posteriors
+On the Convergence of No-Regret Dynamics in Information Retrieval Games with Proportional Ranking Functions
+G2Sphere: Learning High-Frequnecy Spherical Signals From Geometric Data
+Generative Location Modeling for Spatially Aware Object Insertion
+MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos
+PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization
+CAN DEEPFAKE SPEECH BE RELIABLY DETECTED?
+iMotion-LLM: Motion Prediction Instruction Tuning
+Permutation Invariant Learning with High-Dimensional Particle Filters
+Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling
+MetaOOD: Automatic Selection of OOD Detection Models
+MGDA Converges under Generalized Smoothness, Provably
+Thermodynamic Natural Gradient Descent
+Audio Prototypical Network for Controllable Music Recommendation
+Label Privacy in Split Learning for Large Models with Parameter-Efficient Training
+RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph
+ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models
+On the Price of Differential Privacy for Hierarchical Clustering
+Generalization Aware Minimization
+A Framework for Finding Local Saddle Points in Two-Player Zero-Sum Black-Box Games
+A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders
+Unlocking Guidance for Discrete State-Space Diffusion and Flow Models
+Conditioning on Time is All You Need for Synthetic Survival Data Generation
+A Dual-Metric Approach for Model Selection in self-supervised learning for histopathology
+LoGra-Med: Long-Context Multi-Graph Alignment for Medical Visual-Language Models
+NeurFlow: Interpreting Neural Networks through Critical Neuron Groups and Functional Interactions
+Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality
+X-VILA: Cross-Modality Alignment for Large Language Models
+Uncertainty Aware Column Generation for Crew Pairing Optimization Using Survival Analysis
+Unmasking the Version-Switching Capabilities of Code Generation Models
+Harnessing Input-adaptive Inference for Efficient Vision-and-Language Navigation
+Greedy Learning to Optimize with Convergence Guarantees
+Adaptive Threshold Sampling for Fast Noisy Submodular Maximization
+MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine
+Convergence-Aware Multi-Fidelity Bayesian Optimization

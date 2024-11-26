@@ -1,0 +1,50 @@
+DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos
+Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models
+Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation
+Boosting Transferability and Discriminability for Time Series Domain Adaptation
+A Simple Image Segmentation Framework via In-Context Examples
+Enhancing LLM’s Cognition via Structurization
+Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling
+Rethinking Out-of-Distribution Detection on Imbalanced Data Distribution
+Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
+Source Code Foundation Models are Transferable Binary Analysis Knowledge Bases
+AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations
+Can Large Language Model Agents Simulate Human Trust Behavior?
+Fine-Grained Dynamic Framework for Bias-Variance Joint Optimization on Data Missing Not at Random
+Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation
+Should We Really Edit Language Models? On the Evaluation of Edited Language Models
+A Layer-Wise Natural Gradient Optimizer for Training Deep Neural Networks
+PLIP: Language-Image Pre-training for Person Representation Learning
+One-Step Effective Diffusion Network for Real-World  Image Super-Resolution
+AdaNovo: Towards Robust \emph{De Novo} Peptide Sequencing in Proteomics against Data Biases
+Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs
+SAM-Guided Masked Token Prediction for 3D Scene Understanding
+IR-CM: The Fast and Universal Image Restoration Method Based on Consistency Model
+RAMP: Boosting Adversarial Robustness Against Multiple  l p  Perturbations for Universal Robustness
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms
+Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models and Time-Dependent Layer Normalization
+ProtGO: Function-Guided Protein Modeling for Unified Representation Learning
+Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure
+DiGRAF: Diffeomorphic Graph-Adaptive Activation Function
+Information-theoretic Limits of Online Classification with Noisy Labels
+The Power of Extrapolation in Federated Learning
+First-Order Minimax Bilevel Optimization
+A Functional Extension of Semi-Structured Networks
+Gradient-based Discrete Sampling with Automatic Cyclical Scheduling
+Soft Superpixel Neighborhood Attention
+Prior-itizing Privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy
+Coherence-free Entrywise Estimation of Eigenvectors in Low-rank Signal-plus-noise Matrix Models
+Video Token Merging for Long Video Understanding
+DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features
+Navigating Chemical Space with Latent Flows
+Offline Behavior Distillation
+MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence
+Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models
+e-COP : Episodic Constrained Optimization of Policies
+Perplexity-aware Correction for Robust Alignment with Noisy Preferences
+FlexCap: Describe Anything in Images in Controllable Detail
+SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization
+Attack-Resilient Image Watermarking Using Stable Diffusion
+Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion
+Score Distillation via Reparametrized DDIM
+Towards Combating Frequency Simplicity-biased Learning for Domain Generalization

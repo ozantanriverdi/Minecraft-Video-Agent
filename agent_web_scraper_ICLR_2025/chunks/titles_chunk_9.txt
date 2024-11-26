@@ -1,0 +1,50 @@
+Neural Multi-Objective Combinatorial Optimization via Graph-Image Multimodal Fusion
+MicroCrackAttentionNeXt: Advancing Microcrack Detection in Wave Field Analysis Using Deep Neural Networks through Feature Visualization.
+FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation
+MDBench: A Synthetic Multi-Document Reasoning Benchmark Generated with Knowledge Guidance
+ConML: A Universal Meta-Learning Framework with Task-Level Contrastive Learning
+Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs
+Privately Learning from Graphs with Applications in Fine-tuning Large Pretrained Models
+Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass
+In-Context Learning of Representations
+Ensembling Diffusion Models via Adaptive Feature Aggregation
+Temporal Causal Discovery and Generative Prediction of Vehicular CO 2  emission
+A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models
+Towards Fine-tuning-free Few-shot Classification: A Purely Self-supervised Manner
+Solving New Tasks by Adapting Internet Video Knowledge
+Extracting Symbolic Sequences from Visual Representations via Self-Supervised Learning
+scMPT: towards applying large language models to complement single-cell foundation models
+ID-Booth: Identity-consistent image generation with diffusion models
+A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches
+EchoQA: Tuning into the Heart of Echocardiogram Reports
+Space-time self-attention for graph signal processing
+Inpainting the Sinogram from Computed Tomography using Latent Diffusion Model and Physics
+Self-Supervised Learning of Intertwined Content and Positional Features for Object Detection
+Counterfactual Delayed Feedback Learning
+Model merging with SVD to tie the Knots
+PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph
+Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness
+Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation
+Model Entanglement for solving Privacy Preserving in Federated Learning
+Similarity-Driven Regularization for Aligning Chemical and Latent Spaces in Molecular Design
+Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller
+SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
+AISciVision: A Framework for Specializing Large Multimodal Models in Scientific Image Classification
+Deep Learning for Micro-Scale Crack Detection on Imbalanced Datasets Using Key Point Localization
+Detecting and Perturbing Privacy-Sensitive Neurons to Defend Embedding Inversion Attacks
+BrainACTIV: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation
+RNA FrameFlow: Flow Matching for de novo 3D RNA Backbone Generation
+UnCLe: An Unlearning Framework for Continual Learning
+SMiR: A Synthetic Data Pipeline To Improve Multi-Image Reasoning
+SRPCA: Sparse Reverse of Principal Component Analysis for Fast Low-Rank Matrix Completion
+Making Text Embedders Few-Shot Learners
+DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models
+Direct Multi-agent Motion Generation Preference Alignment with Implicit Feedback from Demonstrations
+OptBatch: Optimizing Instruction Tuning with Data Selection through Batch Stratified Sampling
+Multlingual Abstractive Event Extraction for the Real World
+Risk Quadrangle and Robust Optimization Based on  φ -Divergence
+Projected Neural Differential Equations for Learning Constrained Dynamics
+FLARE: Fine-tuned Long-context Acceleration with ReLU-enhanced FIRE
+Diverse Preference Learning for Capabilities and Alignment
+LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval
+Beyond Layers: A Global Message-Passing Mechanism for Heterophilic Graphs

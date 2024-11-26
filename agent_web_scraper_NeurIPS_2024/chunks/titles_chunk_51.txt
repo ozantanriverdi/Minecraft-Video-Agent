@@ -1,0 +1,50 @@
+Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees
+SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization
+Enriching Disentanglement: From Logical Definitions to Quantitative Metrics
+Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization
+FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?
+Generative Adversarial Model-Based Optimization via Source Critic Regularization
+Generative Forests
+FedGMark: Certifiably Robust Watermarking for Federated Graph Learning
+Towards Unsupervised Model Selection for Domain Adaptive Object Detection
+Bandits with Preference Feedback: A Stackelberg Game Perspective
+Random Cycle Coding: Lossless Compression of Cluster Assignments via Bits-Back Coding
+Binary Search with Distributional Predictions
+Jointly Modeling Inter- & Intra-Modality Dependencies for Multi-modal Learning
+Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
+On Differentially Private Subspace Estimation in a Distribution-Free Setting
+Pseudo-Private Data Guided Model Inversion Attacks
+Foundation Inference Models for Markov Jump Processes
+Deep Graph Neural Networks via Posteriori-Sampling-based Node-Adaptative Residual Module
+Fair Online Bilateral Trade
+Addressing Spectral Bias of Deep Neural Networks by Multi-Grade Deep Learning
+Mobility-LLM: Learning Visiting Intentions and Travel Preference from Human Mobility Data with Large Language Models
+A Concept-Based Explainability Framework for Large Multimodal Models
+Certified Machine Unlearning via Noisy Stochastic Gradient Descent
+Structured Learning of Compositional Sequential Interventions
+CriticEval: Evaluating Large-scale Language Model as Critic
+Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination
+Fair Wasserstein Coresets
+ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation
+SelfCodeAlign: Self-Alignment for Code Generation
+DDK: Distilling Domain Knowledge for Efficient Large Language Models
+An Improved Empirical Fisher Approximation for Natural Gradient Descent
+How Molecules Impact Cells: Unlocking Contrastive PhenoMolecular Retrieval
+Spiking Neural Network as Adaptive Event Stream Slicer
+Uncovering Safety Risks of Large Language Models through Concept Activation Vector
+Sequential Harmful Shift Detection Without Labels
+Federated Transformer: Multi-Party Vertical Federated Learning on Practical Fuzzily Linked Data
+PageRank Bandits for Link Prediction
+Real-time Core-Periphery Guided ViT with Smart Data Layout Selection on Mobile Devices
+One Sample Fits All: Approximating All Probabilistic Values Simultaneously and Efficiently
+Multivariate Probabilistic Time Series Forecasting with Correlated Errors
+Cascade of phase transitions in the training of energy-based models
+Invariant subspaces and PCA in nearly matrix multiplication time
+TopoLogic: An Interpretable  Pipeline for Lane Topology Reasoning on Driving Scenes
+Connectivity Shapes Implicit Regularization in Matrix Factorization Models for Matrix Completion
+HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction
+MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks
+Learning Cortico-Muscular Dependence through Orthonormal Decomposition of Density Ratios
+Auditing Local Explanations is Hard
+Learning-Augmented Dynamic Submodular Maximization
+Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts

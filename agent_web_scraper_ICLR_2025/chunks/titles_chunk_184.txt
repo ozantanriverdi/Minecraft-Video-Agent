@@ -1,0 +1,50 @@
+High-Quality Joint Image and Video Compression with Causal VAE
+Evaluating and Explaining the Severity of Distribution Shifts: Illustration with Tabular Text Classification
+Your Mixture-of-Experts LLM Is Secretly an Embedding Model for Free
+Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity
+Variational Mode Decomposition and Linear Embeddings are What You Need For Time-Series Forecasting
+Proximal Mapping Loss: Understanding Loss Functions in Crowd Counting & Localization
+Bandit Learning in Matching Markets with Indifference
+Supervised Disentanglement Under Hidden Correlations
+Alignment Between the Decision-Making Logic of LLMs and Human Cognition: A Case Study on Legal LLMs
+Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering
+Revisiting Prompt-based Methods in Class Incremental Learning
+Learning Loss Landscapes in Preference Optimization
+REEF: Representation Encoding Fingerprints for Large Language Models
+DETER: Detecting Edited Regions for Deterring Generative Manipulations
+Discovery and Expansion of New Domains within Diffusion Models
+X-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos
+DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone
+ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning
+VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data
+UniGEM: A Unified Approach to Generation and Property Prediction for Molecules
+LoRA-Pro: Are Low-Rank Adapters Properly Optimized?
+SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback
+Self-Supervised Diffusion Processes for Electron-Aware Molecular Representation Learning
+FBSVP: Video Prediction Based on Foreground-Background Separation
+Recurrent Context Compression: Efficiently Expanding the Context Window of LLM
+CopyLens: Dynamically Flagging Copyrighted Sub-Dataset Contributions to LLM Outputs
+Pg-GAT: A Complete Graph Model for Cancer Detection and Subtyping in Whole Slide Images Analysis
+HShare: Fast LLM Decoding by Hierarchical Key-Value Sharing
+Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?
+Generalizability of Neural Networks Minimizing Empirical Risk Based on Expressive Power
+Information-theoretically Safe Bias Classifier Against Adversarial Attacks
+InterIDEAS: An LLM and Expert-Enhanced Dataset for Philosophical Intertextuality
+Limits of Deep Learning: Sequence Modeling through the Lens of Complexity Theory
+Joint or Disjoint: Mixing Training Regimes for Early-Exit Models
+ExpertZIP: A Progressive Fusion Framework for Mixture-of-Experts Model Optimization through Huffman Tree Structures
+AC-PKAN: Attention-Enhanced and Chebyshev Polynomial-Based Physics-Informed Kolmogorov–Arnold Networks
+Deep Denoising Prior: You Only Need a Deep Gaussian Denoiser
+One-shot World Models Using a Transformer Trained on a Synthetic Prior
+Type-II Saddles and Probabilistic Stability of Stochastic Gradient Descent
+It Helps to Take a Second Opinion: Teaching Smaller LLMs To Deliberate Mutually via Selective Rationale Optimisation
+Denoising Levy Probabilistic Models
+Model Editing for CLIP with Unknown Spurious Correlations in Visual Encoder
+PrML: Progressive Multi-Task Learning for Monocular 3D Human Pose Estimation
+Understanding Model Ensemble in Transferable Adversarial Attack
+Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis
+Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
+Advancing Few-shot Continual Learning via Selective Knowledge Transfer
+Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation
+One Model for All: Multi-Objective Controllable Language Models
+MPHIL: Multi-Prototype Hyperspherical Invariant Learning for Graph Out-of-Distribution Generalization

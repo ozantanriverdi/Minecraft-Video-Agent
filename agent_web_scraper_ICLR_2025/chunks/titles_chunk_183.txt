@@ -1,0 +1,50 @@
+Formation of Representations in Neural Networks
+Benchmarking Visual Cognition of Multimodal LLMs via Matrix Reasoning
+Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines
+Content-style disentangled representation for controllable artistic image stylization and generation
+ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Language
+A Watermark for Low-entropy and Unbiased Generation in Large Language Models
+CycleVTON: Improving Diffusion-Based Virtual Try-On with Cycle-Consistent Training
+Unlearning Virus Knowledge Toward Safe and Responsible Mutation Effect Predictions
+ToolACE: Enhancing Function Calling with Accuracy, Complexity, and Diversity
+StretchySnake: Flexible VideoMamba for Short and Long-Form Action Recognition
+The Quest for Winning Tickets in Low-Rank Adapters
+ADIFF: Explaining audio difference using natural language
+Improving Data Efficiency via Curating LLM-Driven Rating Systems
+Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision
+VL-ICL Bench: The Devil in the Details of Multimodal In-Context Learning
+ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference
+Camera Pose Estimation Emerging In Video Diffusion Transformer
+U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models
+Encoder-only Next Token Prediction
+Controlled LLM Decoding via Discrete Auto-regressive Biasing
+Language Models are Graph Learners
+Efficient Dictionary Learning with Switch Sparse Autoencoders
+Scaling Wearable Foundation Models
+Zero-Shot Learning of Causal Models
+Hierarchical Information Flow for Generalized Efficient Image Restoration
+Tabby: Tabular Adaptation for Language Models
+Guiding Skill Discovery with Foundation Models
+Almost Sure Reasoning: Generating Verified Formalizations with Language Models and Logical Solvers
+Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds
+Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment
+An Expressive Quantum-Driven Graph Learning Approach with Application to Mixed-integer Linear Programming
+Personalized Visual Instruction Tuning
+Exploring Model Kinship for Merging Large Language Models
+WIN: Variable-View Implicit LIDAR Upsampling Network
+Neural Approximate Mirror Maps for Constrained Diffusion Models
+Chain-of-region: Visual Language Models Need  Details for Diagram Analysis
+SEAT: Sparsified Enhancements for Attention Mechanisms in Time Series Transformers
+Are Probabilistic Robust Accuracy Bounded
+pMoE: Prompting Diverse Experts Together Wins More in Visual Adaptation
+TIM: Interpretable Modelling of Complex Temporal Interactions in Multivariate Networks
+Discrimination-free Insurance Pricing with Privatized Sensitive Attributes
+Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement
+MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection
+MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone’s Potential with Masked Autoregressive Pretraining
+TSC-Net: Predict Pedestrian Trajectory by Trajectory-Scene-Cell Classification
+Graffe: Graph Representation Learning Enabled via Diffusion Probabilistic Models
+Vertical Federated Learning with Missing Features During Training and Inference
+Hybrid Spatial Representations for Species Distribution Modeling
+Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models
+NEXTLOCLLM: NEXT LOCATION PREDICTION USING LLMS

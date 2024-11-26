@@ -1,0 +1,50 @@
+GEAR-FEN: Generalized Feature Representation for Kinematic Human Activity Recognition
+Memory-Efficient Fine-Tuning via Structured Neural Network Pruning
+Adaptive Batch Size for Privately Finding Second-Order Stationary Points
+Language Models Are Implicitly Continuous
+Make LLMs better zero-shot reasoners: structure-oriented autonomous reasoning
+Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape View
+Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models
+ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning
+RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration
+IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction
+Transformers Learn Variable-order Markov Chains in-Context
+Information Bottleneck for Active Feature Acquisition
+Universal Multimodal Retrieval with Multimodal LLMs
+Spark Transformer: How Many FLOPs is a Token Worth?
+On more accurate alignment modeling methods for automatic speech recognition
+In Praise of Stubbornness: The Case for Cognitive-Dissonance Aware Continual Update of Knowledge in LLMs
+RNNs are not Transformers (Yet):  The Key Bottleneck on In-Context Retrieval
+DC-Spin: A Speaker-invariant Speech Tokenizer For Spoken Language Models
+Efficiently Identifying Watermarked Segments in Mixed-Source Texts
+Foundation Vision Models are Unsupervised Image Canonicalizers
+Diffusing States and Matching Scores: A New Framework for Imitation Learning
+Linear Representations of Political Perspective Emerge in Large Language Models
+Understanding the Interplay between Parametric and Contextual Knowledge for Large Language Models
+Towards continuous machine learning on periodic crystals by ultra-fast invariants
+Resolving Domain Shift For Representations Of Speech In Non-Invasive Brain Recordings
+Small features matter: Robust representation for world models
+Rational Metareasoning for Large Language Models
+Context-aware Dynamic Pruning for Speech Foundation Models
+Consistency-based Black-box Uncertainty Quantification for Text-to-SQL by Similarity Aggregation
+From Pixels to Prose: A Large Dataset of Dense Image Captions
+Infinite-Resolution Integral Noise Warping for Diffusion Models
+Data-Centric Graph Condensation via Diffusion Trajectory Matching
+Smooth Real-time Rendering via Implicit Nested Neighborhoods
+Merging Feed-Forward Sublayers for Compressed Transformers
+PLHF: Prompt Learning from Few-shot Human Feedback
+Flow Matching for Accelerated Simulation of Atomic Transport in Materials
+Coarsening to Conceal: Enabling Privacy-Preserving Federated Learning for Graph Data
+Asymmetric Embedding Models for Hierarchical Retrieval: Provable Constructions and a Pretrain-Finetune Recipe
+Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI
+GRABLI: Cross-Modal Knowledge Graph Alignment for Biomedical Language Models
+Multimodal Attributed Graphs: Benchmarking and Rethinking
+Joint Denoising of Cryo-EM Projection Images using Polar Transformers
+Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs
+Common 7B Language Models Already Possess Strong Math Capabilities
+Injective flows for star-like manifolds
+Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality
+Exact risk curves of signSGD in High-Dimensions: quantifying preconditioning and noise-compression effects
+Mixture of In-Context Prompters for Tabular PFNs
+ToRL: Topology-preserving Representation Learning Of Object Deformations From Images
+Are Large Language Models Truly Democratizing Financial Knowledge? Identifying Knowledge Gaps

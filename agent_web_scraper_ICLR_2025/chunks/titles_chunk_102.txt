@@ -1,0 +1,50 @@
+SONNET: Solar-disaggregation-based Day-ahead Probabilistic Net Load Forecasting with Transformers
+Auditing Predictive Models for Intersectional Biases
+W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models
+TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting
+Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance
+U3D: Unlocking the Video Prior for High Fidelity Sparse Novel View Synthesis and 3D Generation
+Learnability of Discrete Dynamical Systems under High Classification Noise
+Navigating the Labyrinth: Evaluating and Enhancing LLMs’ Ability to Reason About Search Problems
+Neighbor-aware Geodesic Transportation for Neighborhood Refinery
+Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation
+Improving Discrete Optimisation Via Decoupled Straight-Through Gumbel-Softmax
+Sanitizing LLMs: Retrospective Learning for Self-Correction of Inconsistent Samples via User Preferences
+Neural Functions for Learning Periodic Signal
+Language Guided Skill Discovery
+Controlling Language and Diffusion Models by Transporting Activations
+Memory retaining finetuning via distillation
+Too Big to Fool: Resisting Deception in Language Models
+Towards Better Benchmark Datasets for Inductive Knowledge Graph Completion
+A Differentiable Rank-Based Objective for Better Feature Learning
+SALMONN-omni: A Speech Understanding and Generation LLM in a Codec-free Full-duplex Framework
+Exploration by Running Away from the Past
+LOL-EVE: Predicting Promoter Variant  Effects from Evolutionary Sequences
+Takin-VC: Zero-shot Voice Conversion via Jointly Hybrid Content and Memory-Augmented Context-Aware Timbre Modeling
+Robust Deep Equivariant Structure from Motion
+TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation
+Filtered not Mixed: Filtering-Based Online Gating for Mixture of Large Language Models
+Sources of Gain: Decomposing Performance in Conditional Average Dose Response Estimation
+LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging
+Branches: A Fast Dynamic Programming and Branch & Bound Algorithm for Optimal Decision Trees
+RankMatch: A Novel Approach to Semi-Supervised Label Distribution Learning Leveraging Inter-label Correlations
+Training-Free Message Passing for Learning on Hypergraphs
+Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions
+POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation
+Enhancing PPB Affinity Prediction through Data Integration and Feature Alignment: Approaching Structural Model Performance with Sequences
+Understanding, Abstracting and Checking: Evoking Complicated Multimodal Reasoning in LMMs
+Accelerate Vertical Federated Adversarial Learning with  Dual-level Decoupled  Backpropagation
+Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data
+MCUCoder: Adaptive Bitrate Learned Video Compression for IoT Devices
+Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations
+SEAL: SEmantic-Augmented Imitation Learning via Language Model
+Automated Discovery of Pairwise Interactions from Unstructured Data
+Efficient and Accurate Explanation Estimation with Distribution Compression
+Distributional reasoning in LLMs: Parallel Reasoning Processes in Multi-hop Reasoning
+GRAM: Generalization in Deep RL with a Robust Adaptation Module
+Synthetic Datasets for Machine Learning on Spatio-Temporal Graphs using PDEs
+Weak to Strong Generalization for Large Language Models with Multi-capabilities
+Masked, Regularized Fidelity With Diffusion Models For Highly Ill-posed Inverse Problems
+Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment
+DSPO: Direct Score Preference Optimization for Diffusion Model Alignment
+GenNet: A Generative AI-Driven Mobile Network Simulator for Multi-Objective Network Optimization

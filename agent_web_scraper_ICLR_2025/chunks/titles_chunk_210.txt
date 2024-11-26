@@ -1,0 +1,50 @@
+Orator: LLM-Guided Multi-Shot Speech Video Generation
+TFCounter: Polishing Gems for Training-Free Object Counting
+Fine-Grained Verifiers: Preference Modeling as Next-token  in Vision-Language Alignment
+Unlearning-based Neural Interpretations
+On the Convergence of Symbolic Pattern Forests and Silhouette Coefficients for Robust Time Series Clustering
+Minimal Impact ControlNet: Advancing Multi-ControlNet Integration
+Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution
+TASAR: Transfer-based Attack on Skeletal Action Recognition
+Toward Practical Learning-based Frequency Estimation without Ground Truth
+Autoverse: an Evolvable Game Language for Learning Robust Embodied Agents
+Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions: Benchmarking Large Language Models
+HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts
+Exact Recovery Guarantees for Parameterized Nonlinear System Identification Problem under Adversarial Attacks
+Differentially Private Bilevel Optimization
+Event Camera Object Detection at Arbitrary Frequencies
+Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison
+Compute Or Load KV Cache? Why Not Both?
+ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models
+I Can Hear You: Selective Robust Training for Deepfake Audio Detection
+Learning from Contrastive Prompts: Automated Optimization and Adaptation
+ReferEverything: Towards segmenting everything we can speak of in videos
+Distilled Diffusion Language Models
+studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting
+Learning Conditionally Independent Marginals Enables Logical Compositions in Conditional Diffusion Models
+SPIN: Self-Supervised Prompt INjection
+HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation
+Understanding Adversarially Robust Generalization via Weight-Curvature Index
+What do we learn from inverting CLIP models?
+Talking Vehicles: Cooperative Driving via Natural Language
+Data-Augmented Phrase-Level Alignment for Mitigating Object Hallucination
+DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM
+ImageNet-RIB Benchmark: Large Pre-Training Datasets Don't Guarantee Robustness after Fine-Tuning
+Breaking Neural Network Scaling Laws with Modularity
+Unified Neural Network Scaling Laws and Scale-time Equivalence
+Automated Design of Agentic Systems
+Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud
+Training Language Models on Synthetic Edit Sequences Improves Code Synthesis
+Trust but Verify: Programmatic VLM Evaluation in the Wild
+Provable In-context Learning for Mixture of Linear Regressions using Transformers
+Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG
+Sparse identification of nonlinear dynamics with Shallow Recurrent Decoder Networks
+Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices
+DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes
+Auxiliary Classifiers Improve Stability and Efficiency in Continual Learning
+Learning under Temporal Label Noise
+Regretful Decisions under Label Noise
+LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion
+Unifying Specialized Visual Encoders for Video Language Models
+Dancing with Discrepancies: Commonality Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation
+Truth or Deceit? A Bayesian Decoding Game Enhances Consistency and Reliability

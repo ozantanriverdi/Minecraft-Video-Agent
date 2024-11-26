@@ -1,0 +1,50 @@
+DualContrast: Unsupervised Disentangling of Content and Transformations with Implicit Parameterization
+WASH: Train your Ensemble with Communication-Efficient Weight Shuffling, then Average
+FRAPPE: Fast RAG-Inspired Prompt Evaporator
+The Challenging Growth: Evaluating the Scalability of Causal Models
+HOGT: High-Order Graph Transformers
+Can Data be Myopic? Outlier Detection in High-Dimensional Tabular Data via Subspaces
+SLoPe: Double-Pruned Sparse Plus Lazy Low-Rank Adapter Pretraining of LLMs
+DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?
+Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder
+KnowData: Knowledge-Enabled Data Generation for Improving Multimodal Models
+What Are Good Positional Encodings for Directed Graphs?
+ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks
+GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents
+Out of Many, One: Designing and Scaffolding Proteins at the Scale of the Structural Universe with Genie 2
+Understanding When and Why Graph Attention Mechanisms Work via Node Classification
+Beyond the Lazy versus Rich Dichotomy: Geometry Insights in Feature Learning from Task-Relevant Manifold Untangling
+Integrating State Space Model and Transformer for Global-Local Processing in Super-Resolution Networks
+Mycroft: Towards Effective and Efficient External Data Augmentation
+Learning grid cells by predictive coding
+How does Your RL Agent Explore? An Optimal Transport Analysis of Occupancy Measure Trajectories
+Retrieval-based Zero-shot Crowd Counting
+Can Large Language Models Effectively Modify Graphs?
+ESQA: Event Sequences Question Answering
+LLM4Solver: Large Language Model for Efficient Algorithm Design of Combinatorial Optimization Solver
+Link Prediction on Text Attributed Graphs: A New Benchmark and Efficient LM-nested GNN Design
+Augmented Conditioning is Enough for Effective Training Image Generation
+HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models
+Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness
+Effective and Efficient Time-Varying Counterfactual Prediction with State-Space Models
+Number Cookbook: Number Understanding of Language Models and How to Improve It
+Spectral-Refiner: Accurate Fine-Tuning of Spatiotemporal Fourier Neural Operator for Turbulent Flows
+Fully Quanvolutional Networks for Time Series Classification
+PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration
+TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations
+Learning a Compact, Parcel-independent Representation of the fMRI Functional Connectivity
+Latent Diffusion with LLMs for Reasoning
+Hi-Gaussian: Hierarchical Gaussians under Normalized Spherical Projection for Single-View 3D Reconstruction
+NN-ResDMD: Learning Koopman Representations for Complex Dynamics with Spectral Residuals
+Adaptive backtracking for fast optimization
+On Memorization of Large Language Models in Logical Reasoning
+Scalable Approximate Message Passing for Bayesian Neural Networks
+Breach By A Thousand Leaks: Unsafe Information Leakage in 'Safe' AI Responses
+Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models
+Efficient Training Framework for Realistic Sensory-Motor Integration in a Biologically Constrained Barrel Cortex Model
+Late Chunking: Contextual Chunk Embeddings Using Long-Context Embedding Models
+Concealing Backdoors in Federated Learning by Trigger-Optimized Data Poisoning
+The Complexity of Two-Team Polymatrix Games with Independent Adversaries
+ATM: Improving Model Merging by Alternating Tuning and Merging
+RotPruner: Large Language Model Pruning in Rotated Space
+Mitigating Embedding Collapse in Diffusion Models for Categorical Data

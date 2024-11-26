@@ -1,0 +1,50 @@
+GAQAT: Gradient-Adaptive Quantization-Aware Training for Domain Generalization
+Enhancing Logits Distillation with Plug&Play Kendall's  τ  Ranking Loss
+Scaling Instruction-tuned LLMs to Million-token Contexts via Hierarchical Synthetic Data Generation
+Astral: training physics-informed neural networks with error majorants
+A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments
+Label Informativeness-based Minority Oversampling in Graphs (LIMO)
+Continual Memorization of Factoids in Large Language Models
+Weighted Point Cloud Embedding for Multimodal Contrastive Learning Toward Optimal Similarity Metric
+EqNIO: Subequivariant Neural Inertial Odometry
+MANTRA: The Manifold Triangulations Assemblage
+ALIA: An LLM for Industrial Assets using Synthetic Data
+Constrained Graph Clustering with Signed Laplacians
+Aligning Visual Contrastive learning models via Preference Optimization
+Representations in a deep end-to-end driving model predict human brain activity in an active driving task
+ADMP-GNN: Adaptive Depth Message Passing GNN
+Plots unlock time-series understanding in multimodal models
+WebCanvas: Benchmarking Web Agents in Online Environments
+Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration
+Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs
+Positional Encoder Graph Quantile Neural Networks for Geographic Data
+Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?
+Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages
+BMLM: Bidirectional Large Language Model for  Multi-Task Spoken Language Understanding: Better and Faster
+VisDiff: SDF-Guided Polygon Generation for Visibility Reconstruction and Recognition
+Brain-inspired -Convolution benefits large kernels and aligns better with visual cortex
+MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation
+A Unified Approach Towards Active Learning and Out-of-Distribution Detection
+Deconstructing What Makes a Good Optimizer for Autoregressive Language Models
+A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs
+dEBORA: Efficient Bilevel Optimization-based low-Rank Adaptation
+Interaction Asymmetry: A General Principle for Learning Composable Abstractions
+FrameBridge: Improving Image-to-Video Generation with Bridge Models
+Set-Size Dependent Combinatorial Bandits
+Retri3D: 3D Neural Graphics Representation Retrieval
+Decoupling Angles and Strength in Low-rank Adaptation
+Prediction of Protein-protein Contacts with Structure-aware Single-sequence Protein Language Models
+Learning the Partially Dynamic Travelling Salesman Problem
+Counterfactual fairness prediction:  Consistent estimation with generative models and theoretical guarantees
+Towards Distributed Backdoor Attacks with Network Detection in Decentralized Federated Learning
+Small Molecule Optimization with Large Language Models
+LORA-MaOO: Learning Ordinal Relations and Angles for Expensive Many-Objective Optimization
+Active Evaluation Acquisition for Efficient LLM Benchmarking
+Mouse Lockbox Dataset: Behavior Recognition of Mice Solving Mechanical Puzzles
+AcademicEval: Live Long-Context LLM Benchmark
+Exploring Selective Layer Freezing Strategies in Transformer Fine-Tuning: NLI Classifiers with Sub-3B Parameter Models
+Epi-attention : Adaptive Context-Aware Attention for Dynamic Feature Relevance in Neural Networks
+AutoG: Towards automatic graph construction from tabular data
+TangentBind: Unlocking the Potential of Emergent Alignment in Multimodal Model
+Differentiable Implicit Solver on Graph Neural Networks for Forward and Inverse Problems
+How Learnable Grids Recover Fine Detail in Low Dimesions: A Neural Tangent Kernel Analysis of Multigrid Parameteric Encodings

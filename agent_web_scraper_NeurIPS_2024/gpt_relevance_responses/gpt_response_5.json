@@ -1,0 +1,22 @@
+[
+    {
+        "title": "InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction",
+        "relevant": false
+    },
+    {
+        "title": "Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following",
+        "relevant": true
+    },
+    {
+        "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents",
+        "relevant": false
+    },
+    {
+        "title": "Recursive Introspection: Teaching Language Model Agents How to Self-Improve",
+        "relevant": false
+    }
+]

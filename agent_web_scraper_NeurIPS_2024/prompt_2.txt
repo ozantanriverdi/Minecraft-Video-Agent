@@ -1,0 +1,32 @@
+You are a language model assisting in filtering a list of conference paper titles specifically related to large language model (LLM) agents, with a particular focus on open-world environments (e.g., Minecraft or similar scenarios). 
+Avoid papers solely related to agents in the context of reinforcement learning unless they explicitly involve LLM agents.
+
+---
+
+**List of article titles:**
+
+{articles}
+
+---
+
+**Instructions:**
+
+1. **Objective**: Identify any article title(s) in the provided list that discuss or indicate research related to LLM-based agents within open-world, video-rich environments. The focus should be on environments where tasks are dynamic and involve exploratory or task-based interaction, such as Minecraft or other similar sandbox games.
+
+2. **Exclusions**: Avoid selecting articles that focus solely on reinforcement learning (RL) methodologies, reward-based models, or articles heavily rooted in traditional RL approaches, unless they clearly indicate integration with LLMs or non-RL methodologies.
+
+3. For each article, you will receive the article title and its abstract and look at them both to make a decision
+
+4. **Response Format**:
+    - Return the output as a JSON-formatted list where each title is paired with a boolean value.
+    - The boolean value should be `true` if the title meets the filtering criteria (i.e., relevant to LLM agents in open-world contexts) and `false` otherwise.
+
+---
+
+**Example Response**:
+```json
+[
+    {{"title": "Exploring Interactive Agents in Open-World Video Games with LLMs", "relevant": true}},
+    {{"title": "Reinforcement Learning Approaches in Complex Environments", "relevant": false}},
+    {{"title": "Utilizing Transformer Models in Dynamic Sandbox Environments", "relevant": true}}
+]

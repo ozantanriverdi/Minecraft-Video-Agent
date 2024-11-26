@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks",
+        "relevant": true
+    },
+    {
+        "title": "RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation",
+        "relevant": false
+    },
+    {
+        "title": "AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning",
+        "relevant": false
+    },
+    {
+        "title": "Information Re-Organization Improves Reasoning in Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "UMB: Understanding Model Behavior for Open-World Object Detection",
+        "relevant": false
+    }
+]

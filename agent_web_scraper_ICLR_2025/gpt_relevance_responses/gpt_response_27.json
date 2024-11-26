@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Odyssey: Empowering Minecraft Agents with Open-World Skills",
+        "relevant": true
+    },
+    {
+        "title": "Learning Video-Conditioned Policy on Unlabelled Data with Joint Embedding Predictive Transformer",
+        "relevant": false
+    },
+    {
+        "title": "Embodied Instruction Following in Unknown Environments",
+        "relevant": false
+    },
+    {
+        "title": "Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions",
+        "relevant": false
+    }
+]

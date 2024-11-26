@@ -1,0 +1,50 @@
+Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents
+Optimizing  ( L 0 , L 1 ) -Smooth Functions by Gradient Methods
+Larger Language Models Provably Generalize Better
+One Training Fits All: Generalized Data Condensation via Mixture-of-Information Bottleneck Guidance
+EDU-RAG: A RAG Benchmark with Web-enhanced Content in Education Domain. Can RAG Help AI Tutor?
+Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective
+In vivo cell-type and brain region classification via multimodal contrastive learning
+Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing
+Inference, Fast and Slow: Reinterpreting VAEs for OOD Detection
+Structured World Models From Low-Level Observations
+Generalized Behavior Learning from Diverse Demonstrations
+Neural Stochastic Differential Equations for Uncertainty-Aware Offline RL
+Lookers-On See Most of the Game: An External Insight-Guided Method for Enhancing Uncertainty Estimation
+Improving Zero-Shot Generalization of Instruction Tuning by Data Arrangement
+MAP: Multi-Human-Value Alignment Palette
+Towards Optimal Multi-draft Speculative Decoding
+Spatial Speaker ID: Joint Spatial and Semantic Learning for Multi-Microphone Speaker Identification on Short Far-Field Utterances
+Leveraging Set Assumption for Membership Inference in Language Models
+Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence
+Watermark Smoothing Attacks against Language Models
+Understanding Contrastive Learning through Variational Analysis and Neural Network Optimization Perspectives
+CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring (the Lack of) Cultural Knowledge of LLMs
+Declarative characterizations of direct preference alignment algorithms
+Diffusion Generative Modeling for Spatially Resolved Gene Expression Inference from Histology Images
+Diffusion State-Guided Projected Gradient for Inverse Problems
+Variational Neuro-Symbolic Generative Temporal Point Process
+MADGEN - Mass-Spec attends to De Novo Molecular generation
+Interpreting neural networks depends on the level of abstraction: Revisiting modular addition
+Mosaic-IT: Free Compositional Data Augmentation Improves Instruction Tuning
+Solving Normalized Cut Problem with Constrained Action Space
+Towards Federated RLHF with Aggregated Client Preference for LLMs
+SIG: Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs
+CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data
+DATASEA - AN AUTOMATIC FRAMEWORK FOR COMPREHENSIVE DATASET PROCESSING USING LARGE LANGUAGE MODELS
+Knowledge Manipulation in Language Models
+Logic-Logit: A Logic-Based Approach to Choice Modeling
+A Neural Architecture Dataset for Adversarial Robustness
+Interpretability of Language Models for Learning Hierarchical Structures
+Inference of Evolving Mental States from Irregular Action Events to Understand Human Behaviors
+On the Local Complexity of Linear Regions in Deep ReLU Networks
+Task Facet Learning: A Structured Approach to Prompt Optimization
+Knowledge Capacity Scaling Laws for Language Models
+On Calibration of LLM-based Guard Models for Reliable Content Moderation
+Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers
+From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of All Sizes
+Optimizing Neural Network Representations of Boolean Networks
+Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference
+How Can Language Models Learn from Mistakes on Grade-School Math Problems
+ChemThinker: Thinking Like a Chemist with Multi-Agent LLMs for Deep Molecular Insights
+Enriching Knowledge Distillation with Intra-Class Contrastive Learning

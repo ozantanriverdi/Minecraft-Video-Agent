@@ -1,0 +1,50 @@
+Causal Concept Graph Models: Beyond Causal Opacity in Deep Learning
+LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K
+Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold
+ChatSR: Conversational Symbolic Regression
+JetFormer: An autoregressive generative model of raw images and text
+MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions
+EEGTrans: Transformer-Driven Generative Models for EEG Synthesis
+Counterfactual Concept Bottleneck Models
+LSTR: Long-Short Range Aggregation for Trajectory Prediction at Intersection Scenarios
+Large Language Models Engineer Too Many Simple Features for Tabular Data
+Neural Logical Index for Fast Knowledge Graph Complex Query Answering
+Automatically Interpreting Millions of  Features in Large Language Models
+A GPU-accelerated Large-scale Simulator for Transportation System Optimization Benchmarking
+FairMT-Bench: Benchmarking Fairness for Multi-turn Dialogue in Conversational LLMs
+B-MoCA: Benchmarking Mobile Device Control Agents across Diverse Configurations
+Multi-domain Analysis and Generalization of Image manipulation loCalization
+Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models
+ROBO-INSTRUCT: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs
+Conditional Density Ratio Score for Post Hoc Deep Outlier Detection
+Can Symbolic Regression of Boolean Functions Boost Logic Synthesis?
+Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation
+SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings
+Causal Bayesian Optimization with Unknown Causal Graphs
+Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective
+StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images
+I4VGen: Image as Free Stepping Stone for Text-to-Video Generation
+Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents
+TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features
+IVCR-200K: A Large-Scale Benchmark for Interactive Video Corpus Retrieval
+Calibrating Video Watch-time Predictions with Credible Prototype Alignment
+CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark
+Differentiable and Learnable Wireless Simulation with Geometric Transformers
+ASROB: Measuring Automatic Speech Recognition from One Book
+Your Agent Can Defend Itself against Backdoor Attacks
+Few-shot In-context Preference Learning using Large Language Models
+Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements
+YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus
+A Proxy Matrix-based Framework for Contextual Stochastic Optimization under Confounding Effect
+Training-free Guidance in Multi-modal Generative Flow for Inverse Molecular Design
+PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis
+FedCVD: The First Real-World Federated Learning Benchmark on Cardiovascular Disease Data
+UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models
+Revamping Diffusion Guidance for Conditional and Unconditional Generation
+CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling
+MuHBoost: A Multi-Label Boosting Method For Practical Longitudinal Human Behavior Modeling
+Unlocking the Potential of Model Calibration in Federated Learning
+Contrastive Meta Learning for Dynamical Systems
+Meta ControlNet: Enhancing Task Adaptation via Meta Learning
+AIMS.au: A Dataset for the Analysis of Modern Slavery Countermeasures in Corporate Statements
+Multi-Scale Fusion for Object Representation

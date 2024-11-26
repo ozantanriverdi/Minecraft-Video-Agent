@@ -1,0 +1,50 @@
+A Prototype-oriented Fast Refinement Model for Few-shot Industrial Anomaly Detection
+D 3 P M : Diffusion Model Responds to the Duty Call from Causal Discovery
+Distill Visual Chart Reasoning Ability from LLMs to MLLMs
+Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map
+Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks
+Towards Ultra-High-Definition Image Deraining: A Benchmark and An Efficient Method
+StringLLM: Understanding the String Processing Capability of Large Language Models
+ROSE: Reduced Overhead Stereo Event-Intensity Depth Estimation
+Parrot: Multilingual Visual Instruction Tuning
+Toward Learning Generalized Cross-Problem Solving Strategies for Combinatorial Optimization
+Counterfactual Generative Modeling with Variational Causal Inference
+Multi-Grained Knowledge for Retrieval-Augmented Question Answering on Hyper-long Contexts
+Efficient Evolutionary Search Over Chemical Space with Large Language Models
+Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning
+Entropic Distribution Matching for Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity
+UniAdapt: A Universal Adapter for Knowledge Calibration
+Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models
+GSBA K :  t o p - K  Geometric Score-based Black-box Attack
+Beyond In-Context Learning: Enhancing Long-form Generation of Large Language Models via Task-Inherent Attribute Guidelines
+Translation and Fusion Improves Zero-shot Cross-lingual Information Extraction
+It's Not a Modality Gap: Characterizing and Addressing the Contrastive Gap
+LGDiffGait: Local and Global Difference Learning for Gait Recognition with Silhouettes
+Discovering Latent Structural Causal Models from Spatio-Temporal Data
+Probabilistic Neural Pruning via Sparsity Evolutionary Fokker-Planck-Kolmogorov Equation
+Adversarial Machine Unlearning
+Action as a Modality: Turning Multi-Modal LLMs to General Action Planners
+Concept Bottleneck Language Models For Protein Design
+Discrete Bregman Divergence
+Thread: A Logic-Based Data Organization Paradigm for How-To Question Answering with Retrieval Augmented Generation
+Taming Data and Transformers for Audio Generation
+GAP: Scalable Driving with Generative Aided Planner
+Are Large Vision Language Models Good Game Players?
+One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks
+EM-DARTS: Preventing Performance Collapse in Differentiable Architecture Search with The Edge Mutation Mechanism
+GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models
+Your Consistency Model is Secretly a More Powerful Supervised Learning Paradigm for Learning Tasks with Complex Labels
+Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing
+ActionFiller: Fill-In-The-Blank Prompting for OS Agent
+Towards Generalization under Topological Shifts: A Diffusion PDE Perspective
+Enhancing Integrated Gradients Using Emphasis Factors and Attention for Effective Explainability of Large Language Models
+Wolf2Pack: The AutoFusion Framework for Dynamic Parameter Fusion
+DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
+Reducing Task Discrepancy of text encoders for Zero-Shot Composed Image Retrieval
+Interactions Exhibit Clustering Rhythm: A Prevalent Observation for Advancing Temporal Link Prediction
+Nearly Lossless Adaptive Bit Switching
+Corrective Retrieval Augmented Generation
+GeoRDe: Tertiary Structure-based RNA Design With Multiple Geometric Constraint
+SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding
+Problem-Parameter Free Federated Learning
+POC: Preventing the Over-Collapse of Classes for Class-Incremental Learning

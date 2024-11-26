@@ -1,0 +1,50 @@
+Gap-Aware Preference Optimization: Enhancing Model Alignment with Perception Margin
+A Unifying Framework for Representation Learning
+Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG
+Information-theoretic Generalization Analysis for Vector-Quantized VAEs
+RankNovo: A Universal Reranking Approach for Robust De Novo Peptide Sequencing
+Refining Counterfactual Explanations With Joint-Distribution-Informed Shapley Towards Actionable Minimality
+Unlocking Full Dynamic Optimization of District Energy Systems through State-Space Model Learning
+Local convergence of simultaneous min-max algorithms  to differential equilibrium on Riemannian manifold
+Explanations of GNN on Evolving Graphs via Axiomatic  Layer edges
+Understanding and Enhancing Context-Augmented Language Models Through Mechanistic Circuits
+Learning positional encodings in transformers depends on initialization
+Agent Workflow Memory
+Unsupervised Point Cloud Completion through Unbalanced Optimal Transport
+Sparse Training: Do All Tokens Matter for Long Sequence Generalization?
+Interpreting Adversarial Attacks and Defenses using Architectures with Enhanced Interpretability
+Does Example Selection for In-Context Learning Amplify the Biases of Large Language Models?
+Structural Quantile Normalization: a general, differentiable feature scaling technique balancing gaussian approximation and structural preservation
+Deep Random Features for Scalable Interpolation of Spatiotemporal Data
+MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model
+Multi-modality Expansion and Retention for LLMs through Parameter Merging and Decoupling
+Temporal Test-Time Adaptation with State-Space Models
+EDSNN: Edge Detection with Spiking Neuron Network
+Understand Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics
+Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model
+A New Perspective on Shampoo's Preconditioner
+EigenLoRA: Recycle trained Adapters for Resource Efficient Adaptation and Inference
+TrackMamba: Mamba-Transformer Tracking
+Text2PDE: Latent Diffusion Models for Accessible Physics Simulation
+Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data
+DBGMS: A Dual-Branch Generative Adversarial Network with Multi-Task Self-Supervised Enhancement for Robust Auditory Attention Decoding
+Unleashing the Potential of Vision-Language Pre-Training for 3D Zero-Shot Lesion Segmentation via Mask-Attribute Alignment
+Interpretable Pre-Trained Transformers for Heart Time-Series Data
+HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics
+OC-CLIP : Object-centric binding in Contrastive Language-Image Pretraining
+Unsupervised 2D Molecule Drug-likeness Prediction based on Knowledge Distillation
+Rethinking Attentions in Zero-Shot Real Image Editing
+Boundless Socratic Learning
+ConceptFlow: Unified Framework for Personalized Image Generation
+KLay: Accelerating Neurosymbolic AI
+Explainable Graph Representation Learning via Graph Pattern Analysis
+Neat: Nonlinear Parameter-efficient Adaptation of Pre-trained Models
+Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs
+PDE-GAN for solving PDE optimal control problems more accurately and efficiently
+Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning
+Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification
+GraphProp: Training the Graph Foundation Models using Graph Properties
+CIDA3D: Conformal Inference aided unsupervised Domain Adaptation for 3D-Aware Classification
+Understanding the Role of LLMs in Multimodal Evaluation Benchmarks
+REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-Based Graph Rewiring
+Does Diffusion Beat GAN in Image Super Resolution?

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "ADAM: An Embodied Causal Agent in Open-World Environments",
+        "relevant": true
+    },
+    {
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "relevant": false
+    },
+    {
+        "title": "Grey-box Prompt Optimization and Fine-Tuning for Cloud-Edge LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "OpenPL: Realistic Evaluation of Prompt Learning for VLM in Open Environments",
+        "relevant": false
+    },
+    {
+        "title": "Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR",
+        "relevant": false
+    }
+]

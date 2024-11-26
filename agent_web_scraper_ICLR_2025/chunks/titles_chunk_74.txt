@@ -1,0 +1,50 @@
+One-step Noisy Label Mitigation
+Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification
+Less is More: Adaptive Coverage for Synthetic Training Data
+Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models
+Scaling Laws for Pre-training Agents and World Models
+Progressive LLM Alignments Using Two-Player Games
+Energy-Based Discrete Mask Approximation for 3D Molecular Graph Explanation
+Self-Taught Evaluators
+Tradeoffs Between Alignment and Helpfulness in Language Models with Representation Engineering
+RealEra:Semantic-level Concept Erasure via Neighbor-Concept Mining
+Measuring LLM Confidence through Stable Explanations
+CoCoGesture : Towards Coherent Co-speech 3D Gesture Generation in the Wild
+Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks
+MultiTrust: Enhancing Safety and Trustworthiness of Large Language Models from Multiple Perspectives
+Discriminator-Guided Embodied Planning for LLM Agent
+Adam Exploits  ℓ ∞ -geometry of Loss Landscape via Coordinate-wise Adaptivity
+MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning
+CityNav: Language-Goal Aerial Navigation Dataset Using Geographic Information
+An Empirical Study on Normalization in Mamba
+The Disparate Benefits of Deep Ensembles
+Seeking the Right Question: Towards High-Quality Visual Instruction Generation
+LEVERAGING LEARNING RATE GRADIENTS FOR AUTOMATIC LEARNING RATE SELECTION
+Is the sparsity of high dimensional spaces the reason why VAEs are poor generative models?
+Independently-Normalized SGD for Generalized-Smooth Nonconvex Optimization
+Realizing Video Summarization from the Path of Language-based Semantic Understanding
+Flow matching achieves almost minimax optimal convergence
+SPLR: A Spiking Neural Network for Long-Range Temporal Dependency Learning
+Large Scale Video Continual Learning with Bootstrapped Compression
+Pursuing Feature Separation based on Neural Collapse for Out-of-Distribution Detection
+MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models
+Ferret-UI One: Mastering Universal User Interface Understanding Across Platforms
+3CIL: Causality-Inspired Contrastive Conditional Imitation Learning for Autonomous Driving
+Are you SURE? Enhancing Multimodal Pretraining with Missing Modalities through Uncertainty Estimation
+MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models
+BRSSD10k :  A SEGMENTATION DATASET  \ OF BANGLADESHI ROAD SCENARIO
+SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs
+Large-Scale Dynamic Graph Generation via LLM-based Agent Simulation
+APCtrl: Adding Conditional Control to Diffusion Models by Alternative Projection
+MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer
+UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation
+RETHINK MAXIMUM STATE ENTROPY
+DynAlign: Unsupervised Dynamic Taxonomy Alignment for Cross-Domain Segmentation
+Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning
+To Tackle Adversarial Transferability: A Novel Ensemble Training Method with Fourier Transformation
+Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images
+Federated Domain Generalization with Data-free On-server Gradient Matching
+Rethinking Sparse Scaling through the Lens of Average Active Parameter Count
+Unleashing Graph Transformers with Green and Martin Kernels
+Understanding Visual Concepts Across Models
+MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer

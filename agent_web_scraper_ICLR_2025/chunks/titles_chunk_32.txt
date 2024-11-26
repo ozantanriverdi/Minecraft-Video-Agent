@@ -1,0 +1,50 @@
+Policy Design in Long-run Welfare Dynamics
+Contextual Experience Replay for Continual Learning of Language Agents
+Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts
+Backdooring Bias into Text-to-Image Models
+Seeing the Whole in the Parts in Self-Supervised Representation Learning
+Procedural Synthesis of Synthesizable Molecules
+Recurrent Action Transformer with Memory
+Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning
+On the Limitation and Redundancy of Transformers: A Rank Perspective
+PEDVLM: PEDESTRIAN VISION LANGUAGE MODEL FOR INTENTIONS PREDICTION
+Improving Inverse Folding for Peptide Design with Diversity-Regularized Direct Preference Optimization
+Multimodal Structure Preservation Learning
+Building Generalist Robot Policy from Pre-trained Visual Representations
+On Learning Representations for Tabular Dataset Distillation
+P-SPIKESSM: HARNESSING PROBABILISTIC SPIKING STATE SPACE MODELS FOR LONG-RANGE DEPENDENCY TASKS
+Speeding Up Image Classifiers with Little Companions
+A Kernel Perspective on Training-Free Few-Shot Adaptation of Large Vision-Language Models
+Better autoregressive regression with LLMs
+100 instances is all you need: predicting LLM success by testing on a few instances
+Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context
+ReferPix2Pix: Guiding  Multi-Modal LLMs for Image Editing with Referential Pixel Grounding
+Bayesian Learning of Adaptive Koopman Operator with Application to Robust Motion Planning for Autonomous Trucks
+PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs
+FoundationForensics: Traceback Backdoor Attacks for Vision Foundation Models
+Analyzing Neural Scaling Laws in Two-Layer Networks with Power-Law Data Spectra
+Adapters for Altering LLM Vocabularies: What Languages Benefit the Most?
+Model Collapse in the Chain of Diffusion Finetuning: A Novel Perspective from Quantitative Trait Modeling
+SSPictR: Spatial Semantic Pointer Picture Representation
+Revisiting the Superficial Alignment Hypothesis
+COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement
+Hierarchical Clustering for Conditional Diffusion in Image Generation
+FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models
+Soft Checksums to Flag Untrustworthy Machine Learning Surrogate Predictions and Application to Atomic Physics Simulations
+MetaInv: Overcoming Iterative and Direct Method Limitations for Inverse Learning
+DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search
+Learning Diagrams: A Graphical Language for Compositional Training Regimes
+Differential learning kinetics govern the transition from memorization to generalization during in-context learning
+Joint Graph Rewiring and Feature Denoising via Spectral Resonance
+The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
+Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?
+Review and Rebuttal: Zero-shot In-context Adversarial Learning for Improving Research Ideation
+Towards Efficient Confidence Estimation for Large Language Model Reasoning
+”DOES YOUR MOBILE SUIT YOUR SKIN?”: ADDRESSING SKIN TONE DISPARITIES IN PRESENTATION ATTACK DETECTION FOR ENHANCED INCLUSIVITY OF SMARTPHONE SECURITY
+Context-Scaling versus Task-Scaling in In-Context Learning
+Practical alignment requires more than learning from human feedback
+Performance Control in Early Exiting to Deploy Large Models at the Same Cost of Smaller Ones
+Latent Feature Mining for Predictive Model Enhancement with Large Language Models
+Multi-session, multi-task neural decoding from distinct cell-types and brain regions
+Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap
+Reality Only Happens Once: Single-path Generalization Bounds for Transformers

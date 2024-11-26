@@ -1,0 +1,50 @@
+Gradient based Causal Discovery with Diffusion Model
+On Sequence Segmentation with overlapped Chunks in Machine Learning
+HMoRA: Making LLMs More Effective with Hierarchical Mixture of LoRA Experts
+Series-to-Series Diffusion Bridge Model
+BRIDGE: Bootstrapping Text to Guide Time-Series Generation via Multi-Agent Iterative Optimisation and Diffusion Modelling
+Addressing Misspecification in Simulation-based Inference through Data-driven Calibration
+Hallucinating LLM Could Be Creative
+Neural ODE Transformers: Analyzing Internal Dynamics and Adaptive Fine-tuning
+Reinitializing weights vs hidden units for maintaining plasticity in neural networks
+AlphaZero Neural Scaling and Zipf's Law: a Tale of Board Games and Power Laws
+FMP-AE: A HYBRID APPROACH TO TIME SERIES ANOMALY DETECTION
+Spiking Transformer-CNN for Event-based Object Detection
+Communication-efficient Algorithms Under Generalized Smoothness Assumptions
+Harnessing Shallow Features in Pre-Trained Models for Out-of-Distribution Detection
+A PATCH LEVEL PERSPECTIVE OF PROMPT TUNING
+Tilted Losses in Training Quantum Neural Networks
+Steering 3D Molecule Generation in Data-Sparse Regions via Distributional Physical Priors
+BiQAP: Neural Bi-level Optimization-based Framework for Solving Quadratic Assignment Problems
+Large Language Models based Graph Convolution for Text-Attributed Networks
+PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting
+Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts
+MaskTwins: Dual-form Complementary Masking for Domain-Adaptive Image Segmentation
+Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models
+Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic Transforms
+Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings
+Shape as Line Segments: Accurate and Flexible Implicit Surface Representation
+MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards
+Stabilized Neural Dynamics for Behavioral Decoding via Hierarchical Domain Adaptation
+InteractiveCOT: Aligning Dynamic Chain-of-Thought Planning for Embodied Decision-Making
+Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL
+Integrating Relation Dependences and Textual Semantics for Coherent Logical Reasoning over Temporal Knowledge Graph
+HiLoRA: High-frequency-augmented Low-Rank Adaptation
+Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery
+Simulating Human-like Daily Activities with Desire-driven Autonomy
+Reshaping Reservoirs: Hebbian Plasticity for Improved Data Separability
+Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling
+Gradient correlation is needed to accelerate SGD with momentum
+Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing
+Multiplicative Logit Adjustment Approximates Neural-Collapse-Aware Decision Boundary Adjustment
+Pyramidal Flow Matching for Efficient Video Generative Modeling
+CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation
+Efficient Gradient-Based Algorithm for Training Deep Learning Models With Many Nonlinear Activations
+Efficiently Learning Probabilistic Logical Models by Cheaply Ranking Mined Rules
+Dominant Shuffle: An Incredibly Simple but Exceptionally Effective Data Augmentation Method for Time-Series Prediction
+Data-driven plasma equilibrium forecasting in magnetic fusion tokamak
+Fast Summation of Radial Kernels via QMC Slicing
+Stealix: Model Stealing via Prompt Evolution
+Chain-of-thoughts for molecular understanding
+Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning
+Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors

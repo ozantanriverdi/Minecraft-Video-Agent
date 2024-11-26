@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Grounding Multimodal Large Language Model in GUI World",
+        "relevant": false
+    },
+    {
+        "title": "The Ability of Large Language Models to Evaluate Constraint-satisfaction in Agent Responses to Open-ended Requests",
+        "relevant": false
+    },
+    {
+        "title": "One-shot World Models Using a Transformer Trained on a Synthetic Prior",
+        "relevant": false
+    },
+    {
+        "title": "Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code",
+        "relevant": true
+    }
+]

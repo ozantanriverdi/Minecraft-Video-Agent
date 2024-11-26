@@ -1,0 +1,50 @@
+Non-parametric classification via expand-and-sparsify representation
+LoFiT: Localized Fine-tuning on LLM Representations
+Physics-Informed Variational State-Space Gaussian Processes
+Learning to Embed Distributions via Maximum Kernel Entropy
+When is Multicalibration Post-Processing Necessary?
+Expected Probabilistic Hierarchies
+Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation
+Differentially Private Graph Diffusion with Applications in Personalized PageRanks
+Theoretical Foundations of Deep Selective State-Space Models
+Divide-and-Conquer Predictive Coding: a structured Bayesian inference algorithm
+Stratified Prediction-Powered Inference for Effective Hybrid Evaluation of Language Models
+Density-based User Representation using Gaussian Process Regression for Multi-interest Personalized Retrieval
+WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models
+Structured flexibility in recurrent neural networks via neuromodulation
+SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection
+Interpolating Item and User Fairness in Multi-Sided Recommendations
+Sparse High Rank Adapters
+Compact Proofs of Model Performance via Mechanistic Interpretability
+DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models
+Learning Transferable Features for Implicit Neural Representations
+Randomized Strategic Facility Location with Predictions
+How does Gradient Descent Learn Features --- A Local Analysis for Regularized Two-Layer Neural Networks
+Measuring Dejavu Memorization Efficiently
+A Topology-aware Graph Coarsening Framework for Continual Graph Learning
+Score-based 3D molecule generation with neural fields
+Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability
+Efficient and Private Marginal Reconstruction with Local Non-Negativity
+Gaussian Process Bandits for Top-k Recommendations
+Mixture of Link Predictors on Graphs
+SmallToLarge (S2L): Scalable Data Selection for Fine-tuning Large Language Models by Summarizing Training Trajectories of Small Models
+DeltaDEQ: Exploiting Heterogeneous Convergence for Accelerating Deep Equilibrium Iterations
+Retrieval & Fine-Tuning for In-Context Tabular Models
+Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index
+Online Budgeted Matching with General Bids
+Risk-Averse Fine-tuning of Large Language Models
+RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs
+ARC: A Generalist Graph Anomaly Detector with In-Context Learning
+Active design of two-photon holographic stimulation for identifying neural population dynamics
+HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning
+Clustering with Non-adaptive Subset Queries
+FIDE: Frequency-Inflated Conditional Diffusion Model for Extreme-Aware Time Series Generation
+Robust Mixture Learning when Outliers Overwhelm Small Groups
+Revisiting Score Propagation in Graph Out-of-Distribution Detection
+FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training
+Adversarial Representation Engineering: A General Model Editing Framework for Large Language Models
+DistrictNet: Decision-aware learning for geographical districting
+Optimal Algorithms for Learning Partitions with Faulty Oracles
+DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models
+Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation
+Achieving Domain-Independent Certified Robustness via Knowledge Continuity

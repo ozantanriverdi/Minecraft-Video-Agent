@@ -1,0 +1,263 @@
+Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes
+Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity
+Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+The Sample-Communication Complexity Trade-off in Federated Q-Learning
+RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+Statistical Efficiency of Distributional Temporal Difference Learning
+The Power of Resets in Online Reinforcement Learning
+Learning Generalized Linear Programming Value Functions
+Optimizing Automatic Differentiation with Deep Reinforcement Learning
+DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data
+BricksRL: A Platform for Democratizing Robotics and  Reinforcement Learning Research and Education with LEGO
+Can Learned Optimization Make Reinforcement Learning Less Difficult?
+Enhancing Robustness of Graph Neural Networks on Social Media with Explainable Inverse Reinforcement Learning
+Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning
+Sample Complexity Reduction via Policy Difference Estimation in Tabular Reinforcement Learning
+A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning
+Exclusively Penalized Q-learning for Offline Reinforcement Learning
+DiffTORI: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning
+Variational Delayed Policy Optimization
+Rethinking Exploration in Reinforcement Learning with Effective Metric-Based Exploration Bonus
+Towards an Information Theoretic Framework of Context-Based Offline Meta-Reinforcement Learning
+Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers
+The Value of Reward Lookahead in Reinforcement Learning
+Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning
+Reward Machines for Deep RL in Noisy and Uncertain Environments
+Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron
+Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance
+Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps
+The surprising efficiency of temporal difference learning for rare event prediction
+Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning
+SimPO: Simple Preference Optimization with a Reference-Free Reward
+Provable Partially Observable Reinforcement Learning with Privileged Information
+AdjointDEIS: Efficient Gradients for Diffusion Models
+Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning
+Model-based Diffusion for Trajectory Optimization
+Operator World Models for Reinforcement Learning
+Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs
+Foundations of Multivariate Distributional Reinforcement Learning
+Imitating Language via Scalable Inverse Reinforcement Learning
+Beyond Optimism: Exploration With Partially Observable Rewards
+Enhancing Robustness in Deep Reinforcement Learning: A Lyapunov Exponent Approach
+SleeperNets: Universal Backdoor Poisoning Attacks Against  Reinforcement Learning Agents
+Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning
+Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning
+Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation
+Beating Adversarial Low-Rank MDPs with Unknown Transition and Bandit Feedback
+Constrained Latent Action Policies for Model-Based Offline Reinforcement Learning
+Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
+Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment
+Normalization and effective learning rates in reinforcement learning
+ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search
+Deep Policy Gradient Methods Without Batch Updates, Target Networks, or Replay Buffers
+Offline Oracle-Efficient Learning for Contextual MDPs via Layerwise Exploration-Exploitation Tradeoff
+AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers
+Reinforcement Learning Policy as Macro Regulator Rather than Macro Placer
+Reinforcing LLM Agents via Policy Optimization with Action Decomposition
+Transition Constrained Bayesian Optimization via Markov Decision Processes
+Parseval Regularization for Continual Reinforcement Learning
+The Surprising Ineffectiveness of Pre-Trained Visual Representations for Model-Based Reinforcement Learning
+Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity
+Policy Optimization for Robust Average Reward MDPs
+Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning
+Model-free Low-Rank Reinforcement Learning via Leveraged Entry-wise Matrix Estimation
+Skill-aware Mutual Information Optimisation for Zero-shot Generalisation in Reinforcement Learning
+Time-Constrained Robust MDPs
+Learning the Optimal Policy for Balancing Short-Term and Long-Term Rewards
+Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning
+An Analytical Study of Utility Functions in Multi-Objective Reinforcement Learning
+Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning
+Safe and Efficient: A Primal-Dual Method for Offline Convex CMDPs under Partial Data Coverage
+Efficient Recurrent Off-Policy RL Requires a Context-Encoder-Specific Learning Rate
+Uncertainty-based Offline Variational Bayesian Reinforcement Learning for Robustness under Diverse Data Corruptions
+Reinforcement Learning with Adaptive Regularization for Safe Control of Critical Systems
+Finding good policies in average-reward Markov Decision Processes without prior knowledge
+Inverse Factorized Soft Q-Learning for Cooperative Multi-agent Imitation Learning
+Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees
+Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning
+Near-Minimax-Optimal Distributional Reinforcement Learning with a Generative Model
+Achieving Tractable Minimax Optimal Regret in Average Reward MDPs
+ReMoDetect: Reward Models Recognize Aligned LLM's Generations
+Reinforcement Learning with LTL and  ω -Regular Objectives via Optimality-Preserving Translation to Average Rewards
+Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces
+Adaptive  Q -Aid for Conditional Supervised Learning in Offline Reinforcement Learning
+Off-policy estimation with adaptively collected data: the power of online learning
+Efficient Reinforcement Learning by Discovering Neural Pathways
+Deterministic Uncertainty Propagation for Improved Model-Based Offline Reinforcement Learning
+Deterministic Policies for Constrained Reinforcement Learning in Polynomial Time
+Provably Efficient Reinforcement Learning with Multinomial Logit Function Approximation
+Solving Minimum-Cost Reach Avoid using Reinforcement Learning
+Exploiting the Replay Memory Before Exploring the Environment: Enhancing Reinforcement Learning Through Empirical MDP Iteration
+Adversarially Trained Weighted Actor-Critic for Safe Offline Reinforcement Learning
+Provably Efficient Interactive-Grounded Learning with Personalized Reward
+Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment
+State-free Reinforcement Learning
+Diffusion Policies Creating a Trust Region for Offline Reinforcement Learning
+Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning
+Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning
+Real-Time Recurrent Learning using Trace Units in Reinforcement Learning
+Simplifying Constraint Inference with Inverse Reinforcement Learning
+Learning to Assist Humans without Inferring Rewards
+A Nearly Optimal and Low-Switching Algorithm for Reinforcement Learning with General Function Approximation
+Learning Representations for Hierarchies with Minimal Support
+Deep Support Vectors
+Balancing Context Length and Mixing Times for Reinforcement Learning at Scale
+A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning
+A theoretical case-study of Scalable Oversight in Hierarchical Reinforcement Learning
+Causal Imitation for Markov Decision Processes: a Partial Identification Approach
+Adaptive Exploration for Data-Efficient General Value Function Evaluations
+On the Role of Information Structure in Reinforcement Learning for Partially-Observable Sequential Teams and Games
+Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training
+Rule Based Rewards for Language Model Safety
+Achieving  O ~ ( 1 / ϵ )  Sample Complexity for Constrained Markov Decision Process
+Robust Reinforcement Learning with General Utility
+Model-Based Transfer Learning for Contextual Reinforcement Learning
+FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+Global Rewards in Restless Multi-Armed Bandits
+Confident Natural Policy Gradient for Local Planning in   q π -realizable Constrained MDPs
+Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification
+An Offline Adaptation Framework for Constrained Multi-Objective Reinforcement Learning
+Intrinsic Robustness of Prophet Inequality to Strategic Reward Signaling
+Policy-shaped prediction: avoiding distractions in model-based reinforcement learning
+Oracle-Efficient Reinforcement Learning for Max Value Ensembles
+DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning
+Reciprocal Reward Influence Encourages Cooperation From Self-Interested Agents
+Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning
+Enhancing Efficiency of Safe Reinforcement Learning via Sample Manipulation
+Diffusion Spectral Representation for Reinforcement Learning
+Robot Policy Learning with Temporal Optimal Transport Reward
+Reinforcement Learning Guided Semi-Supervised Learning
+Hybrid Reinforcement Learning Breaks Sample Size Barriers In Linear MDPs
+Randomized algorithms and PAC bounds for inverse reinforcement learning in continuous spaces
+OASIS: Conditional Distribution Shaping for Offline Safe Reinforcement Learning
+Achieving Constant Regret in Linear Markov Decision Processes
+Learning Goal-Conditioned Representations for Language Reward Models
+Rethinking Optimal Transport in Offline Reinforcement Learning
+Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms
+Identifying Latent State-Transition Processes for Individualized Reinforcement Learning
+REBEL: Reinforcement Learning via Regressing Relative Rewards
+Amortized Active Causal Induction with Deep Reinforcement Learning
+Language Grounded Multi-agent Reinforcement Learning with Human-interpretable Communication
+Dynamic Model Predictive Shielding for Provably Safe Reinforcement Learning
+Last-Iterate Global Convergence of Policy Gradients for Constrained Reinforcement Learning
+The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning
+GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning
+Neuronal Competition Groups with Supervised STDP for Spike-Based Classification
+Diffusion-based Curriculum Reinforcement Learning
+The Dormant Neuron Phenomenon in Multi-Agent Reinforcement Learning Value Factorization
+Autoregressive Policy Optimization for Constrained Allocation Tasks
+Near-Optimal Dynamic Regret for Adversarial Linear Mixture MDPs
+Excluding the Irrelevant: Focusing Reinforcement Learning through Continuous Action Masking
+Scalable Constrained Policy Optimization for Safe Multi-agent Reinforcement Learning
+Multi-Reward Best Policy Identification
+Online Iterative Reinforcement Learning from Human Feedback with General Preference Model
+Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents
+Predicting Future Actions of Reinforcement Learning Agents
+Controlling Counterfactual Harm in Decision Support Systems Based on Prediction Sets
+Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization
+FastDrag: Manipulate Anything in One Step
+Dual Critic Reinforcement Learning under Partial Observability
+InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling
+Contextual Multinomial Logit Bandits with General Value Functions
+Gaussian Approximation and Multiplier Bootstrap for Polyak-Ruppert Averaged Linear Stochastic Approximation with Applications to TD Learning
+Uniform Last-Iterate Guarantee for Bandits and Reinforcement Learning
+Kaleidoscope: Learnable Masks for Heterogeneous Multi-agent Reinforcement Learning
+Offline Multitask Representation Learning for Reinforcement Learning
+On the Curses of Future and History in Future-dependent Value Functions for Off-policy Evaluation
+From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning
+Noise Contrastive Alignment of Language Models with Explicit Rewards
+Unlock the Intermittent Control Ability of Model Free Reinforcement Learning
+Reinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control
+FlexPlanner: Flexible 3D Floorplanning via Deep Reinforcement Learning in Hybrid Action Space with Multi-Modality Representation
+A Unified Principle of Pessimism for Offline Reinforcement Learning under Model Mismatch
+Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?
+Federated Ensemble-Directed Offline Reinforcement Learning
+Mitigating Reward Overoptimization via Lightweight Uncertainty Estimation
+Federated Natural Policy Gradient and Actor Critic Methods for Multi-task Reinforcement Learning
+Global Distortions from Local Rewards: Neural Coding Strategies in Path-Integrating Neural Systems
+RL in Latent MDPs is Tractable: Online Guarantees via Off-Policy Evaluation
+Distributional Successor Features Enable Zero-Shot Policy Optimization
+Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning
+DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning
+Near-Optimal Distributionally Robust Reinforcement Learning with General  L p  Norms
+Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithms
+T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback
+Latent Learning Progress Drives Autonomous Goal Selection in Human Reinforcement Learning
+Meta-Reinforcement Learning with Universal Policy Adaptation: Provable Near-Optimality under All-task Optimum Comparator
+HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation
+Contextual Bilevel Reinforcement Learning for Incentive Alignment
+SCAFFLSA: Taming Heterogeneity in Federated Linear Stochastic Approximation and TD Learning
+The Limits of Transfer Reinforcement Learning with Latent Low-rank Structure
+Towards the Transferability of Rewards Recovered via Regularized Inverse Reinforcement Learning
+Periodic agent-state based Q-learning for POMDPs
+Occupancy-based Policy Gradient: Estimation, Convergence, and Optimality
+Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient
+Distributional Reinforcement Learning with Regularized Wasserstein Loss
+Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm
+Regularized Q-Learning
+Local Linearity: the Key for No-regret Reinforcement Learning in Continuous MDPs
+Iteratively Refined Behavior Regularization for Offline Reinforcement Learning
+Learning General Parameterized Policies for Infinite Horizon Average Reward Constrained MDPs via Primal-Dual Policy Gradient Algorithm
+Sample-Efficient Constrained Reinforcement Learning with General Parameterization
+Zero-Shot Reinforcement Learning from Low Quality Data
+REBORN: Reinforcement-Learned Boundary Segmentation with Iterative Training for Unsupervised ASR
+Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
+AGILE: A Novel Reinforcement Learning Framework of LLM Agents
+State Chrono Representation for Enhancing Generalization in Reinforcement Learning
+Sub-optimal Experts mitigate Ambiguity in Inverse Reinforcement Learning
+Enhancing Chess Reinforcement Learning with Graph Representation
+ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization
+Diffusion Actor-Critic with Entropy Regulator
+Parallelizing Model-based Reinforcement Learning Over the Sequence Length
+RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning
+Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling
+Goal-Conditioned On-Policy Reinforcement Learning
+BitDelta: Your Fine-Tune May Only Be Worth One Bit
+Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning
+Opponent Modeling based on Subgoal Inference
+Recurrent Reinforcement Learning with Memoroids
+Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning
+Calibrated Self-Rewarding Vision Language Models
+Worst-Case Offline Reinforcement Learning with Arbitrary Data Support
+Verified Safe Reinforcement Learning  for Neural Network Dynamic Models
+Robust Reinforcement Learning from Corrupted Human Feedback
+Graph Diffusion Policy Optimization
+DeNetDM: Debiasing by Network Depth Modulation
+Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization
+Flipping-based Policy for Chance-Constrained Markov Decision Processes
+Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning
+Efficient and Sharp Off-Policy Evaluation in Robust Markov Decision Processes
+Q-Distribution guided Q-learning for offline reinforcement learning: Uncertainty penalized Q-value via consistency model
+Multi-turn Reinforcement Learning with Preference Human Feedback
+No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO
+MetaCURL: Non-stationary Concave Utility Reinforcement Learning
+Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning
+Stepwise Alignment for Constrained Language Model Policy Optimization
+BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning
+A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective
+When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback
+Improved off-policy training of diffusion samplers
+PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning
+Reinforcement Learning with Lookahead Information
+In-Trajectory Inverse Reinforcement Learning: Learn Incrementally From An Ongoing Trajectory
+Warm-up Free Policy Optimization: Improved Regret in Linear Markov Decision Processes
+Doubly Mild Generalization for Offline Reinforcement Learning
+Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning
+Off-Policy Selection for Initiating Human-Centric Experimental Design
+Group Robust Preference Optimization in Reward-free RLHF
+Goal Conditioned Reinforcement Learning for Photo Finishing Tuning
+Offline Reinforcement Learning with OOD State Correction and OOD Action Suppression
+Diffusion-Reward Adversarial Imitation Learning
+Integrating Suboptimal Human Knowledge with Hierarchical Reinforcement Learning for Large-Scale Multiagent Systems
+Expectation Alignment: Handling Reward Misspecification in the Presence of Expectation Mismatch
+Opponent Modeling with In-context Search
+Improving Deep Reinforcement Learning by Reducing the Chain Effect of Value and Policy Churn
+Differentially Private Reinforcement Learning with Self-Play
+Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning
+KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts
+Maximum Entropy Reinforcement Learning via Energy-Based Normalizing Flow
+Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
+Randomized Exploration for Reinforcement Learning with Multinomial Logistic Function Approximation
+Efficient Multi-task Reinforcement Learning with Cross-Task Policy Guidance

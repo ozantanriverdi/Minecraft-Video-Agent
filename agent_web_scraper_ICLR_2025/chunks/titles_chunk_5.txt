@@ -1,0 +1,50 @@
+How new data pollutes LLM knowledge and how to dilute it
+Enhancing Software Agents with Monte Carlo Tree Search and Hindsight Feedback
+Language Models are Advanced Anonymizers
+Coresets for  k -mean clustering of segments
+Hierarchical Self-Supervised Graph Contrastive Learning: Capturing Multi-Scale Structural Information
+ADAM: An Embodied Causal Agent in Open-World Environments
+Expected Return Symmetries
+Younger: The First Dataset for Artificial Intelligence-Generated Neural Network Architecture
+Differentially Private One Permutation Hashing
+FlowAgent: a New Paradigm for Workflow Agent
+Beware of Calibration Data for Pruning Large Language Models
+Solving Urban Network Security Games: Learning Platform, Benchmark, and Challenge for AI Research
+Graph-Enhanced Learning for Predicting Optimal Drug Combinations Using Contrastive Embedding
+Herald: A Natural Language Annotated Lean 4 Dataset
+Toward Domain Translation with Monolingual Domain Data Only
+Dynamic Routing Mixture of Experts for Enhanced Multi-Label Image Classification
+Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping
+DPLM-2: A Multimodal Diffusion Protein Language Model
+EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search
+OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation
+Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation
+HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere
+Machine Unlearning in Audio: Bridging The Modality Gap Via the Prune and Regrow Paradigm
+Boosting LLM Translation Skills without General Ability Loss via Rationale Distillation
+FedDTPT: Federated Discrete and Transferable Prompt Tuning for Black-Box Large Language Models
+Learning Phase Representations for Microstructural Segmentation in Metallographic Images through Expert Knowledge
+FAN: Fourier Analysis Networks
+TableTextGrad: A Reflexive Framework for Tabuar Understanding
+Cluster-Driven Adversarial Perturbations for Robust Contrastive Learning
+Geometric and Physical Constraints Synergistically Improve Neural PDE Integration
+Quantum-PEFT: Ultra parameter-efficient fine-tuning
+Generate explorative goals with large language model guidance
+How Well Can LLMs Synthesize Molecules? An LLM-Powered Framework for Multi-Step Retrosynthesis
+Two Heads are Better than One: Retrieval Augmented LLM for Question Answering with External Knowledge Attention
+Exploring Compositionality in Vision Transformers using Wavelet Representations
+UniCBE: An Uniformity-driven Comparing Based Evaluation Framework with Unified Multi-Objective Optimization
+TeacherActivityNet: A Novel Dataset for Monitoring Faculty Activities in Office Settings
+Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation
+M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework
+Learning by Causality to Improve Channel Dependency Modeling in Multivariate Time Series Forecasting
+Active Gaze Behavior Boosts Self-Supervised Object Learning
+Efficient Full-Context Retrieval for Long Documents
+Beyond One-Size-Fits-All: Tailored Benchmarks for Efficient Model Evaluation
+Rapid Selection and Ordering of In-Context Demonstrations via Prompt Embedding Clustering
+Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs
+Alignment-Aware Model Extraction Attacks on Large Language Models
+NetMoE: Accelerating MoE Training through Dynamic Sample Placement
+Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure
+A General Feature Attribution Framework under a Black-box Setting
+Boosting Long-Context LLM Inference Efficiency with Intra-Layer Attention Similarity

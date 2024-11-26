@@ -1,0 +1,50 @@
+Action-Constrained Imitation Learning
+ToolGen: Unified Tool Retrieval and Calling via Generation
+No Training Data, No Cry: Model Editing  without Training Data or Fine-tuning
+C-Adam: Confidence-Based Optimization for Online Learning
+Value Residual Learning For Alleviating  Attention Concentration In Transformers
+Re-examining learning linear functions in context
+Improving Transformer Interpretability with Activation Contrast-Based Attribution
+Exploring New Frontiers in Vertical Federated Learning: the Role of Saddle Point Reformulation
+ICConv: A Large-Scale Intent-Oriented and Context-Aware Conversational Search Dataset
+Efficiently Scanning and Resampling Spatio-Temporal Tasks with Irregular Observations
+Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks
+Causally Motivated Sycophancy Mitigation for Large Language Models
+LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models
+CGD: Modifying the Loss Landscape by Gradient Regularization
+Cross-modal Mitigation of Spurious Correlation for Prompt-tuning in VLMs with Causally Motivated Logic Alignment
+GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework
+Multiple-play Stochastic Bandits with Prioritized Resource Sharing
+Binary Spiking Neural Networks as causal models
+Compositional simulation-based inference for time series
+Multi-play Multi-armed Bandit Model with Scarce Sharable Arm Capacities
+Graph Scattering Networks with Adaptive Diffusion Kernels
+Identity Lock: Locking API Fine-tuned LLMs With Identity-based Wake Words
+From Abstract Noise to Architectural Form: Designing Diffusion Models for Efficient Floor Plan Generation
+PDETime: Rethinking Long-term Multivariate Time Series Forecasting from the Perspective of Partial Differential Equations
+DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions
+TF-score: Time-series Forecasting using score-based diffusion model
+Novel RL Approach for Efficient Elevator Group Control Systems
+Feature Learning in Attention Mechanisms Is More Compact and Stable Than in Convolution
+OpenCarbonEval: How much  C O 2   will your large model exhale in training process?
+FCoReBench: Can Large Language Models Solve Challenging First-Order Combinatorial Reasoning Problems?
+Bayesian Treatment of the Spectrum of the Empirical Kernel in (Sub)Linear-Width Neural Networks
+Evaluating word representation for hypernymy relation: with focus on Arabic
+When GNNs meet symmetry in ILPs: an orbit-based feature augmentation approach
+Sampling from Energy-based Policies using Diffusion
+Improved Risk Bounds with Unbounded Losses for Transductive Learning
+Adaptive Self-Supervised Learning Strategies for Dynamic On-Device LLM Personalization
+SSGNN: Simple Yet Effective Spectral Graph Neural Network
+Towards Efficient and Scalable Multi-agent Reasoning via Bayesian Nash Equilibrium
+Optimal Transport for Time Series Imputation
+From General to Expert: Custom Pruning LLMs Across Language, Domain, and Task
+Global Context-aware Representation Learning for Spatially Resolved Transcriptomics
+From Rest to Action: Adaptive Weight Generation for Motor Imagery Classification from Resting-State EEG Using Hypernetworks
+Optimal Transport for Reducing Bias in Causal Inference without Data Splitting
+Adaptive Vision Encoders: Balancing Efficiency and Robustness in Vision-Language Models
+Video Action Differencing
+Automated Parameter Extraction for Biologically Realistic Neural Networks: An Initial Exploration with Large Language Models
+scKGOT: Intercellular Signaling Inference with Knowledge Graph Optimal Transport for Single-cell Transcriptomics
+Injecting Learnable Table Features into LLMs
+GANDALF: Generative AttentioN based Data Augmentation and predictive modeLing Framework for personalized cancer treatment
+GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models

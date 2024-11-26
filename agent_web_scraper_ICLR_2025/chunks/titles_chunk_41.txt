@@ -1,0 +1,50 @@
+VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration
+Data-Efficient Training by Evolved Sampling
+Restructuring Vector Quantization with the Rotation Trick
+FactTest: Factuality Testing in Large Language Models with Statistical Guarantees
+Sub-Domain Aware Granular Segmentation via Fine Tuning Network
+Connectome Mapping: Shape-Memory Network via Interpretation of Contextual Semantic Information
+MMMU-Pro: A More Robust  Multi-discipline Multimodal Understanding Benchmark
+Surprising Effectiveness of pretraining Ternary  Language Model at Scale
+Error Broadcast and Decorrelation as a Potential Artificial and Natural Learning Mechanism
+Beyond Fixed Resolution: Enhancing VLLMs with Adaptive Input Scaling
+Learning Color Equivariant Representations
+Improved Localized Machine Unlearning Through the Lens of Memorization
+A Large Deviation Theory Analysis on the Implicit Bias of SGD
+Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models
+EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?
+Generating Freeform Endoskeletal Robots
+Latent Variable Identifiability in Nonlinear Causal Models with Single-domain Data under Minimality Condition
+Hypercone Assisted Contour Generation for Out-of-Distribution Detection
+AVCAPS: AN AUDIO-VISUAL DATASET WITH MODALITY-SPECIFIC CAPTIONS
+Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations
+Linear Recurrent Neural Networks with a Feature-Sequence Twist
+STL-Drive: Formal Verification Guided End-to-end Automated Driving
+ScImage: How good are multimodal large language models at scientific text-to-image generation?
+Investigating Language-Specific Calibration For Pruning Multilingual Large Language Models
+Scalable Message Passing Neural Networks: No Need for Attention in Large Graph Representation Learning
+MOEfication by Experts as Masks
+Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation
+Certified Robustness to Data Poisoning in Gradient-Based Training
+DECISION-FOCUSED UNCERTAINTY QUANTIFICATION
+Do graph neural network states contain graph properties?
+CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning
+MEMFREEZING: TOWARDS PRACTICAL ADVERSARIAL ATTACKS ON TEMPORAL GRAPH NEURAL NETWORKS
+Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation
+Targeted Manipulation and Deception Emerge in LLMs Trained on User* Feedback
+Gaussian Differentially Private Human Faces Under a Face Radial Curve Representation
+PackNets: A Variational Autoencoder-Like Approach for Packing Circles in Any Shape
+Diffusion Transformers for Tabular Data Time Series Generation
+Less is More: Exploiting Feature Density for Enhanced Membership Inference Attacks
+AgentGym: Evaluating and Evolving Large Language Model-based Agents across Diverse Envronments
+Unlocking SVD-Space for Feedback Aligned Local Training
+Non-Equilibrium Dynamics of Hybrid Continuous-Discrete Ground-State Sampling
+Complexity of Injectivity and Verification of ReLU Neural Networks
+Learning to Achieve Goals with Belief State Transformers
+Rapid Grassmannian Averaging with Chebyshev Polynomials
+More Space Is All You Need: Revisiting  Molecular Representation Learning
+A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment
+Is Pontryagin's Maximum Principle All You Need? Solving optimal control problems with PMP-inspired neural networks
+MeanSparse: Post-Training Robustness Enhancement Through Mean-Centered Feature Sparsification
+Directed graph transformers meet metabolic networks
+SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models

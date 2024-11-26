@@ -1,0 +1,50 @@
+Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization
+Rethinking Softmax: Self-Attention with Polynomial Activations
+Topology-aware Graph Diffusion Model with Persistent Homology
+Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making
+Regularized Maximum Mean Discrepancy for Variable Selection
+ThinkBot: Embodied Instruction Following with Thought Chain Reasoning
+Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI
+LVP: Language-guide Visual Projector for Efficient Multimodal LLM
+Few for Many: Tchebycheff Set Scalarization for Many-Objective Optimization
+OMCAT: Omni Context Aware Transformer
+Forget the Data and Fine-Tuning! Just Fold the Network to Compress
+JustLogic: A benchmark for natural language deductive reasoning
+HeadMap: Locating and Enhancing Knowledge Circuits in LLMs
+X-PlugVid: Versatile Adaptation of Image Plugins for Controllable Video Generation
+Genetic-evolutionary Graph Nerual Networks: A Paradigm for Improved Graph Representation Learning
+Shapley Image Explanations With Data-Aware Binary Partition Trees
+Towards Formally Verifying LLMs: Taming the Nonlinearity of the Transformer
+KD-HGRL: Knowledge Distillation for Multi-Task Heterogeneous Graph Representation Learning
+A Kernel Distribution Closeness Testing
+Multi-Session Budget Optimization for Forward Auction-based Federated Learning
+Matrix Sketching in Bandits: Current Pitfalls and New Framework
+Consistency Diffusion Models for Singel-Image 3D Reconstruction with priors
+Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models
+Strategic Exploration for Inverse Constraint Inference with Efficiency Guarantee
+INDIRECT ATTENTION: IA-DETR FOR ONE SHOT OBJECT DETECTION
+Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling
+Debiased Deep Evidential Regression for Video Temporal Grounding
+Guaranteed Generation from Large Language Models
+LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation
+Learning Nash Equilibria in Normal-Form Games via Approximating Stationary Points
+Koopman Universal Neural Dynamic Operator: Achieving Fully Explicit Expression Identification for Nonlinear Dynamical Systems
+Source-Free Target Domain Confidence Calibration
+On Characterizing and Mitigating Imbalances in Multi-Instance Partial Label Learning
+LLM-VTP: LLM-Reasoned Visual Token Pruning for Efficient Multi-Modal Video Understanding
+MTSAM: Multi-Task Fine-Tuning for Segment Anything Model
+Rethinking Out-of-Distribution Detection in Vision Foundation Models
+Ultra-Sparse Memory Network
+Arithmetic Without Algorithms: Language Models Solve Math with a Bag of Heuristics
+GLEE: A Framework and Benchmark for LLM Evaluation in Language-based Economics
+Efficient Fairness-Performance Pareto Front Computation
+FuseChat: Knowledge Fusion of Chat Models
+Learning Randomized Algorithms with Transformers
+NEPENTHE: Entropy-Based Pruning as a Neural Network Depth's Reducer
+Diffusion Bridge AutoEncoders for Unsupervised Representation Learning
+Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models
+Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning
+SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?
+Odyssey: Empowering Minecraft Agents with Open-World Skills
+Last-Iterate Convergence of Smooth Regret Matching +  Variants in Learning Nash Equilibria
+Uncovering Challenges of Solving the Continuous Gromov-Wasserstein Problem

@@ -1,0 +1,50 @@
+Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates
+ProcBench: Benchmark for Multi-Step Reasoning and Following Procedure
+Exploiting the Kurtosis Concentration Property for Image quality improvement
+Faster Language Models with Better Multi-Token Prediction Using Tensor Decomposition
+The Unreasonable Ineffectiveness of the Deeper Layers
+FedGO : Federated Ensemble Distillation with GAN-based Optimality
+Towards Understanding Memory buffer based Continual Learning
+Wyckoff Transformer: Generation of Symmetric Crystals
+AuPair: Golden Example Pairs for Code Repair
+Attack on LLMs: LoRA Once, Backdoor Everywhere in the Share-and-Play Ecosystem
+Grey-box Prompt Optimization and Fine-Tuning for Cloud-Edge LLM Agents
+Convergence Of Consistency Model With Multistep Sampling Under General Data Assumptions
+Debiased Medical Report Generation with High-Frequency Amplification
+FreeFlow: Latent Flow Matching for Free Energy Difference Estimation
+OpenPL: Realistic Evaluation of Prompt Learning for VLM in Open Environments
+TopoLM: brain-like spatio-functional organization in a topographic language model
+Variance-Covariance Regularization Improves Representation Learning
+Distilling Dataset into Neural Field
+Relax and Merge: A Simple Yet Effective Framework for Solving Fair  k -Means and  k -sparse Wasserstein Barycenter Problems
+Masked Generative Priors Improve World Models Sequence Modelling Capabilities
+Unlocking Trilevel Learning with Level-Wise Zeroth Order Constraints: Distributed Algorithms and Provable Non-Asymptotic Convergence
+STELLA: Leveraging Structural Representations to Enhance Protein Understanding with Multimodal LLMs
+LoRe - Logarithm Regularization for Few-Shot Class Incremental Learning
+Reliable and Efficient Amortized Model-based Evaluation
+Towards Syn-to-Real IQA: A Novel Perspective on Reshaping Synthetic Data Distributions
+Differentially Private Range Subgraph Counting
+Jointly Training Task-Specific Encoders and Downstream Models on Heterogeneous Multiplex Graphs
+Adaptive Drug Interaction Prediction via Enhanced Graph Representation Learning
+SportU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models
+Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
+SIM: Surface-based fMRI Analysis for Inter-Subject Multimodal Decoding from Movie-Watching Experiments
+Tensor Train Decomposition for Adversarial Attacks on Computer Vision Models
+Detecting Discrepancies Between Generated and Natural Images Using Uncertainty
+SERDES Link Training with Edge Inference: Neural-Network Driven Discrete Optimization to Maximize Link Efficiency
+Adaptive Tensor Attention Networks with Cross-Domain Transfer for Drug-Target Interaction Prediction
+Zero-Shot Task-Level Adaptation via Coarse-to-Fine Policy Refinement and Holistic-Local Contrastive Representations
+Black-Box Approximation and Optimization with Hierarchical Tucker Decomposition
+TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration
+Generalization for Least Squares Regression with Simple Spiked Covariances
+MvHSTM: A Multi-view Hypergraph Spatio-Temporal Model for Traffic Speed Forecasting
+Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR
+Predicting episodic structure from overlapping input in binary networks with homeostasis
+Advantages, Risks and Insights from Comparing In-Context Learning Models with Typical Meta-Learners
+Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study
+Time-aware World Model:  Adaptive Learning of Task Dynamics
+Advancing Drug-Target Interaction Prediction via Graph Transformers and Residual Protein Embeddings
+Spider 2.0: Can Language Models Resolve Real-World Enterprise Text-to-SQL Workflows?
+Exploring Complex Trade-offs in Information Bottleneck through Multi-Objective Optimization
+JudgeLM: Fine-tuned Large Language Models are Scalable Judges
+Solving Nash Equilibrium Scalably via Deep-Learning-Augmented Iterative Algorithms

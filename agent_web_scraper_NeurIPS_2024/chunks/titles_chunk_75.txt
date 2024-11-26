@@ -1,0 +1,50 @@
+Identifying General Mechanism Shifts in Linear Causal Representations
+Markov Equivalence and Consistency in Differentiable Structure Learning
+WildGaussians: 3D Gaussian Splatting In the Wild
+OpenDlign: Open-World Point Cloud Understanding with Depth-Aligned Images
+RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions
+RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar
+Binarized Diffusion Model for Image Super-Resolution
+PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications
+SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion
+Boundary Matters: A Bi-Level Active Finetuning Method
+Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering
+Optimal-state Dynamics Estimation for Physics-based Human Motion Capture from Videos
+Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses
+SyncTweedies: A General Generative Framework Based on Synchronized Diffusions
+Image Copy Detection for Diffusion Models
+EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views
+Black-Box Forgetting
+Subsurface Scattering for Gaussian Splatting
+FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention
+Efficient Combinatorial Optimization via Heat Diffusion
+Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation
+LinNet: Linear Network for Efficient Point Cloud Representation Learning
+DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning
+HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid
+Speaking Your Language: Spatial Relationships in Interpretable Emergent Communication
+Samba: Severity-aware Recurrent Modeling for Cross-domain Medical Image Grading
+QT-ViT: Improving Linear Attention in ViT with Quadratic Taylor Expansion
+PERIA: Perceive, Reason, Imagine, Act via Holistic Language and Vision Planning for Manipulation
+ContextGS : Compact 3D Gaussian Splatting with Anchor Level Context Model
+Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement
+AutoPSV: Automated Process-Supervised Verifier
+ReVideo: Remake a Video with Motion and Content Control
+Transferable Adversarial Attacks on SAM and Its Downstream Models
+DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM
+Automated Multi-level Preference for MLLMs
+Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy
+DataStealing: Steal Data from Diffusion Models in Federated Learning with Multiple Trojans
+Expert-level protocol translation for self-driving labs
+Continual Learning in the Frequency Domain
+Reconstruction of Manipulated Garment with Guided Deformation Prior
+ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Field
+ANT: Adaptive Noise Schedule for Time Series Diffusion Models
+TPR: Topology-Preserving Reservoirs for Generalized Zero-Shot Learning
+Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering
+Omnigrasp: Simulated Humanoid Grasping on Diverse Objects
+Adjust Pearson's  r  to Measure Arbitrary Monotone Dependence
+FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation
+MC-DiT: Contextual Enhancement via Clean-to-Clean Reconstruction for Masked Diffusion Models
+COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing
+LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model

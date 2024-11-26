@@ -1,0 +1,50 @@
+Enhancing Cost Efficiency in Active Learning with Candidate Set Query
+PWM: Policy Learning with Multi-Task World Models
+Improved Diffusion-based Generative Model with Better Adversarial Robustness
+Self-Improving Robust Preference Optimization
+Risk-Aware Distributional Intervention Policies for Language Models
+LINA: An LLM-driven Neuro-Symbolic Approach for Faithful Logical Reasoning
+A graph-based global optimization framework for problems with nonconvex norm constraints and penalty functions
+EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing
+Let’s Stop Bleeding! Precise Bleeding Data Estimation & Visualization Methods for Laparoscopic Surgeries
+R 2 -Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning
+TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions
+Initializing the Layer-wise Learning Rate
+A Brain-Inspired Regularizer for Adversarial Robustness
+Beyond Numeric Awards: In-Context Dueling Bandits with LLM Agents
+Kernel-based Optimally Weighted Conformal Time-Series Prediction
+Solving hyperbolic conservation laws with characteristic based neural network
+Federated Learning Nodes Can Reconstruct Peers' Image Data
+Learning Identifiable Concepts for Compositional Image Generation
+On Unsupervised Prompt Learning for Classification with Black-box Language Models
+SynHING: Synthetic Heterogeneous Information Network Generation for Graph Learning and Explanation
+Fast Crystal Tensor Property Prediction: A General O(3)-Equivariant Framework Based on Polar Decomposition
+FLARE: Faithful Logic-Aided Reasoning and Exploration
+Understanding and Mitigating Distribution Shifts for Machine Learning Force Fields
+Reducing Complexity of Force-Directed Graph Embedding
+HATFormer: Historic Handwritten Arabic Text Recognition with Transformers
+Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation
+Generative Editing via Convolutional Obscuring (GECO): A Generative Adversarial Network for MRI de-artifacting
+Block Verification Accelerates Speculative Decoding
+NetFormer: An interpretable model for recovering dynamical connectivity in neuronal population dynamics
+NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel
+Evaluating and Improving Subspace Inference in Bayesian Deep Learning
+Revisiting Source-Free Domain Adaptation: a New Perspective via Uncertainty Control
+Generalizable Motion Planning via Operator Learning
+Revisiting Random Walks for Learning on Graphs
+Provably Learning Concepts by Comparison
+On Choice of Loss Functions For Neural Control Barrier Certificates
+Doubly robust identification of treatment effects from multiple environments
+Convergence Towards Stable Intrinsic Self-correction of Large Language Models
+Variational Search Distributions
+Verbalized Bayesian Persuasion
+Multi-Task Best Arm Identification with Risk Constraint
+DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference
+Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models
+SONAR: A Synthetic AI-Audio Detection Framework and Benchmark
+Neural Spacetimes for DAG Representation Learning
+Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning
+Enhancing Learning with Label Differential Privacy by Vector Approximation
+DM-Tune: Quantizing Diffusion Models with Mixture-of-Gaussian Guided Noise Tuning
+KinDEL: DNA-Encoded Library Dataset for Kinase Inhibitors
+Online Neuro-Symbolic Predicate Invention for High-Level Planning

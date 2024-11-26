@@ -1,0 +1,50 @@
+Hierarchical Object-Aware Dual-Level Contrastive Learning for Domain Generalized Stereo Matching
+QVAE-Mole: The Quantum VAE with Spherical Latent Variable Learning for 3-D Molecule Generation
+DMNet: Self-comparison Driven Model for Subject-independent Seizure Detection
+Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model
+Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss
+Towards the Dynamics of a DNN Learning Symbolic Interactions
+OneRef:  Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling
+UniGAD: Unifying Multi-level Graph Anomaly Detection
+Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling
+The Many Faces of Optimal Weak-to-Strong Learning
+Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens
+Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation
+Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging
+On Giant's Shoulders: Effortless Weak to Strong by Dynamic Logits Fusion
+Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models
+Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective
+PaCE: Parsimonious Concept Engineering for Large Language Models
+MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs
+DRIP: Unleashing Diffusion Priors for Joint Foreground and Alpha Prediction in Image Matting
+SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification
+StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
+Novel Object Synthesis via Adaptive Text-Image Harmony
+Diffusion Twigs with Loop Guidance for Conditional Graph Generation
+Beyond Efficiency: Molecular Data Pruning for Enhanced Generalization
+Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series
+MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space
+Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization
+Rethinking Memory and Communication Costs for Efficient Data Parallel Training of Large Language Models
+Nonstationary Sparse Spectral Permanental Process
+Rethinking Fourier Transform from A Basis Functions Perspective for Long-term Time Series Forecasting
+Mitigating Backdoor Attack by Injecting Proactive Defensive Backdoor
+Learning to Shape In-distribution Feature Space for Out-of-distribution Detection
+A Kernel Perspective on Distillation-based Collaborative Learning
+Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems
+Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
+Meaningful Learning: Enhancing Abstract Reasoning in Large Language Models via Generic Fact Guidance
+Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP
+On the Necessity of Collaboration for Online Model Selection with Decentralized Data
+Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection
+CRONOS: Enhancing Deep Learning with Scalable GPU Accelerated Convex Neural Networks
+Faster Local Solvers for Graph Diffusion Equations
+Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed
+Quantum Algorithms for Non-smooth Non-convex Optimization
+ALI-Agent: Assessing LLMs'  Alignment with Human Values via Agent-based Evaluation
+Piecewise-Stationary Bandits with Knapsacks
+TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight
+Action Imitation in Common Action Space for Customized Action Image Synthesis
+The Implicit Bias of Heterogeneity towards Invariance: A Study of Multi-Environment Matrix Sensing
+Linear Uncertainty Quantification of Graphical Model Inference
+BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models

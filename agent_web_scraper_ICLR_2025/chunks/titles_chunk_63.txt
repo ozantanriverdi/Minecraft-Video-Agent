@@ -1,0 +1,50 @@
+Concept forgetting via label annealing
+UNIFYING LONG AND SHORT SPATIO-TEMPORAL FORECASTING WITH SPECTRAL GRAPH NEURAL NETWORKS
+Decoding Reading Goals from Eye Movements
+Density estimation with LLMs: a geometric investigation of in-context learning trajectories
+Inverted Activations: Reducing Memory Footprint in Neural Network Training
+Multimodal Quantitative Language for Generative Recommendation
+Fixed Strength Optimization Enhances Adversarial Attacks
+Coreset Spectral Clustering
+Seg-LaneDet: 3D Lane Detection from Monocular Images with 2D Segmentation
+Write More at Once: Stylized Chinese Handwriting Generation via Two-stage Diffusion
+Disentangled Representation Learning with the Gromov-Monge Gap
+HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks
+Backpropagation-Free Learning through Gradient Aligned Feedbacks
+Divergence-enhanced Knowledge-guided Context Optimization for Visual-Language Prompt Tuning
+SATCH: Specialized Assistant Teacher Distillation to Reduce Catastrophic Forgetting
+Reassessing Number-Detector Units in Convolutional Neural Networks
+Predicting Time-Varying Flux and Balance in Metabolic Systems using Structured Neural ODE Processes
+Unsupervised Prior Learning: Discovering Categorical Pose Priors from Videos
+Language Model for Large-Text Transmission in Noisy Quantum Communications
+CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction
+Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging
+Benchmarking Machine Learning Methods for Stock Prediction
+CaLMol: Disentangled Causal Graph LLM for Molecular Relational Learning
+A Riemannian Framework for Learning Reduced-order Lagrangian Dynamics
+A Closer Look at Backdoor Attacks on CLIP
+Reassessing the Validity of Spurious Correlations Benchmarks
+CARTS: Advancing Neural Theorem Proving with Diversified Tactic Calibration and Bias-Resistant Tree Search
+Simple ReFlow: Improved Techniques for Fast Flow Models
+Repetitive Contrastive Learning Enhances Mamba's Selectivity in Time Series Prediction
+IDS-Agent: An LLM Agent for Explainable Intrusion Detection in IoT Networks
+A Theoretical Perspective: When and How Self-consuming Training Loops Generalize
+Balancing Domain-Invariant and Domain-Specific Knowledge for Domain Generalization with Online Knowledge Distillation
+Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences
+Electrocardiogram Foundation Model Using Temporally Augmented Patient Contrastive Learning
+Reasoning Elicitation in Language Models via Counterfactual Feedback
+Narcissus: Leveraging Early Training Dynamics for Unsupervised Anomaly Detection
+Benchmarking Positional Encodings for GNNs and Graph Transformers
+CryoGEN: Cryogenic Electron Tomography Reconstruction via Generative Energy Nets
+CDQuant: Accurate Post-training Weight Quantization of LLMs using Greedy Coordinate Descent
+GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning
+Improving Consistency Models with Generator-Induced Flows
+Data Unlearning in Diffusion Models
+Measuring And Improving Engagement of Text-to-Image Generation Models
+Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis
+HyperAdapter: Generating Adapters for Pre-Trained Model-Based Continual Learning
+Retrieval Augmented Thought Process for Private Data Handling in Healthcare
+Causal-aware Graph Neural Architecture Search under Distribution Shifts
+MQ-VAE: Training Vector-Quantized Networks via Meta Learning
+MORE: A MIXTURE OF LOW-RANK EXPERTS FOR ADAPTIVE MULTI-TASK LEARNING
+Disentangled interleaving variational encoding

@@ -1,0 +1,50 @@
+Provably Mitigating Corruption, Overoptimization, and Verbosity Simultaneously in Offline and Online RLHF/DPO Alignment
+Resolving Lexical Bias in Edit Scoping with Projector Editor Networks
+No more hard-prompts: SoftSRV prompting for synthetic data generation
+OvercookedV2: Rethinking Overcooked for Zero-Shot Coordination
+Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees
+TULIP: Token-length Upgraded CLIP
+DIRECT: Deep Active Learning under Imbalance and Label Noise
+Beyond 2:4: Exploring V:N:M Sparsity for Efficient Transformer Inference on GPUs
+Sparse Repellency for Shielded Generation in Text-to-Image Diffusion Models
+DELIFT: Data Efficient Language model Instruction Fine-Tuning
+U-shaped and Inverted-U Scaling behind  \ Emergent Abilities of Large Language Models
+SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost
+Hierarchical Autoregressive Transformers for Tokenizer-Free Language Modelling
+Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment
+Accelerated training through iterative gradient propagation along the residual path
+BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval
+Discovering Data Structures: Nearest Neighbor Search and Beyond
+Interpretable and Efficient Counterfactual Generation for Real-Time User Interaction
+Gradient-based Optimization of Dataset Mixtures
+Automating High-Quality Concept Banks: Leveraging LLMs and Multimodal Evaluation Metrics
+The Geometry of Concepts: Sparse Autoencoder Feature Structure
+Pathologies of Out-of-Distribution Detection
+Conditional Information Bottleneck Approach for Out-of-Distribution Sequential Recommendation
+CogniPair - Dynamic LLM Matching Algorithm in Chaotic Environments Mimicking Human Cognitive Processes for Relationship Pairing
+Locally Connected Echo State Networks for Time Series Forecasting
+Feature-Based Analysis of Theory of Mind Representations in Neural Network Models
+STARJOB: DATASET FOR LLM-DRIVEN JOB SHOP SCHEDULING
+Parameter Efficient Graph Encoding for Large Language Models
+Scaling Laws for Adversarial Attacks on Language Model Activations and Tokens
+Evaluating the Instruction-following Abilities of Language Models using Knowledge Tasks
+KidSpeak: A General Multi-Purpose LLM for Kids' Speech Recognition and Screening
+BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts
+PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion
+Multi-attacks: A single adversarial perturbation for multiple images and target labels
+Online Agglomerative Pooling for Scalable Self-Supervised Universal Segmentation
+Real-time design of architectural structures with differentiable mechanics and neural networks
+Understanding Chain-of-Thought in LLMs Through Information Theory
+Learning Transferable Sub-goals by Hypothesizing Generalizing Features
+AI-generated faces influence gender stereotypes and racial homogenization
+DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models
+Is What You Ask For What You Get?  Investigating Concept Associations in Text-to-Image Models
+Enhancing Variational Quantum Algorithms: Effective Quantum Ansatz Design Using GFlowNets
+Models That Prove Their Own Correctness
+Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics
+Mind the GAP: Glimpse-based Active Perception improves generalization and sample efficiency of visual reasoning
+Replay concurrently or sequentially?  A theoretical perspective on replay in continual learning
+Libra: Leveraging Temporal Images for Biomedical Radiology Analysis
+Gradient-free training of recurrent neural networks
+MMTEB: Massive Multilingual Text Embedding Benchmark
+Worldcraft

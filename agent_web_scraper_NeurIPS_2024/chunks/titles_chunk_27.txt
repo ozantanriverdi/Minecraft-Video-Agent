@@ -1,0 +1,50 @@
+Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models
+Once Read is Enough: Domain-specific Pretraining-free Language Models with Cluster-guided Sparse Experts for Long-tail Domain Knowledge
+Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models
+Multi-Instance Partial-Label Learning with Margin Adjustment
+Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
+NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention
+Navigating the Effect of Parametrization for Dimensionality Reduction
+β -DPO: Direct Preference Optimization with Dynamic  β
+Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling
+Enhancing Feature Diversity Boosts Channel-Adaptive Vision Transformers
+SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion
+SEEV: Synthesis with Efficient Exact Verification for ReLU Neural Barrier Functions
+Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees
+A Primal-Dual-Assisted Penalty Approach to Bilevel Optimization with Coupled Constraints
+CE-NAS: An End-to-End Carbon-Efficient Neural Architecture Search Framework
+Fairness-Aware Estimation of Graphical Models
+Toward Efficient Inference for Mixture of Experts
+KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization
+WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks
+Fully Explicit Dynamic Gaussian Splatting
+Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling
+Adaptive Sampling for Efficient Softmax Approximation
+MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering
+Cascade Speculative Drafting for Even Faster LLM Inference
+Quantum Deep Equilibrium Models
+GraphMorph: Tubular Structure Extraction by Morphing Predicted Graphs
+Rapid Plug-in Defenders
+Ordered Momentum for Asynchronous SGD
+Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization
+Are More LLM Calls All You Need? Towards the Scaling Properties of Compound AI Systems
+Hamiltonian Monte Carlo on ReLU Neural Networks is Inefficient
+TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation
+Adaptive Labeling for Efficient Out-of-distribution Model Evaluation
+NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping
+Bayesian Adaptive Calibration and Optimal Design
+FineStyle: Fine-grained Controllable Style Personalization for Text-to-image Models
+Linking In-context Learning in Transformers to Human Episodic Memory
+AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment
+N-agent Ad Hoc Teamwork
+Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling
+FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning
+SemCoder: Training Code Language Models with Comprehensive Semantics Reasoning
+On  f -Divergence Principled Domain Adaptation: An Improved Framework
+Improved Generation of Adversarial Examples Against Safety-aligned LLMs
+Multi-model Ensemble Conformal Prediction in Dynamic Environments
+Disentangled Representation Learning in Non-Markovian Causal Systems
+Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment
+Stochastic contextual bandits with graph feedback: from independence number to MAS number
+OccamLLM: Fast and Exact Language Model Arithmetic in a Single Step

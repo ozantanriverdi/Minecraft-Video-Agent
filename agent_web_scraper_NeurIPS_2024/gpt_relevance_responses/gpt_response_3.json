@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Chain of Agents: Large Language Models Collaborating on Long-Context Tasks",
+        "relevant": false
+    },
+    {
+        "title": "Grounding Multimodal Large Language Models in Actions",
+        "relevant": false
+    },
+    {
+        "title": "SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures",
+        "relevant": false
+    },
+    {
+        "title": "Grokking of Implicit Reasoning in Transformers: A Mechanistic Journey to the Edge of Generalization",
+        "relevant": false
+    },
+    {
+        "title": "Cross-model Control: Improving Multiple Large Language Models in One-time Training",
+        "relevant": false
+    }
+]

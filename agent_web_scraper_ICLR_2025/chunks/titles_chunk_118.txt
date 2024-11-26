@@ -1,0 +1,50 @@
+DoF: A Diffusion Factorization Framework for Offline Multi-Agent Decision Making
+Gaussian Loss Smoothing Enables Certified Training with Tight Convex Relaxations
+G-SPARC: SPectral ARchitectures tackling the Cold-start problem in Graphs
+Harnessing the Wikipedia Graph for Effective Multi-Entity Question Answering
+Average Certified Radius is a Poor Metric for Randomized Smoothing
+Beyond Auto-Regression: Fast LLMs via Self-Distillation Through Time
+Chinese Inertial GAN for Writing Signal Generation and Recognition
+SEMF: Supervised Expectation-Maximization Framework for Predicting Intervals
+A Probabilistic Perspective on Unlearning and Alignment for Large Language Models
+Improving Convergence Guarantees of Random Subspace Second-order Algorithm for Nonconvex Optimization
+Revisiting Emergent Correspondence from Transformers for Self-supervised Multi-frame Depth Estimation
+AI Sandbagging: Language Models can Strategically Underperform on Evaluations
+Planning with MCTS: Enhancing Problem-Solving in Large Language Models
+Retrieval Augmented Imputation using Data Lake Tables
+SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation
+Dataset Ownership Verification in Contrastive Pre-trained Models
+Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning
+Stability and Sharper Risk Bounds with Convergence Rate  O ( 1 / n 2 )
+Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning
+Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data
+UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration
+Fast training and sampling of Restricted Boltzmann Machines
+Training-free LLM-generated Text Detection by Mining Token Probability Sequences
+HyperDet: Generalizable Detection of Synthesized Images by Generating and Merging A Mixture of Hyper LoRAs
+Model Growth Schedule learning via Optimal Path (SLOP) for Efficient LLM Pre-Training
+ELBOing Stein: Variational Bayes with Stein Mixture Inference
+Hierarchical Classification via Diffusion on Manifolds
+New Recipe for Semi-supervised Community Detection: Clique Annealing under Crystallization Kinetics
+An EEG dataset of word-level brain responses for semantic text relevance
+Multi-Neuron Unleashes Expressivity of ReLU Networks Under Convex Relaxation
+Cuff-KT: Tackling Learners' Real-time Learning Pattern Adjustment via Tuning-Free Knowledge State-Guided Model Updating
+Learning Hierarchical Polynomials of Multiple Nonlinear Features
+Anomaly Detection through Conditional Diffusion Probability Modeling on Graphs
+Diff-Shape: A Novel Constrained Diffusion Model for Shape-based De Novo Drug Design
+A novel Visible Multilayer Concept Factorization for Image Data Representation and Clustering
+Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model
+FunBO: Discovering Acquisition Functions forBayesian Optimization with FunSearch
+Standardizing Structural Causal Models
+CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only
+Sharpness-Aware Geometric Defense for Robust Out-Of-Distribution Detection
+EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance
+OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation
+EBES: Easy Benchmarking for Event Sequences
+TreeTop: Topology-Aware Fine-Tuning for LLM Conversation Tree Understanding
+Attack as Defense: Run-time Backdoor Implantation for Image Content Protection
+Reasoning Limitations of  Multimodal Large Language Models. A case study of Bongard Problems
+One  slice  is not  enough:  In  search  of  stable conclusions in text-to-image evaluation
+VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents
+Learning system dynamics without forgetting
+A unified lightweight complex scenes-oriented network for infrared and visible image fusion

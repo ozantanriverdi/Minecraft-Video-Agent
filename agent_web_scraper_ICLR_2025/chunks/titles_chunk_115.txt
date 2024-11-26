@@ -1,0 +1,50 @@
+Iterative Substructure Extraction for Molecular Relational Learning with Interactive Graph Information Bottleneck
+Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts
+Asymptotic Convergence of SGD in Non-Convex Problems: A Stopping Times Method with Relaxed Step-size Conditions
+Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment
+Fusing Visual and Textual Cues for Sequential Image Difference Captioning
+QuaDiM: A Conditional Diffusion Model For Quantum State Property Estimation
+Aligning Human Motion Generation with Human Perceptions
+Centrality-guided Pre-training for Graph
+E F O k -CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation
+In-N-Out: Robustness to In-Domain Noise and Out-of-Domain Generalization
+Vision and Language Synergy for Rehearsal Free Continual Learning
+LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation
+Tackling Feature and Sample Heterogeneity in Decentralized Multi-Task Learning: A Sheaf-Theoretic Approach
+MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes
+DockedAC: Empowering Deep Learning Models With 3D Protein-ligand Data For Activity Cliff Analysis
+Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders
+SuperCAT: Super Resolution and Cross Semantic Attribute-guided Transformer based Feature Refinement for Zero-Shot Remote Sensing Scene Classification
+SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction
+VISCON: Identifying and Benchmarking Vision Hallucination for Large Vision-Language Model
+Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting
+Finding Shared Decodable Concepts and their Negations in the Brain
+A Conditional Independence Test in the Presence of Discretization
+PerSense: Personalized Instance Segmentation in Dense Images
+Innovative Thinking, Infinite Humor: Humor Research of Large Language Models through Structured Thought Leaps
+A Large-scale Universal Evaluation Benchmark For Face Forgery Detection
+M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models
+SKDream: Controllable Multi-view and 3D Generation with Arbitrary Skeletons
+Beyond the Alphabet: Deep Signal Embedding for Enhanced DNA Clustering
+FlightBench: Benchmarking Learning-based Methods for Ego-vision-based Quadrotors Navigation
+Optimal Targets for Concept Erasure in Diffusion Models and Where To Find Them
+DynamicRTL: RTL Representation Learning for Dynamic Circuit Behavior
+Improving Probabilistic Diffusion Models With Optimal Covariance Matching
+OpenStereo: A Comprehensive Benchmark for Stereo Matching and Strong Baseline
+What Matters for In-Context Learning: A Balancing Act of Look-up and In-Weight Learning
+DualFast: Dual-Speedup Framework for Fast Sampling of Diffusion Models
+Enhance Graph Contrastive Learning with Perturbation Discrimination
+One Wave to Explain Them All: A Unifying Perspective on Post-hoc Explainability
+PhyloVAE: Unsupervised Learning of Phylogenetic Trees via Variational Autoencoders
+FormulaReasoning: A Dataset for Formula-Based Numerical Reasoning
+Physics-aligned field reconstruction with diffusion bridge
+Structured Joint Aleatoric and Epistemic Uncertainty for High Dimensional Output Spaces
+Toward Principled Transformers for Knowledge Tracing
+RAC-LoRA: A Theoretical Optimization Framework for Low-Rank Adaptation
+BOSE-NAS: Differentiable Neural Architecture Search with Bi-Level Optimization Stable Equilibrium
+Long-time asymptotics of noisy SVGD outside the population limit
+RegMix: Data Mixture as Regression for Language Model Pre-training
+The Computational Complexity of Positive Non-Clashing Teaching in Graphs
+VisualAgentBench: Towards Large Multimodal Models as Visual Agents
+Do we need rebalancing strategies? A theoretical and empirical study around SMOTE and its variants
+Rethinking Multiple-Instance Learning From Feature Space to Probability Space

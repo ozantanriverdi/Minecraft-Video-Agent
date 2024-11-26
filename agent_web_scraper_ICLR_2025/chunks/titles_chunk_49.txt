@@ -1,0 +1,50 @@
+Towards Safe and Honest AI Agents with Neural Self-Other Overlap
+Learn2Mix: Training Neural Networks Using Adaptive Data Integration
+AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents
+Exploring Knowledge Boundaries in Large Language Models for Retrieval Judgment
+Align-VL: Can Being Modest Help in the Alignment of Vision-Language Models?
+G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models
+Benchmarks and Custom Package for Energy Forecasting
+Fantastic Experts and How to Find Them: A  Multi-Dimensional Study for Experts-Level Sparsification in Mixture-of-Experts
+Self-rationalization improves LLM as a fine-grained judge
+Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning
+How to Train Long-Context Language Models (Effectively)
+BILBO: BILevel Bayesian Optimization
+Risk Informed Policy Learning for Safer Exploration
+Combining Induction and Transduction for Abstract Reasoning
+Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems
+Open-Vocabulary Object Detection for Incomparable Spaces
+Collective variables of neural networks: empirical time evolution and scaling laws
+TabKANet: Tabular Data Modeling with Kolmogorov-Arnold Network and Transformer
+Intelligent Control in Embodied Robotics: Enhancing Human-Robot Interaction through Adaptive Control Techniques
+Unveiling Neural Combinatorial Optimization Model Representations Through Probing
+Table Learning Representation from Scanned PDF Documents Containing Some Red Stamps
+CPDD: Generalized Compressed Representation for Multivariate Long-term Time Series Generation
+CViT: Continuous Vision Transformer for Operator Learning
+TIDMAD: Time Series Dataset for Discovering Dark Matter with AI Denoising
+How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation
+SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks
+MultiRC: Joint Learning for Time Series Anomaly Prediction and Detection with Multi-scale Reconstructive Contrast
+MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization
+Hypergraph-Based Machine Learning for Robust Handling of Missing Data
+CAB-KGC: Context-Aware BERT for Knowledge Graph Completion
+Multi-Fidelity Fine-Tuning of Pre-Trained Language Models
+Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis
+Bayesian Persuasion Is a Bargaining Game
+VoiceNoNG: High-Quality Speech Editing Model without Hallucinations
+Don’t Say No: Jailbreaking LLM by Suppressing Refusal
+ReCogLab: a framework testing relational reasoning, cognitive hypotheses on LLMs
+Swift-FedGNN: Federated Graph Learning with Low Communication and Sample Complexities
+MGCFNN: A Neural MultiGrid Solver with Novel Fourier Neural Network for High Wave Number Helmholtz Equations
+Vision-Language Models Meet Meteorology: Developing Models for Anomalies Analysis with Heatmaps
+SimSiam Naming Game: A Unified Approach for Representation Learning and Emergent Communication
+Evaluating the Goal-Directedness of Large Language Models
+CirT: Global Subseasonal-to-Seasonal Forecasting with Geometry-inspired Transformer
+What Does it Mean for a Neural Network  to Learn a "World Model"?
+Predicting and analyzing memorization within fine-tuned Large Language Models
+In-context learning in presence of spurious correlations
+Accelerating neural network training: An analysis of the AlgoPerf competition
+Counterfactual Outcome Estimation in Time Series via Sub-treatment Group Alignment and Random Temporal Masking
+OptionZero: Planning with Learned Options
+Structure and Behavior in Weight Space Representation Learning
+Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks

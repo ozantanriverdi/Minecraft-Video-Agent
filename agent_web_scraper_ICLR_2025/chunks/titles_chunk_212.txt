@@ -1,0 +1,50 @@
+Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation
+HFT: Half Fine-Tuning for Large Language Models
+SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models
+GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models
+OCN: Learning Object-centric Representations for Unsupervised Multi-object Segmentation
+DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream
+Riemannian Transformation Layers for General Geometries
+Archilles' Heel in Semi-open LLMs: Hiding Bottom against Recovery Attacks
+Understanding Matrix Function Normalizations in Covariance Pooling from the Lens of Riemannian Geometry
+Frequency-Decoupled Cross-Modal Knowledge Distillation
+Addressing Inverse Problems in Frame Restoration with Siamese Conditional Variational Autoencoders
+KARA: Enhancing High-Dimensional Data Processing with Learnable Activations
+Gyrogroup Batch Normalization
+HENP: Dynamic Pruning via Neuron Entropy
+T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data
+Free-MoE: Tuning-Free Mixture-of-Experts Purifying LLMs to Thrive across Any Field
+MOTIONFLOW:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation
+On Re-Encoding Short-Term Memory of Large Language Models in Conversations
+Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction
+Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation
+Probabilistic Learning to Defer: Handling Missing Expert Annotations and Controlling Workload Distribution
+Tuning-Free Bilevel Optimization: New Algorithms and Convergence Analysis
+Scalable Ensemble Diversification for OOD Generalization and Detection
+From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training
+CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning
+Second-Order Forward-Mode Automatic Differentiation for Optimization
+ParetoFlow: Guided Flows in Multi-Objective Optimization
+ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning
+Covariances for Free: Exploiting Mean Distributions for Federated Learning with Pre-trained Models
+DET: Learn to Solve the Tunnel Traveling Salesmen Problem using Double-Encoder Transformer
+Quantized Spike-driven Transformer
+S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points
+Matérn Kernels for Tunable Implicit Surface Reconstruction
+Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs
+CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Lanugage Model Compression
+Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning
+Generative Lines Matching Models
+Networked Communication for Decentralised Agents in Mean-Field Games
+MMG-VL: A Vision-Language Driven Approach for Multi-Person Motion Generation
+Mechanism and emergence of stacked attention heads in multi-layer transformers
+CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset
+Can a Bayesian oracle prevent harm from an agent?
+Discovering Long-Term Effects on Parameter Efficient Fine-tuning
+Progressive Parameter Efficient Transfer Learning for Semantic Segmentation
+CROSS-CHANNEL ACTIVATION FUNCTION WITH PASS-THROUGH RATIO CONTROL
+Dynamic Low-Rank Sparse Adaptation for Large Language Models
+Semantic Score Distillation Sampling for Compositional Text-to-3D Generation
+Generalizable Transferability Estimation of Foundation Vision Models via Implicit Learning
+Towards Efficient Automatic Self-Pruning of Large Language Models
+Mitigating Gradient Interference for Efficient Sparse Fine-Tuning of Large Language Models

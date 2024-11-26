@@ -1,0 +1,50 @@
+Med-Real2Sim: Non-Invasive Medical Digital Twins using Physics-Informed Self-Supervised Learning
+On the Worst Prompt Performance of Large Language Models
+AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases
+CoSy: Evaluating Textual Explanations of Neurons
+No-Regret Learning for Fair Multi-Agent Social Welfare Optimization
+MaskFactory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation
+Initializing Services in Interactive ML Systems for Diverse Users
+Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency
+Compact Language Models via Pruning and Knowledge Distillation
+RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold
+Edit Distance Robust Watermarks via Indexing Pseudorandom Codes
+Learning Discrete Latent Variable Structures with Tensor Rank Conditions
+Mixtures of Experts for Audio-Visual Learning
+Private and Personalized Frequency Estimation in a Federated Setting
+Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources
+Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression
+An engine not a camera: Measuring performative power of online search
+INDICT: Code Generation with Internal Dialogues of Critiques for Both Security and Helpfulness
+Matching the Statistical Query Lower Bound for  k -Sparse Parity Problems with Sign Stochastic Gradient Descent
+Gated Slot Attention for Efficient Linear-Time Sequence Modeling
+Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models
+Weak Supervision Performance Evaluation via Partial Identification
+Geometric Exploitation for Indoor Panoramic Semantic Segmentation
+Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning
+Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities
+Probabilistic Conformal Distillation for Enhancing Missing Modality Robustness
+Private Attribute Inference from Images with Vision-Language Models
+Modeling Latent Neural Dynamics with Gaussian Process Switching Linear Dynamical Systems
+Learning from Noisy Labels via Conditional Distributionally Robust Optimization
+Learning to Understand: Identifying Interactions via the Möbius Transform
+Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
+Training Binary Neural Networks via Gaussian Variational Inference and Low-Rank Semidefinite Programming
+Long-tailed Object Detection Pretraining: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction
+Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection
+DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection
+A Full-duplex Speech Dialogue Scheme Based On Large Language Model
+Beyond task diversity: provable representation transfer for sequential multitask linear bandits
+MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training
+Learning Optimal Tax Design in Nonatomic Congestion Games
+Gradient Methods for Online DR-Submodular Maximization with Stochastic Long-Term Constraints
+Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models
+Improving Alignment and Robustness with Circuit Breakers
+Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models
+RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models
+GraphVis: Boosting LLMs with Visual Knowledge Graph Integration
+Soft Tensor Product Representations for Fully Continuous, Compositional Visual Representations
+Generalizable and Animatable Gaussian Head Avatar
+SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain
+On Differentially Private U Statistics
+Toward Approaches to Scalability in 3D Human Pose Estimation

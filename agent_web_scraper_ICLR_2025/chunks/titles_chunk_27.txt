@@ -1,0 +1,50 @@
+Physics-Informed Deep B-Spline Networks
+Graph Distributional Analytics: Enhancing GNN Explainability through Scalable Embedding and Distribution Analysis
+Generalized Smooth Stochastic Variational Inequalities:  Almost Sure Convergence and Convergence Rates
+Improve Vision Language Model Chain-of-thought Reasoning
+AI Derivation and Exploration of Antibiotic Class Spaces
+BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Tumor Bone Metastasis Diagnosis and Prognosis
+Time After Time: Scalable Effect Estimation for Interventions on When and What to do
+One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models
+AERO: Softmax-Only LLMs for Efficient Private Inference
+Ego-centric Learning of Communicative World Models for  Autonomous Driving
+Phase-aware Training Schedule Simplifies Learning in Flow-Based Generative Models
+From Overconnectivity to Sparsity: Emulating Synaptic Pruning with Long Connections
+Deep Learning Alternatives Of The Kolmogorov Superposition Theorem
+Vision Language Models are In-Context Value Learners
+Fast Fractional Natural Gradient Descent using Learnable Spectral Factorizations
+GRAIN: Exact Graph Reconstruction from Gradients
+ALLaM: Large Language Models for Arabic and English
+Execution-guided within-prompt search for programming-by-example
+Efficient molecular conformer generation with SO(3) averaged flow-matching and reflow
+TC-Bench: Benchmarking Temporal Compositionality in Conditional Video Generation
+Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups
+Gaussian Masked Autoencoders
+Over 100x Speedup in Relational Deep Learning via Static GNNs and Tabular Distillation
+A primal-dual algorithm for variational image reconstruction with learned convex regularizers
+Extendable and Iterative Structure Learning for Bayesian Networks
+Learning Multiple Semantic Views For Self-explaining Physiological Signal Stratification
+LoRTA: Low Rank Tensor Adaptation of Large Language Models
+ViTally Consistent: Scaling Biological Representation Learning for Cell Microscopy
+Zero-Shot Generalization of GNNs over Distinct Attribute Domains
+Improving Graph Neural Networks by Learning Continuous Edge Directions
+Auditing  f -Differential Privacy in One Run
+improve weakly supervised visual grounding by learning where to focus on
+Advancing Energy Efficiency in On-Device Streaming Speech Recognition
+Learning Chaotic Dynamics with Embedded Dissipativity
+Symmetrization of Loss Functions for Robust Training of Neural Networks in the Presence of Noisy Labels
+Trained Models Tell Us How to Make Them Robust to Spurious Correlation without Group Annotation
+Informed Exploration via Generative Modeling
+Inverse Flow and Consistency Models
+Fast constrained sampling in pre-trained diffusion models
+Accelerating Task Generalisation with Multi-Level Hierarchical Options
+SiReRAG: Indexing Similar and Related Information for Multihop Reasoning
+Training on test proteins improves fitness, structure, and function prediction
+LLM-Cite: Cheap Fact Verification with Attribution via URL Generation
+Learning equivariant tensor functions with applications to sparse vector recovery
+AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT
+MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents
+Make Haste Slowly: A Theory of Emergent Structured Mixed Selectivity in Feature Learning ReLU Networks
+Linear Relational Decoding of Morphological Relations in Language Models
+PREDICTING THE BEHAVIOR OF AI AGENTS USING TRANSFER OPERATORS
+Eliciting Human Preferences with Language Models

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Worldcraft",
+        "relevant": false
+    },
+    {
+        "title": "From an LLM Swarm to a PDDL-empowered Hive: Planning Self-executed Instructions in a Multi-modal Jungle",
+        "relevant": false
+    },
+    {
+        "title": "EMERGENCE OF GROUNDED, OPTIMALLY COMPOSITIONAL SPATIAL LANGUAGE AMONG HOMOGENEOUS AGENTS",
+        "relevant": false
+    },
+    {
+        "title": "AgentGym: Evaluating and Evolving Large Language Model-based Agents across Diverse Envronments",
+        "relevant": true
+    },
+    {
+        "title": "A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment",
+        "relevant": true
+    }
+]

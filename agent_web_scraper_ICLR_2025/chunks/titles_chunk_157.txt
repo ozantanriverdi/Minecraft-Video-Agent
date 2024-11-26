@@ -1,0 +1,50 @@
+NoisyTraj: Robust Trajectory Prediction with Noisy Observations
+AutoModel: Autonomous Model Development for Image Classification with LLM Agents
+Decomposition of one-layer neural networks via the infinite sum of reproducing kernel Banach spaces
+Position-Query-Based Autoencoders for View Decoupled Cross Point Cloud Reconstruction and a Self-Supervised Learning Framework
+The Role of Task Complexity in Emergent Abilities of Small Language Models
+Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation
+Stable Diffusion Feature Extraction for Sketching with One Example
+Compositional Entailment Learning for Hyperbolic Vision-Language Models
+Rule-Based Rating and Selection of LLM Training Data
+Derail Yourself: Multi-turn LLM Jailbreak Attack through self-discovered clues
+Rationalizing and Augmenting Dynamic Graph Neural Networks
+Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage
+Monitoring Latent World States in Language Models with Propositional Probes
+Human Expertise Really Matters!  Mitigating Unfair Utility Induced by Heterogenous Human Expertise in  AI-assisted Decision-Making
+Decoding Game: On Minimax Optimality of Heuristic Text Generation Strategies
+Inertial Confinement Fusion Forecasting via Large Language Models
+Autoencoder and Classifier based Joint-Guided Completion for Partial Multi-Modal Hashing
+PLLaVA: Parameter-efficient LLaVA Extension from Image to Video Understanding
+Orthogonal Deep Neural Networks (ODNN): Uncovering Hidden Physics in Partially Observable Systems
+Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images
+Bidirectional Generative Retrieval with Multi-Modal LLMs for Text-Video Retrieval
+Controllable Continual Test-Time Adaptation
+TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models
+UD-Mamba: A pixel-level uncertainty-driven mamba model for medical image segmentation
+Efficient Adversarial Detection and Purification with Diffusion Models
+Erasing Conceptual Knowledge from Language Models
+A Hybrid Loss Framework for Decomposition-based Time Series Forecasting Methods: Balancing Global and Component Errors
+MARS: A Malignity-Aware Backdoor Defense in Federated Learning
+VIRT: Vision Instructed Transformer for Robotic Manipulation
+CM^2: Cross-Modal Contextual Modeling for Audio-Visual Speech Enhancement
+Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs
+Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic
+Rethinking Self-Distillation: Label Averaging and Enhanced Soft Label Refinement with Partial Labels
+Natural Language Inference Improves Compositionality in Vision-Language Models
+KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks
+Isometric Regularization for Manifolds of Functional Data
+Stochastic Diffusion: A Diffusion Based Model for Stochastic Time Series Forecasting
+Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats
+Point Cloud Dataset Distillation
+Entropy-Based Aggregation for Fair and Effective Federated Learning
+λ -SecAgg: Partial Vector Freezing for Lightweight Secure Aggregation in Federated Learning
+Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
+Dynamic Switching Teacher: How to Generalize Temporal Action Detection Models
+PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing
+Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation
+Range-Null Latent Prior-guided Consistency Model for Low Light Image Enhancement
+The Benefit of Being Bayesian in Online Conformal Prediction
+CLIP-LAD: Unleash the Potential of CLIP for Few-shot Logical Anomaly Detection
+Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models
+RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code

@@ -1,0 +1,50 @@
+Neuroacoustic Patterns: Constant Q Cepstral Coefficients for the Classification of Neurodegenerative Disorders
+A Feature-Aware Federated Learning Framework for Unsupervised Anomaly Detection in 5G Networks
+UnoLoRA: Single Low-Rank Adaptation for Efficient Multitask Fine-tuning
+Synergistic Approach for Simultaneous Optimization of Monolingual, Cross-lingual, and Multilingual Information Retrieval
+EXecution-Eval: Can language models execute real-world code?
+The Rate-Distortion-Perception Trade-Off with Algorithmic Realism
+Beyond Random Masking: When Dropout meets Graph Convolutional Networks
+Defining Deception in Decision Making
+Self-supervised contrastive learning performs non-linear system identification
+MAC-CAFE: Multi-actor, Centralized Critic Architecture for Feedback-driven Editing
+Achieving Exact Federated Unlearning with Improved Post-Unlearning Performance
+Extending Flexibility of Image Coding Enhancement Framework for IoTs
+Physics-Transfer Learning: A Framework to Address the Accuracy-Performance Dilemma in Modeling Complexity Problems in Engineering Sciences
+Exploring the Recall of Language Models: Case Study on Molecules
+SNAP-TTA: Sparse Test-Time Adaptation for Latency-Sensitive Applications
+Recovering Plasticity of Neural Networks via Soft Weight Rescaling
+Shared Memory for Multi-agent Lifelong Pathfinding
+DarkBench: Benchmarking Dark Patterns in Large Language Models
+VeSX: A Framework Featured by Verification, Self-Correction and In-context Learning for Web Automation Tasks
+Stochastic Sparse Sampling: A Framework for Variable-Length Medical Time Series Classification
+OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents
+Structure-Aware Parameter-Efficient Machine Unlearning on Transformer Models
+MathOdyssey: Benchmarking Mathematical Problem-Solving Skills in Large Language Models Using Odyssey Math Data
+ESMGain: Effective and Efficient Prediction of Mutation’s functional Effect via ESM2 Transfer Learning and robust Benchmarks
+MOMENTUM MEETS VIRALITY: A NOVEL METRIC FOR UNMASKING SOCIAL BIAS IN VIRAL TWEETS
+KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation
+Mitigating Privacy Risk of Adversarial Examples with Counterfactual Explanations
+Sparse autoencoders reveal selective remapping of visual concepts during adaptation
+GenBen:A Genarative Benchmark for LLM-Aided Design
+DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure
+Hottel Zone Physics-Constrained Networks for Furnaces
+StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding
+Toward Human-Interpretable Explanations in a Unified Framework for GNNs
+PIED: Physics-Informed Experimental Design for Inverse Problems
+The Good, the Bad and the Ugly: Watermarks, Transferable Attacks and Adversarial Defenses
+Common Feature Learning for Zero-shot Image Recognition
+Learning Fused State Representations for Control from Multi-View Observations
+Flow Matching for One-Step Sampling
+AgentRefine: Enhancing Agent Generalization through Refinement Tuning
+StarCraft II Arena: Evaluating LLMs in Strategic Planning, Real-Time Decision Making, and Adaptability
+Alternating Optimized Stochastic Vector Quantization in Neural Compression
+SEAL: Scaling to Emphasize Attention for Long-Context Retrieval
+Slashed Normal: Parameterize Normal Posterior Distributions with KL Amplitude
+Defend against Jailbreak Attacks via Debate with Partially Perceptive Agents
+Recovering Knowledge by Hardening Language Models
+MuLan: Multimodal-LLM Agent for Progressive and Interactive Multi-Object Diffusion
+TabM: Advancing tabular deep learning with parameter-efficient ensembling
+Leveraging Implicit Sentiments: Enhancing Reliability and Validity in Psychological Trait Evaluation of LLMs
+EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment
+Multi-Label Test-Time Adaptation with Bound Entropy Minimization

@@ -1,0 +1,50 @@
+Lyapunov Stability Learning with Nonlinear Control via Inductive Biases
+On the Mode-Seeking Properties of Langevin Dynamics
+Activations Aren't Cheap in LoRA, Weights Are
+Beyond Correctness: Benchmarking Multi-dimensional Code Generation for Large Language Models
+Neuron based Personality Trait Induction in Large Language Models
+Regularized Optimal Transport for Single-Cell Temporal Trajectory Analysis
+A Causal Theoretical Framework for Open Set Domain Adaptation
+DEALING WITH OUT OF DISTRIBUTION IN PREDICTION PROBLEM
+Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements
+Diffusion-based Neural Network Weights Generation
+Improving Neural Network Accuracy by Concurrently Training with a Twin Network
+Sylber: Syllabic Embedding Representation of Speech from Raw Audio
+How to Verify Any (Reasonable) Distribution Property: Computationally Sound Argument Systems for Distributions
+TaKF + : A versatile and parameter-efficient tuning for EEG foundation model
+NuwaTS: a Foundation Model Mending Every Incomplete Time Series
+Lean-STaR: Learning to Interleave Thinking and Proving
+TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis
+LLaPA : Harnessing Language Models for Protein Enzyme Function
+Searching Strengthens Large Language Models in Finding Bugs of Deep Learning Libraries
+DynFrs: An Efficient Framework for Machine Unlearning in Random Forest
+SoftSignSGD(S3): An Enhanced Optimize for Practical DNN Training and Loss Spikes Minimization Beyond Adam
+Challenging the Counterintuitive: Revisiting Simple Likelihood Tests with Normalizing Flows for Tabular Data Anomaly Detection
+GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling
+Using Stochastic Gradient Descent to Smooth Nonconvex Functions: Analysis of Implicit Graduated Optimization
+Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models
+FEDNET: FREQUENCY ENHANCED DECOMPOSED NETWORK FOR OUT-OF-DISTRIBUTION TIME SERIES CLASSIFICATION
+MoSH: Modeling Multi-Objective Tradeoffs with Soft and Hard Bounds
+Uncertainty-aware Fine-tuning on Time Series Foundation Model for Anomaly Detection
+Lay-Your-Scene: Open-Vocabulary Text to Layout Generation
+FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs for Efficient Inference
+SIRA: Exposing Vulnerabilities in Text Watermarking with Self-Information Rewrite Attacks
+RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything
+Learned Reference-based Diffusion Sampler for multi-modal distributions
+Advancing Text-to-3D Generation with Linearized Lookahead Variational Score Distillation
+Negative-Prompt-driven Alignment for Generative Language Model
+Automatic Combination of Sample Selection Strategies for Few-Shot Learning
+Rethinking Lipschitzness Data-free Backdoor Defense
+Quantifying Memory Utilization with Effective State-Size
+Taipan: Efficient and Expressive State Space Language Models with Selective Attention
+Seeded LoRA: Collaborative Fine-Tuning Through Seed Initialization of Adapters
+Unbiased Attribution with Intrinsic Information
+Controlling Forgetting with Test-Time Data in Continual Learning
+LAMP: Large Model Pruning with Inter-Block Error Compensation
+ADOPD-Instruct: A Large-Scale Multimodal Dataset for Document Editing
+Do Not Mimic My Voice: Teacher-Guided Unlearning for Zero-Shot Text-to-Speech
+SIRD: Transformers Assisted Step by Step Symbolic Integration
+CF-GISS: Collision-Free Generative 3D Indoor Scene Synthesis with Controllable Floor Plans and Optimized Layouts
+Dynamic Interference Modeling For Estimating Treatment Effects From Dynamic Graphs
+Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks
+An Efficient Algorithm For Computing Optimal Wasserstein Ball Center

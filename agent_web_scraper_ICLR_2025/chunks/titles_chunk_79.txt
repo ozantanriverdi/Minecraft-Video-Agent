@@ -1,0 +1,50 @@
+FASP: Fast and Accurate Structured Pruning of Large Language Models
+MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation
+From Patches to Graphs: Towards Image Diffusion Models with GNNs
+Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback
+GuideCO: Training Objective-Guided Diffusion Solver with Imperfect Data for Combinatorial Optimization
+Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment
+Informed Machine Learning with a Stochastic-Gradient-based Algorithm for Training with Hard Constraints
+Meta-Continual Learning of Neural Fields
+Meta-weighted Diffusion Model for Reliable Online Surgical Phase Recognition
+Benchmark Dataset for Radiology Report Generation with Instructions and Contexts
+Contrastive Localized Language-Image Pre-Training
+PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets
+Second-Order Algorithms for Finding Local Nash Equilibria in Zero-Sum Games
+Forewarned is Forearmed:  Harnessing LLMs for Data Synthesis via Failure-induced Exploration
+Leveraging Diffusion Transformers for Stock Factor Augmentation in Financial Markets
+AIR-BENCH 2024: A Safety Benchmark based on Regulation and Policies Specified Risk Categories
+Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models
+Needle In A Video Haystack: A Scalable  Synthetic Evaluator for Video MLLMs
+TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices
+Lean-ing on Quality: How High-Quality Data Beats Diverse Multilingual Data in AutoFormalization
+Open Vocabulary Panoptic Segmentation With Retrieval Augmentation
+Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?
+GFlowNets Need Automorphism Correction for Unbiased Graph Generation
+ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement
+Boosting Methods for Interval-censored Data with Regression and Classification
+Extreme composite compression of large language models through joint optimization
+ZETA: Leveraging  Z -order Curves for Efficient Top- k  Attention
+Model-diff: A Tool for Comparative Study of Language Models in the Input Space
+M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation
+When Prompt Engineering Meets Software Engineering: CNL-P as Natural and Robust "APIs'' for Human-AI Interaction
+Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty
+Safe Bayesian Optimization for Complex Control Systems via Additive Gaussian Processes
+Long-context Protein Language Model
+DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation
+Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons
+Data-centric Prediction Explanation via Kernelized Stein Discrepancy
+Accurate and Scalable Graph Neural Networks via Message Invariance
+AVSS: a new benchmark for airport video semantic segmentation
+AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment
+Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction
+Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos
+Surprisingly Simple: Large Language Models are Zero-Shot Feature Extractors for Tabular and Text Data
+SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark
+MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs
+Automatic Truncation Position Selection in Singular Value Decomposition for Large Language Models
+Human Simulacra: Benchmarking the Personification of Large Language Models
+Towards Understanding the Feasibility of Machine Unlearning
+Rethinking Table Instruction Tuning
+Automatic Curriculum Expert Iteration for Reliable LLM Reasoning
+Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning

@@ -1,0 +1,50 @@
+Neuc-MDS: Non-Euclidean Multidimensional Scaling Through Bilinear Forms
+Is Cross-validation the Gold Standard to Estimate Out-of-sample Model Performance?
+Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions
+Faster Accelerated First-order Methods for Convex Optimization with Strongly Convex Function Constraints
+Exactly Minimax-Optimal Locally Differentially Private Sampling
+Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation
+Online Estimation via Offline Estimation: An Information-Theoretic Framework
+Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models
+No-Regret Bandit Exploration based on Soft Tree Ensemble Model
+Transfer Learning for Diffusion Models
+Clustering in Causal Attention Masking
+Active Set Ordering
+HGDL: Heterogeneous Graph Label Distribution Learning
+Compressing Large Language Models using Low Rank and Low Precision Decomposition
+Efficient Contextual LLM Cascades through Budget-Constrained Policy Learning
+TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge
+CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training
+Position Coupling: Improving Length Generalization of Arithmetic Transformers Using Task Structure
+Invisible Image Watermarks Are Provably Removable Using Generative AI
+Stochastic Optimal Control for Diffusion Bridges in Function Spaces
+Efficient Discrepancy Testing for Learning with Distribution Shift
+A Unifying Normative Framework of Decision Confidence
+Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL
+DASH: Warm-Starting Neural Network Training in Stationary Settings without Loss of Plasticity
+Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
+A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning
+Large Language Model Unlearning via Embedding-Corrupted Prompts
+Euclidean distance compression via deep random features
+Towards Scalable and Stable Parallelization of Nonlinear RNNs
+The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better
+A Structure-Aware Framework for Learning Device Placements on Computation Graphs
+Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models
+GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting
+A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training
+SEA: State-Exchange Attention for High-Fidelity Physics Based Transformers
+S 2 FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity
+Your contrastive learning problem is secretly a distribution alignment problem
+Data Free Backdoor Attacks
+Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation
+UNIT: Unifying Image and Text Recognition in One Vision Encoder
+Scalable Bayesian Optimization via Focalized Sparse Gaussian Processes
+Transfer Learning for Latent Variable Network Models
+Sharpness-Aware Minimization Activates the Interactive Teaching's Understanding and Optimization
+Recognize Any Regions
+CRT-Fusion: Camera, Radar, Temporal Fusion Using  Motion Information  for 3D Object Detection
+On the Surprising Effectiveness of Attention Transfer for Vision Transformers
+A Canonicalization Perspective on Invariant and Equivariant Learning
+SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions
+SpaFL: Communication-Efficient Federated Learning With Sparse Models And Low Computational Overhead
+UniAR: A Unified model for predicting human Attention and Responses on visual content

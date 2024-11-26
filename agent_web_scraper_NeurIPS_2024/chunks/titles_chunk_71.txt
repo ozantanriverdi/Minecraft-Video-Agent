@@ -1,0 +1,50 @@
+Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching
+AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising
+Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network
+Synergistic Dual Spatial-aware Generation of Image-to-text and Text-to-image
+MiniCache: KV Cache Compression in Depth Dimension for Large Language Models
+Multi-Head Mixture-of-Experts
+QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model
+OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding
+Evaluation of Text-to-Video Generation Models: A Dynamics Perspective
+RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance
+PTQ4DiT: Post-training Quantization for Diffusion Transformers
+Discrete-state Continuous-time Diffusion for Graph Generation
+IllumiNeRF: 3D Relighting Without Inverse Rendering
+Scaling White-Box Transformers for Vision
+Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control
+Putting Gale & Shapley to Work: Guaranteeing Stability Through Learning
+Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation
+FLAME : Factuality-Aware Alignment for Large Language Models
+Predictive Attractor Models
+DINTR: Tracking via Diffusion-based Interpolation
+SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation
+Continuous Product Graph Neural Networks
+A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis
+Variance estimation in compound decision theory under boundedness
+Remix-DiT: Mixing Diffusion Transformers for Multi-Expert Denoising
+DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks
+Cross-video Identity Correlating for Person Re-identification Pre-training
+Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers
+Sample-efficient Bayesian Optimisation Using Known Invariances
+Marginal Causal Flows for Validation and Inference
+A Best-of-both-worlds Algorithm for Bandits with Delayed Feedback with Robustness to Excessive Delays
+Localizing Memorization in SSL Vision Encoders
+AED: Adaptable Error Detection for Few-shot Imitation Policy
+Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception
+OxonFair: A Flexible Toolkit for Algorithmic Fairness
+Sharing Key Semantics in Transformer Makes Efficient Image Restoration
+Structured Matrix Basis for Multivariate Time Series Forecasting with Interpretable Dynamics
+RoPINN: Region Optimized Physics-Informed Neural Networks
+NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing
+Historical Test-time Prompt Tuning for Vision Foundation Models
+VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
+ϵ -Softmax: Approximating One-Hot Vectors for Mitigating Label Noise
+Pre-Trained Multi-Goal Transformers with Prompt Optimization for Efficient Online Adaptation
+Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation
+Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression
+MG-Net: Learn to Customize QAOA with Circuit Depth Awareness
+Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition
+Knowledge Composition using Task Vectors with Learned Anisotropic Scaling
+FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner
+Online Control with Adversarial Disturbance for Continuous-time Linear Systems

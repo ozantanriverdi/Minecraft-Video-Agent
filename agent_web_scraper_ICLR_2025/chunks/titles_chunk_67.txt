@@ -1,0 +1,50 @@
+Survival Analysis via Density Estimation
+Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation
+Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise
+Glauber Generative Model: Discrete Diffusion Models via Binary Classification
+Faster Adaptive Momentum-Based Federated Methods for Distributed Composition Optimization
+AutoBencher: Towards Declarative Benchmark Construction
+Evading Data Contamination Detection for Language Models is (too) Easy
+Defects4C: Benchmarking C/C++ Faults to Assess LLM-Based Program Repair
+Training-free Editioning of Text-to-Image Models
+Lightweight Quad Bayer HybridEVS Demosaicing via State Space Augmented Cross-Attention
+Self-Evolving Multi-Agent Networks for Software Development
+MetaAdapter: Leveraging Meta-Learning for Expandable Representation in Few-Shot Class Incremental Learning
+Focus On This, Not That! Steering LLMs With Adaptive Feature Specification
+Is Attention All You Need for Temporal Link Prediction? A Lightweight Alternative via Learnable Positional Encoding and MLPs
+READ-SQL: Reasoning Path Decomposer for Text-to-SQL
+Unremovable Watermarks for Open-Source Language Models
+Diffusion SigFormer for Interference Time-series Signal Recognition
+ThreadsGAN: Enhancing Coherence and Diversity in Discussion Thread Generation
+VideoLights: A Cross-Modal Cross-Task Transformer Model for Joint Video Highlight Detection and Moment Retrieval
+BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments
+IntelLLM: Little Hints Make a Big Difference for LLM KV Cache Compression
+Feature Overlapping: The Computational Redundancy Caused by Repeated Features Across Different Time Steps in SNNs
+Privacy-Aware Lifelong Learning
+ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models
+Bi-perspective Splitting Defense: Achieving Clean-Data-Free Backdoor Security
+BeHonest: Benchmarking Honesty in Large Language Models
+Global Optimality of In-context Markovian Dynamics Learning
+Adaptive Strategy Evolution for Generating Tailored Jailbreak Prompts against Black-Box Safety-Aligned LLMs
+FedSMU: Communication-Efficient and Generalization-Enhanced Federated Learning through Symbolic Model Updates
+Multistep Consistency Models
+Attention with Markov: A Curious Case of Single-layer Transformers
+PhyloLM: Inferring the Phylogeny of Large Language Models and Predicting their Performances in Benchmarks
+Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs
+Stabilized Neural Prediction of Potential Outcomes in Continuous Time
+UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition
+Geometrically Constrained Gaussian Splatting SLAM
+FlashRNN: I/O-Aware Optimization of Traditional RNNs on modern hardware
+Power of Augmented Replicas in Out-Of-Distribution Detection
+MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting
+Improving Nonlinear Projection Heads using Pretrained Autoencoder Embeddings
+Residual Deep Gaussian Processes on Manifolds
+Robustness through Random Activation: Adversarial Training with  Bernoulli Rectified Linear Units
+Flow Tree: A dynamic model for navigation paths and strategies
+Visual Scratchpads: Enabling Global Reasoning in Vision
+Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination
+Inverse Rendering for Shape, Light, and Material Decomposition using Multi-Bounce Path Tracing and Reservoir Sampling
+DA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities
+ProteinAdapter: Adapting Pre-trained Large Protein Models for Efficient Protein Representation Learning
+Spike No More: Stabilizing the Pre-training of Large Language Models
+Local Control Networks (LCNs): Optimizing Flexibility in Neural Network Data Pattern Capture

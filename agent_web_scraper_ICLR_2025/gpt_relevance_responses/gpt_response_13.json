@@ -1,0 +1,22 @@
+[
+    {
+        "title": "MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents",
+        "relevant": true
+    },
+    {
+        "title": "LifelongSotopia: Evaluating Social Intelligence Of Language Agents Over Lifelong Social Interactions",
+        "relevant": false
+    },
+    {
+        "title": "Agents' Room:  Narrative Generation through Multi-step Collaboration",
+        "relevant": false
+    },
+    {
+        "title": "ELICIT: LLM Augmentation Via External In-context Capability",
+        "relevant": false
+    },
+    {
+        "title": "ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation",
+        "relevant": false
+    }
+]

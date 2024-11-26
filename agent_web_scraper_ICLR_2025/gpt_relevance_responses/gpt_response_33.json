@@ -1,0 +1,22 @@
+[
+    {
+        "title": "RePrompt: Prompt Engineering for Large Language Models Agents through Reflection",
+        "relevant": false
+    },
+    {
+        "title": "LossAgent: Towards Any Optimization Objectives for Image Processing with LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "Transformers Can Navigate Mazes With Multi-Step Prediction",
+        "relevant": false
+    },
+    {
+        "title": "BadRobot: Manipulating Embodied LLMs in the Physical World",
+        "relevant": false
+    },
+    {
+        "title": "IGOR: Image-GOal Representations are the Atomic Building Blocks for Next-Level Generalization in Embodied AI",
+        "relevant": false
+    }
+]

@@ -1,0 +1,50 @@
+Robust Function-Calling for On-Device Language Model via Function Masking
+Understanding Domain Generalization: A View of Necessity and Sufficiency
+Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs
+Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for LLM Problem-Solving
+Dual-level Prototypes Guidance for Single-frame Temporal Action Localization
+An Open Quantum Chemistry Property Database of 120 Kilo Molecules with 20 Million Conformers
+A Semi-Supervised Clustering Approach For Graph Learning with Neural Networks
+Can Textual Gradient Work in Federated Learning?
+SCISplat: 3D Gaussian Splatting from a Snapshot Compressive Image
+IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning
+How Low Can You Go? Searching for the Intrinsic Dimensionality of Complex Networks using Metric Node Embeddings
+ConGra: Benchmarking Automatic Conflict Resolution
+The Overcooked Generalisation Challenge
+A Study of Posterior Stability for Time-Series Latent Diffusion
+Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition
+MR-GSM8K: A Meta-Reasoning Benchmark for Large Language Model Evaluation
+Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?
+On the Benefits of Memory for Modeling Time-Dependent PDEs
+Learning Equivariant Non-Local Electron Density Functionals
+Multiple-Frequencies Population-Based Training
+Risk-Sensitive Diffusion: Robustly Optimizing Diffusion Models with Noisy Samples
+ViML: A Video, Music, Language Unified Dataset for Understanding and Generation
+FastTF: 4 Parameters are All You Need for Long-term Time Series Forecasting
+DocGenome: A Large Benchmark for Multi-Modal Language Models in Real-World Academic Document Understanding
+Instance-Level Smoothing for Enhanced Privacy in Deep Learning: Theoretical Insights and Empirical Validation
+A Closer Look at Personalized Fine-Tuning in Heterogeneous Federated Learning
+Adversarial Mixup Unlearning
+DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation
+The Mutual Information Matrix in Hyperbolic Embedding and a Generalization Error Bound
+Calibrated Decision-Making through Large Language Model-Assisted Retrieval
+Neural Superposition Networks
+CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks
+Towards Continual Domain Adaptation of Vision-language Models
+Evaluating and Improving Large Language Models on Graph Computation
+GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement
+Learning Label Distribution with Subtasks
+GAMformer: In-Context Learning for Generalized Additive Models
+OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning
+Agnostic Sharpness-Aware Minimization
+Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
+Knowledge Enhanced Image Captioning for Fashion Products
+SELU: Self-Learning Embodied MLLMs in Unknown Environments
+Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving
+Uncovering Self-Emergent Similarity in Deep Vision Networks: A Systematic Framework
+Zero-shot Mixed Precision Quantization via Joint Optimization of Data Generation and Bit Allocation
+Continuous Ensemble Weather Forecasting with Diffusion models
+ReFeR: Improving Evaluation and Reasoning through Hierarchy of Models
+Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization
+Transformer Training Instability of Softmax and Lipschitz-Kernel Attentions
+DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging

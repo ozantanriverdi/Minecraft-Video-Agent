@@ -1,0 +1,50 @@
+YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
+Pre-training Differentially Private Models with Limited Public Data
+Simulation-Free Training of Neural ODEs on Paired Data
+Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation
+Differentiable Quantum Computing for Large-scale Linear Control
+Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control
+Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference
+Chain-of-Thought Reasoning Without Prompting
+Wide Two-Layer Networks can Learn from Adversarial Perturbations
+Replicability in Learning: Geometric Partitions and KKM-Sperner Lemma
+Conditional Density Estimation with Histogram Trees
+Decoupling Semantic Similarity from Spatial Alignment for Neural Networks.
+Community Detection Guarantees using Embeddings Learned by Node2Vec
+Truthful High Dimensional Sparse Linear Regression
+Empowering Visible-Infrared Person Re-Identification with Large Foundation Models
+Fast Encoder-Based 3D from Casual Videos via Point Track Processing
+Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models
+Incorporating Test-Time Optimization into Training with Dual Networks for Human Mesh Recovery
+Weight for Robustness: A Comprehensive Approach towards Optimal Fault-Tolerant Asynchronous ML
+Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation
+Fundamental Convergence Analysis of Sharpness-Aware Minimization
+Masked Pre-training Enables Universal Zero-shot Denoiser
+CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models
+Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context
+Contrastive losses as generalized models of global epistasis
+Metric Flow Matching for Smooth Interpolations on the Data Manifold
+CLIPCEIL: Domain Generalization through CLIP via Channel rEfinement and Image-text aLignment
+NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation
+How Does Message Passing Improve Collaborative Filtering?
+Learning Plaintext-Ciphertext Cryptographic Problems via ANF-based SAT Instance Representation
+Newton Informed Neural Operator for Computing Multiple Solutions of Nonlinear Partials Differential Equations
+On scalable oversight with weak LLMs judging strong LLMs
+Learning with Fitzpatrick Losses
+Vision Mamba Mender
+A Global Depth-Range-Free Multi-View Stereo Transformer Network with Pose Embedding
+Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs
+Safe LoRA: The Silver Lining of Reducing Safety Risks when Finetuning Large Language Models
+Space-Time Continuous PDE Forecasting using Equivariant Neural Fields
+Identify Then Recommend: Towards Unsupervised Group Recommendation
+Fast yet Safe: Early-Exiting with Risk Control
+Contextual Decision-Making with Knapsacks Beyond the Worst Case
+Segment, Shuffle, and Stitch: A Simple Layer for Improving Time-Series Representations
+QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs
+Adaptive and Optimal Second-order Optimistic Methods for Minimax Optimization
+IntraMix: Intra-Class Mixup Generation for Accurate Labels and Neighbors
+Conditional Outcome Equivalence: A Quantile Alternative to CATE
+On the Computational Landscape of Replicable Learning
+Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks
+NeuroPath : A Neural Pathway Transformer for Joining the Dots of Human Connectomes
+Supra-Laplacian Encoding for Transformer on Dynamic Graphs

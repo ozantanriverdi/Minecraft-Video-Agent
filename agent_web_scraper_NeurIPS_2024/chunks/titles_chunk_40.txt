@@ -1,0 +1,50 @@
+μ P 2 : Effective Sharpness Aware Minimization Requires Layerwise Perturbation Scaling
+ST k : A Scalable Module for Solving Top-k Problems
+Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models
+Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination
+MeLLoC: Lossless Compression with High-order Mechanism Learning
+The Minimax Rate of HSIC Estimation for Translation-Invariant Kernels
+A two-scale Complexity Measure for Deep Learning Models
+VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation
+Information-theoretic Generalization Analysis for Expected Calibration Error
+Learning-Augmented Algorithms with Explicit Predictors
+Towards Neuron Attributions in Multi-Modal Large Language Models
+LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes
+Suitable is the Best: Task-Oriented Knowledge Fusion in Vulnerability Detection
+Truth is Universal: Robust Detection of Lies in LLMs
+Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering
+Certified Adversarial Robustness via Randomized  α -Smoothing for Regression Models
+Generative Semi-supervised Graph Anomaly Detection
+Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation
+Geometric-Averaged Preference Optimization for Soft Preference Labels
+Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers
+Can LLMs Learn by Teaching for Better Reasoning? A Preliminary Study
+MoGU: A Framework for Enhancing Safety of LLMs While Preserving Their Usability
+Graph Classification via Reference Distribution Learning: Theory and Practice
+PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling
+On the Complexity of Identification in Linear Structural Causal Models
+AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data
+The Implicit Bias of Gradient Descent toward Collaboration between Layers: A Dynamic Analysis of Multilayer Perceptions
+Optimal Flow Matching: Learning Straight Trajectories in Just One Step
+VeXKD: The Versatile Integration of Cross-Modal Fusion and Knowledge Distillation for 3D Perception
+ADOPT: Modified Adam Can Converge with Any  β 2  with the Optimal Rate
+LAM3D: Large Image-Point Clouds Alignment Model for 3D Reconstruction from Single Image
+LESS: Label-Efficient and Single-Stage Referring 3D Segmentation
+MOTE-NAS: Multi-Objective Training-based Estimate for Efficient Neural Architecture Search
+Transformers are Minimax Optimal Nonparametric In-Context Learners
+Memory-Efficient LLM Training with Online Subspace Descent
+AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation
+Learning-Augmented Algorithms for the Bahncard Problem
+Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation
+Multi-modal Transfer Learning between Biological Foundation Models
+Recurrent neural networks: vanishing and exploding gradients are not the end of the story
+Data-Driven Discovery of Dynamical Systems in Pharmacology using Large Language Models
+Weak-eval-Strong: Evaluating and Eliciting Lateral Thinking of LLMs with Situation Puzzles
+Improved Sample Complexity for Multiclass PAC Learning
+FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model
+Penalty-based Methods for Simple Bilevel Optimization under Hölderian Error Bounds
+A Huber Loss Minimization Approach to Mean Estimation under User-level Differential Privacy
+VFIMamba: Video Frame Interpolation with State Space Models
+Data Distribution Valuation
+Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation
+Addressing Spatial-Temporal Heterogeneity: General Mixed Time Series Analysis via Latent Continuity Recovery and Alignment

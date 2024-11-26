@@ -1,0 +1,50 @@
+DRL: DISCRIMINATIVE REPRESENTATION LEARNING FOR CLASS INCREMENTAL LEARNING
+Geometric Inductive Biases of Deep Networks: The Role of Data and Architecture
+Scaling Laws for Diffusion Transformers
+FedPeWS: Personalized Warmup via Subnetworks for Enhanced Heterogeneous Federated Learning
+Unlocking the Theory Behind Scaling 1-Bit Neural Networks
+Noisy Data Pruning by Label Distribution Discrimination
+InsBank: Evolving Instruction Subset for Ongoing Alignment
+Spatiotemporal Contrast Are Natural Urban Scene Learners
+Hierarchical Prompts with Context-aware Calibration for Open-Vocabulary Object Detection
+A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation
+Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors
+Active Preference Optimization via Maximizing Learning Capacity
+AGLP: A Graph Learning Perspective for Semi-supervised Domain Adaptation
+SgCG: Semantic-guided Contrastive Generalization for  Medical Image Segmentation
+Safety Layers in Aligned Large Language Models: The Key to LLM Security
+ACE: Attack Combo Enhancement Against Machine Learning Models
+Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs
+Learning to Translate Noise for Robust Image Denoising
+UIP2P: Unsupervised Instruction-Based Image Editing via Cycle Edit Consistency
+What Makes a Good Time-series Forecasting Model? A Causal Perspective
+ResidualViT for Efficient Zero-Shot Natural Language Temporal Video Grounding
+Tra-MoE: Scaling Trajectory Prediction Models for Adaptive Policy Conditioning
+DSPFusion: Degradation and Semantic Prior Dual-guided Framework for Image Fusion
+CAR: Controllable Autoregressive Modeling for Visual Generation
+MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion
+L-PINN: A Langevin Dynamics Approach with Balanced Sampling to Improve Learning Stability in Physics-Informed Neural Networks
+Fine-grained Attention I/O Complexity: Comprehensive  Analysis for Backward Passes
+Mirror Descent Actor Critic via Bounded Advantage Learning
+Differential Privacy of Cross-Attention with Provable Guarantee
+Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time
+Episodic Novelty Through Temporal Distance
+SparseLGS: Fast Language Gaussian Splatting from Sparse Multi-View Images
+Prompt-guided Visual Perception for Efficient Training-free Video LLM
+Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation
+ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation
+ConLUX: Concept-Based Local Unified Explanations
+Foundation of Scalable Constraint Learning from Human Feedback
+Clipping Improves Adam and AdaGrad when the Noise Is Heavy-Tailed
+Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding
+Decouple-Then-Merge: Towards Better Training for Diffusion Models
+Enhancing Graph Self-Supervised Learning with Graph Interplay
+4DEditPro: Progressively Editing 4D Scenes from Monocular Videos with Text Prompts
+Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
+AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models
+BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks
+Active Learning for Continual Learning: Keeping the Past Alive in the Present
+Group Downsampling with Equivariant Anti-aliasing
+Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models
+BP-Modified Local Loss for Efficient Training of Deep Neural Networks
+Unifying Back-Propagation and Forward-Forward Algorithms through Model Predictive Control

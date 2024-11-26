@@ -1,0 +1,50 @@
+First-Step Advantage: Importance of Starting Right in Multi-Step Math Reasoning
+A General Aggregation Federated Learning Intervention Algorithm based on  d o -Calculus
+SIKeD: Self-guided Iterative Knowledge Distillation for Mathematical Reasoning
+Zigzag Diffusion Sampling: The Path to Success ls Zigzag
+A Single Swallow Does Not Make a Summer: Understanding Semantic Structures in Embedding Spaces
+Discrete Latent Plans via Semantic Skill Abstractions
+Improving Visual Grounding with Pixel-Word Correlation and Cross-layer Regularization
+Neuralized Markov Random Field for Interaction-Aware Stochastic Human Trajectory Prediction
+A General Framework for Producing Interpretable Semantic Text Embeddings
+SoLAR: Surrogate Label Aware GNN Rewiring
+R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
+Novelty Unlocking with Multiobjective Generative Models: Batch Diversity of Human Motions
+Unifying Causal Representation Learning with the Invariance Principle
+A Multiscale Frequency Domain Causal Framework for Enhanced Pathological Analysis
+PowerSoftmax: Towards secure LLM Inference Over Encrypted Data
+Latent Score-Based Reweighting for Robust Classification on Imbalanced Tabular Data
+WeatherGFM: Learning a Weather Generalist Foundation Model via In-context Learning
+Design of Ligand-Binding Proteins with Atomic Flow Matching
+Implicit Functional Bayesian Deep Learning
+Haste Makes Waste: Teaching Image Restoration to Learn Distributions from Pixels to Patterns
+Rethinking the Influence of Distribution Adjustment in Incremental Segmentation
+On Uniform, Bayesian, and PAC-Bayesian Deep Ensembles
+Universal Concavity-Aware Descent Rate for Optimizers
+RNAinformer: Generative RNA Design with Tertiary Interactions
+dnaGrinder: a lightweight and high-capacity genomic foundation model
+Overcoming label shift in targeted federated learning
+Following the Human Thread in Social Navigation
+RD2Bench: Toward Data-Centric Automatic R&D
+Subequivariant Morphology-Behavior Co-Evolution in 3D Environments
+Mitigating Robust Overfitting in Wasserstein Distributionally Robust Optimization
+Interpretable Dimensionality Reduction by Feature-preserving Manifold Approximation and Projection
+Fox-TTS: Scalable Flow Transformers for Expressive Zero-Shot Text to Speech
+AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity
+Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation
+AMSC: Adaptive Multi-Dimensional Structured Compression with Theoretical Guarantees
+Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives
+Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL
+Direct Distributional Optimization for Provable Alignment of Diffusion Models
+Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses
+Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors
+Generating Model Parameters for Controlling: Parameter Diffusion for Controllable  Multi-Task Recommendation
+Dynamic Influence Tracker: Estimating Sample Influence in SGD-Trained Models across Arbitrary Time Windows
+Optimal Flow Transport and its Entropic Regularization: a GPU-friendly Matrix Iterative Algorithm for Flow Balance Satisfaction
+Exploring The Forgetting in Adversarial Training: A Novel Method for Enhancing Robustness
+Do Influence Functions Work on Large Language Models?
+Estimating the conformal prediction threshold from noisy labels
+Test-Time Training for Out-of-Distribution Industrial Anomaly Detection via Robust Distribution Alignment
+Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception
+SSNet: Skip and Split MLP Network for Long-Term  Series Forecasting
+Writing in the Margins: Better Inference Patterns for Long-Context Retrieval

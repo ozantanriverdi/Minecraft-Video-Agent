@@ -1,0 +1,22 @@
+[
+    {
+        "title": "OW-VISCapTor: Abstractors for Open-World Video Instance Segmentation and Captioning",
+        "relevant": true
+    },
+    {
+        "title": "Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers",
+        "relevant": false
+    },
+    {
+        "title": "DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph",
+        "relevant": false
+    },
+    {
+        "title": "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search",
+        "relevant": false
+    },
+    {
+        "title": "SpecExec: Massively Parallel Speculative Decoding For Interactive LLM Inference on Consumer Devices",
+        "relevant": false
+    }
+]

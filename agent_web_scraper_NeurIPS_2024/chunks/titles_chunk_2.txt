@@ -1,0 +1,50 @@
+Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery
+NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+The Road Less Scheduled
+Convolutional Differentiable Logic Gate Networks
+Selective Generation for Controllable Language Models
+Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery
+Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space
+Continual learning with the neural tangent ensemble
+Neglected Hessian component explains mysteries in sharpness regularization
+An Analysis of Tokenization: Transformers under Markov Data
+Generalization Analysis for Label-Specific Representation Learning
+Paths to Equilibrium in Games
+Double-Ended Synthesis Planning with Goal-Constrained Bidirectional Search
+Time-Reversal Provides Unsupervised Feedback to LLMs
+Compositional Generalization Across Distributional Shifts with Sparse Tree Operations
+Flexible task abstractions emerge in linear networks with fast and bounded units
+Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes
+Rule Extrapolation in Language Modeling: A Study of Compositional Generalization on OOD Prompts
+A generalized neural tangent kernel for surrogate gradient learning
+GREATS: Online Selection of High-Quality Data for LLM Training in Every Iteration
+Non-Asymptotic Uncertainty Quantification in High-Dimensional Learning
+Boosting Vision-Language Models with Transduction
+Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space
+Assouad, Fano, and Le Cam with Interaction: A Unifying Lower Bound Framework and Characterization for Bandit Learnability
+Exploring Jacobian Inexactness in Second-Order Methods for Variational Inequalities: Lower Bounds, Optimal Algorithms and Quasi-Newton Approximations
+Who's asking? User personas and the mechanics of latent misalignment
+Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences
+Selective Generation for Controllable Language Models
+Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data
+Overcoming Common Flaws in the Evaluation of Selective Classification Systems
+Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning
+Reproducibility of predictive networks for mouse visual cortex
+Nonlinear dynamics of localization in neural receptive fields
+Learning Noisy Halfspaces with a Margin: Massart is No Harder than Random
+Evaluating the World Model Implicit in a Generative Model
+TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation
+Mean-Field Langevin Dynamics for Signed Measures via a Bilevel Approach
+Stabilized Proximal-Point Methods for Federated Optimization
+Bigger, Regularized, Optimistic: scaling for compute and sample efficient continuous control
+Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts
+Reparameterization invariance in approximate Bayesian inference
+Disentangling the Roles of Distinct Cell Classes with Cell-Type Dynamical Systems
+Linear Regression using Heterogeneous Data Batches
+A Near-optimal Algorithm for Learning Margin Halfspaces with Massart Noise
+Latent Diffusion for Neural Spiking Data
+Neural Krylov Iteration for Accelerating Linear System Solving
+Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting
+LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation
+No-regret Learning in Harmonic Games: Extrapolation in the Face of Conflicting Interests
+Active Classification with Few Queries under Misspecification

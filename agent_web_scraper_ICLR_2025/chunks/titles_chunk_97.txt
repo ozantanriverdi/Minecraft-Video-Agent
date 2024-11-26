@@ -1,0 +1,50 @@
+TURNIP: A “Nondeterministic” GPU Runtime with CPU RAM Offload
+FIMP: Foundation Model-Informed Message Passing for Graph Neural Networks
+Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning
+The Superposition of Diffusion Models
+Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers
+Human-Aligned Chess With a Bit of Search
+MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion
+Scaling Laws for Predicting Downstream Performance in LLMs
+Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces
+ARVideo: Autoregressive Pretraining for Self-Supervised Video Representation Learning
+Autoregressive Pretraining with Mamba in Vision
+Imit-Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning
+Task-Adaptive Pretrained Language Models via Clustered-Importance Sampling
+Sparse Autoencoders Do Not Find Canonical Units of Analysis
+Unpaired Single-Cell Dataset Alignment with Wavelet Optimal Transport
+An Efficient Plugin Method for Metric Optimization of Black-Box Models
+Exploring the Causal Mechanisms: Towards Robust and Explainable Algorithm Selection
+Attention Speaks Volumes: Localizing and Mitigating Bias in Language Models
+Hessian-Aware Training for Enhancing Model Resilience for In-Memory Computing
+Emergent Symbol-Like Number Variables in Artificial Neural Networks
+BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities
+Training Robust Ensembles Requires Rethinking Lipschitz Continuity
+Influence-based Attributions can be Manipulated
+Node Duplication Improves Cold-start Link Prediction
+OmniParser for Pure Vision Based GUI Agent
+Minimizing Dependence between Embedding Dimensions with Adversarial Networks
+Generative Monoculture in Large Language Models
+Stable Signature is Unstable: Removing Image Watermark from Diffusion Models
+Composable Interventions for Language Models
+Training Large Language Model to Reason in a Continuous Latent Space
+What If We Recaption Billions of Web Images with LLaMA-3?
+QCR: Quantised Codebooks for Retrieval
+MUSE: Machine Unlearning Six-Way Evaluation for Language Models
+On the Convergence of Tsetlin Machines for the AND and the OR Operators
+Identifying Feedforward  and Feedback Controllable Subspaces of Neural Population Dynamics
+Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems
+Multiplayer Federated Learning: Reaching Equilibrium with Less Communications
+Can Diffusion Models Disentangle? A Theoretical Perspective
+Interplay Between Task Learning and Skill Discovery for Agile Locomotion
+A Transfer Attack to Image Watermarks
+PuzzlePlex: A Benchmark to Evaluate the Reasoning and Planning of Large Language Models on Puzzles
+Improving Molecule-Language Alignment with Hierarchical Graph Tokenization
+Inference time LLM alignment in single and multidomain preference spectrum
+Port-Hamiltonian Architectural Bias for Long-Range Propagation in Deep Graph Networks
+ACCO: Accumulate while you Communicate, Hiding Communications in Distributed LLM Training
+Continual Learning: Less Forgetting, More OOD Generalization via Adaptive Contrastive Replay
+Patch-Based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems
+Time, Space and Streaming Efficient Algorithm for Heavy Attentions
+Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model
+Filtered Semantic Search via Vector Arithmetic

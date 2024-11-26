@@ -1,0 +1,50 @@
+Connecting Solutions and Boundary Conditions/Parameters Directly: Solving PDEs in Real Time with PINNs
+On Erroneous Agreements of CLIP Image Embeddings
+Neural Symbolic Regression of Complex Network Dynamics
+SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition
+What can Mamba do for 3D Volumetric Medical Image Segmentation?
+Learning Semantic-Enhanced Dual Temporal Adjacent Maps for Video Moment Retrieval
+TUI: A Conformal Uncertainty Indicator for Continual Test-Time Adaptation
+Not All LLM Reasoners Are Created Equal
+Pseudo-Labels are All You Need for Out-Of-Distribution Detection
+Efficient Training of Neural Stochastic Differential Equations by Matching Finite Dimensional Distributions
+Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts
+Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning
+TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights
+GasketRAG: Systematic Alignment of Large Language Models with Retrievers
+Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning
+Looking beyond the surface with Contrastive LEarning with Anti-contrastive Regularization (CLEAR)
+CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning
+Enhancing Adversarial Robustness Through Robust Information Quantities
+Gradient Flow Provably Learns Robust Classifiers for Data from Orthonormal Clusters
+Accumulator-Aware Post-Training Quantization for Large Language Models
+Parallel simulation for sampling under isoperimetry and score-based diffusion models
+CodeLutra: Boosting LLM Code Generation via Preference-Guided Refinement
+Spectro-Riemannian Graph Neural Networks
+CBMA: Improving Conformal Prediction through Bayesian Model Averaging
+FLDmamba:  Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction
+ParallelSpec: Parallel Drafter for Efficient Speculative Decoding
+Point-SAM: Promptable 3D Segmentation Model for Point Clouds
+Causal Discovery via Bayesian Optimization
+Towards Out-of-Modal Generalization without Instance-level Modal Correspondence
+A grid world agent with favorable inductive biases
+IT 3 : Idempotent Test-Time Training
+Uncertainty Estimation for 3D Object Detection via Evidential Learning
+Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives
+From Unimodal to Multimodal:Scaling up Projectors to Align Modalities
+Data Distillation for extrapolative protein design through exact preference optimization
+A Realistic Threat Model for Large Language Model Jailbreaks
+Radial Basis Operator Networks
+Let Me Grok for You: Accelerating Grokking via Embedding Transfer from a Weaker Model
+Large Language Monkeys: Scaling Inference Compute with Repeated Sampling
+Zero-shot Outlier Detection via Synthetically Pretrained Transformers: Model Selection Bygone!
+SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF
+Coordinate In and Value Out: Training Flow Transformers in Ambient Space
+Do LLMs estimate uncertainty well in instruction-following?
+TopoDiffusionNet: A Topology-aware Diffusion Model
+Analyzing the Language of Visual Tokens
+DistillHGNN: A Knowledge Distillation Approach for High-Speed Hypergraph Neural Networks
+The Geometry of Attention: Ricci Curvature and Transformers Training and  Robustness
+Learning Transformer-based World Models with Contrastive Predictive Coding
+Covariate-informed continuous-time gray-box modeling to identify responsiveness of post-surgical pain to opioid therapy
+Logical Consistency of Large Language Models in Fact-Checking

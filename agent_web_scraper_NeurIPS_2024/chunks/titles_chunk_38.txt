@@ -1,0 +1,50 @@
+Thinking Forward: Memory-Efficient Federated Finetuning of Language Models
+UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections
+Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms
+BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference
+Boosting the Transferability of Adversarial Attack on Vision Transformer with Adaptive Token Tuning
+Implicit Regularization Paths of Weighted Neural Representations
+GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models
+One-to-Multiple: A Progressive Style Transfer Unsupervised Domain-Adaptive Framework for Kidney Tumor Segmentation
+HyperPrism: An Adaptive Non-linear Aggregation Framework for Distributed Machine Learning over Non-IID Data and Time-varying Communication Links
+Accelerating Matroid Optimization through Fast Imprecise Oracles
+Latent Neural Operator for Solving Forward and Inverse PDE Problems
+Adam with model exponential moving average is effective for nonconvex optimization
+Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE
+Mixture of Adversarial LoRAs: Boosting Robust Generalization in Meta-Tuning
+Tight Bounds for Learning RUMs from Small Slates
+Web-Scale Visual Entity Recognition: An LLM-Driven Data Approach
+You Don’t Need Domain-Specific Data Augmentations When Scaling Self-Supervised Learning
+Differentially Private Equivalence Testing for Continuous Distributions and Applications
+MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins
+Identifying Selections for Unsupervised Subtask Discovery
+Using Time-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs
+Multi-Scale Representation Learning for Protein Fitness Prediction
+Discrete Modeling via Boundary Conditional Diffusion Processes
+A robust inlier identification algorithm for point cloud registration via  ℓ 0 -minimization
+LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models
+Symbolic Regression with a Learned Concept Library
+Solving Zero-Sum Markov Games with Continous State via Spectral Dynamic Embedding
+SuperDeepFool: a new fast and accurate minimal adversarial attack
+Infusing Self-Consistency into Density Functional Theory Hamiltonian Prediction via Deep Equilibrium Models
+Visual Data Diagnosis and Debiasing with Concept Graphs
+Model LEGO: Creating Models Like Disassembling and Assembling Building Blocks
+Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate
+Parameter Competition Balancing for Model Merging
+Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling
+Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models
+Typicalness-Aware Learning for Failure Detection
+Do's and Don'ts: Learning Desirable Skills with Instruction Videos
+Lower Bounds and Optimal Algorithms for Non-Smooth Convex Decentralized Optimization over Time-Varying Networks
+LaSCal: Label-Shift Calibration without target labels
+VideoTetris: Towards Compositional Text-to-Video Generation
+Similarity-Navigated Conformal Prediction for Graph Neural Networks
+Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms
+Targeted Sequential Indirect Experiment Design
+Conformalized Multiple Testing after Data-dependent Selection
+Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?
+Testably Learning Polynomial Threshold Functions
+Seeing Beyond the Crop: Using Language Priors for Out-of-Bounding Box Keypoint Prediction
+Enhancing Domain Adaptation through Prompt Gradient Alignment
+The Secretary Problem with Predicted Additive Gap
+Designs for Enabling Collaboration in Human-Machine Teaming via Interactive and Explainable Systems

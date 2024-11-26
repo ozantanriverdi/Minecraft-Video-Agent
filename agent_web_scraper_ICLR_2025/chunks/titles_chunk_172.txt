@@ -1,0 +1,50 @@
+SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning
+Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning
+ControlVAR: Exploring Controllable Visual Autoregressive Modeling
+Magic Insert: Style-Aware Drag-and-Drop
+Towards Efficient and Accurate Identification of Memorization in Deep Models
+Back to Fundamentals: Re-Examining Memorization in Deep Learning Models
+Boosting Membership Inference Attacks with Upstream Modification
+Convergent Privacy Loss of Noisy-SGD without Convexity and Smoothness
+MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models
+Semialgebraic Neural Networks: From roots to representations
+OPTAMI: Global Superlinear Convergence of High-order Methods
+The Representation Geometry of Features and Hierarchy in Large Language Models
+On the Almost Sure Convergence of the Stochastic Three Points Algorithm
+ROMEO: ROBUST METRIC VISUAL ODOMETRY
+Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
+MotifDisco: Motif Causal Discovery For Time Series Motifs
+ContraSim: Contrastive Similarity Space Learning for Financial Market Predictions
+Metric-Driven Attributions for Vision Transformers
+Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant
+Decentralizing Test-time Adaptation under Heterogeneous Data Streams
+OIDA-QA: A Multimodal Benchmark for Analyzing the Opioid Industry Document Archive
+Maximizing the Potential of Synthetic Data: Insights from Random Matrix Theory
+Pharmacophore-based design by learning on voxel grids
+Simple and Controllable Uniform Discrete Diffusion Language Models
+Generator Matching: Generative modeling with arbitrary Markov processes
+Combining Structure and Text: Learning Representations for Reasoning on Graphs
+Wolf: Accurate Video Captioning with a World Summarization Framework
+Low-cost Enhancer for Text Attributed Graph Learning via Graph Alignment
+How Feature Learning Can Improve Neural Scaling Laws
+Agent-G: An Agentic Framework for Graph Retrieval Augmented Generation
+Keys to Robust Edits: From Theoretical Insights to Practical Advances
+STAMP: Scalable Task- And Model-agnostic Collaborative Perception
+360-InpaintR: Reference-Guided 3D Inpainting for Unbounded Scenes
+Energy-Based Conceptual Diffusion Model
+VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data
+Constructing Confidence Intervals for Average Treatment Effects from Multiple Observational Datasets
+ElastoGen: 4D Generaetive Elastodynamics
+InnateCoder: Learning Programmatic Options with Foundation Models
+Learning to Help in Multi-Class Settings
+Stand on Two Shoulders: Dynamically Merging Tokens from General and Medical Experts
+MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense
+Metalic: Meta-Learning In-Context with Protein Language Models
+Mexa: Multilingual Evaluation of English-Centric LLMs via  Cross-Lingual Alignment
+MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router
+Can We Ignore Labels in Out of Distribution Detection?
+Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning
+OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition
+Diffusion Models Are Real-Time Game Engines
+Efficient Perplexity Bound and Ratio Matching in Discrete Diffusion Language Models
+Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers

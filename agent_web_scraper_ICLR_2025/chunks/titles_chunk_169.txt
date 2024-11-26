@@ -1,0 +1,50 @@
+BTBS-LNS: Binarized-Tightening, Branch and Search on Learning LNS Policies for MIP
+Evidence from the Synthetic Laboratory: Language Models as Auction Participants
+Incorporating continuous dependence implies better generalization ability
+Extending Mercer's expansion to indefinite and asymmetric kernels
+Event-Customized Image Generation
+A Statistical Approach for Controlled Training Data Detection
+Discriminating image representations with principal distortions
+CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control
+Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures
+PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions
+SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation
+PvNeXt: Rethinking Network Design and Temporal Motion for Point Cloud Video Recognition
+Targeted Low-rank Refinement: Enhancing Sparse Neural Networks with Precision
+Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?
+3DGS-Det: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection
+How Much is a  Noisy Image Worth? Data Scaling Laws for Ambient Diffusion.
+Posterior sampling via Langevin dynamics based on generative priors
+Quantile-Optimal Policy Learning under Unmeasured Confounding
+InstructBrush: Learning Attention-based Visual Instruction for Image Editing
+High-dimension Prototype is a Better Incremental Object Detection Learner
+HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters
+Self-supervised Transfer Learning via Adversarial Contrastive Training
+EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings
+Benchmarking and Analyzing Monocular Geometry Estimation Models
+HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction
+FARV: Leveraging Facial and Acoustic Representation in Vocoder For Video-to-Speech Synthesis
+MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities
+Probabilistic Token Alignment for Large Language Model Fusion
+Unveiling AI's Blind Spots: An Oracle for In-Domain, Out-of-Domain, and Adversarial Errors
+Continuity-Preserving Autoencoders for Learning Continuous Latent Dynamical Models from Images
+Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection
+SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects
+Dynamic Mixture-of-Experts for Incremental Graph Learning
+ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving
+Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning
+Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport
+Planning in Natural Language Improves LLM Search for Code Generation
+Unveiling the Secret of AdaLN-Zero in Diffusion Transformer
+Compromised Turing Machines: Adversarial Interference and Endogenous Verification
+Mixture-of-Queries Transformer: Camouflaged Instance Segmentation via Queries Cooperation and Frequency Enhancement
+Simulation-Free Differential Dynamics through Neural Conservation Laws
+Learning to Select Nodes in Branch and Bound with Sufficient Tree Representation
+Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems
+Weakly Supervised Video Scene Graph Generation via Natural Language Supervision
+GameArena: Evaluating LLM Reasoning through Live Computer Games
+MaxSup: Fixing Label Smoothing for Improved Feature Representation
+Locate-then-Unlearn: An Effective Method of Multi-Task Continuous Learning for Large Language Models
+LLM-Augmented Retrieval: Enhancing Retrieval Models Through Language Models and Doc-Level Embedding
+LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences
+RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image

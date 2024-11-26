@@ -1,0 +1,50 @@
+ROIDICE: Offline Return on Investment Maximization for Efficient Decision Making
+Prediction with Action: Visual Policy Learning via Joint Denoising Process
+Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation
+Stochastic Extragradient with Flip-Flop Shuffling & Anchoring: Provable Improvements
+LLM-AutoDA: Large Language Model-Driven Automatic Data Augmentation for Long-tailed Problems
+Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level
+On the Noise Robustness of In-Context Learning for Text Generation
+S-STE: Continuous Pruning Function for Efficient 2:4 Sparse Pre-training
+Do LLMs Build World Representations? Probing Through the Lens of State Abstraction
+Extracting Training Data from Molecular Pre-trained Models
+Probing the Decision Boundaries of In-context Learning in Large Language Models
+Progressive Entropic Optimal Transport Solvers
+Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
+HYDRA: Model Factorization Framework for Black-Box LLM Personalization
+Bridging Geometric States via Geometric Diffusion Bridge
+Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference
+Variational Multi-scale Representation for Estimating Uncertainty in 3D Gaussian Splatting
+Piecewise deterministic generative models
+Risk-sensitive control as inference with Rényi divergence
+Semi-Discrete Optimal Transport:  Nearly Minimax Estimation With Stochastic Gradient Descent and Adaptive Entropic Regularization
+SCOREQ: Speech Quality Assessment with Contrastive Regression
+MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence
+An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models
+Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization
+Partially Observable Cost-Aware Active-Learning with Large Language Models
+Abductive Reasoning in Logical Credal Networks
+Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning
+Pretrained Optimization Model for Zero-Shot Black Box Optimization
+Learning Bregman Divergences with Application to Robustness
+Learning-Augmented Approximation Algorithms for Maximum Cut and Related Problems
+Pessimistic Backward Policy for GFlowNets
+Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning
+Towards Safe Concept Transfer of Multi-Modal Diffusion via Causal Representation Editing
+BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction
+UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation
+ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer
+Graph Structure Inference with BAM: Neural Dependency Processing via Bilinear Attention
+Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction
+Progressive Exploration-Conformal Learning for Sparsely Annotated Object Detection in Aerial Images
+Toward a Well-Calibrated Discrimination via Survival Outcome-Aware Contrastive Learning
+Exploiting LLM Quantization
+Data subsampling for Poisson regression with pth-root-link
+Shape analysis for time series
+A distributional simplicity bias in the learning dynamics of transformers
+Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models
+Talking Heads: Understanding Inter-Layer Communication in Transformer Language Models
+Classifier-guided Gradient Modulation for Enhanced Multimodal Learning
+Data Mixture Inference Attack: BPE Tokenizers Reveal Training Data Compositions
+Emergence of heavy tails in homogenized stochastic gradient descent
+Query-Based Adversarial Prompt Generation

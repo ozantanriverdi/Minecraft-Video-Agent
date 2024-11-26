@@ -1,0 +1,50 @@
+Generalization Bound and Learning Methods for Data-Driven Projections in Linear Programming
+Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation
+Online Weighted Paging with Unknown Weights
+MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
+CRAYM: Neural Field Optimization via Camera RAY Matching
+HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors
+Optimizing the coalition gain in Online Auctions with Greedy Structured Bandits
+Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+Artemis:  Towards Referential Understanding in Complex Videos
+Out-of-Distribution Detection with a Single Unconditional Diffusion Model
+Improved learning rates in multi-unit uniform price auctions
+Robust Fine-tuning of Zero-shot Models via Variance Reduction
+NeuralClothSim: Neural Deformation Fields Meet the Thin Shell Theory
+Strategic Multi-Armed Bandit Problems Under Debt-Free Reporting
+Homology Consistency Constrained Efficient Tuning for Vision-Language Models
+DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection
+4-bit Shampoo for Memory-Efficient Network Training
+Agent Planning with World Knowledge Model
+Diffusion Imitation from Observation
+Adaptive Experimentation When You Can't Experiment
+Bias Amplification in Language Model Evolution: An Iterated Learning Perspective
+Towards Global Optimal Visual In-Context Learning Prompt Selection
+Entropy testing and its application to testing Bayesian networks
+Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers
+Style Adaptation and Uncertainty Estimation for Multi-Source Blended-Target Domain Adaptation
+Toward Real Ultra Image Segmentation: Leveraging Surrounding Context to Cultivate General Segmentation Model
+Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels
+Segment Anything without Supervision
+Dense Connector for MLLMs
+Computerized Adaptive Testing via Collaborative Ranking
+TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy
+AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models
+HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness
+D-LLM: A Token Adaptive Computing Resource Allocation Strategy for Large Language Models
+DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for  Cognitive Diagnosis
+Evidential Stochastic Differential Equations for Time-Aware Sequential Recommendation
+Local and Adaptive Mirror Descents in Extensive-Form Games
+Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection
+Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity
+Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning
+Provable and Efficient Dataset Distillation for Kernel Ridge Regression
+Exponential Quantum Communication Advantage in Distributed Inference and Learning
+Neural Isometries: Taming Transformations for Equivariant ML
+CoFie: Learning Compact Neural Surface Representations with Coordinate Fields
+FactorSim: Generative Simulation via Factorized Representation
+DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
+Learning-Augmented Priority Queues
+B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable
+Addressing Bias in Online Selection with Limited Budget of Comparisons
+Lookback Prophet Inequalities

@@ -1,0 +1,50 @@
+GLIMO: Grounding Large Language Models With Imperfect World Models
+An Image is Worth  K  Slots: Data-efficient Scaling of Self-supervised Visual Pre-training
+TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model
+INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance
+Cauchy-Schwarz Fairness Regularizer
+PIN: Prolate Spheroidal Wave Function-based Implicit Neural Representations
+Sparse Attention Decomposition Applied to Circuit Tracing
+Orthogonal Representation Learning for Estimating Causal Quantities
+Deep Linear Hawkes Processes
+Sparling: Learning Latent Representations with Extremely Sparse Activations
+Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training
+AINR: Adaptive Learning of Activations for Implicit Neural Representations
+When Can Transformers Count to n?
+Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects
+Benchmarking Survival Models: Treatment Effects, Bias, and Equity
+Sort-free Gaussian Splatting via Weighted Sum Rendering
+ACUS: Audio Captioning with Unbiased Sliced Wasserstein Kernel
+Retrospective Learning from Interactions
+Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation
+Decomposing The Dark Matter of Sparse Autoencoders
+Scaling up Image Segmentation across Data and Tasks
+Language Models for Textual Data Valuation
+Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models
+Beyond Levels and Continuity: A New Statistical Method for DNNs Robustness Evaluation
+Universal Semantic Disentangled Privacy-preserving Speech Representation Learning
+Not All Language Model Features Are Linear
+SELECTFORMER: PRIVATE AND PRACTICAL DATA SE- LECTION FOR TRANSFORMERS
+Enhancing Language Model Agents using Diversity of Thoughts
+Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy
+Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation
+EIA: ENVIRONMENTAL INJECTION ATTACK ON GENERALIST WEB AGENTS FOR PRIVACY LEAKAGE
+Enhancing Deep Partial Label Learning via Casting it to a Satisfiability Problem
+SE(3)-Hyena Operator for Scalable Equivariant Learning
+Joint Modeling of Spatial and Temporal Multiscales in Molecular Dynamics
+VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use
+Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale
+DON’T STOP ME NOW: EMBEDDING BASED SCHEDULING FOR LLMS
+REVIP: Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge
+Data-scarce distillation for large-scale vision language models
+cryoSPHERE: Single-Particle HEterogeneous REconstruction from cryo EM
+Contextualizing biological perturbation experiments through language
+Rethinking Fair Representation Learning for Performance-Sensitive Tasks
+Privacy Auditing of Large Language Models
+Archon: An Architecture Search Framework for Inference-Time Techniques
+Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks
+Robust Watermarking for Diffusion Models: A Unified Multi-Dimensional Recipe
+Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts
+Revealing the Unseen: Guiding Personalized Diffusion Models to Expose Training Data
+Variance-Reducing Couplings for Random Features
+Is Knowledge in Multilingual Language Models Cross-Lingually Consistent?

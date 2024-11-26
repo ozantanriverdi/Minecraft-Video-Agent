@@ -1,0 +1,50 @@
+SHARP: Splatting High-fidelity And Relightable Photorealistic 3D Gaussian Head Avatars
+The Crucial Role of Samplers in Online Direct Preference Optimization
+Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions
+FlipAttack: Jailbreak LLMs via Flipping
+Improved Robustness and Hyperparameter Selection in the Dense Associative Memory
+Scaling Diffusion Models for Downstream Prediction
+Grounding is All You Need? Dual Temporal Grounding for Video Dialog
+Unifying Vocabulary of Large Language Model with Statistical Token-level Alignment
+ZZEdit: ZigZag Trajectories of Inversion and Denoising for Zero-shot Image Editing
+Low Rank Quantization Adaptation for Large Language Model
+Neural Manifold Regularization: Aligning 2D Latent Dynamics with Stereotyped, Natural, and Attempted Movements
+Reducing class-wise confusion for incremental learning with disentangled manifolds
+Robust Video Moment Retrieval with Introspective Knowledge Distillation
+Generalized Video Moment Retrieval
+A Tailored Framework for Aligning Diffusion Models with Human Preference
+A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention
+GameGen- X : Interactive Open-world Game Video Generation
+One Step Diffusion-based Super-Resolution with Time-Aware Distillation
+Training Language Models to Critique with Multi-Agent Feedback
+Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance
+CoNNect: A Swiss-Army-Knife Regularizer for Pruning of Neural Networks
+StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces
+EVA: An Embodied World Model for Future Video Anticipation
+MOVIS: Enhancing Multi-Object Novel View Synthesis for Indoor Scenes
+Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models
+Stochastically Capturing Partial Relationship among Features for Multivariate Forecasting
+Injecting Inductive Bias to 3D Gaussian Splatting for Geometrically Accurate Radiance Fields
+Synchronous Scene Text Spotting and Translating
+Mean-field Continuous Sequence Predictors
+Temporal Adaptive Convolutional Intervention Network for Counterfactual Estimation: A Domain Generalization Perspective
+iQR: Quantile Regression with QR Orthogonal Decomposition for Resource Scheduling Optimization without Empirical Model
+Transferable Adversarial Attack on Vision-enabled Large Language Models
+Does Your Video-language Model Actually Understand the Language Input?
+Mamba-Reg: Vision Mamba Also Needs Registers
+Score-Based Variational Inference for Inverse Problems
+Are Large Vision-Language Models Robust to Adversarial Visual Transformations?
+Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
+AutoScale: Automatic Prediction of Compute-optimal Data Compositions for Training LLMs
+SpikingVTG: Saliency Feedback Gating Enabled Spiking Video Temporal Grounding
+DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors
+Deep Clustering and Interpolation via the Federated Self-Organizing Map
+Vector Quantization By Distribution Matching
+SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers
+Structured Initialization for Attention in Vision Transformers
+Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models
+Blending Concepts in Text-to-Image Diffusion Models using the Black Scholes Algorithm
+Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale
+Is Synthetic Data Ready for Improving Visual Grounding?
+Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing
+Active Learning of Deep Neural Networks via Gradient-Free Cutting Planes

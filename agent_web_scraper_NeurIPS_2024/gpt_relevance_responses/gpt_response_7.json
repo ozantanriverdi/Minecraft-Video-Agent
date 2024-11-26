@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation",
+        "relevant": false
+    },
+    {
+        "title": "WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment",
+        "relevant": true
+    },
+    {
+        "title": "GenRL: Multimodal-foundation world models for generalization in embodied agents",
+        "relevant": true
+    },
+    {
+        "title": "Do's and Don'ts: Learning Desirable Skills with Instruction Videos",
+        "relevant": false
+    },
+    {
+        "title": "VideoTetris: Towards Compositional Text-to-Video Generation",
+        "relevant": false
+    }
+]

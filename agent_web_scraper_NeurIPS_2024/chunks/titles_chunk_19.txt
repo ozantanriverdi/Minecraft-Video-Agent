@@ -1,0 +1,50 @@
+When to Act and When to Ask: Policy Learning With Deferral Under Hidden Confounding
+Metric Space Magnitude for Evaluating the Diversity of Latent Representations
+Provably and Practically Efficient Adversarial Imitation Learning with General Function Approximation
+Vision Foundation Model Enables Generalizable Object Pose Estimation
+LoRA-GA: Low-Rank Adaptation with Gradient Approximation
+Globally Convergent Variational Inference
+Unified Mechanism-Specific Amplification by Subsampling and Group Privacy Amplification
+Wings: Learning Multimodal LLMs without Text-only Forgetting
+Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?
+Batched Energy-Entropy acquisition for Bayesian Optimization
+Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated Learning
+LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings
+Quantitative Convergences of Lie Group Momentum Optimizers
+ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction
+Accurate and Steady Inertial Pose Estimation through Sequence Structure Learning and Modulation
+Monomial Matrix Group Equivariant Neural Functional Networks
+Crafting Interpretable Embeddings for Language Neuroscience by Asking LLMs Questions
+Improving Generalization and Convergence by Enhancing Implicit Regularization
+Policy Improvement using Language Feedback Models
+Causal Effect Identification in a Sub-Population with Latent Variables
+Unifying Homophily and Heterophily for Spectral Graph Neural Networks via Triple Filter Ensembles
+Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity
+Cross-model Control: Improving Multiple Large Language Models in One-time Training
+HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach
+The Challenges of the Nonlinear Regime for Physics-Informed Neural Networks
+Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data
+Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization
+Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics
+Multi-Label Open Set Recognition
+Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis
+Graph Convolutions Enrich the Self-Attention in Transformers!
+Visual Pinwheel Center Act as Geometric Saliency Detector
+Differentially Private Optimization with Sparse Gradients
+How Far Can Transformers Reason? The Globality Barrier and Inductive Scratchpad
+Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling
+Collaborative Refining for Learning from Inaccurate Labels
+SpeechAlign: Aligning Speech Generation to Human Preferences
+How does Architecture Influence the Base Capabilities of Pre-trained Language Models? A Case Study Based on FFN-Wider and MoE Transformers
+OPEL: Optimal Transport Guided ProcedurE Learning
+Relational Verification Leaps Forward with RABBit
+Fight Back Against Jailbreaking via Prompt Adversarial Tuning
+Contracting with a Learning Agent
+On the Scalability of Certified Adversarial Robustness with Generated Data
+Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model
+B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory
+Fair GLASSO: Estimating Fair Graphical Models with Unbiased Statistical Behavior
+Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution
+Mixture of Tokens: Continuous MoE through Cross-Example Aggregation
+ClavaDDPM: Multi-relational Data Synthesis with Cluster-guided Diffusion Models
+Data Augmentation with Diffusion for Open-Set Semi-Supervised Learning

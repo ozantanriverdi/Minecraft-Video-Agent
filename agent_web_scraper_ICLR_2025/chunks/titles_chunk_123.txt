@@ -1,0 +1,50 @@
+Towards Efficient Adaptation of Pruning Strategy in Large Language Models
+SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation
+A Solvable Attention for Neural Scaling Laws
+GPromptShield: Elevating Resilience in Graph Prompt Tuning Against Adversarial Attacks
+Streamlining the Design Space of ML4TSP Suggests Principles for Learning and Search
+OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference
+Bridging Compressed Image Latents and Multimodal Large Language Models
+Optimal Partial Graph Matching
+Explaining Black-box Model Predictions via Two-level Nested Feature Attributions with Consistency Property
+Offline RL with Smooth OOD Generalization in Convex Hull and its Neighborhood
+Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality
+ROSE: Register-Assisted General Time Series Forecasting with Decomposed Frequency Learning
+C-Adapter: Adapting Deep Classifiers for Efficient Conformal Prediction Sets
+Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models
+IMAC: Implicit Motion-Audio Coupling for Co-Speech Gesture Video Generation
+Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time
+Adversarial Search Engine Optimization for Large Language Models
+Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing
+Near, far: Patch-ordering enhances vision foundation models' scene understanding
+Automatically Identifying and Interpreting Sparse Circuits with Hierarchical Tracing
+When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series
+NeRAF: 3D Scene Infused Neural Radiance and Acoustic Fields
+Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors
+Simulating, Fast and Slow: Learning Policies for Black-Box Optimization
+The ubiquity of 2-homogeneity, how its implicit bias selects features, and other stories
+Interactive-Action Image Generation via Synthetic Physical Priors
+Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos
+Compressed-Language Models for Understanding Compressed File Formats: a JPEG Exploration
+KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning
+LSH Tells You What To Discard: An Adaptive Locality-Sensitive Strategy for KV Cache Compression
+Latent Task-Specific Graph Network Simulators
+SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints
+A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation
+MAST: model-agnostic sparsified training
+Scaling Law with Learning Rate Annealing
+CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept
+Pseudo-Non-Linear Data Augmentation via Energy Minimization
+Gradient Regularization-based Cross-Prompt Attacks on Vision Language Models
+Generalization of Spectral Graph Neural Networks
+LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently
+LLM-Guided Self-Supervised Tabular Learning With Task-Specific Pre-text Tasks
+Continuous Diffusion for Mixed-Type Tabular Data
+Single Teacher, Multiple Perspectives: Teacher Knowledge Augmentation for Enhanced Knowledge Distillation
+LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels
+ICFI: a Feature Importance Measure For Multi-Class Classification
+Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding
+DimOL: Dimensional Awareness as a New 'Dimension' in Operator Learning
+Efficient Bayesian Updates for Deep Active Learning via Laplace Approximations
+FOLEYCRAFTER: BRING SILENT VIDEOS TO LIFE WITH LIFELIKE AND SYNCHRONIZED SOUNDS

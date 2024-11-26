@@ -1,0 +1,50 @@
+Induction Rather Than Imagination: Generative Zero-Shot Learning Via Inductive Variational Autoencoder
+The Stochastic Parrot on LLM’s Shoulder:  A Summative Assessment of Physical Concept Understanding
+CodeUpdateArena: Benchmarking Knowledge Editing on API Updates
+Scale-aware Recognition in Satellite Images under Resource Constraints
+Watermarking for User Identification in Large Language Models
+IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation
+LLM-SR: Scientific Equation Discovery via Programming with Large Language Models
+GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks
+C3T: Cross-modal Transfer Through Time for Human Action Recognition
+Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning
+MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods
+Enhancing Graph Invariant Learning from a Negative Inference Perspective
+Backtracking Improves Generation Safety
+ST-GCond: Self-supervised and Transferable Graph Dataset Condensation
+PPT: Patch Order Do Matters In Time Series Pretext Task
+Rethinking Graph Neural Networks From A Geometric Perspective Of Node Features
+Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies
+Realistic-Gesture: Co-Speech Gesture Video Generation through Semantic-aware Gesture Representation
+CORTEX: Concept-Oriented Token Explanation in Vector-Quantized Generative Model
+Cost-Effective Synthetic Data Generation for Post-Training using QWICK
+KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models
+Learning from weak labelers as constraints
+Weakly Supervised Understanding of Skilled Human Activity in Videos
+BISIMULATION METRIC FOR MODEL PREDICTIVE CONTROL
+InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding
+Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling
+NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval
+TabFlex: Scaling Tabular Learning to Millions with Linear Attention
+Unveiling the Backbone-Optimizer Coupling Bias in Visual Representation Learning
+Understanding the Design Principles of Link Prediction in Directed Settings
+AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs
+GODA: Goal-conditioned Data Augmentation
+Modular addition without black-boxes: Compressing explanations of MLPs that compute numerical integration
+Private Mechanism Design via Quantile Estimation
+Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching
+Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval
+Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers
+Feature-Specific Coefficients of Determination in Tree Ensembles
+X-Drive: Cross-modality Consistent Multi-Sensor Data Synthesis for Driving Scenarios
+Selective Attention Improves Transformer
+Interpreting and Steering LLM Representations with Mutual Information-based Explanations on Sparse Autoencoders
+CoreInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation
+ACAV-1M: Data Curation and Benchmarking for Audio-Visual Representation Learning
+Advancing Table Understanding of Large Language Models via Feature Re-ordering
+Preventing Collapse in Contrastive Learning with Orthonormal Prototypes (CLOP)
+Generative Visual Instruction Tuning
+STAR: Stability-Inducing Weight Perturbation for Continual Learning
+OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code
+Systematic Assessment of Tabular Data Synthesis
+CSA: Data-efficient Mapping of Unimodal Features to Multimodal Features

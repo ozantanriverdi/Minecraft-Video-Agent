@@ -1,0 +1,50 @@
+From Skills to Plans: Automatic Skill Discovery and Symbolic Interpretation for Compositional Tasks
+AIME: AI System Optimization via Multiple LLM Evaluators
+Deep Learning for Two-Sided Matching
+A Lazy Hessian Evaluation Framework for Accelerating Stochastic Bilevel Optimization
+LoRA-Ensemble: Efficient Uncertainty Modelling for Self-attention Networks
+Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger
+Graph Neural Networks for Interferometer Simulations
+Injecting Universal Jailbreak Backdoors into LLMs in Minutes
+Efficient Predictive Counterfactual Regret Minimization +  Algorithm in Solving Extensive-Form Games
+Federated Time Series Generation on Feature and Temporally Misaligned Data
+Spike-to-excite: photosensitive seizures in biologically-realistic spiking neural networks
+Accurate Split Learning on Noisy Signals
+LBG: LNE-based Blocking Generation Against Data Contamination on Large Language Models
+Leveraging VLMs for MUDA：A Category-Specific Prompting with Multi-Modal Low-Rank Adapter
+Preference fine-tuning for factuality in chest X-ray interpretation models without human feedback
+Action abstractions for amortized sampling
+Test-time Adaptation for Cross-modal Retrieval with Query Shift
+DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models
+Provence: efficient and robust context pruning for retrieval-augmented generation
+Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning
+Do better language models have crisper vision?
+E3D: Enhancing Sparsely-Supervised 3D Object Detector with Large Multimodal Models
+Second Order Bounds for Contextual Bandits with Function Approximation
+I-Lora: Iterative Merging of Routing-Tuned Low-Rank Adapters for Multi-task Learning
+MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction
+The Contraction Property of Pooling Layer
+A Causal Study on The Learnability of Formal Languages
+Visual Representation Learning for World Models by Predicting Fine-Grained Motion
+Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment
+Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning
+Counterintuitive RL: The Hidden Value of Acting Bad
+Instant Transformer Adaption via HyperLoRA
+D2P2-SGD: Dynamically Differentially Private Projected Stochastic Gradient Descent
+Chimera: State Space Models Beyond Sequences
+Derivatives Are All You Need For Learning Physical Models
+Instant Policy: In-Context Imitation Learning via Graph Diffusion
+Is self-supervision enough for training sentence embeddings?
+Shapeshifters: Auditory cortical neurons switch from polysemantic to monosemantic under anesthesia
+Scaling 3D Compositional Models for Robust Classification and Pose Estimation
+LAIA-SQL: Enhancing Natural Language to SQL Generation in Multi-Table QA via Task Decomposition and Keyword Extraction
+EEG-Based Emotion Recognition via Prototype-Guided Disambiguation and Noise Augmentation in Partial-Label Learning
+Universal length generalization with Turing Programs
+Offline Model-Based Skill Stitching
+RARe: Retrieval Augmented Retrieval with In-Context Examples
+CausalDiffusion: Causally Related Time-Series Generation through Diffusion Models
+MarineMaid: Dataset and Benchmark on Detecting and Understanding Marine Creatures
+Components Beat Patches: Eigenvector Removal for Robust Masked Image Modelling
+Symbiotic Tuning: A Simple Approach for Enhancing Task Performance of Side-Tuning
+Text-Based Person Search in Full Images via Semantic Context Disentangling and Prototype Learning
+Improving Large Language Model based  Multi-Agent Framework through Dynamic Workflow Updating

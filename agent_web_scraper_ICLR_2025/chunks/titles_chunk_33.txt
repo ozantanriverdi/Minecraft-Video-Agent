@@ -1,0 +1,50 @@
+An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models
+LNUCB-TA: Linear-nonlinear Hybrid Bandit Learning with Temporal Attention
+Learning Continually by Spectral Regularization
+SMI-TED: A large-scale foundation model for materials and chemistry
+Representing speech through autoregressive prediction of cochlear tokens
+FairLoRA: Unpacking Bias Mitigation in Vision Models with Fairness-Regularized Low-Rank Adaptation
+Wait, That's Not an Option: LLM Robustness with Incorrect Multiple-Choice Options
+Root Cause Analysis of Failure with Observational Causal Discovery
+No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs
+Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models
+FlexTSF: A universal forecasting model for time series with variable regularities
+An undetectable watermark for generative image models
+Teaching LLMs How To Learn with Contextual Fine-Tuning
+Mamba-based Chemical Foundational Model for Fast Inference
+Modeling dynamic social vision highlights gaps between deep learning and humans
+Single Domain Generalization for Rare Event Detection in Medical Imaging
+EgoQR: Efficient QR Code Reading in Egocentric Settings
+Truthful Aggregation of LLMs with an Application to Online Advertising
+Longitudinal Ensemble Integration for sequential classification with multimodal data
+Learning Extrapolative Sequence Transformations from Markov Chains
+Large Language Models can be Strong Self-Detoxifiers
+STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning
+A Theoretical Study of Neural Network Expressive Power via Manifold Topology
+Evaluating Model Robustness Against Unforeseen Adversarial Attacks
+Benchmarking the Fidelity and Utility of Synthetic Relational Data
+Can LLMs Enhance Performance Prediction for Deep Learning Models?
+PortLLM: Personalizing Evolving Large Language Models with Training-Free and Portable Model Patches
+Understanding the learned look-ahead behavior of chess neural networks
+GAN-based NeRF Noise Simulation in Mesh Denoising Task
+Linear Bandits with Partially Observable Features
+Foveated Dynamic Transformer: Robust and Efficient Perception Inspired by the Human Visual System
+Towards better generalization: Weight Decay induces low-rank bias for neural networks
+Residual Stream Analysis with Multi-Layer SAEs
+The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling
+Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks
+Adaptive Log-Exp Perturbations for Secure AI Image Compression
+OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions
+Median Clipping for Zeroth-order Non-Smooth Convex Optimization and Multi Arm Bandit Problem with Heavy-tailed Symmetric Noise
+Fair Image Generation from Pre-trained Models by Probabilistic Modeling
+Embedding Safety into RL: A New Take on Trust Region Methods
+Disentangling Representations through Multi-task Learning
+Training Free Guided Flow-Matching with Optimal Control
+MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance
+Markovian Transformers for Informative Language Modeling
+Efficient Sparse PCA via Block-Diagonalization
+Aligning With Human Values Without Revealing Human Judgements
+Enhancing Vision-Language Model Pre-training with Image-text Pair Pruning Based on Word Frequency
+Efficient In-Context Visual Learning with Trident Block and Cross Blocks
+Semi-Supervised Neural Network Model For Quadratic Multiparametric Programming
+Language Guided Representation Learning

@@ -1,0 +1,50 @@
+Probabilistic size-and-shape functional mixed models
+A General Protocol to Probe Large Vision Models for 3D Physical Understanding
+Convolutions and More as Einsum: A Tensor Network Perspective with Advances for Second-Order Methods
+Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology
+Learning to Handle Complex Constraints  for Vehicle Routing Problems
+SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention
+SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision
+MatrixNet: Learning over symmetry groups using learned group representations
+SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+Learning Macroscopic Dynamics from Partial Microscopic Observations
+Can Graph Neural Networks Expose Training Data Properties? An Efficient Risk Assessment Approach
+When are dynamical systems learned from time series data statistically accurate?
+Linear Time Approximation Algorithm for Column Subset Selection with Local Search
+Conditional Synthesis of 3D Molecules with Time Correction Sampler
+Geometric Analysis of Nonlinear Manifold Clustering
+ContextCite: Attributing Model Generation to Context
+When does perceptual alignment benefit vision representations?
+How Does Variance Shape the Regret in Contextual Bandits?
+Adaptive Proximal Gradient Method for Convex Optimization
+Abrupt Learning in Transformers: A Case Study on Matrix Completion
+QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation
+On the Impacts of the Random Initialization in the Neural Tangent Kernel Theory
+CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization
+On the Power of Small-size Graph Neural Networks for Linear Programming
+TreeVI: Reparameterizable Tree-structured Variational Inference for Instance-level Correlation Capturing
+Random Representations Outperform Online Continually Learned Representations
+Knowledge Graph Completion by Intermediate Variables Regularization
+Learning symmetries via weight-sharing with doubly stochastic tensors
+Direct Consistency Optimization for Robust Customization of Text-to-Image Diffusion models
+Improving Neural Network Surface Processing with Principal Curvatures
+Locally Private and Robust Multi-Armed Bandits
+Geometry-aware training of factorized layers in tensor Tucker format
+Building a stable classifier with the inflated argmax
+Speculative Monte-Carlo Tree Search
+Learning from higher-order correlations, efficiently: hypothesis tests, random features, and neural networks
+Sketched Lanczos uncertainty score: a low-memory summary of the Fisher information
+A Metalearned Neural Circuit for Nonparametric Bayesian Inference
+Achievable Fairness on Your Data With Utility Guarantees
+Achieving Near-Optimal Convergence for Distributed Minimax Optimization with Adaptive Stepsizes
+Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences
+Learning Elastic Costs to Shape Monge Displacements
+Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models
+Prune and Repaint: Content-Aware Image Retargeting for any Ratio
+No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations
+Grokking of Implicit Reasoning in Transformers: A Mechanistic Journey to the Edge of Generalization
+Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach
+Evaluating the design space of diffusion-based generative models
+Safety through feedback in Constrained RL
+Identifiable Object-Centric Representation Learning via Probabilistic Slot Attention
+Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization

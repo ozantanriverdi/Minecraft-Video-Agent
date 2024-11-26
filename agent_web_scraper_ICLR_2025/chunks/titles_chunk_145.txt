@@ -1,0 +1,50 @@
+Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering
+Algorithmic Stability Based Generalization Bounds for Adversarial Training
+Guaranteed Neural PDE Boundary Control with Neural Barrier Function
+Tracking objects that change in appearance with phase synchrony
+GSE: Group-wise Sparse and Explainable Adversarial Attacks
+Unleashing the Potential of Text-attributed Graphs: Automatic Relation Decomposition via Large Language Models
+Dense Video Object Captioning from Disjoint Supervision
+Faster Cascades via Speculative Decoding
+CoTFormer: A Chain of Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference
+Adaptive Pruning of Pretrained Transformer via Differential Inclusions
+CASE-Bench: Context-Aware Safety Evaluation Benchmark for Large Language Models
+Pseudo- vs. True-Randomness: Rethinking Distortion-Free Watermarks of Language Models under Watermark Key Collisions
+Kernel Banzhaf: A Fast and Robust Estimator for Banzhaf Values
+Markovian Compression: Looking to the Past Helps Accelerate the Future
+Convergence of Distributed Adaptive Optimization with Local Updates
+LightSAM: Parameter-Agnostic Sharpness-Aware Minimization
+Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods
+USDC: A Dataset of  U ― ser  S ― tance and  D ― ogmatism in Long  C ― onversations
+Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers
+Towards Interpreting Visual Information Processing in Vision-Language Models
+Mitigating Compositional Issues in Text-to-Image Generative Models via Enhanced Text Embeddings
+Optimization on Manifolds with Riemannian Jacobian Regularization
+Exponential-Wrapped Mechanisms for Differential Privacy on Hadamard Manifolds
+Enabling Weak LLMs to Judge Response Reliability via Meta Ranking
+TGTOD: A Global Temporal Graph Transformer for Outlier Detection at Scale
+Adversarial Attacks on Data Attribution
+Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models
+Graph Neural Network Is A Mean Field Game
+F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI
+Machine Reinforced Perturbation on Drifted Human Logical Reasoning
+Diffusion Preference Alignment via Relative Text-Image Contrast
+Online Gradient Boosting Decision Tree: In-Place Updates for Adding/Deleting Data
+Beyond Single Concept Vector: Modeling Concept Subspace in LLMs with Gaussian Distribution
+ART: Actor-Related Tubelet for Detecting Complex-shaped Action Tubes
+InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales
+SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
+Egocentric Vision Language Planning
+MixMax: Distributional Robustness in Function Space via Optimal Data Mixtures
+Digi-Q: Transforming VLMs to Device-Control Agents via Value-Based Offline RL
+Multiagent Finetuning of Language Models
+The Hidden Cost of Waiting for Accurate Predictions
+MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction
+Strengthening Federated Learning: Surrogate Data-Guided Aggregation for Robust Backdoor Defense
+Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems
+GMValuator: Similarity-based Data Valuation for Generative Models
+Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs
+A Hybrid Simulation of DNN-based Gray Box Models
+Implicit In-context Learning
+Advancing Multimodal Unified Discrete Representations
+Learning Dynamics of LLM Finetuning

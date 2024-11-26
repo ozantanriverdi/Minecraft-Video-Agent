@@ -1,0 +1,50 @@
+Incorporating Neural ODEs into DAE-Constrained Optimization Problems
+Learning Multi-Index Models with Neural Networks via Mean-Field Langevin Dynamics
+Fair Anomaly Detection For Imbalanced Groups
+Adversarial Latent Feature Augmentation for Fairness
+Data Efficient Continual Learning of Large Language Model
+QuantBench: Benchmarking AI Modeling for Quantitative Investment
+Sparse Gradient Compression for Fine-Tuning Large Language Models
+Symbolic regression via MDLformer-guided search: from minimizing prediction error to minimizing description length
+Multimodal Unsupervised Domain Generalization by Retrieving Across the Modality Gap
+Observability of Latent States in Generative AI Models
+BLIP-3-Video: You Only Need 32 Tokens to Represent a Video Even in VLMs
+Moonwalk: Inverse-Forward Differentiation
+Dynamic Neural Fortresses: An Adaptive Shield for Model Extraction Defense
+How many samples are needed to train a deep neural network?
+Federated Learning with Dynamic Client Arrival and Departure: Convergence and Rapid Adaptation via Initial Model Construction
+Guided Score Identity Distillation for Data-Free One-Step Text-to-Image Generation
+Partial Gromov-Wasserstein Metric
+Tournament Evaluation of Large Language Models
+Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models
+An Examination on the Effectiveness of Divide-and-Conquer Prompting in Large Language Models
+ProTrain: Efficient LLM Training via Automatic Memory Management
+Kernel Neural Operators (KNOs) for Scalable, Memory-efficient, Geometrically-flexible Operator Learning
+A Healthy Food Recommender System Using Collaborative Filtering and Transformers
+Generating Fake Data to Fake Privacy Pryers
+Deep MMD Gradient Flow without adversarial training
+Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification
+Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models
+VERT: A SystemVerilog Assertion Dataset to Improve Hardware Verification with LLMs
+Geometry Informed Tokenization of Molecules for Language Model Generation
+Deep Bootstrap Aggregation via Least Squares Estimation
+On the utility of Equivariance and Symmetry Breaking in Deep learning architectures on point clouds
+Catastrophic Failure of LLM Unlearning via Quantization
+WenXinGPT: A Multimodal Conversational Model for Enhancing Orthopedic Expert Consultations
+Understanding Dimensional Collapse in Cross-Modal Feature Distillation
+Equivariant score-based generative models provably learn distributions with symmetries efficiently
+Can Language Models Reason about Individualistic Human Values and Preferences?
+A Novel Dual of Shannon Information and Weighting Scheme
+Conditional Enzyme Generation Using Protein Language Models with Adapters
+Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent
+Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test
+CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale
+Revisiting inverse Hessian vector products for calculating influence functions
+PEER Pressure: Model-to-Model Regularization for Single Source Domain Generalization
+How DNNs break the Curse of Dimensionality: Compositionality and Symmetry Learning
+Detecting Backdoor Samples in Contrastive Language Image Pretraining
+Addressing Data Heterogeneity In Federated Learning With Adaptive Normalization-Free Feature Recalibration
+Contractive Dynamical Imitation Policies for Efficient Out-of-Sample Recovery
+Duoduo CLIP: Efficient 3D Understanding with Multi-View Images
+PointRecon: Online 3D Point Cloud Reconstruction via Ray-based 2D-3D Matching
+TUAP: Targeted Universal Adversarial Perturbations for CLIP

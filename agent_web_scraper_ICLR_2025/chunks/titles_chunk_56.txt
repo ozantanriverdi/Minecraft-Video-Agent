@@ -1,0 +1,50 @@
+LUMA: A Benchmark Dataset for Learning from Uncertain and Multimodal Data
+White-Basilisk: A Hybrid Model for Code Vulnerability Detection
+Data-Evolution Learning
+MARS: A neurosymbolic approach for interpretable drug discovery
+Learn Your Reference Model for Real Good Alignment
+Optimizing Inference-Time Reasoning in LLMs via Retrieval-Augmented Reflection
+MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting
+Bayesian Neural Networks with Domain Knowledge Priors
+Variance-Reduced Normalized Zeroth Order Method for Generalized-Smooth Non-Convex Optimization
+Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks
+PADetBench: Towards Benchmarking Physical Attacks against Object Detection
+Memory Savings by Sharing One Source: Insights into Subsetsum Approximation
+LifelongSotopia: Evaluating Social Intelligence Of Language Agents Over Lifelong Social Interactions
+EcoFace: Audio-Visual Emotional Co-Disentanglement Speech-Driven 3D Talking Face Generation
+MolCoMA: Complementary Masking Strategy for Promoting Atom-Level Multi-Modal Molecular Representation
+Co-Evolution Learning
+Brain-inspired Multi-View Incremental Learning for Knowledge Transfer and Retention
+AdaFM: Adaptive Variance-Reduced Algorithm for Stochastic Minimax Optimization
+Characterizing the Training Dynamics of Private Fine-tuning with Langevin Diffusion
+Shapley Value Approximation based on k-Additive Games
+Hierarchical Multiscale Diffuser for Extendable Long-Horizon Planning
+AutoCustomization: A Unified Framework for Effortless, Selective LLM Bias and Style Finetuning
+Elliptic Loss Regularization
+Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization
+Learning Skill-level Student Abilities with Item Response Theory
+Drift2Matrix: Kernel-Induced Self Representation for Concept Drift Adaptation in Co-evolving Time Series
+Professor X: Manipulating EEG BCI with Invisible and Robust Backdoor Attack
+Improving Reasoning Performance in Large Language Models via Representation Engineering
+Breaking the Detection-Generalization Paradox on Out-Of-Distribution Data
+Improving Uncertainty Estimation through Semantically Diverse Language Generation
+LANE: Label-Aware Noise Elimination for Fine-Grained Text Classification
+Semi-autoregressive Decoding for Efficient LLM Inference
+Interaction Makes Better Segmentation: An Interaction-based Framework for Temporal Action Segmentation
+Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization
+Sparse Causal Model: A Novel Approach for Causal Discovery and Attributions on Sparse Dataset
+Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner
+On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent
+Lens: Rethinking Multilingual Enhancement for Large Language Models
+The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels
+Attention as a Hypernetwork
+IN the known, OUT of the ordinary: Probing OOD detection methods with Synthetic datasets.
+PFGuard: A Generative Framework with Privacy and Fairness Safeguards
+Rethinking Uncertainty Estimation in Natural Language Generation
+LLM-Informed Semi-Supervised Learning for Text Classification
+ProteinWeaver: A Divide-and-Assembly Approach for Protein Backbone Design
+SPaR: Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models
+SCAR: Efficient Instruction-Tuning for Large Language Models via Style Consistency-Aware Response Ranking
+EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment
+Mitigating Spurious Bias with Last-Layer Selective Activation Retraining
+Emergent Orientation Maps —— Mechanisms, Coding Efficiency and Robustness

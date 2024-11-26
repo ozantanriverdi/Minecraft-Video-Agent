@@ -1,0 +1,22 @@
+[
+    {
+        "title": "CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets",
+        "relevant": false
+    },
+    {
+        "title": "Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory",
+        "relevant": true
+    },
+    {
+        "title": "MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration",
+        "relevant": false
+    },
+    {
+        "title": "AgentSquare: Automatic LLM Agent Search in Modular Design Space",
+        "relevant": false
+    },
+    {
+        "title": "GameInstruct: Teaching Machines to Reason via Chameleon Game",
+        "relevant": false
+    }
+]

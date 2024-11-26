@@ -1,0 +1,50 @@
+VideoUntier: Language-guided Video Feature Disentanglement
+Boosting Parallel Algorithms in Linear Queries for Non-Monotone Submodular Maximization
+xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing
+SciPG: A New Benchmark and Approach for Layout-aware Scientific Poster Generation
+Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models
+Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs
+OMG: Opacity Matters in Material Modeling with Gaussian Splatting
+Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs
+Direct Preference Optimization Using Sparse Feature-level Constraints
+Legendre-KAN : High Accuracy KA Network Based on Legendre Polynomials
+LayeredGS: Efficient Dynamic Scene Rendering and Point Tracking with Multi-Layer Deformable Gaussian Splatting
+AnyGraph: Graph Foundation Model in the Wild
+Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
+Singular Value Fine-tuning for Few-Shot Class-Incremental Learning
+One-step Flow Matching Generators
+Correlating and Predicting Human Evaluations of Language Models from Natural Language Processing Benchmarks
+MotifExplainer: a Motif-based Graph Neural Network Explainer
+LeMoLE: LLM-enhanced Mixture of Linear Experts for Time Series Forecasting
+Expected Sliced Transport Plans
+CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs
+Ensuring Fair Comparisons in Time Series Forecasting: Addressing Quality Issues in Three Benchmark Datasets
+CBF-LLM: Safe Control for LLM Alignment
+Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling
+MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation
+Flat-LoRA: Low-Rank Adaption over a Flat Loss Landscape
+Bridging the Reality Gap: A Benchmark for Physical Reasoning in General World Models with Various Physical Phenomena beyond Mechanics
+Shedding Light on Time Series Classification using Interpretability Gated Networks
+Towards Neural Scaling Laws for Time Series Foundation Models
+Leveraging Variable Sparsity to Refine Pareto Stationarity in Multi-Objective Optimization
+RED QUEEN: SAFEGUARDING LARGE LANGUAGE MODELS AGAINST CONCEALED MULTI-TURN ATTACK
+Mockingbird: Platform for Adapting LLMs to General Machine Learning Tasks
+Crafting Heavy-Tails in Weight Matrix Spectrum without Gradient Noise
+Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens
+OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling
+Consistency Verification for Detecting AI-Generated Images
+What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices
+Test-time Adaptation for Regression by Subspace Alignment
+AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies
+TF-HOT: Training-Free Hand-Object Pose Tracking and Optimization for Dexterous Manipulation
+HoLoRA: Combining Orthogonal Fine-Tuning and LoRA with Householder Reflectors
+SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset
+MEENT: DIFFERENTIABLE ELECTROMAGNETIC SIMULATOR FOR MACHINE LEARNING
+Prediction Risk and Estimation Risk of the Ridgeless Least Squares Estimator under General Assumptions on Regression Errors
+Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach
+Understanding Synthetic Context Extension via Retrieval Heads
+Advancing LLM Reasoning Generalists with Preference Trees
+Debiased Contrastive Learning with multi-resolution Kolmogorov-Arnold Network for Gravitational Wave Glitch Detection
+Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities
+Improving Planning with Large Language Models: A Modular Agentic Architecture
+Conditional Variable Flow Matching: Transforming Conditional Densities with Amortized Conditional Optimal Transport

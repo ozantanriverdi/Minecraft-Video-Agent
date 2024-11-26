@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Scene Graph Generation with Role-Playing Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy",
+        "relevant": false
+    },
+    {
+        "title": "VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks",
+        "relevant": false
+    },
+    {
+        "title": "Compositional 3D-aware Video Generation with LLM Director",
+        "relevant": false
+    },
+    {
+        "title": "Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing",
+        "relevant": false
+    }
+]

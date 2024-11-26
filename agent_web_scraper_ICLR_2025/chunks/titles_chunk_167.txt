@@ -1,0 +1,50 @@
+GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation
+Bag-level Self-supervised instance based distance in Multiple Instance Learning
+VIA: Unified Spatiotemporal Video Adaptation for Global and Local Video Editing
+AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems
+A Score-Based Density Formula, with Applications in Diffusion Generative Models
+PSHuman: Photorealistic Single-view Human Reconstruction using Cross-Scale Diffusion
+DFED: Data-Free Ensemble Distillation with Multi-Source GANs for Heterogeneous Federated Learning
+D2G: Debiased Learning with Distribution Guidance for Generalized Category Discovery
+Video-to-Audio generation with Hidden Alignment
+GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training
+Oblivious Unlearning by Learning: Machine Unlearning Without Exposing Erased Data
+RelChaNet: Neural Network Feature Selection using Relative Change Scores
+Towards Infinite-Long Prefix in Transformer
+ELU-GCN:  Effectively Label-Utilizing Graph Convolutional Network
+3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds
+Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought
+Detecting and Evaluating Medical Hallucinations in Large Vision Language Models
+AI as Humanity’s Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text
+OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs
+Approximating Optima of Nonconvex Functions
+A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?
+Compress Guidance in Conditional Diffusion Sampling
+Machine Unlearning For Alleviating Negative Transfer In Partial-Set Source-Free Unsupervised Domain Adaptation
+The Role of Label Noise in the Feature Learning Process
+Challenge Me: Enhancing Conversational Consistency of LLMs by Learning with Questioning Feedback
+Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization
+Learning Effective Multi-modal Trackers via Modality-Sensitive Tuning
+Information-Theoretic Active Correlation Clustering
+Attention-aware Post-training Quantization without Backpropagation
+SHIFT-RESILIENT DIFFUSIVE IMPUTATION FOR VARIABLE SUBSET FORECASTING
+LLaCA: Multimodal Large Language Continual Assistant
+HRVMamba: High-Resolution Visual State Space Model for Dense Prediction
+Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization
+Counting in small transformers: The delicate interplay between attention and feed-forward layers
+Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective
+LoCA: Location-Aware Cosine Adaptation for Parameter-Efficient Fine-Tuning
+Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation
+PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models
+Learning Dynamics of Deep Matrix Factorization Beyond the Edge of Stability
+TopER: Topological Embeddings in Graph Representation Learning
+LDMol: Text-to-Molecule Diffusion Model with Structurally Informative Latent Space
+Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention
+Towards a Theoretical Understanding of Memorization in Diffusion Models
+Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning
+MS 3 M: Multi-Stage State Space Model for Motion Forecasting
+Efficient Text-driven Human Motion Generation via Latent Consistency Training
+On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning
+Quality Diversity Imitation Learning
+Implicit Bridge Consistency Distillation for One-Step Unpaired Image Translation
+Comparing noisy neural population dynamics using optimal transport distances

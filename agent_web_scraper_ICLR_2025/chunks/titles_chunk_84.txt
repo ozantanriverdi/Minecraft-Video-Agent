@@ -1,0 +1,50 @@
+CRVR: Continuous Representation-Driven Video Frame Modulation Against rPPG Heart Rate Measurement
+Disentangling Inter- and Intra-Video Relations for Multi-event Video-Text Retrieval and Grounding
+Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation
+Distribution-Dependent Rates for Multi-Distribution Learning
+DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning
+Spectraformer: A Unified Random Feature Framework for Transformer
+RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates
+Data-Centric Human Preference Optimization with Rationales
+Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs
+SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models
+Advancing Graph Generation through Beta Diffusion
+Skip the Steps: Data-Free Consistency Distillation for Diffusion-based Samplers
+FISTAPruner: Layer-wise Post-training Pruning for Large Language Models
+Accelerated Over-Relaxation Heavy-Ball Method: Achieving Global Accelerated Convergence with Broad Generalization
+Contextually Harmonious Local Video Editing
+Robust Decentralized VFL Over Dynamic Device Environment
+Sampling-Enhanced Large Neighborhood Search for Solving Integer Linear Programs
+Skill Discovery using Language Models
+Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning
+UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation
+When do GFlowNets learn the right distribution?
+Weighted Multi-Prompt Learning with Description-free Large Language Model Distillation
+Interfering with Interference: Blind Shuffling and Superposition for Better Multi-Model Compression
+One-Hot Multi-Level LIF Spiking Neural Networks for Enhanced Accuracy-Latency Tradeoff
+Shapley Is Not All You Need: Sobol's Total Indices for Feature Selection and Performance Loss Estimation
+Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning
+GIFT-Eval: A Benchmark for General Time Series Forecasting Model Evaluation
+Contrastive Learning from Synthetic Audio Doppelgängers
+SWE-Bench+: Enhanced Coding Benchmark for LLMs
+MetaMetrics: Calibrating Metrics for Generation Tasks Using Human Preferences
+TELEPORTATION WITH NULL SPACE GRADIENT PROJECTION FOR OPTIMIZATION ACCELERATION
+Boosting Document Layout Analysis with Graphic Multi-modal Data Fusion and Spatial Geometric Transformation
+Robust Federated Learning Frameworks Guarding Against Data Flipping Threats for Autonomous Vehicles
+Latent Matrix Completion Model
+RAG C : Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models
+Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step
+Confidence Elicitation: A New Attack Vector for Large Language Models
+LM4LV: A Frozen Large Language Model for Low-level Vision Tasks
+On the Effectiveness of Discrete Representations in Sparse Mixture of Experts
+AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models
+METHODS OF IMPROVING LLM TRAINING STABILITY
+Medical Vision Generalist: Unifying Medical Imaging Tasks in Context
+Looking Inward: Language Models Can Learn About Themselves by Introspection
+A New 3D Image Block Ranking Method Using Axial, Coronal and Sagittal Image Patch Rankings for Explainable Medical Imaging
+Early Fusion Helps Vision Language Action Models Generalize Better
+Physics-enhanced Neural Operator: An Application in Simulating Turbulent Transport
+Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts
+AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly
+Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning
+Language Models Implicitly Learn a Unified Representation Space

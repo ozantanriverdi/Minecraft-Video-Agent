@@ -1,0 +1,50 @@
+How to Solve Contextual Goal-Oriented Problems with Offline Datasets?
+Multiple Physics Pretraining for Spatiotemporal Surrogate Models
+DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation
+Taming Heavy-Tailed Losses in Adversarial Bandits and the Best-of-Both-Worlds Setting
+What matters when building vision-language models?
+Practical Bayesian Algorithm Execution via Posterior Sampling
+On the Efficiency of ERM in Feature Learning
+Human-Object Interaction Detection Collaborated with Large Relation-driven Diffusion Models
+Gradient-free Decoder Inversion in Latent Diffusion Models
+NeuRodin: A Two-stage Framework for High-Fidelity Neural Surface Reconstruction
+Why the Metric Backbone Preserves Community Structure
+Tackling Uncertain Correspondences for Multi-Modal Entity Alignment
+Self-supervised Transformation Learning for Equivariant Representations
+Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention
+Credal Deep Ensembles for Uncertainty Quantification
+UltraPixel: Advancing Ultra High-Resolution Image Synthesis to New Peaks
+RLE: A Unified Perspective of Data Augmentation for Cross-Spectral Re-Identification
+A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization
+Bridging the Divide: Reconsidering Softmax and Linear Attention
+GoMatching: A Simple Baseline for Video Text Spotting via Long and Short Term Matching
+Expanding Sparse Tuning for Low Memory Usage
+Active preference learning for ordering items in- and out-of-sample
+OPUS: Occupancy Prediction Using a Sparse Set
+Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree
+Interactive Deep Clustering via Value Mining
+Lisa: Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning Attack
+Vaccine: Perturbation-aware Alignment for Large Language Models against Harmful Fine-tuning Attack
+Cloud Object Detector Adaptation by Integrating Different Source Knowledge
+Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
+VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
+On the Optimal Time Complexities in Decentralized Stochastic Asynchronous Optimization
+OT4P: Unlocking Effective Orthogonal Group Path for Permutation Relaxation
+Freya PAGE: First Optimal Time Complexity for Large-Scale Nonconvex Finite-Sum Optimization with Heterogeneous Asynchronous Computations
+Are Self-Attentions Effective for Time Series Forecasting?
+On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection
+Soft ascent-descent as a stable and flexible alternative to flooding
+From Chaos to Clarity: 3DGS in the Dark
+An Analysis of Elo Rating Systems via Markov Chains
+MemoryFormer : Minimize Transformer Computation by Removing Fully-Connected Layers
+Rethinking Imbalance in Image Super-Resolution for Efficient Inference
+Can We Leave Deepfake Data Behind in Training Deepfake Detector?
+SPO: Sequential Monte Carlo Policy Optimisation
+Mitigating Object Hallucination via Concentric Causal Attention
+Shadowheart SGD: Distributed Asynchronous SGD with Optimal Time Complexity Under Arbitrary Computation and Communication Heterogeneity
+A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration
+Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models
+DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering
+UniMTS: Unified Pre-training for Motion Time Series
+DOFEN: Deep Oblivious Forest ENsemble
+BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping

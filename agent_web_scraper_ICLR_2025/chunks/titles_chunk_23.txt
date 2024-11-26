@@ -1,0 +1,50 @@
+Improving Distribution Matching via Score-Based Priors and Structural Regularization
+Training Overparametrized Neural Networks in Sublinear Time
+Error Bounds for Deep Learning-based Uncertainty Propagation in SDEs
+DynaBO: Dynamic Model Bayesian Optimization for Tokamak Control
+MolTextQA: A Curated Question-Answering Dataset and Benchmark for Molecular Structure-Text Relationship Learning
+Mixture-of-Agents Enhances Large Language Model Capabilities
+DEPfold: RNA Secondary Structure Prediction as Dependency Parsing.
+APE: Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding
+DIMS: Channel-Dependent and Seasonal-Trend Independent Transformer Using Multi-Stage Training for Time Series Forecasting
+Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo
+Beyond Directed Acyclic Computation Graph with Cyclic Neural Network
+Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions
+pSAE-chiatry: Utilizing Sparse Autoencoders to Uncover Mental-Health-Related Features in Language Models
+Independence Tests for Language Models
+Improving Model Alignment Through Collective Intelligence of Open-Source Models
+Scaling Laws for Precision
+ALMANACS: A Simulatability Benchmark for Language Model Explainability
+Memory-Efficient Block Coordinate Descent for Hessian-Informed Zeroth-Order Optimizer
+Neural Time Integrator with Stage Correction
+Utility as Fair Pricing
+VideoAgent: Self-Improving Video Generation
+Provable Uncertainty Decomposition via Higher-Order Calibration
+Test Time Learning for Time Series Forecasting
+Through the Looking Glass: Mirror Schrödinger Bridges
+Scattered Forest Search: Smarter Code Space Exploration with LLMs
+Adaptive Sparse Allocation with Mutual Choice \& Feature Choice Sparse Autoencoders
+vTune: Verifiable Fine-Tuning for LLMs Through Backdooring
+Adversarial Robustness of  Self-Supervised Learning in Vision
+Exact Distributed Structure-Learning for Bayesian Networks
+Aioli: A Unified Optimization Framework for Language Model Data Mixing
+Defining and Measuring Disentanglement for non-Independent Factors of Variation
+Differentiable Optimization of Similarity Scores Between Models and Brains
+FlashEVA: Accelerating LLM Inference via Efficient Attention
+Controlling Large Language Model Agents with Entropic Activation Steering
+GraphPINE: Graph importance propagation Neural Network for interpretable drug response prediction
+Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement
+Towards Specialized Web Agents Using Production-Scale Workflow Data
+Cost-Efficient Multi-Fidelity Alignment for LLMs
+Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance
+A VARIATIONAL FRAMEWORK FOR GRAPH GENERATION WITH FINE-GRAINED TOPOLOGICAL CONTROL
+DrugAgent: Multi-Agent Large Language Model-Based Reasoning for Drug-Target Interaction Prediction and Repurposing
+Provable Convergence Bounds for Hybrid Dynamical Sampling and Optimization
+Which Attention Heads Matter for In-Context Learning?
+CTSyn: A Foundational Model for Cross Tabular Data Generation
+Learning from others' mistakes: Finetuning machine translation models with span-level error annotations
+Solving hidden monotone variational inequalities with surrogate losses
+Stochastic Process Learning via Operator Flow Matching
+Long Tail Classification  Through Cost Sensitive Loss Functions
+Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown
+Win Rate is All that Can Matter from Preference Data Alone

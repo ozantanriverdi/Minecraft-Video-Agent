@@ -1,0 +1,50 @@
+Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function
+Solving Sparse \& High-Dimensional-Output Regression via Compression
+Monoculture in Matching Markets
+Confusion-Resistant Federated Learning via Diffusion-Based Data Harmonization on Non-IID Data
+Disentangling Linear Quadratic Control with Untrusted ML Predictions
+An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness
+Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding
+On Neural Networks as Infinite Tree-Structured Probabilistic Graphical Models
+Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness
+Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving
+Gated Inference Network: Inference and Learning State-Space Models
+Loki: Low-rank Keys for Efficient Sparse Attention
+Allegator: Alleviating Attention Bias for Visual-Informed Text Generation
+BackdoorAlign: Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment
+Derivative-enhanced Deep Operator Network
+TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models
+Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding
+UniIF: Unified Molecule Inverse Folding
+Towards a Scalable Reference-Free Evaluation of Generative Models
+Conformalized Time Series with Semantic Features
+Instance-adaptive Zero-shot Chain-of-Thought Prompting
+Base of RoPE Bounds Context Length
+Attention boosted Individualized Regression
+DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation
+A probability contrastive learning framework for 3D molecular representation learning
+Label Delay in Online Continual Learning
+Maia-2: A Unified Model for Human-AI Alignment in Chess
+MILP-StuDio: MILP Instance Generation via Block Structure Decomposition
+BrainBits: How Much of the Brain are Generative Reconstruction Methods Using?
+IF-Font: Ideographic Description Sequence-Following Font Generation
+Coded Computing for Resilient Distributed Computing: A Learning-Theoretic Framework
+Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization
+DiffAug: A Diffuse-and-Denoise Augmentation for Training Robust Classifiers
+Learning and Transferring Sparse Contextual Bigrams with Linear Transformers
+From Trojan Horses to Castle Walls: Unveiling Bilateral Data Poisoning Effects in Diffusion Models
+What is my quantum computer good for? Quantum capability learning with physics-aware neural networks
+Stability and Generalization of Adversarial Training for Shallow Neural Networks with Smooth Activation
+Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations
+Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models
+SPRINQL: Sub-optimal Demonstrations driven Offline Imitation Learning
+Gradient Guidance for Diffusion Models: An Optimization Perspective
+Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models
+VQ-Map: Bird's-Eye-View Map Layout Estimation in Tokenized Discrete Space via Vector Quantization
+On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks
+Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation
+Probabilistic Decomposed Linear Dynamical Systems for Robust Discovery of Latent Neural Dynamics
+Implicit Regularization of Decentralized Gradient Descent for Sparse Regression
+Universal Exact Compression of Differentially Private Mechanisms
+OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning
+Fair Allocation in Dynamic Mechanism Design

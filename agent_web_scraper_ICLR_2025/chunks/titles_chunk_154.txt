@@ -1,0 +1,50 @@
+From Decoupling to Adaptive Transformation: a Wider Optimization Space for PTQ
+SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation
+3D-GP-LMVIC: Learning-based Multi-View Image Compression with 3D Gaussian Geometric Priors
+OCS+: Improving PTQ with Outlier Translation
+SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors
+Compositional Scene Modeling with An Object-Centric Diffusion Transformer
+Direct Alignment of Language Models via Quality-Aware Self-Refinement
+MADCluster: Model-agnostic Anomaly Detection with Self-supervised Clustering Network
+TopGQ: Post-Training Quantization for GNNs via Topology Based Node Grouping
+Unleashing the Power of Selective State Space Models in Vision-Language Models
+Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency
+ECLayr: Fast and Robust Topological Layer based on Differentiable Euler Characteristic Curve
+Revisiting Vector-Quantization for Blind Image Restoration
+Unsupervised Meta-Learning via In-Context Learning
+Predicting User Behaviors with Scene via Dual Sequence Networks
+Enhancing Training Robustness through Influence Measure
+Defending Membership Inference Attacks via Privacy-aware Sparsity Tuning
+What should an AI assessor optimise for?
+Reconstruct the Understanding of Grokking through Dynamical Systems
+Boltzmann-Aligned Inverse Folding Model as a Predictor of Mutational Effects on Protein-Protein Interactions
+PointACL: Point Cloud Understanding via  Attention-Driven Contrastive Learning
+Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains
+Positive Mining in Graph Contrastive Learning
+EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI
+Reaction Graph: Toward Modeling Chemical Reactions  with 3D Molecular Structures
+On Exploring Visual Attention Shrinking for Accelerating VLMs for Video Understanding
+Show-o: One Single Transformer to Unify Multimodal Understanding and Generation
+Wasserstein-Regularized Conformal Prediction under General Distribution Shift
+Improving Unsupervised Constituency Parsing via Maximizing Semantic Information
+GaLore + : Boosting Low-Rank Adaptation for LLMs with Cross-Head Projection
+MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation
+Crack in the Armor: Universal Stability Measurement for Large Language Models
+Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning
+Multimodal Situational Safety
+PaCA: Partial Connection Adaptation for Efficient Fine-Tuning
+Physics-Informed Self-Guided Diffusion Model for High-Fidelity Simulations
+Text-to-Image Rectified Flow as Plug-and-Play Priors
+MP-Mat: A 3D-and-Instance-Aware Matting Framework with Multiplane Representation
+Pay Attention to What Matters
+Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning
+TTVD: Towards a Geometric Framework for Test-Time Adaptation Based on Voronoi Diagram
+Revisiting the Design Choices in Max-Return Sequence Modeling
+Spurious Forgetting in Continual Learning of Language Models
+From Mismatch to Harmony: Resolving Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation
+Student-Informed Teacher Training
+When Graph Neural Networks Meet Dynamic Mode Decomposition
+Proposer-Agent-Evaluator (PAE): Autonomous Skill Discovery For Foundation Model Internet Agents
+Efficient Personalized Federated Learning via Adaptive Weight Clustering Pruning
+Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models

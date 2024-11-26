@@ -1,0 +1,50 @@
+Integrated Multi-system Prediction via Equilibrium State Evaluation
+Basel: Target-Aware Basis Selection for Language Models
+HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization
+Revisiting Positional Information in Transformers in the era of Fused Attention
+Deep Generative Modeling for Identification of Noisy, Non-Stationary Dynamical Systems
+SPEED: Selective Prediction for Early Exit DNNs
+Mitigating Memorization in Language Models
+Detecting Out-of-Distribution through the Lens of Neural Collapse
+Directed Structural Adaptation to Overcome Statistical Conflicts and Enable Continual Learning
+Verbosity  ≠  Veracity: Demystify Verbosity Compensation Behavior of Large Language Models
+MOSAIC: Multiple Observers Spotting AI Content, a Robust Approach to Machine-Generated Text Detection
+Bootstrap Sampling Rate Greater than 1.0 May Improve Random Forest Performance
+Large (Vision) Language Models are Unsupervised In-Context Learners
+Effective post-training embedding compression via temperature control in contrastive training
+LLMs Can Plan Only If We Tell Them
+Transformers meet Neural Algorithmic Reasoners
+NETS: A Non-Equilibrium Transport Sampler
+Mixing It Up:  The Cocktail Effect of Multi-Task Fine-Tuning on LLM Performance - A Case Study in Finance
+Can Knowledge Editing Really Correct Hallucinations?
+INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge
+SysCaps: Language Interfaces for Simulation Surrogates of Complex Systems
+Generative Classifiers Avoid Shortcut Solutions
+Compute-Constrained Data Selection
+softmax is not enough (for sharp out-of-distribution)
+Efficient Time Series Forecasting via Hyper-Complex Models and Frequency Aggregation
+A New Look at Low-Rank Recurrent Neural Networks
+Are Language Model Logits Calibrated?
+Optimal Hyperdimensional Representation for Learning and Cognitive Computation
+Investigating Grokking phenomena below the Critical Data Regime
+Can Decoding by Contrasting Layers Really Improve Factuality in Large Language Models?
+How Does Data Diversity Shape The Weight Landscape of Neural Networks?
+Generalization through variance: how noise shapes inductive biases in diffusion models
+Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization
+Structure-aware Attention based on Vector Symbolic Architectures
+Performance Heterogeneity in Message-Passing and Transformer-based Graph Neural Networks
+Voronoi Tessellation-based Confidence Decision Boundary Visualization to Enhance Understanding of Active Learning
+SEPAL: Scalable Feature Learning on Huge Knowledge Graphs
+Tropical Expressivity of Neural Networks
+RLHF with Inconsistent Multi-Agent Feedback Under General Function Approximation: A Theoretical Perspective
+Theoretical Analyses of Hyperparameter Selection in Graph-Based Semi-Supervised Learning
+Code-of-thought prompting: Probing AI Safety with Code
+Fitting Networks with a Cancellation Trick
+Do LLM Agents  Have Regret? A Case Study in Online Learning and Games
+Conflict-Aware Adversarial Training
+Seq-VCR: Preventing  Collapse in Intermediate Transformer Representations for Enhanced Reasoning
+Underdamped Diffusion Bridges with Applications to Sampling
+CodeBenchGen: Creating Scalable Execution-based Code Generation Benchmarks
+A Scalable Communication Protocol for Networks of Large Language Models
+Direct Preference Optimization With Unobserved Preference Heterogeneity
+Efficient Bayesian DNN Compression through Sparse Quantized Sub-distributions

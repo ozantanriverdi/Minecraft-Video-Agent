@@ -1,0 +1,22 @@
+[
+    {
+        "title": "SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Model",
+        "relevant": false
+    },
+    {
+        "title": "ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Referred Object Grounding",
+        "relevant": false
+    },
+    {
+        "title": "EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents",
+        "relevant": false
+    },
+    {
+        "title": "3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds",
+        "relevant": true
+    }
+]

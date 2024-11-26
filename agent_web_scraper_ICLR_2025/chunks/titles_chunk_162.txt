@@ -1,0 +1,50 @@
+FedSR: Frequency-Aware Enhancement for Diffusion-based Image Super-Resolution
+From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities
+IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
+Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport
+Diffusion Models as Cartoonists! The Curious Case of High Density Regions
+A Consistent Pattern for Identifying Decisive Code Snippets for LLM-Based Code Inference
+Diffusion Attacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak
+Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems
+End-to-End Rule Induction from Raw Sequence Inputs
+On the Modeling Capabilities of Large Language Models for Sequential Decision Making
+Enabling Scalable Evaluation of Bias Patterns in Medical LLMs
+Improving classifier decision boundaries and interpretability using nearest neighbors
+Exploring Image-Text Discrepancy for Universal Fake Image Detection
+ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models
+Provable Post-Deployment Deterioration Monitoring
+Different Rates for Different Weights: Decoupled Relative Learning Rate Schedules
+Data Exfiltration in Diffusion Models: A Backdoor Attack Approach
+GenPlan: Automated Floor Plan Generation
+Flavors of Margin: Implicit Bias of Steepest Descent in Homogeneous Neural Networks
+EXPLOITING DISTRIBUTION CONSTRAINTS FOR SCALABLE AND EFFICIENT IMAGE RETRIEVAL
+Protein Sequence Domain Annotation using Language Models
+PRE-TRAIN WITH BACKPROPAGATION AND FINE-TUNE  WITH A BIO-PLAUSIBLE LEARNING RULE
+LLM Distillation for Efficient Few-Shot Multiple Choice Question Answering
+Recurrent Diffusion for Large-Scale Parameter Generation
+CinePile: A Long Video Question Answering Dataset and Benchmark
+Textural or Textual: How Visual Models Understand Texts in Images
+AlphaEdit: Null-Space Constrained Model Editing for Language Models
+Scaling FP8 training to trillion-token LLMs
+Discrete Distribution Networks
+3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Referred Object Grounding
+Chain-of-Thought Provably Enables Learning the (Otherwise) Unlearnable
+Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale
+Glad: A Streaming Scene Generator for Autonomous Driving
+GAMEBOT: Gaming Arena for Model Evaluation - Battle of Tactics
+Out-of-Distribution Detection using Synthetic Data Generation
+Neuro-symbolic Entity Alignment via Variational Inference
+Math for AI: On the Generalization of Learning Mathematical Problem Solving
+Text-Guided Visual Prompt Tuning for Vision-Language Models
+Anomalies are Streaming: Continual Learning for Weakly Supervised Video Anomaly Detection
+Diffusion Models are Evolutionary Algorithms
+Topograph: An Efficient Graph-Based Framework for Strictly Topology Preserving Image Segmentation
+Diving into Self-Evolve Training for Multimodal Reasoning
+Expanding Expressivity in Transformer Models with MöbiusAttention
+Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness
+Exploring a Principled Framework for Deep Subspace Clustering
+HELM: Hierarchical Encoding for mRNA Language Modeling
+Stochastic variance-reduced Gaussian variational inference on the Bures-Wasserstein manifold
+Lower-level Duality Based Penalty Methods for Hyperparameter Optimization
+SelKD: Selective Knowledge Distillation via Optimal Transport Perspective
+On Disentangled Training for Nonlinear Transform in Learned Image Compression

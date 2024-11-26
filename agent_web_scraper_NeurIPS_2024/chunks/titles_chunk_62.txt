@@ -1,0 +1,50 @@
+Learning Structure-Aware Representations of Dependent Types
+Natural Counterfactuals With Necessary Backtracking
+An exactly solvable model for emergence and scaling laws in the multitask sparse parity problem
+UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner
+Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions
+Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials
+Representation Noising: A Defence Mechanism Against Harmful Finetuning
+Compositional PAC-Bayes: Generalization of GNNs with persistence and beyond
+Unified Lexical Representation for Interpretable Visual-Language Alignment
+In-N-Out: Lifting 2D Diffusion Prior for 3D Object Removal via Tuning-Free Latents Alignment
+Amortized Bayesian Experimental Design for Decision-Making
+Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning
+SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors
+Universal Online Convex Optimization with  1  Projection per Round
+SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection
+DiffuLT: Diffusion for Long-tail Recognition Without External Knowledge
+ImOV3D: Learning Open Vocabulary Point  Clouds 3D Object Detection from Only 2D Images
+UQ-Guided Hyperparameter Optimization for Iterative Learners
+Bayesian Optimization of Functions over Node Subsets in Graphs
+Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning
+Can large language models explore in-context?
+One-shot Federated Learning via Synthetic Distiller-Distillate Communication
+Aligning Audio-Visual Joint Representations with an Agentic Workflow
+Fast Rates in Stochastic Online Convex Optimization by Exploiting the Curvature of Feasible Sets
+Near-Optimal Distributed Minimax Optimization under the Second-Order Similarity
+TAIA: Large Language Models are Out-of-Distribution Data Learners
+Improving Deep Learning Optimization through Constrained Parameter Regularization
+Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
+Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics
+Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model
+DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut
+Multi-Agent Coordination via Multi-Level Communication
+GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction
+Amortizing intractable inference in diffusion models for vision, language, and control
+FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor
+Pseudo-Siamese Blind-spot Transformers for Self-Supervised Real-World Denoising
+Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models
+TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene
+Language Models as Hierarchy Encoders
+R 2 -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction
+Referring Human Pose and Mask Estimation In the Wild
+AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning
+SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution
+Scalable DBSCAN with Random Projections
+Challenges of Generating Structurally Diverse Graphs
+Calibrating Reasoning in Language Models with Internal Consistency
+Can Graph Learning Improve Planning in LLM-based Agents?
+Understanding and Improving Training-free Loss-based Diffusion Guidance
+Stability and Generalizability in SDE Diffusion Models with Measure-Preserving Dynamics
+Language-Driven Interactive Traffic Trajectory Generation

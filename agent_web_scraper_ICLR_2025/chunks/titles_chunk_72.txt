@@ -1,0 +1,50 @@
+GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation
+Exploring the Design Space of Visual Context Representation in Video MLLMs
+Investigating Domain Gaps for Indoor 3D Object Detection
+DAViD: Domain Adaptive Visually-Rich Document Understanding with Synthetic Insights
+S 2 GS: Self-supervised Gaussian Segmentation for Automatic 3D Object Scanning
+Exploring One-Shot Federated Learning by Model Inversion and Token Relabel with Vision Transformers
+ER-AAE: A quantum state preparation approach based on entropy reduction
+Adversarial Score Identity Distillation: Rapidly Surpassing the Teacher in One Step
+Q-Adapter: Customizing Pre-trained LLMs to New Preferences with Forgetting Mitigation
+uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs
+Test-Time Graph Rebirth: Serving GNN Generalization Under Distribution Shifts
+Bridging the Gap between Variational Inference and Stochastic Gradient MCMC in Function Space
+Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems
+Flash Inference: Near Linear Time Inference for Long Convolution Sequence Models and Beyond
+F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching
+σ -zero: Gradient-based Optimization of  ℓ 0 -norm Adversarial Examples
+Moiré Graph Transformer: Eliminating Positional Encoding with Focused Attention
+Robust Lurie Networks with Controllable Convergent Dynamics
+Topological Positional Encoding
+ECG Instruction Tuning on Multimodal LLMs for Report Generation: Benchmark and Evaluation
+Interleaving Optimizers for DNN Training
+Personalized Federated Learning With Similarity Information Supervisor
+NAText: Faster Scene Text Recognition with Non Autoregressive Transformer
+Exploring Local Memorization in Diffusion Models via Bright Ending Attention
+A Theory of Multi-Agent Generative Flow Networks
+On the Adversarial Vulnerability of Label-Free Test-Time Adaptation
+Strength Estimation and Human-Like Strength Adjustment in Games
+A Causal Lens for Evaluating Faithfulness Metrics
+Discrete Copula Diffusion
+Adaptive Energy Alignment for Accelerating Test-Time Adaptation
+Algorithmic Language Models with Neurally Compiled Libraries
+Unsupervised Disentanglement of Content and Style via Variance-Invariance Constraints
+General Skeleton Semantics Learning with Probabilistic Masked Context Reconstruction for Skeleton-Based Person Re-Identification
+InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization
+Large-Scale Training Data Attribution with Efficient Influence Functions
+Dynamic Elimination For PAC Optimal Item Selection From Relative Feedback
+Exploring The Loss Landscape Of Regularized Neural Networks Via Convex Duality
+Incremental Exploits: Efficient Jailbreaks on Large Language Models with Multi-round Conversational Jailbreaking
+UDC-VIT: A Real-World Video Dataset for Under-Display Cameras
+Solving Blind Non-linear Forward and Inverse Problem for Audio Applications
+Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN
+Auto-Ensemble Structure Learning of Large Gaussian Bayesian Networks
+Patch-Wise Automatic Segmentation for Real-Time PCB Inspection
+SAR2Earth: A SAR-to-EO Translation Dataset for Remote Sensing Applications
+BAP: BRANCH-AWARE PARALLEL EXECUTION FOR FASTER DNN INFERENCE ON MOBILE CPUS
+Exploring the Impact of Activation Functions in Training Neural ODEs
+EmbedLLM: Learning Compact Representations of Large Language Models
+Dissecting Bit-Level Scaling Laws in Quantizing Vision Generative Models
+Large Language Models Often Say One Thing and Do Another
+PCDM: PERCEPTUAL CONSISTENCY IN DIFFUSION MODELS FOR NO-REFERENCE IMAGE QUALITY ASSESSMENT

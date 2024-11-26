@@ -1,0 +1,50 @@
+Few-shot Style-Conditioned LLM Text Generation via Latent Interpolation
+ImProver: Agent-Based Automated Proof Optimization
+Angle-DFQ: Angle aware data free quantization
+MTEEG: A Multi-Task Learning Framework for Enhanced Electroencephalography Analysis Using Low-Rank Adaptation
+Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling
+PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval
+Plug-and-Play Controllable Generation for Discrete Masked Models
+Latent-Predictive Empowerment: Measuring Empowerment without a Simulator
+Improving Language Model Self-Correction Capability with Meta-Feedback
+Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities
+Evolving Alignment via Asymmetric Self-Play
+OTTC: A differentiable alignment approach to automatic speech recognition
+Higher Order Transformers: Efficient Attention Mechanism for Tensor Structured Data
+Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought
+Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors
+Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting
+Large Language Models as Realistic Microservice Trace Generators
+Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing
+Bias Learning: Quantifying and Mitigating Position Sensitivity in Text Embeddings
+MaestroMotif: Skill Design from Artificial Intelligence Feedback
+Influencing Humans to Conform to Preference Models for RLHF
+Combating the Generalization-Forgetting Trade-off in Continual Learning: A Cautious Passive Low-Rank Approach
+AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents
+Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF
+Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration
+Quantile Activation: Correcting a failure mode of ML models
+No Need to Talk: Asynchronous Mixture of Language Models
+Self-Informed Generative Active Learning
+Beyond Cosine Similarity: Introducing the Unified semantic Similarity Metric Benchmark (USMB) for Text Similarity Measurement
+Splitted Wavelet Differential Inclusion for neural signal processing
+Inheritune: Training Smaller Yet More Attentive Language Models
+Relative-Translation Invariant Wasserstein Distance
+Learning Large Skillsets in Stochastic Settings with Empowerment
+Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization
+Personalized Federated Fine-tuning for Heterogeneous Data: a Two-Level Low Rank Adaptation Approach
+Stochastic Flow Matching for Resolving Small-Scale Physics
+A Spectral Framework for Assessing the Geodesic Distance Between Graphs
+NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator
+Unveiling Causal Relationships Among Candidate Output Tokens in Large Language Models: Towards Interpretability and Control
+Rethinking Dataset Quantization: Efficient Core Set Selection via Semantically-Aware Data Augmentation
+L3Ms — Lagrange Large Language Models
+Dragonfly: Multi-Resolution Zoom-In Encoding Enhances Vision-Language Models
+Locality Alignment Improves Vision-Language Models
+FactCheckmate: Preemptively Detecting and Mitigating Hallucinations in LMs
+Constrained Multi-Objective Optimization
+Image Restoration for Training Data Reconstructed from Trained Neural Networks
+SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs
+Dynamical modeling for real-time inference of nonlinear latent factors in multiscale neural activity
+Multi-Agent Path Finding via Decision Transformer and LLM Collaboration
+GCNFT: Graph Convolutional Networks Aware Generative Feature Transformation

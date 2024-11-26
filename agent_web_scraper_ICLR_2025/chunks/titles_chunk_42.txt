@@ -1,0 +1,50 @@
+Understanding Factual Recall in Transformers via Associative Memories
+Bridging the Data Provenance Gap Across Text, Speech, and Video
+FedMAP: Unlocking Potential in Personalized Federated Learning through Bi-Level MAP Optimization
+Topological Data Analysis on Graphs: Euler characteristics, Persistent Homology, or Spectrum?
+Zero-shot Object-level Out-of-distribution Detection with Context-aware Inpainting
+Neuro-Symbolic Rule Lists
+What can we learn from Harry Potter? An Exploratory Study of Visual Representation Learning from Atypical Videos
+Proper Orthogonal Decomposition for Scalable Training of Graph Neural Networks
+Intra-fused Gromov Wasserstein Discrepancy: A Smooth Metric for Cross-Domain structured Data
+Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation
+Oldie but Goodie: Re-illuminating Label Propagation on Graphs with Partially Observed Features
+EEVEE and GATE: Finding the right benchmarks and how to run them seamlessly
+SAGE: Scalable Ground Truth Evaluations for Large Sparse Autoencoders
+Free Hunch: Denoiser Covariance Estimation for Diffusion Models Without Extra Costs
+Towards Fast Graph Generation via Autoregressive Filtration Modeling
+Efficient Sparsification of Densely Connected Clusters
+Toward Generalizability of Graph-based Imputation on Biomedical Tabular-based Missing Data
+Temporal Misinformation and Conversion through  Probabilistic Spiking Neurons
+RwR : A Reason-while-Retrieve framework for Reasoning on Scene Graphs with LLMs
+Say My Name: a Model's Bias Discovery Framework
+Preference Data Annotation with Guided Density Ratios
+Geometry-Informed Neural Networks
+One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment
+FedPS: Federated data Preprocessing via aggregated Statistics
+Banyan: Improved Representation Learning with Explicit Structure
+Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch
+VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding
+Exploring and Benchmarking  Planning Capabilities of  Large Language Models
+Tensor-Var: Variational Data Assimilation in Tensor Product Feature Space
+COT Flow: Learning Optimal-Transport Image Sampling and Editing by Contrastive Pairs
+The Sampling-Gaussian for stereo matching
+EMMA: Efficient Visual Alignment in Multi-Modal LLMs
+Fugatto 1: Foundational Generative Audio Transformer Opus 1
+Increment Vector Transformation for Class Incremental Learning
+A long range foundation model for zero-shot predictions in single-cell and spatial transcriptomics data
+Finding the Number of Clusters in a Graph: a Nearly-Linear Time Algorithm
+Enhancing single-cell Multi-Modal Multi-Task Learning via Sparse Mixture-of-Experts
+Identifiability Guarantees For Time Series Representation via Contrastive Sparsity-inducing
+Balancing Bias in Two-sided Markets for Fair Stable Matchings
+Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees
+HÖLDER PRUNING: LOCALIZED PRUNING FOR BACKDOOR REMOVAL IN DEEP NEURAL NETWORKS
+Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding
+Multi-Step Preference Optimization via Two-Player Markov Games
+Video Q-Former: Multimodal Large Language Model with Spatio-Temporal Querying Transformer Towards Video Understanding
+Nesterov acceleration in benignly non-convex landscapes
+Standard Gaussian Process Can Be Excellent for High-Dimensional Bayesian Optimization
+Large Language Models Are Natural Video Popularity Predictors
+NativQA: Multilingual Culturally-Aligned Natural Queries for LLMs
+Topic and Description Reasoning Generation based on User-Contributed Comments
+Modeling Real-Time Interactive Conversations as Timed Diarized Transcripts

@@ -1,0 +1,50 @@
+Pretrained Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training
+PROGRESSIVE KNOWLEDGE DISTILLATION (PKD): A MODULAR APPROACH FOR ARCHITECTURE-AGNOSTIC KNOWLEDGE DISTILLATION
+MULTIMODAL GENERATIVE AI FOR STORY POINT ESTIMATION
+GRIC: General Representation and Informative Content for Enhanced Out-of-Distribution Detection
+Targeted Unlearning via Single Layer Unlearning Gradient
+Deep LPPLS: Forecasting of temporal critical points in natural, engineering and financial systems via deep learning
+Generative World Explorer
+Exploring Non-Convex Discrete Energy Landscapes: A Langevin-Like Sampler with Replica Exchange
+Gradient-Free Generation for Hard-Constrained Systems
+UniDrive: Towards Universal Driving Perception Across Camera Configurations
+Neural Slot Interpreters: Grounding Object Semantics in Emergent Slot Representations
+MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility
+ImageFolder: Autoregressive Image Generation with Folded Tokens
+Multi-modal Controlled Coherent Motion Synthesis
+Comparisons Are All You Need for Optimizing Smooth Functions
+InstaSHAP: Interpretable Additive Models Explain Shapley Values Instantly
+Prompt Optimization with Logged Bandit Data
+Watermark Anything With Localized Messages
+Embedding-based statistical inference on generative models
+M^3PC: Test-time Model Predictive Control using Pretrained Masked Trajectory Model
+PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting
+Personalized Large Vision-Language Model
+Distilling the Knowledge in Data Pruning
+Causally Motivated Diffusion Sampling Frameworks for Harnessing Contextual Bias
+Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos
+TemporalBench: Towards Fine-grained Temporal Understanding for  Multimodal Video  Models
+TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction
+SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars
+PuppetMaster: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics
+AgentQuest: Benchmarking LLM and VLM Agents on Long-Horizon Interactive Tasks
+High-quality and controllable time series generation with diffusion in transformers
+TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction
+Step-Controlled DPO: Leveraging Stepwise Errors for Enhancing Mathematical Reasoning of Language Models
+From Graph Embedding to LKH: Bridging Learning and Heuristics for a Streamlined General TSP Solver
+Adaptive Masking Enhances Visual Grounding
+Ensembles of Low-Rank Expert Adapters
+Does Refusal Training in LLMs Generalize to the Past Tense?
+Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks
+GUARANTEED USER FAIRNESS IN RECOMMENDATION
+Parameter-Efficient Fine-Tuning of State Space Models
+LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting
+Compositional Risk Minimization
+D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
+Preference Optimization for Combinatorial Optimization Problems
+ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation
+Laplace Sample Information:  Data Informativeness Through a Bayesian Lens
+Structural-Entropy-Based Sample Selection for Efficient and Effective Learning
+Improving Autoregressive Image Generation by Mitigating Gradient Bias in Softmax
+Stable Segment Anything Model
+Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses

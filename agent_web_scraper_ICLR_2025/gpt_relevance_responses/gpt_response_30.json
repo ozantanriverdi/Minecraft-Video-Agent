@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Exploiting Open-World Data for Adaptive Continual Learning",
+        "relevant": false
+    },
+    {
+        "title": "Symbolic Learning Enables Self-Evolving Agents",
+        "relevant": true
+    },
+    {
+        "title": "Are Large Vision Language Models Good Game Players?",
+        "relevant": false
+    },
+    {
+        "title": "Re-Aligning Language to Visual Objects with an Agentic Workflow",
+        "relevant": false
+    },
+    {
+        "title": "ReAcTree: Hierarchical Task Planning with Dynamic Tree Expansion using LLM Agent Nodes",
+        "relevant": true
+    }
+]

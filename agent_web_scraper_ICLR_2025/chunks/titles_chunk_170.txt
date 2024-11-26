@@ -1,0 +1,50 @@
+Question-Aware Knowledge Graph Prompting for Large Language Models
+Recovering Manifold Structure Using Ollivier Ricci Curvature
+POLYATOMIC COMPLEXES: A TOPOLOGICALLY INFORMED LEARNING REPRESENTATION FOR ATOMISTIC SYSTEMS
+Invariance to Planning in Goal-Conditioned RL
+OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision
+TWO STAGES DOMAIN INVARIANT REPRESENTATION LEARNERS SOLVE THE LARGE CO-VARIATE SHIFT IN UNSUPERVISED DOMAIN ADAPTATION WITH TWO DIMENSIONAL DATA DOMAINS
+CLoRA: A Contrastive Approach to Compose Multiple LoRA Models
+From Isolated Conversations to Hierachical Schemas: Dynamic Tree Memory Representation for LLMs
+Visually Descriptive Language Model for Vector Graphics Reasoning
+LLMs Synergy : From Closed-Source Prototyping to  Open-Source Model  based  Instruction Following
+AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data
+CURIE: Evaluating LLMs on Multitask Scientific Long-Context Understanding and Reasoning
+Towards Accurate Validation in Deep Clustering through Unified Embedding Learning
+Symmetry-Driven Discovery of Dynamical Variables in Molecular Simulations
+Improved Approximation Algorithms for  k -Submodular Maximization via Multilinear Extension
+Actions Inspire Every Moment: Online Action-Augmented Dense Video Captioning
+LUNCH: Adaptive Balancing of Continual Learning via Hyperparameter Uncertainty
+Narrowing the Focus: Learned Optimizers for Pretrained Models
+Truncated Consistency Models
+Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models
+KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models
+Elucidating the Preconditioning in Consistency Distillation
+Diffusion Bridge Implicit Models
+TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining
+Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling
+PRUC & Play: Probabilistic Residual User Clustering for Recommender Systems
+A Geometric Approach to Personalized Recommendation with Set-Theoretic Constraints Using Box Embeddings
+Spectral Shaping for Neural PDE Surrogates
+Automated Feature Engineering by Prompting
+Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data
+Temporal-Difference Variational Continual Learning
+Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators
+PICASO: Permutation-Invariant Composition of Document States
+DeltaGNN: Graph Neural Network with Information Flow Control
+Self-Organizing Visual Embeddings for Non-Parametric Self-Supervised Learning
+Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning
+Integration Flow Models
+Scene Flow as a Partial Differential Equation
+DCT-CryptoNets: Scaling Private Inference in the Frequency Domain
+Dynamic SVD-Enhanced Approach for Federated Learning
+LEMoN: Label Error Detection using Multimodal Neighbors
+ExpanDyNeRF: Expanding the Viewpoint of Dynamic Scenes beyond Constrained Camera Motions
+Nonlinear multiregion neural dynamics with parametric impulse response communication channels
+Towards improving saliency map interpretability using feature map smoothing
+Larger language models do in-context learning differently
+DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization
+A Large-scale Training Paradigm for Graph Generative Models
+Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning
+MMSci: A Dataset for Graduate-Level Multi-Discipline Multimodal Scientific Understanding
+Pretrained Hybrids with MAD Skills

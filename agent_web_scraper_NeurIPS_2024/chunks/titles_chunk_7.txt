@@ -1,0 +1,50 @@
+EMR-Merging: Tuning-Free High-Performance Model Merging
+Learn To be Efficient: Build Structured Sparsity in Large Language Models
+Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting
+3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors
+HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection
+Honor Among Bandits: No-Regret Learning for Online Fair Division
+Optimal Algorithms for Online Convex Optimization with Adversarial Constraints
+ResAD: A Simple Framework for Class Generalizable Anomaly Detection
+Reconstruct and Match: Out-of-Distribution Robustness via Topological Homogeneity
+Statistical Multicriteria Benchmarking via the GSD-Front
+Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training
+Small coresets via negative dependence: DPPs, linear statistics, and concentration
+Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features
+Memorize What Matters: Emergent Scene Decomposition from Multitraverse
+SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection
+Context and Geometry Aware Voxel Transformer for Semantic Scene Completion
+Many-Shot In-Context Learning
+LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS
+VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
+Learning Linear Causal Representations from General Environments: Identifiability and Intrinsic Ambiguity
+Algebraic Positional Encodings
+BMRS: Bayesian Model Reduction for Structured Pruning
+DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms
+Bridge the Points: Graph-based Few-shot Segment Anything Semantically
+VMamba: Visual State Space Model
+Parameter-Inverted Image Pyramid Networks
+Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement
+Non-convolutional graph neural networks.
+Mirror and Preconditioned Gradient Descent in Wasserstein Space
+MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities
+Improving the Worst-Case Bidirectional Communication Complexity for Nonconvex Distributed Optimization under Function Similarity
+X-Ray: A Sequential 3D Representation For Generation
+A Phase Transition between Positional and Semantic Learning in a Solvable Model of Dot-Product Attention
+Sequoia: Scalable and Robust Speculative Decoding
+Generalized Protein Pocket Generation with Prior-Informed Flow Matching
+Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting
+Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation
+Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration
+Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection
+PCP-MAE: Learning to Predict Centers for Point Masked Autoencoders
+Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment
+Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
+A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis
+Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models
+Metric Transforms and Low Rank Representations of Kernels for Fast Attention
+FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion
+Particle Semi-Implicit Variational Inference
+PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging
+Tetrahedron Splatting for 3D Generation
+Rethinking 3D Convolution in  ℓ p -norm Space

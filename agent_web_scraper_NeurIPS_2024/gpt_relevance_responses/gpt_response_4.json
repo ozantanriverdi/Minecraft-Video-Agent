@@ -1,0 +1,22 @@
+[
+    {
+        "title": "ReplaceAnything3D: Text-Guided Object Replacement in 3D Scenes with Compositional Scene Representations",
+        "relevant": false
+    },
+    {
+        "title": "Do LLMs Build World Representations? Probing Through the Lens of State Abstraction",
+        "relevant": false
+    },
+    {
+        "title": "Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning",
+        "relevant": false
+    },
+    {
+        "title": "BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction",
+        "relevant": false
+    },
+    {
+        "title": "LLM-based Skill Diffusion for Zero-shot Policy Adaptation",
+        "relevant": false
+    }
+]

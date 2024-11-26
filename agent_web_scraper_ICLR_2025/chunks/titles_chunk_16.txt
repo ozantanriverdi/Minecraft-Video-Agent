@@ -1,0 +1,50 @@
+Bridging Visual Communication and Data Exploration through Pose-Driven Query Synthesis
+Incorporating gauge-invariance in equivariant networks
+Annotation Bootstrapping: Reinforcing Visual Pre-Training using Unlabelled Images
+AccCtr: Accelerating Training-Free  Control For Text-to-Image Diffusion Models
+MIND THE GAP: ALIGNING THE BRAIN WITH LANGUAGE MODELS REQUIRES A NONLINEAR AND MULTIMODAL APPROACH
+Reformer: A Deep Learning Model for Runtime Selection of Convolution Kernels
+Improving Fairness and Mitigating MADness in Generative Models
+Watchmaker Functions and Meta Specification of Open-Ended Learning Systems
+GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
+Generating All-Atom Protein Structure from Sequence-Only Training Data
+Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on Tasks where Thinking Makes Humans Worse
+TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models
+The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency
+Roadmap towards Superhuman Speech Understanding using Large Language Models
+Identifiability for Gaussian Processes with Holomorphic Kernels
+Explaining Hypergraph Neural Networks: From Local Explanations to Global Concepts
+Machine Unlearning for Streaming Forgetting
+A Differentiable Metric for Discovering Groups and Unitary Representations
+On the interplay between learning and memory in deep state space models
+Image Watermarks are Removable using Controllable Regeneration from Clean Noise
+Enhancing Cross-Lingual and Cross-Domain Adaptability in Large Language Models for Software Engineering
+Simple, Accurate, and Efficient Axis-Aligned Decision Tree Learning
+On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains
+Latent Weight Diffusion: Generating policies from trajectories
+UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting
+Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception
+A Theoretical Analysis of Self-Supervised Learning for Vision Transformers
+An Asymptotic Theory of Random Search for Hyperparameters in Deep Learning
+SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder
+ProteinBench: A Holistic Evaluation of Protein Foundation Models
+Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback
+Bridging the Safety Gap: A Guardrail Pipeline for Trustworthy LLM Inferences
+Modeling Complex System Dynamics with Flow Matching Across Time and Conditions
+MetaAgent: Automatically Building Multi-Agent System based on Finite State Machine
+GeneMamba: Early Parkinson’s Detection via Wearable Device and Genetic Data
+Radon Implicit Field Transform (RIFT): Learning Scenes from Radar Signals
+Gradient dynamics of low-rank fine-tuning beyond kernels
+Llamas (mostly) think in English: On Causal Interventions in the Latent Language of Transformers
+Universally Optimal Watermarking Schemes for LLMs: from Theory to Practice
+Convergence Analysis of Adaptive Gradient Methods under Refined Smoothness and Noise Assumptions
+LeanQuant: Accurate and Scalable Large Language Model Quantization with Loss-error-aware Grid
+Novel View Acoustic Parameter Estimation
+Finding Symmetry in Neural Network Parameter Spaces
+Who Should Join the Decision-Making Table? Targeted Expert Selection for Enhanced Human-AI Collaboration
+Show, Don't Tell: Uncovering Implicit Character Portrayal using LLMs
+Understanding Mode Connectivity via Parameter Space Symmetry
+Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search
+Diverging Preferences: When do Annotators Disagree and do Models Know?
+DataMan: Data Manager for Pre-training Large Language Models
+Annotation-Efficient Language Model Alignment via Diverse and Representative Response Texts

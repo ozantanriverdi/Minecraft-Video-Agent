@@ -1,0 +1,50 @@
+Standardizing the Measurement of Text Diversity: A Tool and Comparative Analysis
+Learning Cooperative Mean Field Games on Sparse Chung-Lu Graphs
+RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction
+SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal
+Towards Auto-Regressive Next-Token Prediction: In-context Learning Emerges from Generalization
+Low-Budget Simulation-Based Inference with Bayesian Neural Networks
+Information Subtraction: Learning Representations for Conditional Entropy
+SimPER: Simple Preference Fine-Tuning without Hyperparameters by Perplexity Optimization
+FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension
+Periodical Moving Average Accelerates Gradient Accumulation for Post-Training
+An Adaptive Defense Against Adversarial Patch Attacks For Vision Transformers
+MAGNet: Motif-Agnostic Generation of Molecules from Scaffolds
+3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination
+XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test adaptation
+Zero-cost Proxy for Adversarial Robustness Evaluation
+You Can Train from Scratch: Further Discussion on the Long Range Arena
+NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
+PnP-Flow: Plug-and-Play Image Restoration with Flow Matching
+Mastering Syntax, Unlocking Semantics: A Mathematically Provable Two-stage Learning Process in Transformers
+Learning Robust EEG Representations with a Large Spatiotemporal Transformer as a Foundation Model
+Broaden your SCOPE! Efficient Conversation Planning for LLMs with Semantic Space
+Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference
+Periodic Materials Generation using Text-Guided Joint Diffusion Model
+LAION-C: An out-of-distribution benchmark for web-scale vision models
+Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models
+M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark
+Revised NTK Analysis of Optimization and Generalization with Its Extensions to Arbitrary Initialization
+How Much Can RAG Help the Reasoning of LLM?
+Understanding Virtual Nodes: Oversquashing and Node Heterogeneity
+TODO: Enhancing LLM Alignment with Ternary Preferences
+Training Large Neural Networks With Low-Dimensional Error Feedback
+Cost-Sensitive Multi-Fidelity Bayesian Optimization
+Online Auction for Ads and Organics
+A Contextual Online Learning Theory of Brokerage
+Neural Circuit Architectural Priors for Quadruped Locomotion
+Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy
+Operator Deep Smoothing for Implied Volatility
+Re-evaluating Open-ended Evaluation of Large Language Models
+A Simple Data-Parameters Balancing Framework for Early Ventricular Activation Origin Localization
+An Intelligent Agentic System for Complex Image Restoration Problems
+Large Language Model Confidence Estimation via Black-Box Access
+Enhancing Mathematical Reasoning in Language Models Through Focused Differentiation Training
+Revisiting the Othello World Model Hypothesis
+Open-Set Graph Anomaly Detection via Normal Structure Regularisation
+Adversarial Self Flow Matching: Few-steps Image Generation with Straight Flows
+QERA: an Analytical Framework for Quantization Error Reconstruction
+Contextualized Messages Boost Graph Representations
+Advancing Prompt-Based Methods for Replay-Independent General Continual Learning
+Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist
+Large Language Model Predicting the Performance of Small Organic Molecule Corrosion Inhibitors

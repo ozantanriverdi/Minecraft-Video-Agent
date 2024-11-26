@@ -1,0 +1,50 @@
+S2-Attention: Hardware-Aware Context Sharding Among Attention Heads
+Modeling Spatiotemporal Heterogeneity in Earth Science Machine Learning: An End-to-End Approach
+Frame-Voyager: Learning to Query Frames for Video Large Language Models
+PN-GAIL: Leveraging Non-optimal Information from Imperfect Demonstrations
+Attributing Culture-Conditioned Generations to Pretraining Corpora
+Compositional World Models with Interpretable Abstractions
+Rethinking Language-Alignment in Human Visual Cortex with Syntax Manipulation and Word Models
+Semi-Parametric Retrieval via Binary Bag-of-Tokens Index
+RTop-K: Ultra-Fast Row-Wise Top-K Selection for Neural Network Acceleration on GPUs
+Conformal Training with Reduced Variance
+DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory
+Training Mice to Compete with Elephants: A Guide for Customizing Small-Sized LLMs on Knowledge and Skills Data
+Improving Adaptive Moment Optimization via Preconditioner Diagonalization
+Conformal Reasoning: Uncertainty Estimation in Interactive Environments
+Mitigate Position Bias in Large Language Models via Scaling a Single Dimension
+Simulate Before Act: Model-Based Planning for Web Agents
+Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing
+PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks
+The Phase Transition Phenomenon of Shuffled Regression
+Accelerated Preference Optimization for Large Language Model Alignment
+Online Detection for Black-Box Large Language Models with Adaptive Prompt Selection
+Repurposing Foundation Model for Generalizable Medical Time Series Classification
+AnyECG: Foundational Models for Electrocardiogram Analysis
+Conformal Prediction Sets with Improved Conditional Coverage using Trust Scores
+A Principled Evaluation Framework for Neuron Explanations
+Minimax Based  Fast-training Defense against Adversarial Policy in Two-player Competitive Games
+Classification-denoising networks
+ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks
+How do students become teachers: A dynamical analysis for two-layer neural networks
+MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model
+Studying the Effects of Training Data on Small Language Models
+Common Pitfalls of Margin-based Preference Optimization in Language Model Alignment
+FROM LOW TO HIGH-VALUE DESIGNS: OFFLINE OPTIMIZATION VIA GENERALIZED DIFFUSION
+Incidental Polysemanticity: A New Obstacle for Mechanistic Interpretability
+Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity
+Should VLMs be Pre-trained with Image Data?
+DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models
+MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis
+Scalable Back-Propagation-Free Training of Optical Physics-Informed Neural Networks
+Adaptive Rank Allocation: Speeding Up Modern Transformers with RaNA Adapters
+EFFICIENT JAILBREAK ATTACK SEQUENCES ON LARGE LANGUAGE MODELS VIA MULTI-ARMED BANDIT-BASED CONTEXT SWITCHING
+A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts
+Denoising Diffusion Causal Discovery
+What Secrets Do Your Manifolds Hold? Understanding the Local Geometry of Generative Models
+L-WISE: Boosting human image category learning through model-based image selection and enhancement
+Hard-Constrained Neural Networks with Universal Approximation Theorem
+Predictive Uncertainty Quantification for Bird's Eye View Segmentation: A Benchmark and Novel Loss Function
+DiscoveryBench: Towards Data-Driven Discovery with Large Language Models
+Maximum Likelihood Estimation for Flow Matching by Direct Second-order Trace Objective
+Algorithmic Phases of In-Context Learning

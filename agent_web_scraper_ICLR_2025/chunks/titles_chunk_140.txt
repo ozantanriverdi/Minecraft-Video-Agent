@@ -1,0 +1,50 @@
+STABLE DIFFUSION MODELS ARE SECRETLY GOOD AT VISUAL IN-CONTEXT LEARNING
+Hamiltonian Mechanics of Feature Learning: Bottleneck Structure in Leaky ResNets
+OmniSep: Unified Omni-Modality Sound Separation with Query-Mixup
+Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios
+Direct Acquisition Optimization for Low-Budget Active Learning
+LIAR: Leveraging Inverse Alignment to Jailbreak LLMs in Seconds
+Training Neural Networks on Data Sources with Unknown Reliability
+Strong denoising of financial time-series
+Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning
+Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception
+Varying Shades of Wrong: Aligning LLMs with Wrong Answers Only
+CausalVE: Face Video Privacy Encryption via Causal Video Prediction
+Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence
+Improve Mathematical Reasoning in Language Models with Automated Process Supervision
+Boltzmann Semantic Score: A Semantic Metric for Evaluating Large Vision Models Using Large Language Models
+Mini-batch kernel  k -means
+Training Nonlinear Transformers for Chain-of-Thought Inference:  A Theoretical Generalization Analysis
+Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification
+DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models
+Competing Large Language Models in Multi-Agent Gaming Environments
+A Brain-Inspired Machine Learning Paradigm for Nature-Powered Equation Solving
+A Causal Lens for Learning Long-term Fair Policies
+Semantic Membership Inference Attack against Large Language Models
+Leveraging Low Rank Structure in The Lazy Regime
+Building Math Agents with Multi-Turn Iterative Preference Learning
+POST: A Framework for Privacy of Soft-prompt Transfer
+Looking into User’s Long-term Interests through the Lens of Conservative Evidential Learning
+Sharpness Aware Minimization: General Analysis and Improved Rates
+Learning to Steer Markovian Agents under Model Uncertainty
+Semantic Equitable Clustering: You Only Iterate Once to Cluster Vision Tokens
+Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models
+NRGBoost: Energy-Based Generative Boosted Trees
+Mini-batch Submodular Maximization
+EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching
+Adaptive Caching for Faster Video Generation with Diffusion Transformers
+Scalable Universal T-Cell Receptor Embeddings from Adaptive Immune Repertoires
+SINAI: Selective Injection of Noise for Adversarial Robustness with Improved Efficiency
+Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance
+InstaTrain: Adaptive Training via Ultra-Fast Natural Annealing within Dynamical Systems
+ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts
+A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models
+Agree to Disagree: Demystifying Homogeneous Deep Ensembles through Distributional Equivalence
+REDO: Execution-Free Runtime Error Detection for Coding Agents
+LR0.FM: LOW-RESOLUTION ZERO-SHOT CLASSIFICATION BENCHMARK FOR FOUNDATION MODELS
+Language Repository for Long Video Understanding
+One Step Diffusion via Shortcut Models
+Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment
+Scale-Free Graph-Language Models
+DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads
+Private Stochastic Convex Optimization with Tysbakov Noise Condition and Large Lipschitz Constant

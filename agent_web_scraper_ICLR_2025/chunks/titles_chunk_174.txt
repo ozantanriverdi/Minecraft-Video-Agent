@@ -1,0 +1,50 @@
+Training One-Dimensional Graph Neural Networks is NP-Hard
+Grounding Multimodal Large Language Model in GUI World
+Intransigent Teachers Guide Better Test-Time Adaptation Students
+Improved Noise Schedule for Diffusion Training
+Variational Diffusion Posterior Sampling with Midpoint Guidance
+Resolving Complex Social Dilemmas by Aligning Preferences with Counterfactual Regret
+Geometric Graph Neural Network based track finding
+P-Align: Self-Alignment in Physical Dynamical System Modeling
+Zero-shot Imputation with Foundation Inference Models for Dynamical Systems
+Prompt Reverse Learning: Enhancing Visual Language Models for Rare Image Recognition
+On Extending Direct Preference Optimization to Accommodate Ties
+On the (un) interpretability of Ensembles: A Computational Analysis
+Towards Pose-Free Dynamic Neural Fields: Leveraging Geometric Foundation Models
+Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation
+HIERARCHICAL EQUIVARIANT GRAPH GENERATION
+Diversity-Enhanced and Classification-Aware Prompt Learning for Few-Shot Learning via Stable Diffusion
+Multi-Model Induced Source-free Video Domain Adaptation
+Identifying Drivers of Predictive Aleatoric Uncertainty
+Physics-Informed Neural Predictor
+Freeze and Cluster: A simple baseline for Rehearsal-Free Continual Category Discovery
+GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation
+Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing
+Diversifying Spurious Subgraphs for Graph Out-of-Distribution Generalization
+GlobalMamba: Global Image Serialization for Vision Mamba
+PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression
+PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Spatiotemporal Prediction
+CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs
+RealTracker: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
+Abstracting and Refining Provably Sufficient Explanations of Neural Network Predictions
+InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences
+Double Descent Meets Out-of-Distribution Detection: Theoretical Insights and Empirical Analysis of the role of model complexity
+HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models
+On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps
+Benchmarking XAI Explanations with Human-Aligned Evaluations
+FreeRide: Harvesting Bubbles in Pipeline Parallelism
+Concise, Efficient, and Faithful Sufficient Reasons using Self-Explaining Neural Networks
+MIND SCRAMBLE: UNVEILING LARGE LANGUAGE MODEL PSYCHOLOGY VIA TYPOGLYCEMIA
+Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs
+CPT: Consistent Proxy Tuning for Black-box Optimization
+HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment
+Neural Regenerative Stochastic Differential Equation: Dropout Scheme for Neural Differential Equations
+FreqPrior: Improving Diffusion Models with Frequency Filtering Gaussian Noise as Prior
+Progressively Refined Differentiable Physics
+Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training
+Dual Variance Reduction with Momentum for Imbalanced Black-Box Discrete Prompt Learning
+Generalizing to any diverse distribution: uniformity, gentle finetuning & rebalancing
+PABBO: Preferential Amortized Black-Box Optimization
+Evaluating Perceptual Distances Models by Fitting Binomial Distributions to Two-Alternative Forced Choice Data
+Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information
+Learning Structure-Dynamics-aware Representations for Efficient and Robust 3D Pose Estimation

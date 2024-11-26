@@ -1,0 +1,50 @@
+VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections
+OccFusion: Rendering Occluded Humans with Generative Diffusion Priors
+Outlier-Robust Distributionally Robust Optimization via Unbalanced Optimal Transport
+Utilizing Image Transforms and Diffusion Models for  Generative Modeling of Short and Long Time Series
+Understanding Information Storage and Transfer in Multi-Modal Large Language Models
+Consistency of Neural Causal Partial Identification
+Doubly Hierarchical Geometric Representations for Strand-based Human Hairstyle Generation
+Code Repair with LLMs gives an Exploration-Exploitation Tradeoff
+LFME: A Simple Framework for Learning from Multiple Experts in Domain Generalization
+Dueling over Dessert, Mastering the Art of Repeated Cake Cutting
+Remove that Square Root: A New Efficient Scale-Invariant Version of AdaGrad
+Error Correction Output Codes for Robust Neural Networks against Weight-errors: A Neural Tangent Kernel Point of View
+Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters
+SpeedLoader: An I/O efficient scheme for heterogeneous and distributed LLM operation
+On Socially Fair Low-Rank Approximation and Column Subset Selection
+EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas
+FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations
+ActSort: An active-learning accelerated cell sorting algorithm for large-scale calcium imaging datasets
+Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning
+Diffusion PID: Interpreting Diffusion via Partial Information Decomposition
+From Causal to Concept-Based Representation Learning
+Autobidder's Dilemma: Why More Sophisticated Autobidders Lead to Worse Auction Efficiency
+Convergence of  log ( 1 / ϵ )  for Gradient-Based Algorithms in Zero-Sum Games without the Condition Number: A Smoothed Analysis
+On the Complexity of Learning Sparse Functions with Statistical and Gradient Queries
+Policy Aggregation
+Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights
+Equivariant Machine Learning on Graphs with Nonlinear Spectral Filters
+Efficient  Φ -Regret Minimization with Low-Degree Swap Deviations in Extensive-Form Games
+Contextual Linear Optimization with Bandit Feedback
+Contrastive dimension reduction: when and how?
+Belief-State Query Policies for User-Aligned Planning under Partial Observability
+Randomized Sparse Matrix Compression for Large-Scale Constrained Optimization in Cancer Radiotherapy
+On the Minimax Regret for Contextual Linear Bandits and Multi-Armed Bandits with Expert Advice
+Nonparametric Evaluation of Noisy ICA Solutions
+Analysis of Corrected Graph Convolutions
+Oja's Algorithm for Streaming Sparse PCA
+DEFT: Efficient Fine-tuning of Diffusion Models by Learning the Generalised  h -transform
+AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation
+Image Reconstruction Via Autoencoding Sequential Deep Image Prior
+A Novel Unified Architecture for Low-Shot Counting by Detection and Segmentation
+Implicit Bias of Mirror Flow on Separable Data
+Mixture of In-Context Experts Enhance LLMs' Long Context Awareness
+Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration
+S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search
+On the Parameter Identifiability of Partially Observed Linear Causal Models
+Low Precision Local Training is Enough for Federated Learning
+Matryoshka Query Transformer for Large Vision-Language Models
+The Implicit Bias of Adam on Separable Data
+Faster Differentially Private Top- k  Selection: A Joint Exponential Mechanism with Pruning
+The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains

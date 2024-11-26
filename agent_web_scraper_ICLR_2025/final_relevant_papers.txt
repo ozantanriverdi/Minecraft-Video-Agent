@@ -1,0 +1,37 @@
+ADAM: An Embodied Causal Agent in Open-World Environments
+Open-World Planning via Lifted Regression with LLM-based Affordances for Embodied Agents
+NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks in Open Domains
+Multi-Agent Path Finding via Decision Transformer and LLM Collaboration
+CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing
+Robotouille: An Asynchronous Planning Benchmark for LLM Agents
+Learn-by-interact: A Data-Centric Framework For Self-Adaptive Agents in Realistic Environments
+AgentGym: Evaluating and Evolving Large Language Model-based Agents across Diverse Envronments
+A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment
+MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents
+Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory
+VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks
+Can foundation models actively gather information in interactive environments to test hypotheses?
+OpenHands: An Open Platform for AI Software Developers as Generalist Agents
+UnrealCV Zoo: Enriching Photo-realistic Virtual Worlds for Embodied AI Agents
+Cradle: Empowering Foundation Agents towards General Computer Control
+Towards Evaluating Generalist Agents: An Automated Benchmark in Open World
+Odyssey: Empowering Minecraft Agents with Open-World Skills
+LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence
+Symbolic Learning Enables Self-Evolving Agents
+ReAcTree: Hierarchical Task Planning with Dynamic Tree Expansion using LLM Agent Nodes
+Competing Large Language Models in Multi-Agent Gaming Environments
+R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
+EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI
+How language models extrapolate outside the training data: A Case study in Textualized Gridworld
+3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds
+Unbounded: A Generative Infinite Game of Character Life Simulation
+OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code
+VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI
+Learning Evolving Tools for Large Language Models
+Kronecker Mask and Interpretive Prompts are Language-Action Video Learners
+GameGen- X : Interactive Open-world Game Video Generation
+Generative World Explorer
+Tree Search for Language Model Agents
+REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context in New Environments
+GCML: Grounding Complex Motions using Large Language Model in 3D Scenes
+ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination

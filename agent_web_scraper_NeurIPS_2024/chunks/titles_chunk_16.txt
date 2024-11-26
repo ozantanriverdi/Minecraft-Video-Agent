@@ -1,0 +1,50 @@
+The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information
+Animal-Bench: Benchmarking Multimodal Video Models for Animal-centric Video Understanding
+Achieving Linear Convergence with Parameter-Free Algorithms in Decentralized Optimization
+HORSE: Hierarchical Representation for Large-Scale Neural Subset Selection
+Customized Subgraph Selection and Encoding for Drug-drug Interaction Prediction
+On conditional diffusion models for PDE simulations
+Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning
+Scaling laws for learning with real and surrogate data
+Class Distribution Shifts in Zero-Shot Learning: Learning Robust Representations
+MoEUT: Mixture-of-Experts Universal Transformers
+On the Benefits of Public Representations for Private Transfer Learning under Distribution Shift
+Temporal-Difference Learning Using Distributed Error Signals
+The Price of Implicit Bias in Adversarially Robust Generalization
+Feature-Level Adversarial Attacks and Ranking Disruption for Visible-Infrared Person Re-identification
+Constrained Synthesis with Projected Diffusion Models
+Block Transformer: Global-to-Local Language Modeling for Fast Inference
+Large language model validity via enhanced conformal prediction methods
+Algorithmic progress in language models
+Contrastive-Equivariant Self-Supervised Learning Improves Alignment with Primate Visual Area IT
+Provable Posterior Sampling with Denoising Oracles via Tilted Transport
+Computational Aspects of Bayesian Persuasion under Approximate Best Response
+A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking
+Rough Transformers: Lightweight Continuous-Time Sequence Modelling with Path Signatures
+Convergence of No-Swap-Regret Dynamics in Self-Play
+Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation
+CLUES: Collaborative Private-domain High-quality Data Selection for LLMs via Training Dynamics
+Transcoders find interpretable LLM feature circuits
+Neural Combinatorial Optimization for Robust Routing Problem with Uncertain Travel Times
+STL: Still Tricky Logic (for System Validation, Even When Showing Your Work)
+On Affine Homotopy between Language Encoders
+Active Learning of General Halfspaces: Label Queries vs Membership Queries
+Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments
+No Free Lunch Theorem and Black-Box Complexity Analysis for Adversarial Optimisation
+The Expressive Capacity of State Space Models: A Formal Language Perspective
+An End-To-End Graph Attention Network Hashing for Cross-Modal Retrieval
+HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation
+A Unifying Post-Processing Framework for Multi-Objective Learn-to-Defer Problems
+Bayesian Domain Adaptation with Gaussian Mixture Domain-Indexing
+SPEAR: Exact Gradient Inversion of Batches in Federated Learning
+Injecting Undetectable Backdoors in Obfuscated Neural Networks and Language Models
+Precise asymptotics of reweighted least-squares algorithms for linear diagonal networks
+Exploring Adversarial Robustness of Deep State Space Models
+Shaving Weights with Occam's Razor: Bayesian Sparsification for Neural Networks using the Marginal Likelihood
+Large Pre-trained time series models for cross-domain Time series analysis tasks
+Provable Benefits of Complex Parameterizations for Structured State Space Models
+A Local Method for Satisfying Interventional Fairness with Partially Known Causal Graphs
+InversionView: A General-Purpose Method for Reading Information from Neural Activations
+The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof
+Neural Residual Diffusion Models for Deep Scalable Vision Generation
+VisMin: Visual Minimal-Change Understanding

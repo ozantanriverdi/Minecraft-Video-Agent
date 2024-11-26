@@ -1,0 +1,50 @@
+Deferred Backdoor Functionality Attacks on Deep Learning Models
+Efficient Diffusion Posterior Sampling for Dose Reduced CT Reconstruction
+Large Language Model Evaluation via Matrix Nuclear-Norm
+Benchmarking DNA Sequence Models for Causal Variant Prediction in Human Genetics
+Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations
+On last-iterate convergence of distributed Stochastic Gradient Descent algorithm with momentum
+Geometry-Aware Approaches for Balancing Performance and Theoretical Guarantees in Linear Bandits
+FGW-CLIP: Enhancing Enzyme Screening via Fused Gromov-Wasserstein Contrastive Learning
+The Persian Rug: solving toy models of superposition using large-scale symmetries
+Online Preference Alignment for Language Models via Count-based Exploration
+FiRST: Finetuning Router-Selective Transformers for Input-Adaptive Latency Reduction
+ClusterGen: Token Generation in Sublinear Time and Memory with Clustering KV Cache
+Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System
+Searching for Optimal Solutions with LLMs via Bayesian Optimization
+CoS: Enhancing Personalization and Mitigating Bias with Context Steering
+Understanding Skill Adaptation in Transformers Using Sparse Autoencoders: Chess as a Model System
+VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters
+Retrieval-Augmented Editing Generation: Impact of Knowledge Editing and Fine-Tuning on RAG
+Inverse Prompt Engineering for Task-Specific LLM Safety
+LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION
+Explanation using Simulation
+PHICO: Personalised Human-AI Cooperative Classification Using Augmented Noisy Labels and Model Prediction
+Learning to Imitate with Less: Efficient Individual Behavior Modeling in Chess
+BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models
+Evaluating Representational Similarity Measures from the Lens of Functional Correspondence
+1-Bit FQT: Pushing the Limit of Fully Quantized Training to 1-bit
+Agent S: An Open Agentic Framework that Uses Computers Like a Human
+Semantic Loss Guided Data Efficient Supervised Fine Tuning for Safe Responses in LLMs
+Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
+Adversarial Generative Flow Network for Solving Vehicle Routing Problems
+DASH: Data-Efficient Learned Cost Models for Sparse Matrix Computations on Emerging Hardware Platforms
+S t a p l e : Towards Reliable Problem Solving with Large Language Models via Plan Optimization and Tree Search
+Improving the Efficiency of Test-Time Search in LLMs with Backtracking
+CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models
+Preference-Driven Spatial-Temporal Counting Process Models
+Drift Type and Magnitude Detection in Image Classification Neural Networks
+Tracking the Copyright of Large Vision-Language Models through Parameter Learning Adversarial Attacks
+FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback
+TACD-GRU: Time-Aware Context-Dependent Autoregressive Model for Irregularly Sampled Time Series
+UrbanPlanBench: A Comprehensive Assessment of Urban Planning Abilities in Large Language Models
+Mutual-Inform SMoE: Improving Routing Stability via Probabilistic Graphical Model
+RoFt-Mol: Benchmarking Robust Fine-tuning with Molecular Graph Foundation Models
+Self-supervised Masked Graph Autoencoder via Structure-aware Curriculum
+Ref-EMGBench: Benchmarking Reference Normalization for Electromyography Data
+Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
+Learning to Search from Demonstration Sequences
+LongMamba: Enhancing Mamba's Long-Context Capabilities via Training-Free Receptive Field Enlargement
+SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation
+Learning Rotation-Invariant Representation using Rotation-Equivariant CNNs
+Robust Weight Initialization for Tanh Neural Networks with Fixed Point Analysis

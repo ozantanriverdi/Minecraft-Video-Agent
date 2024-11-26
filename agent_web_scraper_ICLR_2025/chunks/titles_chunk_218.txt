@@ -1,0 +1,23 @@
+Adaptive Second-Order Stochastic Optimization
+3DRealCar: An In-the-wild RGB-D Car Dataset with 360-degree Views
+GPU-Accelerated Counterfactual Regret Minimization
+MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis
+CTGC: Cluster-Aware Transformer for Graph Clustering
+AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction
+Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models
+A Computational Framework for Modeling Emergence of Color Vision in the Human Brain
+CMIRA: Class Membership Inducing Recovery Attacks Against Machine Unlearning Models
+Scaling Large Language Model-based Multi-Agent Collaboration
+OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes
+A Time Series is Worth Five Experts: Heterogeneous Mixture of Experts for Traffic Flow Prediction
+Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction
+ARB-LLM: Alternating Refined Binarizations for Large Language Models
+Understanding and Enhancing the Transferability of Jailbreaking Attacks
+Learning Mamba as a Continual Learner
+FLOPS: Forward Learning with OPtimal Sampling
+EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance
+How to Weight Multitask Finetuning? Fast Previews via Model Merging
+Storybooth: Training-Free Multi-Subject Consistency for Improved Visual Storytelling
+PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
+Instance-dependent Early Stopping
+Progressive Autoregressive Video Diffusion Models

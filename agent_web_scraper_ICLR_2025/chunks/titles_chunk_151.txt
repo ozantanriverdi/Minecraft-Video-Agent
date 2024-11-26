@@ -1,0 +1,50 @@
+CypST: Improving Cytochrome P450 Substrates Prediction with Fine-Tuned Protein Language Model and Graph Attention Network
+CALF: Benchmarking Evaluation of LFQA Using Chinese Examinations
+Boosting Latent Diffusion with Perceptual Objectives
+Dynamic Negative Guidance of Diffusion Models
+Solving Differential Equations with Constrained Learning
+Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data
+KambaAD: Enhancing State Space Models with Kolmogorov–Arnold for time series Anomaly Detection
+ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance
+Protecting Copyrighted Material with Unique Identifiers in Large Language Model Training
+ART-FR: masked Auto-Regressive Transformer for Face Restoration
+ReGRAF: Training free Prompt Refinement via Gradient Flow for Segmentation
+AtomSurf: Surface Representation for Learning on Protein Structures
+Rényi Neural Processes
+3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation
+No-Regret and Incentive-Compatible Combinatorial Online Prediction
+Conformal mapping Coordinates Physics-Informed Neural Networks (CoCo-PINNs): learning neural networks for designing neutral inclusions
+OpsEval: A Comprehensive Benchmark Suite for Evaluating Large Language Models’ Capability in IT Operations Domain
+Tell Me What You Don't Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
+Adversarial Training for Defense Against Label Poisoning Attacks
+PersonalLLM: Tailoring LLMs to Individual Preferences
+Streamlining Bayesian Deep Learning
+Unified Neural Solvers for General TSP and Multiple Combinatorial Optimization Tasks via Problem Reduction and Matrix Encoding
+From Complex to Atomic: Enhancing Augmented Generation via Knowledge-Aware Dual Rewriting and Reasoning
+Learning to Construct Implicit Communication Channel
+Accelerating Block Coordinate Descent for LLM Finetuning via Landscape Correction
+Reformulating Strict Monotonic Probabilities with a Generative Cost Model
+Towards Holistic Multimodal Interaction: An Information-Theoretic Perspective
+Mask in the Mirror: Implicit Sparsification
+A Comprehensive Library for Benchmarking Multi-class Visual Anomaly Detection
+Highlight: Learning Visual Prompts for Vision-Language Models
+Shh, don't say that! Domain Certification in LLMs
+QFree-Det: Query-Free Detector with Transformer and Sequential Matching
+Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning
+Dice-GAN: Generative Adversarial Network  with Diversity Injection and Consistency Enhancement
+On The Representation Properties Of The Perturb-Softmax And The Perturb-Argmax Probability Distributions
+FairDD: Fair Dataset Distillation via Adversarial Matching
+Systematic Outliers in Large Language Models
+CursorCore: Assist Programming through Aligning Anything
+Strong Model Collapse
+Compositional Generative Multiphysics and Multi-component Simulation
+Differentially Private Federated  k -Means with Server-Side Data
+ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom
+Implicit Search via Discrete Diffusion: A Study on Chess
+Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning
+RGB-Event ISP: The Dataset and Benchmark
+Diff-Prompt: Diffusion-driven Prompt Generator with Mask Supervision
+Keep Your Friends Close, and Your Enemies Farther: Distance-aware Voxel-wise Contrastive Learning for Semi-supervised Multi-organ Segmentation
+Provable Privacy Attacks on Trained Shallow Neural Networks
+Safeguarding System Prompts: A Surrogate-Based Defense Against Injection Attacks
+DRoP: Distributionally Robust Pruning

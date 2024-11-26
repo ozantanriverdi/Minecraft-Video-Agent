@@ -1,0 +1,50 @@
+A Coefficient Makes SVRG Effective
+DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement
+MambaVC: Exploring Selective State Spaces for Learned Visual Compression
+A Decade's Battle on Dataset Bias: Are We There Yet?
+Deep Neural Networks without Normalization
+Consistency Flow Matching: Defining Straight Flows with Velocity Consistency
+Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning
+Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation
+SparseVLM: Visual Token Sparsification for Efficient Vision Language Models Inference
+Spread them Apart: Towards Robust Watermarking of Generated Content
+Prune at the Clients, Not the Server: Accelerated Sparse Training in Federated Learning
+FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models
+Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning
+SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights
+Beyond Sequence: Impact of Geometric Context for RNA Property Prediction
+DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from One Demo
+Enhancing Prototype-Based Federated Learning with Structured Sparse Prototypes
+StyleShot: A snapshot on any style
+Faceshot: Bring any Character into Life
+IgGM: A Generative Model for Functional Antibody and Nanobody Design
+LayerShuffle: Enhancing Robustness in Vision Transformers  by Randomizing Layer Execution Order
+Gradient-Free Analytical Fisher Information of Diffused Distributions
+Refining CLIP's Spatial Awareness: A Visual-Centric Perspective
+Do Deep Neural Network Solutions Form a Star Domain?
+Prompt-Guided Distillation from Multimodal Large Language Models to Task-specific Models for Multimodal Sentiment Analysis
+Information Theoretic Text-to-Image Alignment
+Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models
+Generalizing Dynamics Modeling Easier from Representation Perspective
+Semantix: An Energy-guided Sampler for Semantic Style Transfer
+Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation
+GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation
+Does equivariance matter at scale?
+OpenDAS: Open-Vocabulary Domain Adaptation for Segmentation
+Interpretable and Adaptive Graph Contrastive Learning with Information Sharing for Biomedical Link Prediction
+MindFlayer: Efficient Asynchronous Parallel SGD in the Presence of Heterogeneous and Random Worker Compute Times
+TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies
+LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression
+CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception
+LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models
+DRUPI: Dataset Reduction Using Privileged Information
+Gnothi Seauton: Empowering Faithful Self-Interpretability in Black-Box Models
+Safeguard User Privacy in LLM Cloud Services
+DenseGrounding: Improving Dense Language-Vision Semantics for Ego-centric 3D Visual Grounding
+Bayesian Analysis of Combinatorial Gaussian Process Bandits
+ParCon: Noise-Robust Collaborative Perception via Multi-module Parallel Connection
+SPEAR: Receiver-to-Receiver Acoustic Neural Warping Field
+Learning Monotonic Attention in Transducer for Streaming Generation
+SaMoye: Zero-shot Singing Voice Conversion Model Based on Feature Disentanglement and Enhancement
+Quantum Neural Fields
+Test-time Adaptation for Image Compression with Distribution Regularization

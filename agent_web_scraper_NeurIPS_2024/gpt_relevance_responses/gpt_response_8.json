@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Boosting the Potential of Large Language Models with an Intelligent Information Assistant",
+        "relevant": false
+    },
+    {
+        "title": "Prediction-Powered Ranking of Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation",
+        "relevant": false
+    },
+    {
+        "title": "Large Language Models Play StarCraft II:Benchmarks and A Chain of Summarization Approach",
+        "relevant": true
+    },
+    {
+        "title": "LaSe-E2V: Towards Language-guided Semantic-aware Event-to-Video Reconstruction",
+        "relevant": false
+    }
+]

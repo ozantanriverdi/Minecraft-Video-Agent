@@ -1,0 +1,50 @@
+Benchmarking Intelligent LLM Agents for Conversational Data Analysis
+System 1.x: Learning to Balance Fast and Slow Planning with Language Models
+LongSafetyBench: Long-Context LLMs Struggle with Safety Issues
+RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation
+Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels
+Scaling Concept With Text-Guided Diffusion Models
+TestAgent: An Adaptive and Intelligent Expert for Human Assessment
+Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation
+Visually Consistent Hierarchical Image Classification
+CineMorph: Learning Time-Continuous Motion Field for Motion Tracking on Cine Magnetic Resonance Images
+Second-Order Fine-Tuning without Pain for LLMs: A Hessian Informed Zeroth-Order Optimizer
+A Comprehensive Graph Pooling Benchmark: Effectiveness, Robustness and Generalizability
+Janus: Dual-server Multi-Round Secure Aggregation with Verifiability for Federated Learning
+BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models
+TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text
+Diverse Policies Recovering via Pointwise Mutual Information Weighted Imitation Learning
+BiLO: Bilevel Local Operator Learning for PDE inverse problems
+An Effective Manifold-based Optimization Method for Distributionally Robust Classification
+Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees
+Planning in a recurrent neural network that plays Sokoban
+Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment
+Benchmarking and Rethinking Multiplex Graphs
+Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective
+Pointwise Information Measures as Confidence Estimators in Deep Neural Networks: A Comparative Study
+The Geometry of Phase Transitions in Diffusion Models: Tubular Neighbourhoods and Singularities
+Feedback Favors the Generalization of Neural ODEs
+ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer
+The Perfect Blend: Redefining RLHF with Mixture of Judges
+EVINCE: Optimizing Adversarial LLM Dialogues via Conditional Statistics and Information Theory
+On the Entropy Calibration of Language Models
+Reflection Window: Text Generation with Selective Refinement
+Sequential Controlled Langevin Diffusions
+HOPE for a Robust Parameterization of Long-memory State Space Models
+Optimal Transport for Probabilistic Circuits
+Temporal Visiting-Monitoring Feature Interaction Learning for Modelling Structured Electronic Health Records
+Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals
+Enhancing Uncertainty Estimation and Interpretability with Bayesian Non-negative Decision Layer
+Understanding Mistakes in Transformers through Token-level Semantic Dependencies
+Revisiting the expressiveness of CNNs: a mathematical framework for feature extraction
+Towards Flexible and Controllable Unknown Rejection
+QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead
+GREC: Doubly Efficient Privacy-preserving Recommender Systems for Resource-Constrained Devices
+ING-VP: MLLMs Cannot Play Easy Vision-based Games Yet
+Flow Score Distillation for Diverse Text-to-3D Generation
+Unified Uncertain Dual-prompts cross-domain Segmentation framework for medical image segmentation
+Rethinking Adversarial Attacks as Protection Against Diffusion-based Mimicry
+Decision Information Meets Large Language Models: The Future of Explainable Operations Research
+DESIRE: Dynamic Knowledge Consolidation for Rehearsal-Free Continual Learning
+Skill Expansion and Composition in Parameter Space
+Understanding Distribution Alignment Through Category Separability In An Infant-Inspired Domain Adaptation Task

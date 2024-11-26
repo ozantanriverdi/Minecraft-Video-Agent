@@ -1,0 +1,50 @@
+FIFO-Diffusion: Generating Infinite Videos from Text without Training
+SLowcalSGD : Slow Query Points Improve Local-SGD for Stochastic Convex Optimization
+Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization
+Multimodal Large Language Models Make Text-to-Image Generative Models Align Better
+MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning
+MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling
+Learning the Latent Causal Structure for Modeling Label Noise
+GRANOLA: Adaptive Normalization for Graph Neural Networks
+NeuMA: Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics
+Improved Regret for Bandit Convex Optimization with Delayed Feedback
+CLIP in Mirror: Disentangling text from visual images through reflection
+Spiking Graph Neural Network on Riemannian Manifolds
+Causal Dependence Plots
+Trade-Offs of Diagonal Fisher Information Matrix Estimators
+Implicit Regularization of Sharpness-Aware Minimization for Scale-Invariant Problems
+D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models
+A Framework for Bilevel Optimization on Riemannian Manifolds
+Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts
+Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes
+Shaping the distribution of neural responses with interneurons in a recurrent circuit model
+Graph Neural Networks Do Not Always Oversmooth
+CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy
+Localized Adaptive Risk Control
+Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials
+DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor
+Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation
+Learning from Pattern Completion: Self-supervised Controllable Generation
+Strategic Linear Contextual Bandits
+Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators
+GENOT: Entropic (Gromov) Wasserstein Flow Matching with Applications to Single-Cell Genomics
+Rethinking Parity Check Enhanced Symmetry-Preserving Ansatz
+Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation
+Towards Efficient and Optimal Covariance-Adaptive Algorithms for Combinatorial Semi-Bandits
+Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels
+B ⊕ LD: Boolean Logic Deep Learning
+Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection
+MindMerger: Efficiently Boosting LLM Reasoning in non-English Languages
+Adaptive Depth Networks with Skippable Sub-Paths
+Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis
+FUGAL: Feature-fortified Unrestricted Graph Alignment
+Hyperbolic Embeddings of Supervised Models
+Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games
+SMART: Towards Pre-trained Missing-Aware Model for Patient Health Status Prediction
+Learning to compute Gröbner bases
+Improved Algorithms for Contextual Dynamic Pricing
+Combining Statistical Depth and Fermat Distance for Uncertainty Quantification
+Mixture of Experts Meets Prompt-Based Continual Learning
+Causal Context Adjustment Loss for Learned Image Compression
+Quantifying Aleatoric Uncertainty of the Treatment Effect: A Novel Orthogonal Learner
+SDformer: Similarity-driven Discrete Transformer For Time Series Generation

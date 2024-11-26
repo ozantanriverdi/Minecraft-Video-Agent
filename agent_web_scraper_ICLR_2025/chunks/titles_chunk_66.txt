@@ -1,0 +1,50 @@
+Cluster-Segregate-Perturb (CSP): A Model-agnostic Explainability Pipeline for Spatiotemporal Land Surface Forecasting Models
+Uni 2 Det: Unified and Universal Framework for Prompt-Guided Multi-dataset 3D Detection
+Integration of neural solver and problem-specific solver through bilevel approach: a case study of min-max capacitated vehicle routing problem
+Neural networks on Symmetric Spaces of Noncompact Type
+EvA: Evolutionary Attacks on Graphs
+Graph-based Document Structure Analysis
+One-step Image-function Generation via Consistency Training
+Delta - Contrastive Decoding Mitigates Text Hallucinations in Large Language Models
+A second-order-like optimizer with adaptive gradient scaling for deep learning
+MV3D-MAE: 2D Pre-trained MAEs are Effective 3D Representation Learners
+CPL: Critical Plan Step Learning Boosts LLM Generalization in Reasoning Tasks
+Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting
+ContraFusion: Contrastively Improving Compositional Understanding in Diffusion Models via Fine-Grained Negative Images
+Rethinking Invariance in In-context Learning
+Proteina: Scaling Flow-based Protein Structure Generative Models
+FlashMask: Efficient and Rich Mask Extension of FlashAttention
+Verified Relative Output Margins for Neural Network Twins
+Jointly Optimizing Wirelength and Thermal Fields for Chip Placement
+DFL 2 G: Dynamic Agnostic Federated Learning with Learngene
+Understanding Prejudice and Fidelity of Diverge-to-Converge Multi-Agent Systems
+You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs
+On Quantizing Neural Representation for Variable-Rate Video Coding
+One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation
+Generalizing Weisfeiler-Lehman Kernels to Subgraphs
+EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image Visual Stimuli of Multi-Granularity Labels
+Rainbow Generator: Generating Diverse Data for Name Only Continual Learning
+SciPIP: An LLM-based Scientific Paper Idea Proposer
+GOOD: Decoding-Time Black-Box LLM Alignment
+Accelerating semidefinite programming beyond limit: ADMM with tune-free operator stepsize
+Relative Drawing Identification Complexity is Invariant to Modality in Vision-Language Models
+Domain2Vec: Vectorizing Datasets to Find the Optimal Data Mixture without Training
+Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models
+The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective
+What is Wrong with Perplexity for Long-context Language Modeling?
+KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Processes for Time Series Forecasting
+TC-MoE: Augmenting Mixture of Experts with Ternary Expert Choice
+Can Watermarked LLMs be Identified by Users via Crafted Prompts?
+Bayesian WeakS-to-Strong from Text Classification to Generation
+FacLens: Transferable Probe for Foreseeing Non-Factuality in Large Language Models
+Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing
+YouCLIP: Advancing Multilingual Cross-Modal Learning with Efficient Training.
+Efficient Newton-type Federated Learning with Non-IID Data
+Interaction Based Gaussian Weighting Clustering for Federated Learning
+Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation
+A Semantic Data Augmentation driven Nested Adapter for Video Moment Retrieval
+The impact of allocation strategies in subset learning on the expressive power of neural networks
+Escaping the Big Data Paradigm in Self-Supervised Representation Learning
+ROMA: Regularization for Out-of-distribution Detection with Masked Autoencoders
+Perceived speech decoding and neurophysiological knowledge mining with explainable AI and non-invasive  brain activity recordings
+Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency

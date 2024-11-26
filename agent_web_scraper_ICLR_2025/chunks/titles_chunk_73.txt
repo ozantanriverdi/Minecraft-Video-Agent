@@ -1,0 +1,50 @@
+Tree-of-Table: Unleashing the Power of LLMs for Enhanced Large-Scale Table Understanding
+Geometry-aware Distance Measure for Diverse Hierarchical Structures in Hyperbolic Spaces
+Mousterian: exploring the equivalence of generative and real data augmentation in classification
+Unearthing Skill-level Insights for Understanding Trade-offs of Foundation Models
+Learning Imbalanced Data with Beneficial Label Noise
+Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining
+Decoupling Layout from Glyph in Online Chinese Handwriting Generation
+MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts
+LAST: Latent Structure guided Gaussian Splatting from Monocular Human Videos
+Residual Connections Harm Generative Representation Learning
+Well-NeRF: Ensuring Well-Posed Neural Radiance Fields via View Frustum and Shadow Zone Based Regularization
+HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation
+SketchFill: Sketch-Guided Code Generation for Imputing Derived Missing Values
+Which Tasks Should Be Compressed Together? A Causal Discovery Approach for Efficient Multi-Task Representation Compression
+Compositional Hardness of Code in Large Language Models - A Probabilistic Perspective
+DiffDeID: a Multi-conditional Diffusion-based Method for High Fidelity Face De-indentification with Diversity
+Distinguishing Ignorance from Error in LLM Hallucinations
+Exploring Data Distillation for efficient generation of Tabular Data
+GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing
+Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction
+CrossMPT: Cross-attention Message-passing Transformer for Error Correcting Codes
+Integrating Expertise of Software Engineering Agents
+VEBench: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing
+InverseBench: Benchmarking Plug-and-Play Diffusion Models for Scientific Inverse Problems
+ClipGrader: Leveraging Vision-Language Models for Robust Label Quality Assessment in Object Detection
+Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon
+Integer Scale: A Free Lunch for Faster Fine-grained Quantization of LLMs
+Learning Code Preference via Synthetic Evolution
+Selective Label Enhancement Learning for Test-Time Adaptation
+MambaExtend: A Training-Free Approach to Improve Long Context Extension of Mamba
+SpatialEdit: Unlocking the  Spatial Capability in Multimodal Large Language Model Driven Image Editing
+LeYOLO: Lightweight, Scalable and Efficient CNN Architecture for Object Detection
+The VEP Booster: A Closed-Loop AI System for Visual EEG Biomarker Auto-generation
+CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer
+Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation
+Thinking Forward and Backward: Effective Backward Planning with Large Language Models
+A SSM is Polymerized from Multivariate Time Series
+Unified Multimodal Discrete Diffusion
+PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation
+IBCircuit: Towards Holistic Circuit Discovery with Information Bottleneck
+Adversarial Diffusion Bridge Model for Reliable Adversarial Purification
+A Non-Contrastive Learning Framework for Sequential Recommendation with Preference-Preserving Profile Generation
+What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis
+ConvINT: A Semi-Structured Intention Framework for Conversational Understanding
+RootTracker: A Lightweight Framework to Trace Original Models of Fine-tuned LLMs in Black-Box Conditions
+Generative Matching Units for Supervised Learning
+Nested Gloss Makes Large Language Models Lost
+MoDeGPT: Modular Decomposition for Large Language Model Compression
+Graphon Neural Differential Equations and Transferabilty of Graph Neural Differential Equations
+Fight Fire with Fire: Multi-biased Interactions in Hard-Thresholding

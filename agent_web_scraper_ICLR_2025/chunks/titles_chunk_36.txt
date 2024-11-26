@@ -1,0 +1,50 @@
+Query-Efficient Planning with Language Models
+Transformers Struggle to Learn to Search Without In-context Exploration
+Self-Conditioned Diffusion Model for Consistent Human Image and Video Synthesis
+Imbalance-Regularized LoRA: A Plug-and-Play Method for Improving Fine-Tuning of Foundation Models
+Is uniform expressivity too restrictive? Towards efficient expressivity of GNNs
+Training Neural Networks as Recognizers of Formal Languages
+MLPs for NLP: Towards Discovering Inductive Bias From Scratch
+Loss2Net: Loss Meta-Learning for Regression with A-priori Unknown Metrics
+Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
+Learnable Stability-Aware Unstructured Grid Coarsening Using Graph Neural Networks for Accelerated Physics Simulations
+Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems
+Integrating Geodesic Interpolation and Flow Matching for Non-Autoregressive Text Generation in Logit Space
+Approaching Deep Learning through the Spectral Dynamics of Weights
+INDOOR-3.6M : A Multi-Modal Image Dataset for Indoor Geolocation
+Self-Attention-Based Contextual Modulation Improves Neural System Identification
+How do diffusion models learn and generalize on abstract rules for reasoning?
+STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making
+Algorithm for Concept Extrapolation: Diverse Generalization via Selective Disagreement
+Epistemic Integrity in Large Language Models
+Benchmark for Temporal, Ambiguous, and Grounded Embodied Question-Answering
+Improved Sample Complexity for Private Nonsmooth Nonconvex Optimization
+Sharp Generalization for Nonparametric Regression by Over-Parameterized Neural Networks: A Distribution-Free Analysis
+Computing Optimal Regularizers for Online Linear Optimization
+Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-training of Deep Networks
+AutoHijacker: Automatic Indirect Prompt Injection Against Black-box LLM Agents
+A Clustering Baseline for Object-Centric Representations
+Robotouille: An Asynchronous Planning Benchmark for LLM Agents
+Dynamic Skill Adaptation for Large Language Models
+IO-LVM: Inverse optimization latent variable models with applications to inferring and explaining paths
+Towards Learning to Reason at Pre-Training Scale
+Stable GNN Embeddings for Relational Data
+The Sky Is The Limit When Clustering Is Equated With Disentanglement
+Mask R-CNN for Automated Multi-Species Malaria Parasite Detection
+Progressive Compression with Universally Quantized Diffusion Models
+Neural Architecture Search by Learning a Hierarchical Search Space
+Learn-by-interact: A Data-Centric Framework For Self-Adaptive Agents in Realistic Environments
+A Multimodal Class-Incremental Learning benchmark for classification tasks
+The Fair Language Model Paradox
+Causal Representation Learning from Multimodal Biological Observations
+Implicit Dynamical Flow Fusion (IDFF) for Generative Modeling
+Neural Electrostatics: A 3D Physics-Informed Boundary Element Poisson Equation Solver
+Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control
+Backpropagation-free training of neural PDE solvers for time-dependent problems
+AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs
+Towards Automated Knowledge Integration From Human-Interpretable Representations
+On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery
+RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems
+SVIP: Towards Verifiable Inference of Open-source Large Language Models
+Towards Understanding Why Group Robustness Methods Work

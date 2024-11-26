@@ -1,0 +1,50 @@
+Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning
+VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for MLLMs
+Bilinear MLPs enable weight-based mechanistic interpretability
+Expressivity of Neural Networks with Random Weights and Learned Biases
+PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer
+Ladder: Language Driven Slice Discovery and Error Rectification
+A case for data valuation transparency via DValCards
+Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning
+Unclipping CLIP's Wings: Avoiding Robustness Pitfalls in Multimodal Image Classification
+Context Matters: Leveraging Contextual Features for Time Series Forecasting
+Towards unlocking the mystery of adversarial fragility of neural networks
+Generalization v.s. Memorization: Tracing Language Models’ Capabilities Back to Pretraining Data
+Contextual Bandits with Entropy-based Human Feedback
+Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Safety Self-Alignment
+On the onset of memorization to generalization transition in diffusion  models
+EraseDiff: Erasing Data Influence in Diffusion Models
+Transformers Handle Endogeneity in In-Context Linear Regression
+Data Valuation for Graphs
+Grokking at the Edge of Linear Separability
+How Does Critical Batch Size Scale in Pre-training?
+Actionable Inverse Classification with Action Fairness Guarantees
+Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources
+The logic of rational graph neural networks
+Learning DAGs and Root Causes from Time-Series Data
+MAD-Sherlock: Multi-Agent Debates for Out-of-Context Misinformation Detection
+Reshaping Model Output Space Via Deep Kernel Density Estimation Networks
+Federated Granger Causality Learning For Interdependent Clients With State Space Representation
+Improving Source Extraction with Diffusion and Consistency Models
+Convex Formulations for Training Two-Layer ReLU Neural Networks
+On Temperature Scaling and Conformal Prediction of Deep Classifiers
+Steering Language Models with Activation Engineering
+Optimizing Learning for Robust Hyperbolic Deep Learning in Computer Vision
+Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix
+Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning
+Unifying and Verifying Mechanistic Interpretations: A Case Study with Group Operations
+A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns
+Eliminating Position Bias of Language Models: A Mechanistic Approach
+Continuous-Time Analysis of Adaptive Optimization and Normalization
+From Tokens to Lattices: Emergent Lattice Structures in Language Models
+Clusters Agnostic Network Lasso Bandits
+Demystifying Topological Message-Passing with Relational Structures: A Case Study on Oversquashing in Simplicial Message-Passing
+EOP: Unlocking Superior Problem Solving in Small LLMs
+LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis
+Language Models Can Help to Learn High-Performing Cost Functions for Recourse
+Generalized Consistency Trajectory Models for Image Manipulation
+HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks
+DiffTell: A Comprehensive Dataset for Image Difference Captioning
+Matchmaker: Schema Matching with self-improving compositional LLM programs
+Fair Submodular Cover
+Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields

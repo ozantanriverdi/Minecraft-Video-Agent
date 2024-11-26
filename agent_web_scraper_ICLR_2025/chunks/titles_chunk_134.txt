@@ -1,0 +1,50 @@
+MAD: Multi-Alignment MEG-to-Text Decoding
+MixEval-X: Any-to-any Evaluations from Real-world Data Mixture
+Prompting the Unseen: Detecting Hidden Backdoors in Black-Box Models
+Neural Exploratory Landscape Analysis
+Stochastic Steepest Descent with Acceleration for  ℓ p -Smooth Non-Convex Optimization
+HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model
+CLIP2LE：A  Label Enhancement Fair Representation Method via CLIP
+Practical Kernel Learning for Kernel-based Conditional Independent Test
+Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning
+Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach
+HyperDPO: Hypernetwork-based Multi-Objective Fine-Tuning Framework
+AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?
+DRL: Decomposed Representation Learning for Tabular Anomaly Detection
+TinyMem: Condensing Multimodal Memory for Long-form Video Action Detection
+Explainable Concept Generation through Vision-Language Preference Learning
+Decoupled Alignment for Robust Plug-and-Play Adaptation
+Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?
+FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction
+A Theoretically-Principled Sparse, Connected, and Rigid Graph Representation of Molecules
+RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models
+MLAE: Masked LoRA Experts for Visual Parameter-Efficient Fine-Tuning
+Training-free Camera Control for Video Generation
+CFD: Learning Generalized Molecular Representation via Concept-Enhanced Feedback Disentanglement
+ADAPT: Alzheimer's Diagnosis through Adaptive Profiling Transformers
+A Catalyst Framework for the Quantum Linear System Problem via the Proximal Point Algorithm
+Binarized Convolutional Neural Networks with Channel Quadrupling and Smooth Downsampling
+RouGE: Learning Gated Experts for Segment Anything in the Wild
+Towards Unbiased Learning in Semi-Supervised Semantic Segmentation
+Multi-Objective Alignment of LLMs with ORPO using Self-Judgement
+Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables
+Dynamic Neural Graph: Facilitating Temporal Dynamics Learning in Deep Weight Space
+Zero-shot Novel View Synthesis via Adaptive Modulating Video Diffusion Process
+Let's Be Self-generated via Step by Step: A Curriculum Learning Approach to Automated Reasoning with Large Language Models
+Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory
+GESR: A Geometric Evolution Model for Symbolic Regression
+MinMax Bayesian Neural Networks and Uncorrelated Representation
+BOOST: Enhanced Jailbreak of Large Language Model via Slient eos Tokens
+Dark Miner: Defend against unsafe generation for text-to-image diffusion models
+ASPIRER: Bypassing System Prompts with Permutation-based Backdoors in LLMs
+Exploring Selective Layer Fine-Tuning in Federated Learning
+Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data
+BAME: Block-Aware Mask Evolution for Efficient N:M Sparse Training
+Chain-of-Action: Faithful and Multimodal Question Answering through Large Language Models
+EAPCR: A Universal Feature Extractor for Scientific Data Without Explicit Feature Relation Patterns
+Efficient Alternating Minimization with Applications to Weighted Low Rank Approximation
+Multi-modal Prompt Learning Empowers Graph Neural Networks with Semantic Knowledge
+Boosting Concept Bottleneck Models with Supervised, Hierarchical Concept Learning
+Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging
+Efficient Ensembles Improve Training Data Attribution
+BrainCodec: Neural fMRI codec for the decoding of cognitive brain states

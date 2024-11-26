@@ -1,0 +1,50 @@
+First-Order Methods for Linearly Constrained Bilevel Optimization
+MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of  Low-rank Experts
+Interpreting Learned Feedback Patterns in Large Language Models
+LoRANN: Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search
+MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts
+Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model
+Domain Adaptation for Large-Vocabulary Object Detectors
+Bifr o ¨ st : 3D-Aware Image Compositing with Language Instructions
+EAGLE: Efficient Adaptive Geometry-based Learning in Cross-view Understanding
+Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness
+ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification
+Seek Commonality but Preserve Differences: Dissected Dynamics Modeling for Multi-modal Visual RL
+Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras
+Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms
+DiffPhyCon: A Generative Approach to Control Complex Physical Systems
+Learnability Matters: Active Learning for Video Captioning
+CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing
+RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation
+Activating Self-Attention for Multi-Scene Absolute Pose Regression
+Self-Guided Masked Autoencoder
+Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars
+Learning Mixtures of Unknown Causal Interventions
+C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory
+Deep Homomorphism Networks
+Rejection via Learning Density Ratios
+Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks
+DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models
+Efficient Leverage Score Sampling for Tensor Train Decomposition
+Enhancing Large Language Models through Adaptive Tokenizers
+Just Add $100 More: Augmenting Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem
+ID 3 : Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition
+FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning
+Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP
+Trap-MID: Trapdoor-based Defense against Model Inversion Attacks
+The Importance of Online Data: Understanding Preference Fine-tuning via Coverage
+Prospective Representation Learning for Non-Exemplar Class-Incremental Learning
+A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation
+HonestLLM: Toward an Honest and Helpful Large Language Model
+SAFE: Slow and Fast Parameter-Efﬁcient Tuning for Continual Learning with Pre-Trained Models
+MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders
+Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training
+Simple and Fast Distillation of Diffusion Models
+Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains
+Trading off Consistency and Dimensionality of Convex Surrogates for Multiclass Classification
+Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks
+Predictor-Corrector Enhanced Transformers with Exponential Moving Average Coefficient Learning
+FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge
+Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
+FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors

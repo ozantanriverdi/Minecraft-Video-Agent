@@ -1,0 +1,50 @@
+Spectral Group Lasso for Selecting Factors Hidden in Plain Sight
+Learning Generalizable Environment Models via Discovering Superposed Causal Relationships
+MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models
+Early Period of Training Impacts Adaptation for Out-of-Distribution Generalization: An Empirical Study
+From Layers to States: A State Space Model Perspective to Deep Neural Network Layer Dynamics
+VAE-Var: Variational Autoencoder-Enhanced Variational Methods for Data Assimilation in Meteorology
+Filling in the GAP: Achieving Robust and Adaptive GNNs through Post-Processing
+S 2 MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection
+Learning Imperfect Information Extensive-form Games with Last-iterate Convergence under Bandit Feedback
+PoGDiff: Product-of-Gaussians Diffusion Models for Imbalanced Text-to-Image Generation
+Towards Domain Adaptive Neural Contextual Bandits
+Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion
+FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks
+Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding
+Uni-IR: Ambiguity-Reduced Inverse Rendering through a Unified Framework for Glossy Objects
+Causal Graph Transformer for Treatment Effect Estimation Under Unknown Interference
+PRM:  Photometric Stereo based Large Reconstruction Model
+Gaze-Regularized Attention for Human Action Prediction
+Can One Modality Model Synergize Training of Other Modality Models?
+Unleashing the Power of Deep Dehazing Models: A Physics-guided Parametric Augmentation Net for Image Rehazing
+How Do Augmentations with Label Smoothing Enhance Model Robustness?
+On the Effectiveness of Dataset Alignment for Fake Image Detection
+RocketEval: Efficient automated LLM evaluation via grading checklist
+CURIOSITY IS THE PATH TO OPTIMIZATION
+Learning Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations
+PolaFormer: Polarity-aware Linear Attention for Vision Transformers
+One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models
+Learning Gain Map for Inverse Tone Mapping
+Causal Motion Tokenizer for Streaming Motion Generation
+Tokens on Demand: Token Condensation as Training-free Test-time Adaptation
+PATTERN MATCHING-BASED OUT-OF-DISTRIBUTION DETECTION FOR MULTI-LABEL NODE CLASSIFICATION
+Perm: A Parametric Representation for Multi-Style 3D Hair Modeling
+Replacement Learning: Training Vision Tasks with Fewer Learnable Parameters
+SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression
+The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning
+Efficient Test-Time Prompt Tuning for Vision-Language Models
+CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding
+Conjuring Semantic Similarity
+Parameter and Memory Efficient Pretraining via Low-rank Riemannian Optimization
+Effi-Code: Unleashing Code Efficiency in Language Models
+Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance
+Latent Radiance Fields with 3D-aware 2D Representations
+Memory Efficient Transformer Adapter for Dense Predictions
+Growing Efficient Accurate and Robust Neural Networks on the Edge
+Radiologist-like Progressive Radiology Report Generation and Benchmarking
+Grokfast: Gradient filters for faster grokking
+MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation
+Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models
+Multiview Equivariance Improves 3D Understanding with Minimal Feature Finetuning
+Iterative Vectors: Boost In-Context Learning within Activations

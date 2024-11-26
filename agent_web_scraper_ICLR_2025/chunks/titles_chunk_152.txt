@@ -1,0 +1,50 @@
+Pay Attention to Real World Perturbations! Natural Robustness Evaluation in Machine Reading Comprehension
+FairDen: Fair Density-Based Clustering
+Trajectory attention for fine-grained video motion control
+GraphSTAGE: Channel-Preserving Graph Neural Networks for Time Series Forecasting
+Revolutionizing EMCCD Denoising through a Novel Physics-Based Learning Framework for Noise Modeling
+GROD: Enhancing Generalization of Transformer with Out-of-Distribution Detection
+Co 3 Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion
+Targeted synthetic data generation for tabular data via hardness characterization
+GeoCon: Compositional Generalization Through Geometric Constraints on Representation Structure
+SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation
+Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance
+LumiSculpt: A Consistency Lighting Control Network for Video Generation
+Towards Real World Debiasing: A Fine-grained Analysis On Spurious Correlation
+Time Can Invalidate Algorithmic Recourse
+MQuant: Unleashing the Inference Potential of Multimodal Large Language Models via Full Static Quantization
+SMART: Self-Learning Meta-strategy Agent for Reasoning Tasks
+Can Generative AI Solve Your In-Context Learning Problem?  A Martingale Perspective
+EPINN: Physics-Informed Neural Network with exponential activation functions for solving stiff ODEs
+Demystifying amortized causal discovery with transformers
+GENRAD: Genomics and Radiomics Heterogeneous Graph Neural Network for Graph-Level Classification in Alzheimer's Disease
+What Makes Your Model a Low-empathy or Warmth Person: Exploring the Origins of Personality in LLMs
+PowerNet: Truncated Matrix Power Series as Quasi-Equivariant Layers
+Exact Shapley Value for Local and Global Explanation of Additive Gaussian Processes
+Conditional Testing based on Localized Conformal  p -values
+TextSeg: Reimagining Image Segmentation as Text Generation
+Visual Large Language Models Exhibit Human-Level Cognitive Flexibility
+Importance Corrected Neural JKO Sampling
+Correlation Analysis of Evaluation Metrics for Machine Translation
+Diffusing to the Top: Boost Graph Neural Networks with Minimal Hyperparameter Tuning
+AVOIDING BARREN PLATEAUS VIA GAUSSIAN MIXTURE MODEL
+Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization
+Token to Token Learning From Videos
+On the feature learning in diffusion models
+AttentionNCE: Contrastive Learning with Instance Attention
+Last Iterate Convergence in Monotone Mean Field Games
+Non-parametric Kernel Relative Test for Machine-generated Text Detection
+LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics
+Layerwise Recurrent Router for  Mixture-of-Experts
+AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection
+From Forgery to Authenticity: Image Anti-Forensics via Reconstruction and Artefact Elimination
+Dataset Condensation with Sharpness-Aware Trajectory Matching
+Advancing Mathematical Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages
+AlphaMol: rigid neighborhood representation for small molecule structure prediction
+DocMIA: Document-Level Membership Inference Attacks against DocVQA Models
+Transformer 2 : Self-adaptive LLMs
+EmpathyRobot: A Dataset and Benchmark for Empathetic Task Planning of Robotic Agent
+Maintaining Structural Integrity in Parameter Spaces for Parameter Efficient Fine-tuning
+Mechanistic Permutability: Match Features Across Layers
+HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis
+Teaching Code Execution to Tiny Language Models

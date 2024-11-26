@@ -1,0 +1,50 @@
+ONLINE EPSILON NET & PIERCING SET FOR GEOMETRIC CONCEPTS
+SimulPL: Aligning Human Preferences in Simultaneous Machine Translation
+Neural Interactive Proofs
+Gödel Agent: A Self-Referential Framework Helps for Recursively Self-Improvement
+Towards Robust Evaluation of Protein Generative Models: A Systematic Analysis of Metrics
+Oracle efficient truncated statistics
+RedHat: Towards Reducing Hallucination in Essay Critiques with Large Language Models
+Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization
+DiRaGNN: Attention-Enhanced Entity Ranking for Sparse Graph Networks
+Complete multi-modal metric learning for multi-modal sarcasm detection
+Less is More: Stealthy and Adaptive Clean-Image Backdoor Attacks with Few Poisoned
+PARSE-Ego4D: Personal Action Recommendation Suggestions for Ego-Centric Videos
+Black-Box Detection of Language Model Watermarks
+FredNormer: Frequency Domain Normalization for Non-stationary Time Series Forecasting
+ProAdvPrompter: A Two-Stage Journey to Effective Adversarial Prompting for LLMs
+Commute Your Domains: Trajectory Optimality Criterion for Multi-Domain Learning
+BALSA: Benchmarking Active Learning Strategies for Autonomous laboratories
+Robust Heterogeneous Treatment Effect Estimation under Covariate Perturbation
+GFLAgent: Green Federated Learning Agent for Alleviating Heterogeneity
+Ward: Provable RAG Dataset Inference via LLM Watermarks
+From Imitation to Introspection: Probing Self-Consciousness in Language Models
+Multimodal LLM-guided Query Optimization for Visual-Language Retrieval
+Diffusion on language model encodings for protein sequence generation
+ToG-I: Progressively Instructed Knowledge Graph-based Large Language Model Reasoning
+Black-Box Adversarial Attacks on LLM-Based Code Completion
+Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation
+Scaling Laws for Task-Optimized Models of the Primate Visual Ventral Stream
+SCOPE: A Self-supervised framework for Improving Faithfulness in Conditional Text Generation
+Principle Counterfactual Fairness
+Clique Number Estimation via Differentiable Functions of Adjacency Matrix Permutations
+Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models
+Assessing Vulnerabilities of Large Language Models to Social Bias Attacks
+Bridging PCA and Neural Networks: New Insights into Class Bias
+Train once and generalize: Zero-shot quantum state preparation with RL
+Nonmyopic Bayesian Optimization in Dynamic Cost Settings
+JOOCI: A FRAMEWORK FOR LEARNING COMPREHENSIVE SPEECH REPRESENTATIONS
+Learning-Augmented Streaming Algorithms for Correlation Clustering
+MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling
+Reliable and Diverse Evaluation of LLM Medical Knowledge Mastery
+Personalized Federated Learning via Tailored Lorentz Space
+Degree-aware Spiking Graph Domain Adaptation for Classification
+SynthFormer: Equivariant Pharmacophore-based Generation of Molecules for Ligand-Based Drug Design
+SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks
+Dynamic Contrastive Learning for Time Series Representation
+Meta-Learning for Dynamic Synaptic Plasticity in Spiking Neural Networks
+Invariant Spatiotemporal Representation Learning for Cross-patient Seizure Classification
+Extending Stability Analysis to Adaptive Optimization Algorithms Using Loss Surface Geometry
+Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction
+Interpretability of LLM Deception: Universal Motif
+Multi-Dimensional Insights: Benchmarking Real-World Personalization in Large Multimodal Models

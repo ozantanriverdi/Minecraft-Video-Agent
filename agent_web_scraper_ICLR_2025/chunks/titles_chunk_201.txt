@@ -1,0 +1,50 @@
+HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction
+Modeling All-Atom Glycan Structures via Hierarchical Message Passing and Multi-Scale Pre-training
+DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries
+Exploring contextual modeling with linear complexity for point cloud segmentation
+Transforming Ocean Analysis: Learning 4D ocean field from in-situ observations via uncertainty-aware implicit representations
+A prescriptive theory for brain-like inference
+A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training
+A Probabilistic Generative Method for Safe Physical System Control Problems
+Continuous Space-Time Video Super-Resolution via Event Camera
+OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?
+Generalizable Human Gaussians from Single-View Image
+Wavelet Diffusion Neural Operator
+MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines
+Coreset Selection via Reducible Loss in Continual Learning
+SegLLM: Multi-round Reasoning Segmentation with Large Language Model
+ZERO-1-to-G: Taming Pretrained 2D Diffusion Models for Direct 3D Generation
+Adaptive Exponential Decay Rates for Adam
+Dynamic Model Editing to Rectify Unreliable Behavior in Neural Networks
+Out-of-distribution Generalization for Total Variation based Invariant Risk Minimization
+Understanding and Mitigating Memorization in Diffusion Models for Tabular Data
+Tree Search for Language Model Agents
+Rethinking Homogeneity of Vision and Text Tokens in Large Vision-and-Language Models
+Hymba: A Hybrid-head Architecture for Small Language Models
+SSIF: Physics-Inspired Implicit Representations for Spatial-Spectral Image Super-Resolution
+Online Bandit Nonlinear Control with Dynamic Batch Length and Adaptive Learning Rate
+Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming
+PHI-S: Distribution Balancing for Agglomerative Models
+The Invariance Starvation Hypothesis
+bio2token: all-atom tokenization of any biomolecular structure with mamba
+Severing Spurious Correlations with Data Pruning
+X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models
+Classifier-Free Guidance is a Predictor-Corrector
+Uncovering Model Vulnerabilities With Multi-Turn Red Teaming
+CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation
+Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations
+Rethinking Addressing in Language Models via Contextualized Equivariant Positional Encoding
+MiraGe: Editable 2D Images using Gaussian Splatting
+Vector-ICL: In-context Learning with Continuous Vector Representations
+Understanding Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing
+LLaMaFlex: Many-in-one LLMs via Generalized Pruning and Weight Sharing
+Language Model Alignment in Multilingual Trolley Problems
+GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs
+Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation
+Safety Alignment Shouldn't Be Complicated
+Discretized Quadratic Integrate-and-Fire Neuron Model for Direct Training of Spiking Neural Networks
+Orient Anything
+M3C: a Multi-Domain Multi-Objective, Mixed-Modality Framework for Cost-Effective, Industry Scale Recommendation
+Asking Specifically Instead of Ambiguously to Your GPT Improves Image Caption
+Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method
+Auction-Based Regulation for Artificial Intelligence

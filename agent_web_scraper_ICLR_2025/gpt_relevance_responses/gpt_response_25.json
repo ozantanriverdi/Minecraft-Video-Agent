@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Haland: Human-AI Coordination via Policy Generation from Language-guided Diffusion",
+        "relevant": false
+    },
+    {
+        "title": "ICDA: Interactive Causal Discovery through Large Language Model Agents",
+        "relevant": false
+    },
+    {
+        "title": "Multi-Agent Causal Discovery Using Large Language Models",
+        "relevant": false
+    },
+    {
+        "title": "Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation",
+        "relevant": false
+    },
+    {
+        "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+        "relevant": true
+    }
+]

@@ -1,0 +1,50 @@
+Identifying Causal Effects Under Functional Dependencies
+Exploring Context Window of Large Language Models via Decomposed Positional Vectors
+Distributed-Order Fractional Graph Operating Network
+Non-asymptotic Approximation Error Bounds of Parameterized Quantum Circuits
+Cell ontology guided transcriptome foundation model
+Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning
+Model Fusion through Bayesian Optimization in Language Model Fine-Tuning
+Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning
+Tolerant Algorithms for Learning with Arbitrary Covariate Shift
+Are Graph Neural Networks Optimal Approximation Algorithms?
+One-Shot Safety Alignment for Large Language Models via Optimal Dualization
+Generated and Pseudo Content guided Prototype Refinement for Few-shot Point Cloud Segmentation
+Unitary Convolutions for Learning on Graphs and Groups
+Hardness of Learning Neural Networks under the Manifold Hypothesis
+Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks
+Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models
+What type of inference is planning?
+Approximation-Aware Bayesian Optimization
+Efficient Adversarial Training in LLMs with Continuous Attacks
+Symmetries in Overparametrized Neural Networks: A Mean Field View
+A Neural Network Approach for Efficiently Answering Most Probable Explanation Queries in Probabilistic Models
+CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning
+Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
+The Collusion of Memory and Nonlinearity in Stochastic Approximation With Constant Stepsize
+FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
+Trajectory Flow Matching with Applications to Clinical Time Series Modelling
+ECLipsE: Efficient Compositional Lipschitz Constant Estimation for Deep Neural Networks
+Auditing Privacy Mechanisms via Label Inference Attacks
+Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits
+Online Bayesian Persuasion Without a Clue
+Curvature Clues: Decoding Deep Learning Privacy with Input Loss Curvature
+Finding Transformer Circuits With Edge Pruning
+Reliable Learning of Halfspaces under Gaussian Marginals
+Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling
+Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models
+Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm
+Physically Compatible 3D Object Modeling from a Single Image
+Probablistic Emulation of a Global Climate Model with Spherical DYffusion
+Towards training digitally-tied analog blocks via hybrid gradient computation
+Induced Model Matching: Restricted Models Help Train Full-Featured Models
+ACES: Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models
+Learning Better Representations From Less Data For Propositional Satisfiability
+Dimension-free deterministic equivalents and scaling laws for random feature regression
+Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos
+Learning Segmentation from Point Trajectories
+Schrodinger Bridge Flow for Unpaired Data Translation
+A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models
+Energy-Guided Continuous Entropic Barycenter Estimation for General Costs
+Fearless Stochasticity in Expectation Propagation
+Mechanism design augmented with output advice
