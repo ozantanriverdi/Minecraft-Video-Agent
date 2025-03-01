@@ -1,0 +1,13 @@
+Based on this description of the scene, estimate the distance from the camera to the horse:
+
+{first_prompt}
+
+Considering your description of the horse’s apparent size, depth cues, and real-world knowledge, what is the most reasonable estimate in meters?
+Use the context above to justify your final calculation.
+Return your response in JSON format:
+
+```
+{
+    "distance": <calculated_distance>
+}
+```

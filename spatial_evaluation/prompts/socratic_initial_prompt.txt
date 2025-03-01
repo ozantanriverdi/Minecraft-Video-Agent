@@ -1,0 +1,9 @@
+Observe the provided image and describe the key visual details relevant to understanding the spatial properties of the most interesting object(s) in the scene.
+
+What are the key objects in the image, and how do they relate to their surroundings?
+How does the apparent size of these objects compare to the overall image frame?
+What depth cues (e.g., perspective, occlusion, shadows, relative sizes) suggest their spatial positioning?
+How do these objects compare in size to familiar real-world references?
+Describe their relative positions—are they near, far, above, below, or beside other objects?
+What additional contextual clues (e.g., road markings, human figures, environmental elements) help estimate spatial properties?
+Explain your reasoning step by step before making any specific spatial estimates.

@@ -79,7 +79,7 @@ task_list = {
             InventoryItem(slot="mainhand", name="iron_axe", variant=None, quantity=1)
         ],
         "initial_weather": "clear",
-        "start_position": {"x": -5, "y": 64, "z": -2, "pitch": 0, "yaw": 0} # x: negative values means right
+        "start_position": {"x": -5, "y": 64, "z": -2, "pitch": 0, "yaw": 0} # x: negative values mean right
     },
     "easy_2_seed_5": {
         "task_id": "harvest",
