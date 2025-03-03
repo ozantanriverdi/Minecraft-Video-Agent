@@ -1,7 +1,7 @@
 
-#biomes = ["forest", "plains", "desert", "ice_plains", "savanna", "swampland", "mesa_plateau", "nether", "sunflower_plains", "jungle"]
+biomes = ["forest", "plains", "desert", "ice_plains", "savanna", "swampland", "mesa_plateau", "nether", "sunflower_plains", "jungle"]
 
-biomes = ["plains"]
+#biomes = ["plains"]
 
 start_at_night = [True, False]
 

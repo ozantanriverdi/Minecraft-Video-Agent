@@ -10,7 +10,7 @@ from env_data import *
 
 if __name__ == '__main__':
     run_rgb_obs_dir, run_info_dir, run_obs_dir = create_folders()
-    trajectory_count = 3
+    trajectory_count = 20
     frame_count = 16
 
     pitch_delta = 0
@@ -63,9 +63,9 @@ if __name__ == '__main__':
             else:
                 obs, _, _, _ = env.step([0,0,0,12,12,0,0,0])
 
-                print(f'Obs before correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
-                print(f"Pitch Delta: {pitch_delta}")
-                print(f"Yaw Delta: {yaw_delta}")
+                #print(f'Obs before correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
+                #print(f"Pitch Delta: {pitch_delta}")
+                #print(f"Yaw Delta: {yaw_delta}")
 
                 # TODO: Can use modulo here
                 pitch = 12 - pitch_delta
@@ -83,17 +83,21 @@ if __name__ == '__main__':
 
                 pitch_delta = 0
                 yaw_delta = 0
-                print(f'Obs after correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
+                #print(f'Obs after correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             obs_init, _, _, _ = env.step([0,0,0,12,12,0,0,0])
-            print(f'Init Obs: {obs_init["location_stats"]["pitch"]}, {obs_init["location_stats"]["yaw"]}')
+            #print(f'Init Obs: {obs_init["location_stats"]["pitch"]}, {obs_init["location_stats"]["yaw"]}')
+
+            # Trying out a guided entity spawn
             #obs_init, reward, done, info = env.step([0,0,0,12,12,0,0,0])
             #env.spawn_mobs("cow", entity_random_location_1(obs_init))
+            
             entities = sample_entities(biome)
             entities_spawn_locations = entity_random_location_simple()
             env.spawn_mobs(entities, entities_spawn_locations)
+
             # Wait till the rendering finishes
             for k in range(4):
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
@@ -101,6 +105,7 @@ if __name__ == '__main__':
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
+
             # Start Trajectory
             for frame in range(frame_count):
                 if frame == 0:
