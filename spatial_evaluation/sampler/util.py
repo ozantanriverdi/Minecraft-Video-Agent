@@ -149,14 +149,14 @@ def entity_random_location_1(obs):
 
 def entity_random_location_simple():
     x_value_1 = np.random.randint(-5, 5)
-    z_value_1 = np.random.randint(4, 10)
+    z_value_1 = np.random.randint(5, 10)
 
     x_value_2 = np.random.randint(-5, 5)
-    z_value_2 = np.random.randint(4, 10)
+    z_value_2 = np.random.randint(5, 10)
 
     if x_value_1 == x_value_2 and z_value_1 == z_value_2:
         x_value_1 = np.random.randint(-5, 5)
-        z_value_1 = np.random.randint(4, 10)
+        z_value_1 = np.random.randint(5, 10)
 
     return [np.array([x_value_1, 3, z_value_1]), np.array([x_value_2, 3, z_value_2])]
 
@@ -254,7 +254,7 @@ def random_action_generator(obs):
     return np.array(action)
 
 
-def random_action_sampler(last_action, pitch_delta, yaw_delta):
+def random_action_sampler(pitch_delta, yaw_delta):
     forward_back = random.randint(0, 2)  # 0=noop, 1=forward, 2=back
     left_right = random.randint(0, 2)    # 0=noop, 1=left,   2=right
 
