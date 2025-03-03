@@ -63,15 +63,15 @@ if __name__ == '__main__':
             else:
                 obs, _, _, _ = env.step([0,0,0,12,12,0,0,0])
 
-                #print(f'Obs before correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
-                #print(f"Pitch Delta: {pitch_delta}")
-                #print(f"Yaw Delta: {yaw_delta}")
+                print(f'Obs before correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
+                print(f"Pitch Delta: {pitch_delta}")
+                print(f"Yaw Delta: {yaw_delta}")
 
                 # TODO: Can use modulo here
                 pitch = 12 - pitch_delta
                 yaw = 12 - yaw_delta
-                # print(pitch)
-                # print(yaw)
+                print(pitch)
+                print(yaw)
                 camera_corrector_action = np.array([0,0,0,pitch,yaw,0,0,0])
 
                 # Accounting for action delay by 2 steps
@@ -83,11 +83,11 @@ if __name__ == '__main__':
 
                 pitch_delta = 0
                 yaw_delta = 0
-                #print(f'Obs after correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
+                print(f'Obs after correction: {obs["location_stats"]["pitch"]}, {obs["location_stats"]["yaw"]}')
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
-            obs_init, _, _, _ = env.step([0,0,0,12,12,0,0,0])
+            _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             #print(f'Init Obs: {obs_init["location_stats"]["pitch"]}, {obs_init["location_stats"]["yaw"]}')
 
             # Trying out a guided entity spawn
@@ -105,6 +105,9 @@ if __name__ == '__main__':
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
+            obs_init, _, _, _ = env.step([0,0,0,12,12,0,0,0])
+            Image.fromarray(obs_init["rgb"].transpose(1, 2, 0)).save(join(run_rgb_obs_dir, f"{biome_id}_{trajectory}_init.jpg"))
+            obs_to_json(obs_init, run_obs_dir, trajectory, biome_id, frame)
 
             # Start Trajectory
             for frame in range(frame_count):
