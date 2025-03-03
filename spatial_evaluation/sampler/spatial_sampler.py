@@ -107,7 +107,7 @@ if __name__ == '__main__':
                 _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             obs_init, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             Image.fromarray(obs_init["rgb"].transpose(1, 2, 0)).save(join(run_rgb_obs_dir, f"{biome_id}_{trajectory}_init.jpg"))
-            obs_to_json(obs_init, run_obs_dir, trajectory, biome_id, frame)
+            obs_to_json(obs_init, run_obs_dir, trajectory, biome_id, "init")
 
             # Start Trajectory
             for frame in range(frame_count):
