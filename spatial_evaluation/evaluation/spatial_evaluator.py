@@ -8,11 +8,11 @@ from utils import calculate_distance
 
 
 class Evaluator:
-    def __init__(self, sample_id):
-        self.sample_id = sample_id
+    def __init__(self, run_id):
+        self.run_id = run_id
         cwd = os.getcwd()
         obs_dir = join(cwd, "obs")
-        self.directory = join(obs_dir, sample_id)
+        self.directory = join(obs_dir, run_id)
     
     def evaluate_absolute_distance(self, step, entity_name):
         with open(join(self.directory, f"obs_step_{step}.json"), "r") as f:
@@ -104,7 +104,7 @@ class Evaluator:
 
 
 if __name__ == '__main__':
-    evaluator = Evaluator(sample_id="20250221_000412")
+    evaluator = Evaluator(run_id="20250221_000412")
     print(evaluator.evaluate_absolute_distance(step=0, entity_name="horse"))
     #print(evaluator.evaluate_relative_distance(step=0, entity_names=["horse", "pig"]))
     #print(evaluator.evaluate_relative_direction(step=2, entity_1="pig", entity_2="horse"))

@@ -19,6 +19,7 @@ if __name__ == '__main__':
 
     vradius = 5
 
+    # Start Episode
     for biome_id, biome in enumerate(biomes):
         # env = minedojo.make(
         #     "open-ended",

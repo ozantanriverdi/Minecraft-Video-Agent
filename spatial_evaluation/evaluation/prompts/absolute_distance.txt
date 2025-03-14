@@ -1,10 +1,10 @@
-Analyze the provided image and estimate the distance between the horse and the pig.
+Analyze the provided image and estimate the distance from the camera to the {entity_1}.
 Use your real world knowledge about average sizes of animals to make the prediction.
 You can think of the distance in meters.
 Return your response in JSON format:
 
 ```
-{
+{{
     "distance": <calculated_distance>
-}
+}}
 ```

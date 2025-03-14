@@ -6,7 +6,7 @@ import ast
 import numpy as np
 from utils import filter_runs, encode_image, parse_llm_output_distance, parse_llm_output_direction, distance_metric, direction_metric, save_results, plot_results
 
-from spatial_evaluater import Evaluator
+from spatial_evaluator import Evaluator
 
 
 

@@ -1,12 +1,12 @@
-Analyze the provided image and determine the relative direction of the horse with respect to the pig.
+Analyze the provided image and determine the relative direction of the {entity_1} with respect to the {entity_2}.
 
 Use the following JSON response format:
 Use your real world knowledge about perspective and average sizes of animals to make the prediction.
 
 ```
-{ 
+{{ 
     "direction": "<one of: left, right, in front, back, front-left, front-right, back-left, back-right>" 
-}
+}}
 ```
 
 ### Example:
@@ -15,18 +15,18 @@ Use your real world knowledge about perspective and average sizes of animals to 
 **Output:**
 
 ```
-{ 
+{{ 
     "direction": "left"
-}
+}}
 ```
 
 **Input Image 2:** [Wolf is diagonally in front and right of the pig]  
 **Output:**
 
 ```
-{ 
+{{ 
     "direction": "front-right"
-}
+}}
 ```
 
 Now, analyze the given image and determine the relative direction.
