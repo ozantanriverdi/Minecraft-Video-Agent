@@ -160,3 +160,20 @@ def create_predictions_folder(run_id, model_type):
     predictions.mkdir(parents=True, exist_ok=True)
 
     return predictions
+
+
+def evaluate_custom_frames():
+    filtered_frames = {"biome": [], "trajectory": [], "frame": []}
+    print(list(filtered_frames.keys()))
+    with open("test_frames.txt", "r") as f:
+        lines = f.readlines()
+
+    for n, line in enumerate(lines):
+        line = line.rstrip("\n")
+        line = line.split(",")
+        
+        line = line
+        for i, dim in enumerate(line):
+            filtered_frames[list(filtered_frames.keys())[i]].append(int(dim))
+
+    return filtered_frames

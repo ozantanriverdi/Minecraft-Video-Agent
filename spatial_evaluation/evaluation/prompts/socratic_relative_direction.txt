@@ -1,18 +1,70 @@
 Here is a description of a scene. First understand the description and solve the task.
 
-### Description:
+## Description:
 
 {{description}}
 
-### Task:
+## Task:
 
-- Based on the description of the scene, estimate the distance from the camera to the {entity_1}.
-- Considering your description of the {entity_1}’s apparent size, depth cues, and real-world knowledge, what is the most reasonable estimate in meters?
-- Use the context above to justify your final calculation.
-- Always return your response in JSON format:
+Analyze the provided image and determine the relative direction of the {entity_2} with respect to the {entity_1}.
 
-```
-{{
-    "distance": <calculated_distance>
+Use your real world knowledge about perspective and depth to make the prediction.
+
+Answer the following 3 questions:
+
+### Question 1:
+
+Is the {entity_2} on the left, on the right of {entity_1} or at the same level?
+
+### Response 1:
+
+- -1 means {entity_2} is on the left of {entity_1}
+- 0 means {entity_2} is on the same level as {entity_1}
+- 1 means {entity_2} is on the right of {entity_1}
+
+### Question 2:
+
+Is the {entity_2} above, below {entity_1} or at the same level?
+
+### Response 2:
+
+- -1 means {entity_2} is above {entity_1}
+- 0 means {entity_2} is on the same level as {entity_1}
+- 1 means {entity_2} is below {entity_1}
+
+### Question 3:
+
+Is the {entity_2} behind of, in front of {entity_1} or at the same level?
+
+### Response 3:
+
+- -1 means {entity_2} is behind {entity_1}
+- 0 means {entity_2} is on the same level as {entity_1}
+- 1 means {entity_2} is in front of {entity_1}
+
+### Response Format:
+
+```json
+{{ 
+    "direction": "[<Response_1>, <Response_2>, <Response_3>]"
 }}
 ```
+
+### Example:
+
+**Input: Image 1:** [Sheep is to the left, above and behind the cow]  
+**Output:**
+
+```json
+{{ 
+    "direction": "[-1, -1, -1]"
+}}
+```
+
+### Rules:
+- For each question, only consider one dimension at a time
+- Always return your response in JSON format.
+- Don't add additional comments into the json.
+- The value in json must be a list of length 3 with 3 possible values (-1, 0, 1).
+
+Now, analyze the given image and determine the relative direction.

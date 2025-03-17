@@ -13,7 +13,7 @@ from .utils import *
 
 
 class GroundTruthExtractor:
-    def __init__(self, run_id, biomes_count=10, trajectories_count=20, frames_count=16):
+    def __init__(self, run_id, biomes_count=10, trajectories_count=20, frames_count=16, filtered_frames=None):
         self.run_id = run_id
 
         base_dir = Path(__file__).parent.parent.parent
@@ -38,7 +38,7 @@ class GroundTruthExtractor:
         else:
             print(f"GroundTruthExtractor: Correct number of obs files found: {num_obs}")
 
-        self.filtered_frames = {"biome": [], "trajectory": [], "frame": []}
+        self.filtered_frames = filtered_frames if filtered_frames is not None else {"biome": [], "trajectory": [], "frame": []}
 
 
     def filter_trajectories(self):
@@ -173,33 +173,58 @@ class GroundTruthExtractor:
             dx = x2 - x1
             dy = y2 - y1
             dz = z2 - z1
+            
+            rel_pos = []
 
-            # Determine horizontal direction
-            if dx == 0 and dz == 0:
-                horizontal_direction = "same position"
-            elif dx == 0:
-                horizontal_direction = "in front" if dz > 0 else "back"
+            if dx > 0:  # Entity_2 on the left
+                rel_pos.append(-1)
+            elif dx == 0:   
+                rel_pos.append(0)
+            elif dx < 0:   # Entity_2 on the right
+                rel_pos.append(1)
+
+            if dy > 0:  # Entity_2 above Entity_1
+                rel_pos.append(1)
+            elif dy == 0:
+                rel_pos.append(0)
+            elif dy < 0:    # Entity_2 below Entity_1
+                rel_pos.append(-1)
+
+            if dz > 0:  # Entity_2 behind Entity_1
+                rel_pos.append(1)
             elif dz == 0:
-                horizontal_direction = "left" if dx > 0 else "right"
-            elif dz > 0:  # Entity_2 is in front
-                horizontal_direction = "back-left" if dx > 0 else "back-right"
-            else:  # Entity_2 is behind
-                horizontal_direction = "front-left" if dx > 0 else "front-right"
+                rel_pos.append(0)
+            elif dz < 0:    # Entity_2 in front of Entity_1
+                rel_pos.append(-1)
 
-            # Determine vertical direction
-            if dy > 0:
-                vertical_direction = "above"
-            elif dy < 0:
-                vertical_direction = "below"
-            else:
-                vertical_direction = "same level"
+
+            # # Determine horizontal direction
+            # if dx == 0 and dz == 0:
+            #     horizontal_direction = "same position"
+            # elif dx == 0:
+            #     horizontal_direction = "in front" if dz > 0 else "back"
+            # elif dz == 0:
+            #     horizontal_direction = "left" if dx > 0 else "right"
+            # elif dz > 0:  # Entity_2 is in front
+            #     horizontal_direction = "back-left" if dx > 0 else "back-right"
+            # else:  # Entity_2 is behind
+            #     horizontal_direction = "front-left" if dx > 0 else "front-right"
+
+            # # Determine vertical direction
+            # if dy > 0:
+            #     vertical_direction = "above"
+            # elif dy < 0:
+            #     vertical_direction = "below"
+            # else:
+            #     vertical_direction = "same level"
 
             if biome not in ground_truths:
                 ground_truths[biome] = {}
             if trajectory not in ground_truths[biome]:
                 ground_truths[biome][trajectory] = {}
             
-            ground_truths[biome][trajectory][frame] = f"{horizontal_direction}-{vertical_direction}"
+            # ground_truths[biome][trajectory][frame] = f"{horizontal_direction}-{vertical_direction}"
+            ground_truths[biome][trajectory][frame] = rel_pos
 
         with open(join(self.ground_truth_dir, "relative_direction.json"), "w") as f:
             json.dump(ground_truths, f, indent=4)

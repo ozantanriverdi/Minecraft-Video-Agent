@@ -58,20 +58,19 @@ class Evaluator:
         """
         Calculates the accuracy of predicted directions compared to ground truth.
         """
-        correct_predictions = 0
+        correct_predictions = [0, 0, 0]
         total_predictions = len(filtered_frames["biome"])
-        print(total_predictions)
         for biome, trajectory, frame in zip(filtered_frames["biome"], filtered_frames["trajectory"], filtered_frames["frame"]):
+            biome, trajectory, frame = str(biome), str(trajectory), str(frame)
             try:
-                print(ground_truths[biome][trajectory][frame])
-                print(predictions[biome][trajectory][frame])
-                if ground_truths[biome][trajectory][frame] == predictions[biome][trajectory][frame]:
-                    correct_predictions += 1
+                for dim in range(3):
+                    if ground_truths[biome][trajectory][frame][dim] == predictions[biome][trajectory][frame][dim]:
+                        correct_predictions[dim] += 1
+
             except Exception as e:
                 print(e)
                 print("None encountered in predictions or Ground Truths and Predictions are not same lenght")
                 continue
-        #total_predictions = len(filtered_frames["biome"])
-        print(correct_predictions)
-        accuracy = (correct_predictions / total_predictions) * 100
-        return round(accuracy, 2)
+
+        accuracy = [round((correct_predictions[i] / total_predictions) * 100, 2) for i in range(3)]
+        return accuracy
