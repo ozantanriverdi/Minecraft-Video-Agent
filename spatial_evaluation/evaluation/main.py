@@ -83,7 +83,7 @@ def main(run_id, model_type, task, dataset, groundTruthExtractor, model, evaluat
 
 if __name__ == '__main__':
     # TODO: Error handling for invalid run_id
-    run_id = "20250304_000717"
+    run_id = "20250303_231817"
     # TODO: Error handling for invalid model_type and task
     dataset = "custom"
     model_type = "gpt"
