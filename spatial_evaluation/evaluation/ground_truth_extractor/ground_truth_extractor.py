@@ -9,7 +9,6 @@ import numpy as np
 import math
 from os.path import join
 from pathlib import Path
-from tqdm import tqdm
 from .utils import *
 
 
@@ -43,7 +42,7 @@ class GroundTruthExtractor:
 
 
     def filter_trajectories(self):
-        for biome in tqdm(range(self.biomes_count)):
+        for biome in range(self.biomes_count):
             for trajectory in range(self.trajectories_count):
                 
                 with open(join(self.run_info_dir, f"info_step_{biome}_{trajectory}.json"), "r") as f:

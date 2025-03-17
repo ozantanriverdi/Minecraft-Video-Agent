@@ -18,8 +18,16 @@ class LLM_Parser:
             json_str = match.group(1)  # Extract JSON content
             try:
                 parsed_json = json.loads(json_str)  # Parse JSON
-                return parsed_json.get("distance", None)  # Get 'distance' value
-            except json.JSONDecodeError:
+                distance = parsed_json.get("distance", None)
+                
+                if isinstance(distance, (int, float)):
+                    return distance
+                else:
+                    print(f"Warning: Invalid distance value '{distance}'")
+                    return None  # Return None if the value is not numeric
+
+            except (json.JSONDecodeError, TypeError) as e:
+                print(f"JSON Decode Error: {e}")
                 return None  # Return None if JSON is malformed
         return None  # Return None if no JSON found
     

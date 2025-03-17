@@ -5,15 +5,16 @@ import json
 import ast
 import numpy as np
 from pathlib import Path
-from utils import *
+from tqdm import tqdm
 
+from utils import *
 from ground_truth_extractor import GroundTruthExtractor
 from model import Model
 from evaluator import Evaluator
 from llm_parser import LLM_Parser
 
 
-def main(run_id, model_type, task, groundTruthExtractor, model, evaluator):
+def main(run_id, model_type, task, groundTruthExtractor, model, evaluator, parser):
     
     
     base_dir = Path(__file__).parent.parent
@@ -22,18 +23,19 @@ def main(run_id, model_type, task, groundTruthExtractor, model, evaluator):
     run_info_dir = samples_dir / "info" / run_id
 
     filtered_frames = groundTruthExtractor.filter_trajectories()
-    print(filtered_frames)
+
+    print(f"Number of frames to be used: {len(filtered_frames['biome'])}")
     groundTruthExtractor.extract_ground_truths()
     with open(join("ground_truths", run_id, f"{task}.json"), "r") as f:
         ground_truths = json.load(f)
 
     prompt_raw = load_prompt(task, model_type)
     
-    predictions_dir = create_predictions_folders(run_id)
+    predictions_dir = create_predictions_folder(run_id, model_type)
     predictions = {}
-    max_retries = 3
+    max_retries = 5
 
-    for biome, trajectory, frame in zip(filtered_frames["biome"], filtered_frames["trajectory"], filtered_frames["frame"]):
+    for biome, trajectory, frame in tqdm(zip(filtered_frames["biome"], filtered_frames["trajectory"], filtered_frames["frame"])):
         
         with open(join(run_info_dir, f"info_step_{biome}_{trajectory}.json"), "r") as f:
             trajectory_info = json.load(f)
@@ -49,8 +51,9 @@ def main(run_id, model_type, task, groundTruthExtractor, model, evaluator):
         while parsed_output is None and attempts < max_retries:
 
             output_raw = model.forward(prompt, image_url)
-            print(output_raw)
+            #print(output_raw)
             parsed_output = parser.parse(output_raw)
+            #print(parsed_output)
             if parsed_output is None:
                 print(f"Parsing failed, retrying... ({attempts + 1}/{max_retries})")
             attempts += 1
@@ -62,19 +65,19 @@ def main(run_id, model_type, task, groundTruthExtractor, model, evaluator):
             predictions[biome][trajectory] = {}
         
         predictions[biome][trajectory][frame] = parsed_output
-        break
 
+        #break
     with open(join(predictions_dir, f"{task}.json"), "w") as f:
         json.dump(predictions, f, indent=4)
 
     evaluation_result = evaluator.evaluate_predictions(filtered_frames, predictions, ground_truths)
-    print(evaluation_result)
+    save_results(evaluation_result, predictions_dir, task)
 
 
 
 
 if __name__ == '__main__':
-
+    # TODO: Error handling for invalid run_id
     run_id = "20250304_000717"
     # TODO: Error handling for invalid model_type and task
     model_type = "gpt"
@@ -86,7 +89,7 @@ if __name__ == '__main__':
     evaluator = Evaluator(task)
     parser = LLM_Parser(task)
 
-    main(run_id, model_type, task, groundTruthExtractor, model, evaluator)
+    main(run_id, model_type, task, groundTruthExtractor, model, evaluator, parser)
     
 
 

@@ -6,8 +6,8 @@ Here is a description of a scene. First understand the description and solve the
 
 ### Task:
 
-- Based on the description of the scene, estimate the distance from the camera to the {entity_1}.
-- Considering your description of the {entity_1}’s apparent size, depth cues, and real-world knowledge, what is the most reasonable estimate in meters?
+- Based on the description of the scene, estimate the distance between the {entity_1} and the {entity_2}.
+- Considering your description of {entity_1}’s and {entity_2}’s apparent size, depth cues, and real-world knowledge, what is the most reasonable estimate in meters?
 - Use the context above to justify your final calculation.
 - Always return your response in JSON format.
 - <calculated_distance> has to be a number.

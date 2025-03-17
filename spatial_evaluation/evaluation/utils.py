@@ -36,35 +36,54 @@ def direction_metric(predicted_directions, ground_truth_directions):
     accuracy = (correct_predictions / total_predictions) * 100
     return round(accuracy, 2)
 
-def save_results(run_id, task, metric, sample_size, predictions, ground_truth_distances):
-    if os.path.exists("results.json"):
-        with open("results.json", "r") as f:
+# def save_results(run_id, task, metric, sample_size, predictions, ground_truth_distances):
+#     if os.path.exists("results.json"):
+#         with open("results.json", "r") as f:
+#             results = json.load(f)
+#     else:
+#         results = {}
+    
+#     try:
+#         last_run_id = int(list(results.keys())[-1])
+
+#         results[last_run_id+1] = {
+#             "run_id": run_id,
+#             "task": task,
+#             "metric": metric,
+#             "sample_size": sample_size,
+#             "predictions": predictions,
+#             "ground_truth_distances": ground_truth_distances
+#         }
+#     except:
+#         results[0] = {
+#             "run_id": run_id,
+#             "task": task,
+#             "metric": metric,
+#             "sample_size": sample_size,
+#             "predictions": predictions,
+#             "ground_truth_distances": ground_truth_distances
+#         }
+
+#     with open("results.json", "w") as f:
+#         json.dump(results, f, indent=4)
+
+def save_results(evaluation_result, predictions_dir, task):
+    results_json = join(predictions_dir, "results.json")
+    
+    if os.path.exists(results_json):
+        with open(results_json, "r") as f:
             results = json.load(f)
     else:
         results = {}
-    
-    try:
-        last_run_id = int(list(results.keys())[-1])
 
-        results[last_run_id+1] = {
-            "run_id": run_id,
-            "task": task,
-            "metric": metric,
-            "sample_size": sample_size,
-            "predictions": predictions,
-            "ground_truth_distances": ground_truth_distances
-        }
-    except:
-        results[0] = {
-            "run_id": run_id,
-            "task": task,
-            "metric": metric,
-            "sample_size": sample_size,
-            "predictions": predictions,
-            "ground_truth_distances": ground_truth_distances
-        }
+    if task == "absolute_distance":
+        results["absolute_distance_error"] = evaluation_result
+    elif task == "relative_distance":
+        results["relative_distance_error"] = evaluation_result
+    elif task == "relative_direction":
+        results["relative_direction_error"] = evaluation_result
 
-    with open("results.json", "w") as f:
+    with open(results_json, "w") as f:
         json.dump(results, f, indent=4)
 
 def plot_results(*run_ids):
@@ -118,7 +137,7 @@ def format_prompt(prompt, task, entities):
     if task == "absolute_distance":
         prompt = prompt.format(entity_1=entities[0])
     elif task == "relative_distance" or task == "relative_direction":
-        prompt = prompt.format(entities[0], entities[1])
+        prompt = prompt.format(entity_1=entities[0], entity_2=entities[1])
     
     return prompt
 
@@ -131,12 +150,12 @@ def prepare_image(image_dir, biome, trajectory, frame):
     return image_url
 
 
-def create_predictions_folders(run_id):
+def create_predictions_folder(run_id, model_type):
     # Get the parent directory (spatial_evaluation)
     base_dir = Path(__file__).parent  # Moves up one level from "sampler"
     
     # Define the directory where samples should be stored
-    predictions = base_dir / "predictions" / run_id
+    predictions = base_dir / "predictions" / f"{run_id}_{model_type}"
 
     predictions.mkdir(parents=True, exist_ok=True)
 
