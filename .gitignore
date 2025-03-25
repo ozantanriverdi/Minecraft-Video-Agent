@@ -8,3 +8,5 @@ actions/
 spatial_evaluation/samples
 ground_truths/
 predictions/
+.vscode/
+.env

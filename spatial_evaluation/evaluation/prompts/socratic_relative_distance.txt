@@ -13,7 +13,7 @@ Here is a description of a scene. First understand the description and solve the
 - <calculated_distance> has to be a number.
 - Don't add additional comments into the json.
 
-```
+```json
 {{
     "distance": <calculated_distance>
 }}

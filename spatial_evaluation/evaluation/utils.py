@@ -67,7 +67,7 @@ def direction_metric(predicted_directions, ground_truth_directions):
 #     with open("results.json", "w") as f:
 #         json.dump(results, f, indent=4)
 
-def save_results(evaluation_result, predictions_dir, task):
+def save_results(evaluation_result, single_results, predictions_dir, task):
     results_json = join(predictions_dir, "results.json")
     
     if os.path.exists(results_json):
@@ -77,11 +77,13 @@ def save_results(evaluation_result, predictions_dir, task):
         results = {}
 
     if task == "absolute_distance":
-        results["absolute_distance_error"] = evaluation_result
+        results["absolute_distance"] = {"absolute_distance_mae": evaluation_result, "single_results": single_results}
+
     elif task == "relative_distance":
-        results["relative_distance_error"] = evaluation_result
+        results["relative_distance"] = {"relative_distance_mae": evaluation_result, "single_results": single_results}
+        
     elif task == "relative_direction":
-        results["relative_direction_error"] = evaluation_result
+        results["relative_direction"] = {"relative_direction_accuracy": evaluation_result, "single_results": single_results}
 
     with open(results_json, "w") as f:
         json.dump(results, f, indent=4)
@@ -151,21 +153,26 @@ def prepare_image(image_dir, biome, trajectory, frame):
 
 
 def create_predictions_folder(run_id, model_type):
-    # Get the parent directory (spatial_evaluation)
-    base_dir = Path(__file__).parent  # Moves up one level from "sampler"
-    
-    # Define the directory where samples should be stored
-    predictions = base_dir / "predictions" / f"{run_id}_{model_type}"
+    base_dir = Path(__file__).parent
+    predictions_base = base_dir / "predictions"
+    base_name = f"{run_id}_{model_type}"
 
-    predictions.mkdir(parents=True, exist_ok=True)
+    version = 0
+    while True:
+        suffix = f"_v{version}" if version > 0 else ""
+        predictions = predictions_base / f"{base_name}{suffix}"
+        if not predictions.exists():
+            break
+        version += 1
 
+    predictions.mkdir(parents=True)
     return predictions
 
 
-def evaluate_custom_frames():
+def evaluate_custom_frames(frames_file):
     filtered_frames = {"biome": [], "trajectory": [], "frame": []}
     print(list(filtered_frames.keys()))
-    with open("test_frames.txt", "r") as f:
+    with open(frames_file, "r") as f:
         lines = f.readlines()
 
     for n, line in enumerate(lines):

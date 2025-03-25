@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv
 
 from .gpt_model import GPT_Model
 from .gpt_socratic import GPT_Socratic_Model
@@ -6,6 +7,7 @@ from .gpt_socratic import GPT_Socratic_Model
 class Model:
     def __init__(self, model_type):
         self.model_type = model_type
+        load_dotenv()
         self.api_key = os.getenv("OPENAI_API_KEY")
         if not self.api_key:
             raise ValueError("API key not found. Please set the OPENAI_API_KEY environment variable.")

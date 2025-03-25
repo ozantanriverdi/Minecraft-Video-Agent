@@ -1,0 +1,184 @@
+import json
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+def plot_results(*exps):
+    """
+    Plots the accuracy/error comparison across multiple experiments for 
+    absolute distance error, relative distance error, and relative direction accuracy.
+    
+    :param exps: List of experiment directories containing results.json
+    """
+    tasks = ["Absolute Distance Error", "Relative Distance Error", "Relative Direction Accuracy"]
+    measures = [[] for _ in range(3)]  # Store measures for all tasks
+    models = list(exps)  # Experiment names
+
+    # Load results for all experiments
+    for exp in exps:
+        with open(f"predictions/{exp}/results.json", "r") as f:
+            result = json.load(f)
+
+        # Store results per task
+        for task_idx, task_name in enumerate(tasks):
+            task_result = result[list(result.keys())[task_idx]]
+            measures[task_idx].append(task_result)  # Append to correct list
+
+    # Iterate over tasks and plot
+    for task_idx, task_name in enumerate(tasks):
+        plt.figure(figsize=(10, 6))
+
+        if isinstance(measures[task_idx][0], list):  # Grouped bar chart for relative direction
+            measures_arr = np.array(measures[task_idx])  # Convert list of lists to NumPy array
+            num_experiments, num_dimensions = measures_arr.shape
+            bar_width = 0.2  # Width of bars
+            x = np.arange(num_dimensions)  # X positions for categories
+
+            for i in range(num_experiments):
+                plt.bar(x + i * bar_width, measures_arr[i], width=bar_width, label=models[i])
+
+            plt.xticks(x + bar_width * (num_experiments - 1) / 2, ["Left/Right", "Above/Below", "Front/Back"])
+            plt.ylabel("Accuracy (%)")
+            plt.title("Relative Direction Accuracy Comparison")
+
+        else:  # Standard bar chart for absolute/relative distance error
+            plt.bar(models, measures[task_idx])
+            plt.ylabel("MAE" if task_idx < 2 else "Accuracy")
+            plt.title(f"{task_name} Comparison")
+
+        plt.xlabel("Experiments")
+        plt.grid(axis="y", linestyle="--", alpha=0.7)
+        plt.legend() if isinstance(measures[task_idx][0], list) else None
+        plt.show()
+
+        print(f"Plotted: {task_name}")
+
+
+def plot_abs_distance(*exps):
+    all_labels = set()
+    exp_errors = {}
+
+    # Step 1: Collect all unique frame labels and store per-experiment errors
+    for exp in exps:
+        with open(f"predictions/{exp}/results.json", "r") as f:
+            result = json.load(f)
+
+        single_results = result["absolute_distance"]["single_results"]
+        errors_dict = {}
+
+        for biome, trajs in single_results.items():
+            for traj, frames in trajs.items():
+                for frame, error in frames.items():
+                    label = f"{biome}_{traj}_{frame}"
+                    all_labels.add(label)
+                    errors_dict[label] = error
+
+        exp_errors[exp] = errors_dict
+
+    # Step 2: Sort all frame labels for consistent x-axis
+    all_labels = sorted(all_labels)
+    x = np.arange(len(all_labels))  # numeric x-axis positions
+    bar_width = 0.8 / len(exps)  # shrink bar width to fit all experiments
+
+    # Step 3: Plot grouped bars
+    plt.figure(figsize=(14, 6))
+    for i, exp in enumerate(exps):
+        errors = exp_errors[exp]
+        # Fill with 0.0 or np.nan for missing predictions
+        y_values = [errors.get(label, 0.0) for label in all_labels]
+        plt.bar(x + i * bar_width, y_values, width=bar_width, label=exp)
+
+    # Step 4: Format plot
+    plt.xticks(x + bar_width * (len(exps) - 1) / 2, all_labels, rotation=90, fontsize=8)
+    plt.ylabel("Normalized Absolute Distance Error")
+    plt.xlabel("Biome_Trajectory_Frame")
+    plt.title("Normalized Absolute Distance Error Comparison Across Experiments")
+    plt.legend()
+    plt.grid(axis="y", linestyle="--", alpha=0.7)
+    plt.tight_layout()
+    plt.show()    
+
+
+def plot_rel_distance(*exps):
+    all_labels = set()
+    exp_errors = {}
+
+    # Step 1: Collect all unique frame labels and store per-experiment errors
+    for exp in exps:
+        with open(f"predictions/{exp}/results.json", "r") as f:
+            result = json.load(f)
+
+        single_results = result["relative_distance"]["single_results"]
+        errors_dict = {}
+
+        for biome, trajs in single_results.items():
+            for traj, frames in trajs.items():
+                for frame, error in frames.items():
+                    label = f"{biome}_{traj}_{frame}"
+                    all_labels.add(label)
+                    errors_dict[label] = error
+
+        exp_errors[exp] = errors_dict
+
+    # Step 2: Sort all frame labels for consistent x-axis
+    all_labels = sorted(all_labels)
+    x = np.arange(len(all_labels))  # numeric x-axis positions
+    bar_width = 0.8 / len(exps)  # shrink bar width to fit all experiments
+
+    # Step 3: Plot grouped bars
+    plt.figure(figsize=(14, 6))
+    for i, exp in enumerate(exps):
+        errors = exp_errors[exp]
+        # Fill with 0.0 or np.nan for missing predictions
+        y_values = [errors.get(label, 0.0) for label in all_labels]
+        plt.bar(x + i * bar_width, y_values, width=bar_width, label=exp)
+
+    # Step 4: Format plot
+    plt.xticks(x + bar_width * (len(exps) - 1) / 2, all_labels, rotation=90, fontsize=8)
+    plt.ylabel("Normalized Relative Distance Error")
+    plt.xlabel("Biome_Trajectory_Frame")
+    plt.title("Normalized Relative Distance Error Comparison Across Experiments")
+    plt.legend()
+    plt.grid(axis="y", linestyle="--", alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_rel_direction(*exps):
+    
+    models = list(exps)
+    measures = []
+    
+    for exp in exps:
+        with open(f"predictions/{exp}/results.json", "r") as f:
+            result = json.load(f)
+
+        # Store results for the task
+        task_result = result["relative_direction"]["relative_direction_accuracy"]
+        measures.append(task_result)  # Append to correct list
+
+    measures_arr = np.array(measures)
+
+    num_experiments, num_dimensions = measures_arr.shape
+    plt.figure(figsize=(10, 6))
+    bar_width = 0.2  # Width of bars
+    x = np.arange(num_dimensions)  # X positions for categories
+    
+    for i in range(num_experiments):
+        plt.bar(x + i * bar_width, measures_arr[i], width=bar_width, label=models[i])
+
+    plt.xticks(x + bar_width * (num_experiments - 1) / 2, ["Left/Right", "Above/Below", "Front/Back"])
+    plt.ylabel("Accuracy (%)")
+    plt.title("Relative Direction Accuracy Comparison")
+    plt.xlabel("Experiments")
+    plt.grid(axis="y", linestyle="--", alpha=0.7)
+    plt.legend()
+    plt.show()
+
+
+if __name__ == "__main__":
+    plot_abs_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+    plot_rel_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+    plot_rel_direction("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+
+    plot_results("20250303_231817_gpt", "20250303_231817_gpt_socratic")
