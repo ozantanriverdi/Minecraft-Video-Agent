@@ -2,7 +2,7 @@ import torch
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 
 class LLava_Model:
-    def __init__(self, model_path="/home/atuin/v100dd/v100dd12/llava-v1.6-vicuna-7b", max_tokens=100):
+    def __init__(self, model_path="llava-hf/llava-1.5-7b-hf", max_tokens=100):
         self.model_path = model_path
         self.max_tokens = max_tokens
 

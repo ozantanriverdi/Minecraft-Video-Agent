@@ -173,7 +173,7 @@ def create_predictions_folder(run_id, model_type):
 
 def evaluate_custom_frames(frames_file):
     filtered_frames = {"biome": [], "trajectory": [], "frame": []}
-    print(list(filtered_frames.keys()))
+
     with open(frames_file, "r") as f:
         lines = f.readlines()
 
