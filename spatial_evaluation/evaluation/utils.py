@@ -5,6 +5,7 @@ import base64
 import re
 import numpy as np
 import math
+from PIL import Image
 import matplotlib.pyplot as plt
 from os.path import join
 from pathlib import Path
@@ -110,7 +111,7 @@ def plot_results(*run_ids):
 
 def load_prompt(task, model):
     # TODO: Add error handling
-    if model == "gpt":
+    if model == "gpt" or model == "llava":
         if task == "absolute_distance":
             with open("prompts/absolute_distance.txt") as f:
                 prompt = f.read()
@@ -144,12 +145,17 @@ def format_prompt(prompt, task, entities):
     return prompt
 
 
-def prepare_image(image_dir, biome, trajectory, frame):
+def prepare_image(image_dir, model_type, biome, trajectory, frame):
+    
     frame = join(image_dir, f"{biome}_{trajectory}_{frame}.jpg")
-    encoded_frame = encode_image(frame)
-    image_url = f"data:image/jpeg;base64,{encoded_frame}"
+    
+    if model_type in ("gpt", "gpt_socratic"):
+        encoded_frame = encode_image(frame)
+        image = f"data:image/jpeg;base64,{encoded_frame}"
+    else:
+        image = Image.open(frame).convert("RGB")
 
-    return image_url
+    return image
 
 
 def create_predictions_folder(run_id, model_type):

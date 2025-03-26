@@ -3,6 +3,7 @@ from openai import OpenAI
 from os.path import join
 import json
 import ast
+import time
 import numpy as np
 from pathlib import Path
 from tqdm import tqdm
@@ -55,7 +56,7 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
             entities_spawned = trajectory_info["entities_spawned"]
 
             prompt = format_prompt(prompt_raw, task, entities_spawned)
-            image_url = prepare_image(run_rgb_obs_dir, biome, trajectory, frame)
+            image_url = prepare_image(run_rgb_obs_dir, model_type, biome, trajectory, frame)
 
             parsed_output = None
             attempts = 0
@@ -93,8 +94,8 @@ if __name__ == '__main__':
     run_id = "20250303_231817"
     # TODO: Error handling for invalid model_type and task
     dataset = "custom"
-    frames_file = "test.txt"
-    model_type = "gpt_socratic"
+    frames_file = "test_frames.txt"
+    model_type = "gpt" # 'gpt', 'gpt_socratic', 'llava'
     tasks = ["absolute_distance", "relative_distance", "relative_direction"]
 
 

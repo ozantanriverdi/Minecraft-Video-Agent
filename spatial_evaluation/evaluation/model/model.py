@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 
 from .gpt_model import GPT_Model
 from .gpt_socratic import GPT_Socratic_Model
+from .llava_model import LLava_Model
 
 class Model:
     def __init__(self, model_type):
@@ -15,6 +16,8 @@ class Model:
             self.model = GPT_Model(self.api_key)
         elif self.model_type == "gpt_socratic":
             self.model = GPT_Socratic_Model(self.api_key)
+        elif self.model_type == "llava":
+            self.model = LLava_Model()
 
     def forward(self, prompt, image):
         # if self.model_type == "gpt":
