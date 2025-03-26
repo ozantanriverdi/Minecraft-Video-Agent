@@ -148,12 +148,8 @@ def format_prompt(prompt, task, entities):
 def prepare_image(image_dir, model_type, biome, trajectory, frame):
     
     frame = join(image_dir, f"{biome}_{trajectory}_{frame}.jpg")
-    
-    if model_type in ("gpt", "gpt_socratic"):
-        encoded_frame = encode_image(frame)
-        image = f"data:image/jpeg;base64,{encoded_frame}"
-    else:
-        image = Image.open(frame).convert("RGB")
+    encoded_frame = encode_image(frame)
+    image = f"data:image/jpeg;base64,{encoded_frame}"
 
     return image
 

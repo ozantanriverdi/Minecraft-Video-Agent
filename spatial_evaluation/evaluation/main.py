@@ -65,6 +65,7 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
 
                 output_raw = model.forward(prompt, image_url)
                 print(output_raw)
+                time.sleep(5)
                 parsed_output = parser.parse(output_raw)
                 print(parsed_output)
                 if parsed_output is None:
@@ -94,8 +95,8 @@ if __name__ == '__main__':
     run_id = "20250303_231817"
     # TODO: Error handling for invalid model_type and task
     dataset = "custom"
-    frames_file = "test_frames.txt"
-    model_type = "gpt" # 'gpt', 'gpt_socratic', 'llava'
+    frames_file = "test.txt"
+    model_type = "llava" # 'gpt', 'gpt_socratic', 'llava'
     tasks = ["absolute_distance", "relative_distance", "relative_direction"]
 
 

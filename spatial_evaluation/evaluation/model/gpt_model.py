@@ -1,4 +1,5 @@
 import openai
+import time
 from openai import OpenAI
 
 
@@ -34,7 +35,7 @@ class GPT_Model:
                     model=self.model_name,
                     messages=messages,
                     max_tokens=300) # Limit response length
-                
+                print(response)
                 # Return the generated output
                 return response.choices[0].message.content
             
@@ -58,6 +59,7 @@ class GPT_Model:
                 print(f"An unexpected error occurred: {e}")
             
             attempt += 1
+            time.sleep(5)
 
         print("Max retries reached. API call failed.")
         return None # Return None if all attempts fail

@@ -1,4 +1,5 @@
 import openai
+import time
 from openai import OpenAI
 from pathlib import Path
 from os.path import join
@@ -47,7 +48,7 @@ class GPT_Socratic_Model:
                     model=self.model_name,
                     messages=messages,
                     max_tokens=300) # Limit response length
-                
+                print(response)
                 # Return the generated output
                 return response.choices[0].message.content
             
@@ -71,6 +72,7 @@ class GPT_Socratic_Model:
                 print(f"An unexpected error occurred: {e}")
             
             attempt += 1
+            time.sleep(5)
 
         print("Max retries reached. Socratic Description API call failed.")
         return None # Return None if all attempts fail
@@ -92,7 +94,7 @@ class GPT_Socratic_Model:
         ]
 
         attempt = 0
-
+        time.sleep(5)
         while attempt < max_tries:
             try:
                 # Send the request to OpenAI API
@@ -100,7 +102,7 @@ class GPT_Socratic_Model:
                     model=self.model_name,
                     messages=messages,
                     max_tokens=300) # Limit response length
-                
+                print(response)
                 # Return the generated output
                 return response.choices[0].message.content
             
@@ -124,6 +126,7 @@ class GPT_Socratic_Model:
                 print(f"An unexpected error occurred: {e}")
             
             attempt += 1
+            time.sleep(5)
 
         print("Max retries reached. API call failed.")
         return None # Return None if all attempts fail

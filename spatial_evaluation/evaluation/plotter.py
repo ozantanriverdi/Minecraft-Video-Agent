@@ -1,7 +1,7 @@
 import json
 import numpy as np
 import matplotlib.pyplot as plt
-
+from pathlib import Path
 
 def plot_results(*exps):
     """
@@ -176,9 +176,137 @@ def plot_rel_direction(*exps):
     plt.show()
 
 
-if __name__ == "__main__":
-    plot_abs_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
-    plot_rel_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
-    plot_rel_direction("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+def plot_abs_distance_histogram(exp, num_bins=10):
+    # Load results.json
+    with open(f"predictions/{exp}/results.json", "r") as f:
+        result = json.load(f)
 
-    plot_results("20250303_231817_gpt", "20250303_231817_gpt_socratic")
+    # Extract all absolute distance errors from single_results
+    single_results = result["absolute_distance"]["single_results"]
+    errors = []
+
+    for biome, trajs in single_results.items():
+        for traj, frames in trajs.items():
+            for frame, error in frames.items():
+                errors.append(error)
+
+    if not errors:
+        print(f"No errors found for experiment: {exp}")
+        return
+
+    # Plot histogram
+    plt.figure(figsize=(8, 5))
+    plt.hist(errors, bins=num_bins, color="skyblue", edgecolor="black")
+    plt.xlabel("Absolute Distance Error")
+    plt.ylabel("Frequency")
+    plt.title(f"Error Distribution - {exp}")
+    plt.grid(axis="y", linestyle="--", alpha=0.6)
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_abs_distance_histogram_multi(*exp_names):
+    """
+    Plot normalized absolute distance error distributions for multiple experiments.
+
+    Parameters:
+    - exp_names: list of experiment folder names under 'predictions/'
+    - bins: custom list of bin edges (e.g., [0, 0.5, 1, 1.5, ..., 5])
+    """
+    plt.figure(figsize=(10, 6))
+    bins = [i * 0.5 for i in range(11)]
+    for exp_name in exp_names:
+        # Load results.json
+        with open(f"predictions/{exp_name}/results.json", "r") as f:
+            result = json.load(f)
+
+        # Extract error list
+        single_results = result["absolute_distance"]["single_results"]
+        errors = []
+        for biome in single_results:
+            for traj in single_results[biome]:
+                for frame in single_results[biome][traj]:
+                    errors.append(single_results[biome][traj][frame])
+
+        if not errors:
+            print(f"No errors found in {exp_name}, skipping...")
+            continue
+
+        # Plot normalized histogram
+        plt.hist(
+            errors,
+            bins=bins,
+            density=False,
+            alpha=0.6,
+            label=exp_name,
+            edgecolor="black",
+            histtype="stepfilled"
+        )
+
+    plt.xlabel("Absolute Distance Error")
+    plt.ylabel("Frequency")
+    plt.title("Normalized Error Distribution Across Experiments")
+    plt.grid(axis="y", linestyle="--", alpha=0.6)
+    plt.legend()
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_rel_distance_histogram_multi(*exp_names):
+    """
+    Plot normalized relative distance error distributions for multiple experiments.
+
+    Parameters:
+    - exp_names: list of experiment folder names under 'predictions/'
+    - bins: custom list of bin edges (e.g., [0, 0.5, 1, 1.5, ..., 5])
+    """
+    plt.figure(figsize=(10, 6))
+    bins = [i * 0.5 for i in range(11)]
+    for exp_name in exp_names:
+        # Load results.json
+        with open(f"predictions/{exp_name}/results.json", "r") as f:
+            result = json.load(f)
+
+        # Extract error list
+        single_results = result["relative_distance"]["single_results"]
+        errors = []
+        for biome in single_results:
+            for traj in single_results[biome]:
+                for frame in single_results[biome][traj]:
+                    errors.append(single_results[biome][traj][frame])
+
+        if not errors:
+            print(f"No errors found in {exp_name}, skipping...")
+            continue
+
+        # Plot normalized histogram
+        plt.hist(
+            errors,
+            bins=bins,
+            density=False,
+            alpha=0.6,
+            label=exp_name,
+            edgecolor="black",
+            histtype="stepfilled"
+        )
+
+    plt.xlabel("Relative Distance Error")
+    plt.ylabel("Frequency")
+    plt.title("Normalized Error Distribution Across Experiments")
+    plt.grid(axis="y", linestyle="--", alpha=0.6)
+    plt.legend()
+    plt.tight_layout()
+    plt.show()
+
+
+if __name__ == "__main__":
+    # plot_abs_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+    # plot_rel_distance("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+    # plot_rel_direction("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+
+    # plot_results("20250303_231817_gpt", "20250303_231817_gpt_socratic")
+
+    #plot_abs_distance_histogram("20250303_231817_gpt_v1")
+
+    plot_abs_distance_histogram_multi("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
+    plot_rel_distance_histogram_multi("20250303_231817_gpt_v1", "20250303_231817_gpt_socratic_v1")
