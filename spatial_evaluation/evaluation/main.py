@@ -37,14 +37,14 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
     for task in tasks:
 
         evaluator = Evaluator(task)
-        parser = LLM_Parser(task)
+        parser = LLM_Parser(task, model_type)
 
         with open(join("ground_truths", run_id, f"{task}.json"), "r") as f:
             ground_truths = json.load(f)
 
         prompt_raw = load_prompt(task, model_type)
         
-        
+        raw_outputs = {}
         predictions = {}
         max_retries = 5
 
@@ -65,6 +65,7 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
 
                 output_raw = model.forward(prompt, image_url)
                 print(output_raw)
+
                 time.sleep(5)
                 parsed_output = parser.parse(output_raw)
                 print(parsed_output)
@@ -80,9 +81,21 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
             
             predictions[biome][trajectory][frame] = parsed_output
 
+            if biome not in raw_outputs:
+                raw_outputs[biome] = {}
+            if trajectory not in raw_outputs[biome]:
+                raw_outputs[biome][trajectory] = {}
+
+            raw_outputs[biome][trajectory][frame] = output_raw
+
         
         with open(join(predictions_dir, f"{task}.json"), "w") as f:
             json.dump(predictions, f, indent=4)
+
+        with open(join(predictions_dir, f"{task}_outputs.json"), "w") as f:
+            json.dump(raw_outputs, f, indent=4)
+
+
         print(predictions)
         evaluation_result, single_results = evaluator.evaluate_predictions(filtered_frames, predictions, ground_truths)
         save_results(evaluation_result, single_results, predictions_dir, task)
@@ -96,7 +109,7 @@ if __name__ == '__main__':
     # TODO: Error handling for invalid model_type and task
     dataset = "custom"
     frames_file = "test.txt"
-    model_type = "llava" # 'gpt', 'gpt_socratic', 'llava'
+    model_type = "gpt" # 'gpt', 'gpt_socratic', 'llava'
     tasks = ["absolute_distance", "relative_distance", "relative_direction"]
 
 

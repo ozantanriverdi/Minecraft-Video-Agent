@@ -10,3 +10,5 @@ ground_truths/
 predictions/
 .vscode/
 .env
+spatial_evaluation/CVPR_scraper/chunks/
+spatial_evaluation/CVPR_scraper/gpt_filtered/

@@ -1,0 +1,752 @@
+STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding
+Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries
+STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds
+MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors
+SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation
+ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding Download PDF
+ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images
+Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction
+Multi-View Pose-Agnostic Change Localization with Zero Labels
+Flash3D: Super-scaling Point Transformers through Joint Hardware-Geometry Locality
+MOVIS: Enhancing Multi-Object Novel View Synthesis for Indoor Scenes
+RoadSocial: A Diverse Dataset and Benchmark for Road Event Understanding from Social Video Narratives
+CoMapGS: Covisiblility Map-based Gaussian Splatting for Sparse Novel View Synthesis
+Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking
+ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics
+DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation
+DAR: Scalable Autoregressive Monocular Depth Estimation
+Do Visual Imaginations Improve Vision-and-Language Navigation Agents?
+Symmetry Strikes Back: From Single-Image Symmetry Detection to 3D Generation
+CholecTrack20: A Multi-Perspective Tracking Dataset for Surgical Tools
+RelationField: Relate Anything in Radiance Fields
+Uni4D: Unifying Large Vision Models for 4D Modeling from a Single Video
+Descriptor-In-Pixel: Point-Feature Tracking For Pixel Processor Arrays
+MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities
+MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High Intensity Surgical Environments
+PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
+Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions
+Mitigating Ambiguities in 3D Classification with Gaussian Splatting
+SeeGround: See and Ground for Zero-shot Open-Vocabulary 3D Visual Grounding
+AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting
+Towards Generalizable Scene Change Detection
+OccMamba: Semantic Occupancy Prediction with State Space Models
+Rethinking Correspondence-based Category-Level Object Pose Estimation
+Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation
+GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation
+RestorGS: Depth-aware Gaussian Splatting for Efficient 3D Scene Restoration
+SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes
+Parametric Point Cloud Completion for Polygonal Surface Reconstruction
+Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective
+Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow
+Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model
+LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences
+SimVS: Simulating World Inconsistencies for Robust View Synthesis
+DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework
+MAGE : Single Image to Material-Aware 3D via the Multi-View G-Buffer Estimation Model
+Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding
+ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions
+Unlocking Generalization Power in LiDAR Point Cloud Registration
+Generative Gaussian Splatting for Unbounded 3D City Generation
+GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency
+LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes
+SACB-Net: Spatial-awareness Convolutions for Medical Image Registration
+Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis
+VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
+SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization
+Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration
+GSTAR: Gaussian Surface Tracking and Reconstruction
+Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders
+Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors
+Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction
+PillarHist: Height-aware Histogram for Quantization-friendly Pillar Feature Encoder
+Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model
+Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation
+LT3SD: Latent Trees for 3D Scene Diffusion
+Rethinking Temporal Fusion with A Unified Gradient Descent View for 3D Semantic Occupancy Prediction
+SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation
+Leveraging Temporal Cues for Semi-Supervised Multi-View 3D Object Detection
+M 3 3 -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation
+Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos
+Estimating Body and Hand Motion in an Ego‑sensed World
+Sparse Image Sets Restoration with Multi-View Diffusion Model
+Gaussian World Model for Streaming 3D Occupancy Prediction
+PhaseScene : Dynamic Scene Generation with Phase-Specific Action Modeling for Embodied AI
+SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning
+Monocular Depth Priors for Robust Structure-from-Motion
+ReWind: Understanding Long Videos with Instructed Learnable Memory
+MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking
+4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models
+PRaDA: Projective Radial Distortion Averaging
+GIFStream: 4D Gaussian-based Immersive Video with Feature Stream
+Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras
+OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities
+RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark
+MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation
+MODA: Motion-Drift Augmentation for Inertial Human Motion Analysis
+Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations
+DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation
+FloVD: Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis
+Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation
+DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving
+MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction
+Self-Supervised Cross-View Correspondence with Predictive Cycle Consistency
+InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception
+DV-Matcher: Deformation-based Non-rigid Point Cloud Matching Guided by Pre-trained Visual Features
+Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration
+ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
+EchoMatch: Partial-to-Partial Shape Matching via Correspondence Reflection
+CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections
+RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network
+EdgeDiff: Edge-aware Diffusion Network for Building Reconstruction from Point Clouds
+Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations
+Hierarchical Gaussian Mixture Model Splatting for Efficient and Part Controllable 3D Generation
+Decompositional Neural Scene Reconstruction with Generative Diffusion Prior
+SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance
+Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations
+MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection
+HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views
+AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration
+Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs
+VideoSPatS: Video Spatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing
+OmniStereo: Real-time Omnidireactional Depth Estimation with Multiview Fisheye Cameras
+Cross-View Completion Models are Zero-shot Correspondence Estimators
+SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting
+FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance
+MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation
+FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views
+Consistency-aware Self-Training for Iterative-based Stereo Matching
+FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting
+EAP-GS: Efficient Augmentation of Pointcloud for 3D Gaussian Splatting in Few-shot Scene Reconstruction
+BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence
+METASCENES: Towards Automated Replica Creation for Real-world 3D Scans
+Simulator HC: Regression-based Online Simulation of Starting Problem-Solution Pairs for Homotopy Continuation in Geometric Vision
+Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input
+Any6DPose: Model-free 6D Pose Estimation of Novel Objects
+BWFormer: Building Wireframe Reconstruction from airborne LiDAR point clouds with Transformer
+Keypoints Good for the Two-View Geometry Estimation Problem
+DynaMoDe-NeRF: Motion-aware Deblurring Neural Radiance Field for Dynamic Scenes
+Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?
+ActiveGAMER: Active GAussian Mapping through Efficient Rendering
+LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models
+SocialMOIF：Multi-Order Intention Fusion for Pedestrain Trajectory Prediction
+Parallel Sequence Modeling via Generalization Spatial Propagation Network
+Relation3D : Enhancing Relation Modeling for Point Cloud Instance Segmentation
+DIFIX3D+: Improving 3D Reconstructions with Single-Step Diffusion Models
+Reconstructing People, Places, and Cameras
+EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance
+DEFOM-Stereo: Depth Foundation Model Based Stereo Matching
+Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather
+Turbo3D: Ultra-fast Text-to-3D Generation
+InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation
+FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement
+Reference-Based 3D-Aware Image Editing with Triplanes
+PanDA: Towards Panoramic Depth Anything with Unlabeled Panoramas and M"obius Spatial Augmentation
+Evaluating generated 3D assets using multiview Large Language Models
+Learnable Infinite Taylor Gaussian for Dynamic View Rendering
+Unconstrained 3D gaze estimation with Gaze-Aware 3D Context Encoding
+MonSter: Marry Monodepth to Stereo Unleashes Power
+EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting
+Splatter-360: Generalizable 360 ∘ ∘  Gaussian Splatting for Wide-baseline Panoramic Images
+Scene Map-based Prompt Tuning for Navigation Instruction Generation
+Object-Shot Enhanced Grounding Network for Egocentric Video
+Unboxed: Geometrically and Temporally Consistent Video Outpainting
+DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution
+RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects
+Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation
+DeepLA-Net: Very Deep Local Aggregation Networks for Point Cloud Analysis
+RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images
+3D-SLNR: A Super Lightweight Neural Representation for Large-scale 3D Mapping
+DynRefer: Delving into Region-level Multimodal Tasks via Dynamic Resolution
+PICO: Reconstructing 3D People In Contact with Objects
+SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts
+Robust 3D Shape Reconstruction in Zero-Shot from a Single Image in the Wild
+MET3R: Measuring Multi-View Consistency in Generated Images
+GLane3D : Detecting Lanes with Graph of 3D Keypoints
+DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction
+Pippo: High-Resolution Multi-View Humans from a Single Image
+COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting
+Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding
+Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation
+Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model
+From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting
+Bridging Viewpoint Gaps: Geometric Reasoning Boosts Semantic Correspondence
+SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations
+Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision
+HybridMQA: Exploring Geometry-Texture Interactions for Colored Mesh Quality Assessment
+Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos
+CTRL-O: Language-Controllable Object-Centric Visual Representation Learning
+HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation
+BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment
+CRISP: Object Pose and Shape Estimation with Test-Time Adaptation
+Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces
+On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events
+Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting
+STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding
+WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild
+UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References
+QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge
+AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers
+EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling
+HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset
+DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion
+Exploring Scene Affinity for Semi-Supervised LiDAR Semantic Segmentation
+OD3R: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos
+Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding
+Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis
+Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model
+ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction
+Seeing Speech and Sound: Distinguishing and Locating Audio Sources in Visual Scenes
+Masked Scene Modeling: Supervised-Level Performance with Self-Supervised Learning in 3D Scene Understanding
+One2Any: One-Reference 6D Pose Estimation for Any Object
+UniK3D: Universal Camera Monocular 3D Estimation
+RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds
+Toward Robust Neural Reconstruction from Sparse Point Sets
+Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking
+A Compound 3D-Informed Design toward Spatially-Intelligent Large Multimodal Models
+MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations
+Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation
+Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs
+Hierarchy-Aware Evaluation of Free-Form Predictions From Vision-And-Language Models
+RSVOS-SAM: High-Quality Interactive Segmentation for Remote Sensing Video Object
+Multi-Modal Contrastive Masked Autoencoders: A Two-Stage Progressive Pre-training Approach for RGBD Datasets
+EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation
+Low-Rank Adaptation with Token Selection for Point Cloud Learning
+ImViD: Immersive Volumetric Videos for Enhanced VR Engagement
+ROD-MLLM: Towards More Reliable Object Detection in Multimodal Large Language Models
+Global-Local Tree Search in VLMs for 3D Indoor Scene Generation
+FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering
+Leveraging 3D Geometric Priors in 2D Rotation Symmetry Detection
+Scenario Dreamer: Vectorized Generative Simulation Environments for Autonomous Driving
+Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation
+Pose Priors from Language Models
+Camera resection from known line pencils and a radially distorted scanline
+Improved monocular depth prediction using distance transform over pre-semantic contours with self-supervised neural networks
+SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity
+ESCAPE: Equivariant Shape Completion via Anchor Point Encoding
+SphereUFormer: A U-Shaped Transformer for Spherical 360 Perception
+Cross-Modal Space-Time Correspondence as a Contrastive Random Walk
+OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints
+AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis
+Leveraging Global Stereo Consistency for Category-Level Shape and 6D Pose Estimation from Stereo Images
+BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation
+POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality
+Zero-shot RGB-D Point Cloud Registration with Pre-trained Large Vision Model
+MVSAnywhere: Zero Shot Multi-View Stereo
+Factored-NeuS: Reconstructing Surfaces, Illumination, and Materials of Possibly Glossy Objects
+Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression
+PointSR: Self-regularized Point Supervision for Drone-view Object Detection
+ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models
+Feature-Preserving Mesh Decimation for Normal Integration
+Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback
+Point Cloud Upsampling Using Conditional Diffusion Module with Adaptive Noise Suppression
+Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration
+From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing
+OffsetOPT: Explicit Surface Reconstruction without Normals
+Revisiting MAE pre-training for 3D medical image segmentation
+LOD-GS: Achieving Level of Details using Scalable Gaussian Soup
+3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation
+Realistic Test-Time Adaptation of Vision-Language Models
+EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild
+Novel View Synthesis with Pixel-Space Diffusion Models
+DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery
+SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion
+Volumetric Surfaces: Representing Fuzzy Geometries with Layered Meshes
+Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization
+FreeTimeGS: Free Gaussians at Anytime Anywhere for Dynamic Scene Reconstruction
+Dense Match Summarization for Faster Two-view Estimation
+SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos
+Focusing on Tracks for Online Multi-Object Tracking
+ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration
+Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better
+HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos
+ReDiffDet: Rotation-equivariant Diffusion Model for Oriented Object Detection
+Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion
+SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
+PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds
+All-directional Disparity Estimation for Real-world QPD Images
+VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation
+SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving
+XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?
+Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding
+Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding
+SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks
+AniGrad: Anisotropic Gradient-Adaptive Resolution for 3D Reconstruction From Monocular Video
+SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation
+WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments
+Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
+SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning
+PAVE: Patching and Adapting Video Large Language Models
+ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration
+RoboGround: Robot Manipulation with Grounded Vision-Language Priors
+SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language
+GenManip: A Simulation Platform for Generalizable TableTop Manipulation in the Era of MLLM
+Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene
+Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation
+HSI-GPT: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction
+Practical solutions to the relative pose of three calibrated cameras
+ViiNeuS: Volumetric Initialization for Implicit Neural Surface reconstruction of urban scenes with limited image overlap
+MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data
+Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation
+Adapting Dense Matching for Homography Estimation with Grid-based Acceleration
+R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
+FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video
+CoMatcher: Multi-View Collaborative Feature Matching
+Occlusion-aware Text-Image-Point Cloud Pretraining for Open-World 3D Object Recognition
+Learning Affine Correspondences by Integrating Geometric Constraints
+DepthCues: Evaluating Monocular Depth Perception in Large Vision Models
+Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving
+Volumetrically Consistent 3D Gaussian Rasterization
+Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
+MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image
+Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework
+GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving
+Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning
+All-Day Multi-Camera Muti-Target Tracking
+The Devil is in Temporal Token: High Quality Video Reasoning Segmentation
+V2V3D: View-to-View Denoised 3D Reconstruction for Light Field Microscopy
+MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation
+CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering
+CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
+GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding
+Structure from Collision
+Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs or Effective Long Video Analysis with LLMs
+ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding
+High-Fidelity Lightweight Mesh Reconstruction from Point Clouds
+Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views
+SemiETS: Integrating Spatial and Content Consistencies for Semi-Supervised End-to-end Text Spotting
+SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
+GeoMM: On Geodesic Perspective for Multi-modal Learning
+IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera
+STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks
+Efficient stereo depth estimation model for wearable augmented reality devices
+Scene-Centric Unsupervised Panoptic Segmentation
+FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering
+GS-2DGS: Geometrically supervised 2DGS for reflective object reconstruction
+DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation
+DIO: Decomposable Implicit 4D Occupancy-Flow World Model
+Unified Reconstruction of Static and Dynamic Scenes from Events
+SpecTRe-GS: Modeling Highly Specular Surfaces with Reflected Nearby Objects by Tracing Rays in 3D Gaussian Splatting
+EigenGS Representation: From Eigenspace to Gaussian Image Space
+EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering
+Geometry-guided Online 3D Video Synthesis with Multi-View Temporal Consistency
+Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild
+MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
+DiSRT-In-Bed: Diffusion-Based Sim-to-Real Transfer Framework for In-Bed Human Mesh Recovery
+Potential Field based Metric Learning
+Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes
+High-quality Point Cloud Oriented Normal Estimation via Hybrid Angular and Euclidean Distance Encoding
+DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension
+MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction
+HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation
+Seurat: From Moving Points to Depth
+SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis
+An Image-like Diffusion Method for Human-Object Interaction Detection
+CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation
+CroCoDL: Cross-device Collaborative Dataset for Localization
+ShapeWords: Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts
+Relative Pose Estimation through Affine Corrections of Monocular Depth Priors
+Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation
+Spectral Informed Mamba for Robust Point Cloud Processing
+PCDreamer: Point Cloud Completion Through Multi-view Diffusion Priors
+CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework
+D^3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation
+Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos
+Insightful Instance Features for 3D Instance Segmentation
+Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail
+Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting
+MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection
+Prior-free 3D Object Tracking
+Ges3ViG : Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding
+Embodied Scene Understanding for Vision Language Models via MetaVQA
+Vision-Guided Action: Enhancing 3D Human Motion Prediction with Gaze-informed Affordance in 3D Scenes
+Learning Class Prototype for Unified Sparse Supervised 3D Object Detection
+GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting
+EquiPose: Exploiting Equivariance for Relative Camera Pose Estimation
+RigGS: Rigging of 3D Gaussians for Modeling Articulated Objects in Videos
+MITracker: Multi-View Integration for Visual Object Tracking
+3D Dental Model Segmentation with Geometrical Boundary Preserving
+MINIMA: Modality Invariant Image Matching
+UniPose: A Unified MultiModal Framework for Human Pose Comprehension, Generation and Editing
+A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening
+Vision-Language Embodiment for Monocular Depth Estimation
+DefMamba: Deformable Visual State Space Model
+Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution
+ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior based Orientation Prediction for Detecting Aerial Image Objects
+SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation
+Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion
+Object-aware Sound Source Localization via Audio-Visual Scene Understanding
+Learning Temporally Consistent Video Depth from Video Diffusion Priors
+Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level
+Towards In-the-wild 3D Plane Reconstruction from a Single Image
+Exploiting Temporal State Space Sharing for Video Semantic Segmentation
+Spiking Transformer with Spatial-Temporal Attention
+PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers
+PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter
+Adapting Pre-trained 3D Models for Point Cloud Video Understanding via Cross-frame Spatio-temporal Perception
+Co-op: Correspondence-based Novel Object Pose Estimation
+Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation
+GRAE-3DMOT: Geometry Relation-Aware Encoder for Online 3D Multi-Object Tracking
+SOAP: Vision-Centric 3D Semantic Scene Completion with Scene-Adaptive Decoder and Occluded Region-Aware View Projection
+RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete
+Generative Hard Example Augmentation for Semantic Point Cloud Segmentation
+Certified Human Trajectory Prediction
+A Lightweight UDF Learning Framework for 3D Reconstruction Based on Local Shape Functions
+PI-HMR: Towards Robust In-bed Temporal Human Shape Reconstruction with Contact Pressure Sensing
+Improve Representation for Imbalanced Regression through Geometric Constraints
+MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing
+Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation
+Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation
+Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
+NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction
+HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation
+Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach
+HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos
+Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation
+SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
+Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation
+Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning
+Percept, Memory, and Imagine: World Feature Simulating for Open-Domain Unknown Object Detection
+Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation
+EvOcc: Accurate Semantic Occupancy for Automated Driving Using Evidence Theory
+MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving
+FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts
+Pos3R: 6D Pose Estimation for Unseen Objects Made Easy
+One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency
+MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models
+Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion
+Robotic Visual Instruction
+G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
+SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers
+Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics
+MoST: Efficient Monarch Sparse Tuning for 3D Representation Learning
+SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds
+PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation
+Neuro-3D: Towards 3D Visual Decoding from EEG Signals
+CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-Scale Reinforcement Learning in Autonomous Driving
+Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation
+Semantic and Sequential Alignment for Referring Video Object Segmentation
+STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction
+Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World
+Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions
+Leveraging SD Map to Augment HD Map-based Trajectory Prediction
+Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References
+Learning to Filter Outlier Edges in Global SfM
+Notes-guided MLLM Reasoning: Enhancing MLLM with Knowledge and Visual Notes for Visual Question Answering
+Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation
+Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space
+DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image
+GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors
+Augmented Deep Contexts for Spatially Embedded Video Coding
+Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video
+3D-MVP: 3D Multiview Pretraining for Robotic Manipulation
+OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts
+SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments
+DiffVsgg: Diffusion-based Online Video Scene Graph Generation
+Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video
+EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera
+D 3 D 3 -Human: Dynamic Disentangled Digital Human from Monocular Video
+4D-Fly: Fast 4D Reconstruction from a Single Monocular Video
+Floating No More: Object-Ground Reconstruction from a Single Image
+InteractionMap: Improving Online Vectorized HDMap Construction with Interaction
+Task-aware Cross-modal Feature Refinement Transformer with Large Language Models for Visual Grounding
+DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes
+Zero-Shot Monocular Scene Flow Estimation in the Wild
+CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model
+AirRoom: Objects Matter in Room Reidentification
+Wonderland: Navigating 3D Scenes from a Single Image
+ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning
+ZeroVO: Visual Odometry with Minimal Assumptions
+CrossOver: 3D Scene Cross-Modal Alignment
+MAD: Memory-Augmented Detection of 3D Objects
+Spatial-Temporal Visual Representation for Self-Supervised Motion Planning
+RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics
+Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation
+3D Gaussian Inpainting with Depth-Guided Cross-View Consistency
+HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics
+SfM-Free 3D Gaussian Splatting via Hierarchical Training
+UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation
+Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features
+PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Mutimodal Models
+GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks
+Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera
+Navigation World Models
+Visual Agentic AI for Spatial Reasoning with a Dynamic API
+CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design
+OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
+CorrBEV:Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes
+UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
+DRAWER: Digital Reconstruction and Articulation With Environment Realism
+Structure-Aware Correspondence Learning for Relative Pose Estimation
+Enhanced then Progressive Fusion with View Graph for Multi-View Clustering
+V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection
+LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding
+Multi-label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation
+GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis
+Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence
+Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning
+Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
+Video Language Model Pretraining with Spatio-temporal Masking
+RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges
+ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points
+Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding
+Scene-agnostic Pose Regression for Visual Localization
+VideoChat-Online: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models
+Buffer Anytime: Zero-Shot Video Depth and Normal from Single-View Priors
+Beyond Human Perception: Understanding Multi-Object World from Monocular View
+GeoDepth: From Point-to-Depth to Plane-to-Depth Modeling for Self-Supervised Monocular Depth Estimation
+MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos
+Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor
+RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion
+R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization
+Dense-SfM: Structure from Motion with Dense Consistent Matching
+Higher-Order Ratio Cycles for Fast and Globally Optimal Shape Matching
+MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds
+Ref-GS: Modeling View-Dependent Appearance with Environment Gaussian
+Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces
+Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers
+CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image
+Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation
+InterMimic: Towards Learning Universal Human-Object Interaction Skills from Imperfect Motion Capture
+VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM
+AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos
+ECBench: Can Multi-modal Foundation Models Understand the Egocentric World?  A Holistic Embodied Cognition Benchmark
+SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters
+Universal Scene Graph Generation
+Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis
+HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration
+Roger: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
+MVBoost: Boost 3D Reconstruction with Multi-View Refinement
+StereoAnything: Zero-Shot Stereo Matching
+GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control
+ProtoDepth: Unsupervised Continual Depth Completion with Prototypes
+GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes
+GEM: A Generalizable Ego-vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control
+PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models
+MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders
+FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes
+Progressive Correspondence Regenerator for Robust 3D Registration
+HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation
+Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation
+Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels
+VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation
+CamPoint: Boosting Point Cloud Segmentation with Virtual Camera
+UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
+MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
+3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer
+Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning
+Vid2Sim: Generalizable, Video-based Reconstruction of Appearance, Geometry and Physics for Mesh-free Simulation
+Interactive Affordance Learning for Articulated Objects in 3D Environments
+MOS: Modeling Object-Scene Associations in Generalized Category Discovery
+IndoorGS: Geometric Cues Guided Gaussian Splatting for Indoor Scene Reconstruction
+MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data
+Geometry Field Splatting with Gaussian Surfels
+g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks
+HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation
+TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization
+CG-IR: Curved Gaussian Splatting for Inverse Rendering
+Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning
+VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging
+CoSER: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation
+T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving
+Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning
+Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes
+Gaussian Splatting Feature Fields for (Privacy-Preserving) Visual Localization
+LightLoc: Learning Outdoor LiDAR Localization at Light Speed
+Extreme Rotation Estimation in the Wild
+Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression
+DiSciPLE: Learning Interpretable Programs for Scientific Visual Discovery
+BOOTPLACE: Bootstrapped Object Placement with Detection Transformers
+Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
+MUSt3R : Multi-view Network for Stereo 3D Reconstruction
+Thinking in Space: How Multimodal Large Language Models See, Remember and Recall Spaces
+UniScene: Unified Occupancy-centric Driving Scene Generation
+uCO3D: UnCommon Objects in 3D
+PyTorchGeoNodes: Enabling Differentiable Shape Programs for 3D Shape Reconstruction
+LiSu: A Dataset and Method for LiDAR Surface Normal Estimation
+MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments
+Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis
+DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering
+Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method
+DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving
+Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds
+Sonata: Self-Supervised Learning of Reliable Point Representations
+Omnidirectional Multi-Object Tracking
+Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens
+LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
+Cross-Modal 3D Representation with Multi-View Images and Point Clouds
+WonderWorld: Interactive 3D Scene Generation from a Single Image
+Reconstructing Humans with a Biomechanically Accurate Skeleton
+ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
+Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion
+ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping
+Hand-held Object Reconstruction from RGB Video with Dynamic Interaction
+FG 2 2 : Fine-Grained Cross-View Localization by Fine-Grained Feature Matching
+IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement
+Zero-Shot 4D Lidar Panoptic Segmentation
+Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing
+Distilling Monocular Foundation Model for Fine-grained Depth Completion
+HeatFormer: A Neural Optimizer for Multiview Human Mesh Recovery
+World-consistent Video Diffusion with Explicit 3D Modeling
+GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction
+Panorama Generation From NFoV Image Done Right
+SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE
+Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration
+NGV: Neural Gaussian Velocity for 3D Physics Modeling from Dynamic Videos
+Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields
+Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors
+Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects
+Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification
+Functionality understanding and segmentation in 3D scenes
+GraphI2P: Image-to-Point Cloud Registration with Exploring Pattern of Correspondence via Graph Learning
+SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning
+Perceptive 3D language assistant
+FASTer: Focal token Acquiring-and-Scaling Transformer for Long-term 3D Objection Detection.
+SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
+MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM
+RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation
+Empowering Large Language Models with 3D Situation Awareness
+Multi-view Reconstruction via SfM-guided Monocular Depth Estimation
+Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation
+DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation
+MVPaint: 3D Texture Generation with Multi-View Consistency
+TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion
+ScaleLSD: Scalable Deep Line Segment Detection Streamlined
+ARM: Appearance Reconstruction Model for Relightable 3D Generation
+Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks
+M3GYM: A Large-Scale Multimodal Multi-view Multi-person Pose Dataset for Fitness Activity Understanding in Real-world Settings
+CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement
+PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes
+Implicit Correspondence Learning for Image-to-Point Cloud Registration
+Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment
+Seeing is Not Believing: Adversarial Natural Object Optimization for Hard-Label 3D Scene Attacks
+ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding
+PromptHMR: Promptable Human Mesh Recovery
+UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting
+CH 3 3 Depth: Efficient and Flexible Depth Foundation Model with Flow Matching
+Compass Control: Multi-Object Orientation Control for Text-to-Image Generation
+Distilling Multi-modal Large Language Models for Autonomous Driving
+InteractVLM: 3D Interaction Reasoning from 2D Foundational Models
+Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene
+SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement
+SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images
+Towards Autonomous Micromobility through Scalable Urban Simulation
+Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation
+Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera
+BADGR: Bundle Adjustment Diffusion Conditioned by Gradients for Wide-Baseline Floor Plan Reconstruction
+MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models
+VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction
+Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion
+Generative Map Priors for Collaborative BEV Semantic Segmentation
+VGGN: Visual Geometry Grounded Network
+4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians
+DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Video
+Guiding Human-Object Interactions with Rich Geometry and Relations
+SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow
+AffordDP: Generalizable Diffusion Policy with Transferable Affordance
+Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting
+From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons
+Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models
+CaMuViD: Calibration-Free Multi-View Detection
+DynPose: Largely Improving the Efficiency of Human Pose Estimation by a Simple Dynamic Framework
+How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions
+TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation
+Synthetic Visual Genome
+FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding
+RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings
+Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning
+GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding
+FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation
+Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues
+GOAL: Global-local Object Alignment Learning
+Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding
+BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis
+PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos
+Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features
+PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection
+Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting
+EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching
+SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model
+STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training
+ASHiTA: Automatic Scene-grounded HIerarchical Task Analysis
+SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving
+Crafting a Miniature Interactive World from a Single Image
+GLASS: Guided Latent Slot Diffusion for Object-Centric Learning
+Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation
+MambaVO: Deep Visual Odometry by Sequential Matching Refinement and Training Smoothing
+PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction
+Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting
+GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector
+Structure-from-Motion with a Non-Parametric Camera Model
+VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow
+ONDA-Pose: Occlusion-Aware Neural Domain Adaptation for Self-Supervised 6D Object Pose Estimation
+iG-6DoF: Model-free 6DoF Pose Estimation for Unseen Object via Iterative 3D Gaussian Splatting
+Evaluating Vision-Language Models as Evaluators in Path Planning
+Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding
+ProbeSDF: Light Field Probes For Neural Surface Reconstruction
+RobSense: A Robust Multi-modal Foundation Model for Remote Sensing with Static, Temporal, and Incomplete Data Adaptability
+CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation
+DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Post-Capture Refocusing, Defocus Rendering and Blur Removal
+MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation
+FSHNet: Fully Sparse Hybrid Network for 3D Object Detection
+CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models
+PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding
+Distilling Spatially-Heterogeneous Distortion Perception for Blind Image Quality Assessment
+Light3R-SfM: Towards Feed-forward Structure-from-motion
+3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination
+Shading Meets Motion: Self-supervised Indoor 3D Reconstruction Via Simultaneous Shape-from-Shading and Structure-from-Motion
+AnyMap: Learning a General Camera Model for Structure-from-Motion with Unknown Distortion in Dynamic Scenes
+TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression
+Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment
+Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties
+CARL: A Framework for Equivariant Image Registration
+CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos
+Focal Split: Untethered Snapshot Depth from Differential Defocus
+RELOCATE: A Simple Training-Free Baseline for Visual Query Localization Using Region-Based Representations
+SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Redefinition and Split Optimization
+Event-based Tracking of Any Point with Motion-Robust Correlation Features
+Generalizable Object Keypoint Localization from Generative Priors
+Active Event-based Stereo Vision
+GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection
+ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting
+Optimus-2: Mulitimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
+TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception
+GeoAvatar: Geometrically-Consistent Multi-Person Avatar Reconstruction from Sparse Multi-View Videos
+Dual Exposure Stereo for Extended Dynamic Range 3D Imaging
+DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction
+Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection
+A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning
+Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels
+HORP: Human-Object Relation Priors Guided HOI Detection
+Video Depth Anything: Consistent Depth Estimation for Super-Long Videos
+Continuous 3D Perception Model with Persistent State
+Satellite to GroundScape - Large-scale Consistent Ground View Generation from Satellite Views
+ViKIENet: Towards Efficient 3D Object Detection with Virtual Key Instance Enhanced Network
+DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-based Refinement
+PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation
+Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels
+Rethinking Lanes and Points in Complex Scenarios for Monocular 3D Lane Detection
+Cubify Anything: Scaling Indoor 3D Object Detection
+SKE-Layout: Spatial Knowledge Enhanced Layout Generation with LLMs
+Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models
+OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counter Factual Reasoning
+3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation
+UNOPose: Unseen Object Pose Estimation with an Unposed RGB-D Reference Image
+Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception
+Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails
+Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method
+LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds
+DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-based Refinement
+PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation
+Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels
+Rethinking Lanes and Points in Complex Scenarios for Monocular 3D Lane Detection
+Cubify Anything: Scaling Indoor 3D Object Detection
+SKE-Layout: Spatial Knowledge Enhanced Layout Generation with LLMs
+LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds
+3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation
+ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting
+ESC: Erasing Space Concept for Knowledge Deletion
+Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method
+Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models

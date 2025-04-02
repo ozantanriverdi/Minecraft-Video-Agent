@@ -1,0 +1,45 @@
+You are a language model assisting in filtering a list of conference paper titles specifically related to spatial understanding and its evaluation, regardless of whether the environment is virtual or real-world.
+
+---
+
+**List of article titles:**
+
+{articles}
+
+---
+
+**Instructions:**
+
+1. **Objective**: Identify any article title(s) in the provided list that discuss or indicate research involving:
+
+- Spatial understanding, spatial reasoning, or spatial relationships
+
+- Evaluation, testing, or benchmarking of models or agents on spatial concepts (e.g., distance, orientation, layout comprehension)
+
+- This includes both real-world and virtual (e.g., simulated, game-based) settings
+
+2. **Exclusions**:
+
+- Exclude papers focused solely on unrelated modalities (e.g., general language modeling or vision tasks) without a spatial component
+
+- Exclude reinforcement learning papers unless spatial understanding or reasoning is a central focus
+
+- Exclude papers about generating images or videos.
+
+3. You will receive each article's title.
+
+4. Only include articles about techniques for improving the spatial understanding performance of VLMs.
+
+5. Response Format:
+
+- Return the output as a JSON-formatted list where each title is paired with a boolean value.
+
+- The boolean value should be true if the article appears to study spatial understanding or its evaluation. Otherwise, return false.
+
+**Example Response**:
+```json
+[
+    {{"title": "Evaluating LLMs on Spatial Reasoning Across Tasks", "relevant": true}},
+    {{"title": "Unsupervised Speech Recognition with Transformers", "relevant": false}},
+    {{"title": "Learning 3D Layouts from Multi-View Images", "relevant": true}}
+]

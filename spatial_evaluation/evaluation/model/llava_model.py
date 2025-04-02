@@ -37,7 +37,7 @@ class LLava_Model:
                 generate_ids = self.model.generate(**inputs, max_new_tokens=self.max_tokens)
                 response = self.processor.batch_decode(generate_ids, skip_special_tokens=True)
 
-                return response
+                return response[0]
             
             except Exception as e:
                 print(f"LLaVA inference failed (attempt {attempt + 1}): {e}")
