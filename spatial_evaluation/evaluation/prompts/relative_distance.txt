@@ -1,6 +1,10 @@
 - Analyze the provided image and estimate the distance between the {entity_1} and the {entity_2}.
 - Use your real world knowledge about average sizes of animals to make the prediction.
-- You can think of the distance in meters.
+- Express the distance in terms of the number of Minecraft blocks.
+- For reference:
+    - An adult sheep occupies approximately 1.3 blocks in height and 0.9 blocks in width.
+    - An adult cow is approximately 1.4 blocks tall and 0.9 blocks wide.
+    - An adult pig is approximately 0.9 blocks in both height and width.
 - Always return your response in JSON format.
 - <calculated_distance> has to be a number.
 - Don't add additional comments into the json.

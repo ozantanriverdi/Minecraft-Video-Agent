@@ -63,7 +63,7 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
 
             while parsed_output is None and attempts < max_retries:
 
-                output_raw = model.forward(prompt, image_url)
+                output_raw, socratic_description = model.forward(prompt, image_url)
                 print(output_raw)
 
                 time.sleep(5)
@@ -85,8 +85,13 @@ def main(run_id, model_type, tasks, dataset, groundTruthExtractor, model, frames
                 raw_outputs[biome] = {}
             if trajectory not in raw_outputs[biome]:
                 raw_outputs[biome][trajectory] = {}
+            if frame not in raw_outputs[biome][trajectory]:
+                raw_outputs[biome][trajectory][frame] = {}
 
-            raw_outputs[biome][trajectory][frame] = output_raw
+            if socratic_description is not None:
+                raw_outputs[biome][trajectory][frame]["socratic_desc"] = socratic_description
+
+            raw_outputs[biome][trajectory][frame]["raw_output"] = output_raw
 
         
         with open(join(predictions_dir, f"{task}.json"), "w") as f:
@@ -108,8 +113,8 @@ if __name__ == '__main__':
     run_id = "20250303_231817"
     # TODO: Error handling for invalid model_type and task
     dataset = "custom"
-    frames_file = "test.txt"
-    model_type = "gpt" # 'gpt', 'gpt_socratic', 'llava'
+    frames_file = "test_frames.txt"
+    model_type = "gpt_socratic" # 'gpt', 'gpt_socratic', 'llava', 'qwen'
     tasks = ["absolute_distance", "relative_distance", "relative_direction"]
 
 

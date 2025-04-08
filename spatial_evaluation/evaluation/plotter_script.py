@@ -304,14 +304,11 @@ if __name__ == "__main__":
     # Old Plotter
     # plot_results("20250303_231817_gpt", "20250303_231817_gpt_socratic")
     
-    
-    plot_abs_distance("20250303_231817_gpt_v8", "20250303_231817_gpt_socratic_v2", "20250303_231817_llava")
-    plot_rel_distance("20250303_231817_gpt_v8", "20250303_231817_gpt_socratic_v2", "20250303_231817_llava")
-    plot_rel_direction("20250303_231817_gpt_v8", "20250303_231817_gpt_socratic_v2", "20250303_231817_llava")
+    # 20250303_231817_gpt_v8, 20250303_231817_gpt_socratic_v2, 20250303_231817_gpt_v13, 20250303_231817_gpt_socratic_v4
 
+    plot_abs_distance("20250303_231817_gpt_socratic_v2", "20250303_231817_gpt_socratic_v4")
+    plot_rel_distance("20250303_231817_gpt_socratic_v2", "20250303_231817_gpt_socratic_v4")
+    plot_rel_direction("20250303_231817_gpt_socratic_v2", "20250303_231817_gpt_socratic_v4")
 
-
-    #plot_abs_distance_histogram("20250303_231817_gpt_v8")
-
-    plot_abs_distance_histogram_multi("20250303_231817_gpt_v8", "20250303_231817_gpt_socratic_v2", "20250303_231817_llava")
-    plot_rel_distance_histogram_multi("20250303_231817_gpt_v8", "20250303_231817_gpt_socratic_v2", "20250303_231817_llava")
+    plot_abs_distance_histogram_multi("20250303_231817_gpt_socratic_v2", "20250303_231817_gpt_socratic_v4")
+    plot_rel_distance_histogram_multi("20250303_231817_gpt_socratic_v2", "20250303_231817_gpt_socratic_v4")

@@ -35,7 +35,8 @@ class GPT_Model:
                     model=self.model_name,
                     messages=messages,
                     max_tokens=300) # Limit response length
-                print(response)
+                # print response to view token usage
+                # print(response)
                 # Return the generated output
                 return response.choices[0].message.content
             

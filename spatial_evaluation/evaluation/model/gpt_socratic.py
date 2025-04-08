@@ -47,8 +47,9 @@ class GPT_Socratic_Model:
                 response = self.client.chat.completions.create(
                     model=self.model_name,
                     messages=messages,
-                    max_tokens=300) # Limit response length
-                print(response)
+                    max_tokens=1000) # Limit response length
+                # print response to view token usage
+                # print(response)
                 # Return the generated output
                 return response.choices[0].message.content
             
@@ -102,9 +103,10 @@ class GPT_Socratic_Model:
                     model=self.model_name,
                     messages=messages,
                     max_tokens=300) # Limit response length
-                print(response)
+                # print response to view token usage
+                # print(response)
                 # Return the generated output
-                return response.choices[0].message.content
+                return response.choices[0].message.content, socratic_description
             
             # Handle different API-related errors
             except openai.InternalServerError:
@@ -129,5 +131,5 @@ class GPT_Socratic_Model:
             time.sleep(5)
 
         print("Max retries reached. API call failed.")
-        return None # Return None if all attempts fail
+        return None, socratic_description # Return None if all attempts fail
 
