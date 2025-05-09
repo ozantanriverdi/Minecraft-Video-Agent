@@ -67,7 +67,7 @@ if __name__ == '__main__':
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             _, _, _, _ = env.step([0,0,0,12,12,0,0,0])
             
-            entities = sample_entities(biome)
+            entities = sample_entities(biome, 2)
             entities_spawn_locations = entity_random_location_simple()
             env.spawn_mobs(entities, entities_spawn_locations)
 

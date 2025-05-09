@@ -8,6 +8,7 @@ import random
 from pathlib import Path
 import numpy as np
 from os.path import join
+from scipy.stats import mode
 from env_data import *
 import math
 
@@ -32,25 +33,57 @@ import math
 
 #     return run_rgb_obs_dir, run_info_dir, run_obs_dir
 
-def create_folders():
-    # Get the parent directory (spatial_evaluation)
-    base_dir = Path(__file__).parent.parent  # Moves up one level from "sampler"
-    
-    # Define the directory where samples should be stored
+def create_folders(sample_set: str, entity_count: int) -> dict:
+    """
+    Create (or reuse) a directory tree
+
+    samples/
+    └── <sample_set>/
+        └── trajectories_with_<entity_count>_entities/
+            ├── normal_trajectories/
+            │   ├── rgb_frames/
+            │   ├── obs/
+            │   └── info/
+            └── occluded_trajectories/
+                ├── rgb_frames/
+                ├── obs/
+                └── info/
+
+    Returns a nested dict holding the three leaf-paths for both splits so the
+    caller can save files without hard-coding paths again.
+    """
+
+    # Resolve base directory (.../spatial_evaluation/samples)
+    base_dir    = Path(__file__).parent.parent
     samples_dir = base_dir / "samples"
-    
-    # Create a timestamped subdirectory
-    run_start_time = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-    run_rgb_obs_dir = samples_dir / "rgb_frames" / run_start_time
-    run_info_dir = samples_dir / "info" / run_start_time
-    run_obs_dir = samples_dir / "obs" / run_start_time
 
-    # Create directories recursively
-    run_rgb_obs_dir.mkdir(parents=True, exist_ok=True)
-    run_info_dir.mkdir(parents=True, exist_ok=True)
-    run_obs_dir.mkdir(parents=True, exist_ok=True)
+    # Build the sub-tree root for this difficulty level
+    traj_root = (
+        samples_dir
+        / sample_set
+        / f"trajectories_with_{entity_count}_entities"
+    )
 
-    return run_rgb_obs_dir, run_info_dir, run_obs_dir
+    # Enumerate the six leaves
+    leafs = {
+        "normal": {
+            "rgb":  traj_root / "normal_trajectories"    / "rgb_frames",
+            "obs":  traj_root / "normal_trajectories"    / "obs",
+            "info": traj_root / "normal_trajectories"    / "info"
+        },
+        "occluded": {
+            "rgb":  traj_root / "occluded_trajectories"  / "rgb_frames",
+            "obs":  traj_root / "occluded_trajectories"  / "obs",
+            "info": traj_root / "occluded_trajectories"  / "info"
+        }
+    }
+
+    # Create them on disk (idempotent)
+    for split in leafs.values():
+        for p in split.values():
+            p.mkdir(parents=True, exist_ok=True)
+
+    return leafs
 
 def entity_random_location(obs):
     x_agent, y_agent, z_agent = obs["location_stats"]["pos"]
@@ -161,6 +194,93 @@ def entity_random_location_simple():
     return [np.array([x_value_1, 3, z_value_1]), np.array([x_value_2, 3, z_value_2])]
 
 
+def sample_entity_locations(num_entities,
+                            z_range=(3, 11),
+                            half_hfov_deg=52,
+                            height=3):
+    half_hfov_rad = math.radians(half_hfov_deg)
+    locations = set()
+
+    while len(locations) < num_entities:
+        # 1) depth (forward distance)
+        z = random.randint(z_range[0], z_range[1])
+
+        SAFE_MARGIN_DEG = 5.0          # entities stay ≥ 5° inside the half-FOV
+        usable_half = half_hfov_deg - SAFE_MARGIN_DEG
+        usable_half_rad = math.radians(usable_half)
+
+        # 2) horizontal angle within FOV wedge
+        alpha = random.uniform(-usable_half_rad, usable_half_rad)
+
+        # 3) project to x and clamp safely
+        x_f = z * math.tan(alpha)          # real-valued offset
+        x_i = int(round(x_f))              # grid coordinate
+
+        x_max = int(math.floor(z * math.tan(usable_half_rad)))
+        x_i = max(-x_max, min(x_i, x_max)) # clamp to legal range
+
+        if (x_i, z) not in locations:
+            locations.add((x_i, z))
+
+    return [np.array([x_i, height, z]) for x_i, z in locations]
+
+
+def validate_not_under_water(obs_before, obs_after):
+    oxygen_diff = obs_before["life_stats"]["oxygen"] - obs_after["life_stats"]["oxygen"]
+    if oxygen_diff > 0:
+        return 1
+    else:
+        return 0
+
+def validate_entities_visible(obs_init, entities):
+    observed_entities = obs_init["rays"]["entity_name"]
+    missing_entities = []
+
+    for entity in entities:
+        if not any(entity in obs_entity for obs_entity in observed_entities):
+            missing_entities.append(entity)
+
+    if missing_entities:
+        return False, missing_entities
+    else:
+        return True, []
+
+def wrap_to_pi(a_deg):
+    return ((a_deg + 180) % 360) - 180
+
+def get_mode_coords(x, y, z, indices):
+    if len(indices) == 0:
+        return None
+    coords = np.stack([x[indices], y[indices], z[indices]], axis=1)
+    coord_tuples = [tuple(coord) for coord in coords]
+    mode_coord, _ = mode(coord_tuples, axis=0, keepdims=False)
+    
+    return mode_coord
+
+def detect_entity_loc(obs, entity_name):
+    entities = np.array(obs["rays"]["entity_name"])
+    traced_block_x = np.array(obs["rays"]["traced_block_x"])
+    traced_block_y = np.array(obs["rays"]["traced_block_y"])
+    traced_block_z = np.array(obs["rays"]["traced_block_z"])
+
+    entity_idx = np.where(entities == entity_name)[0]
+    entity_coords = get_mode_coords(traced_block_x, traced_block_y, traced_block_z, entity_idx)
+    if entity_coords is None:
+        return False
+    
+    return entity_coords
+
+def check_pose_in_fov(pose_xyz, obs):
+    # pose_xyz = (x_entity, y_entity, z_entity)
+    x_e, _, z_e = pose_xyz
+    x_a, _, z_a = obs["location_stats"]["pos"]
+    delta_x = x_e - x_a
+    delta_z = z_e - z_a
+    bearing_deg = math.degrees(math.atan2(delta_x, delta_z))
+    yaw_deg     = obs["location_stats"]["yaw"]
+    delta_deg   = wrap_to_pi(bearing_deg - yaw_deg)
+    return abs(delta_deg) <= 50 # 52
+
 def entity_deterministic_location(biome):
     locations = []
     length = len(entities[biome])
@@ -184,7 +304,7 @@ def agent_random_location():
     z_value = np.random.randint(-1000, 1000)
     return x_value, 4, z_value
 
-def obs_to_json(obs, run_obs_dir, step, biome_id, frame):
+def obs_to_json(obs, run_obs_dir, biome_id, step, frame):
     """
     Convert the numpy arrays in textual observations to string and save as json
     """
@@ -199,14 +319,14 @@ def obs_to_json(obs, run_obs_dir, step, biome_id, frame):
     with open(join(run_obs_dir, f"obs_step_{biome_id}_{step}_{frame}.json"), "w") as f:
         json.dump(obs_copy, f, indent=4)
 
-def sample_entities(biome):
+def sample_entities(biome, n):
     if biome not in entities:
         raise ValueError(f"Biome '{biome}' not found in entity list.")
     biome_entities = entities[biome]
     if len(biome_entities) < 2:
         raise ValueError(f"Not enough entities in biome '{biome}' to sample two.")
     
-    return random.sample(biome_entities, 2)
+    return random.sample(biome_entities, n)
 
 
 def random_action_generator(obs):
@@ -255,8 +375,8 @@ def random_action_generator(obs):
 
 
 def random_action_sampler(pitch_delta, yaw_delta):
-    forward_back = random.randint(0, 2)  # 0=noop, 1=forward, 2=back
-    left_right = random.randint(0, 2)    # 0=noop, 1=left,   2=right
+    forward_back = random.randint(1, 2)  # 0=noop, 1=forward, 2=back
+    left_right = random.randint(1, 2)    # 0=noop, 1=left,   2=right
 
     # pitch_candidates = [max(0, last_action[3]-1), min(24, last_action[3]+1)]
     # yaw_candidates = [max(0, last_action[4]-1), min(24, last_action[4]+1)]
@@ -267,19 +387,20 @@ def random_action_sampler(pitch_delta, yaw_delta):
     pitch_index = random.choice(pitch_candidates)
     yaw_index = random.choice(yaw_candidates)
 
-    dimension_pick = random.randint(0, 3)
+    dimension_pick = random.randint(0, 2)
     if dimension_pick == 0:
         action = [forward_back,0,0,12,12,0,0,0]
     elif dimension_pick == 1:
         action = [0,left_right,0,12,12,0,0,0]
+    # elif dimension_pick == 2:
+    #     action = [0,0,0,pitch_index,12,0,0,0]
+    #     pitch_change = pitch_index - 12
+    #     pitch_delta += pitch_change
     elif dimension_pick == 2:
-        action = [0,0,0,pitch_index,12,0,0,0]
-        pitch_change = pitch_index - 12
-        pitch_delta += pitch_change
-    elif dimension_pick == 3:
         action = [0,0,0,12,yaw_index,0,0,0]
         yaw_change = yaw_index - 12
         yaw_delta += yaw_change
+
 
     return np.array(action), pitch_delta, yaw_delta
 
