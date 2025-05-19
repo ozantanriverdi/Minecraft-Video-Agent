@@ -66,22 +66,14 @@ def create_folders(sample_set: str, entity_count: int) -> dict:
 
     # Enumerate the six leaves
     leafs = {
-        "normal": {
-            "rgb":  traj_root / "normal_trajectories"    / "rgb_frames",
-            "obs":  traj_root / "normal_trajectories"    / "obs",
-            "info": traj_root / "normal_trajectories"    / "info"
-        },
-        "occluded": {
-            "rgb":  traj_root / "occluded_trajectories"  / "rgb_frames",
-            "obs":  traj_root / "occluded_trajectories"  / "obs",
-            "info": traj_root / "occluded_trajectories"  / "info"
-        }
+            "rgb":  traj_root / "rgb_frames",
+            "obs":  traj_root / "obs",
+            "info": traj_root / "info"
     }
 
     # Create them on disk (idempotent)
     for split in leafs.values():
-        for p in split.values():
-            p.mkdir(parents=True, exist_ok=True)
+        split.mkdir(parents=True, exist_ok=True)
 
     return leafs
 
@@ -279,7 +271,7 @@ def check_pose_in_fov(pose_xyz, obs):
     bearing_deg = math.degrees(math.atan2(delta_x, delta_z))
     yaw_deg     = obs["location_stats"]["yaw"]
     delta_deg   = wrap_to_pi(bearing_deg - yaw_deg)
-    return abs(delta_deg) <= 50 # 52
+    return abs(delta_deg) <= 47
 
 def entity_deterministic_location(biome):
     locations = []
